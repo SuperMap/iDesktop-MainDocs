@@ -1,0 +1,50 @@
+- title: Create and manage data
+  subitems:
+    - id: WorkspaceManagent
+      title: Manage workspaces
+    - id: DatabaseManagement
+      title: Manage datasources
+    - id: DatasetManagement
+      title: Manage datasets
+    - id: EncodeType
+      title: Encoding of datasets
+    - id: PyramidManage
+      title: Manage image pyramids
+    - id: SpatialIndexManage
+      title: Manage spatial indexes
+- title: Map visualization
+  subitems:
+    - id: LayerSetting
+      title: Operate on maps
+    - id: MapSetting_Basic
+      title: Map properties - Basic
+    - id: MapSetting_Range
+      title: Map properties- Bounds
+- title: Big data online analysis
+  subitems:
+    - id: BigDataAnalysisEnvironmentConfiguration
+      title: Environment configuration
+    - id: DataPreparation
+      title: Data preparation
+    - id: DataInputType
+      title: Data input
+    - id: DensityAnalysis
+      title: Denisty analysis
+    - id: Aggregatepoints
+      title: Aggregate points
+    - id: Buffers
+      title: Buffer zone
+    - id: ODAnalyst
+      title: Construct OD lines
+    - id: SummaryRegion
+      title: Summarize region
+    - id: Overlay
+      title: Overlay analysis
+    - id: VectorClip
+      title: Vector clip
+    - id: SingleObjectSpatialQuery
+      title: Single object spatial query
+    - id: FeatureJoin
+      title: Feature join
+    - id: ReconStructtracks
+      title: Reconstruct tracks

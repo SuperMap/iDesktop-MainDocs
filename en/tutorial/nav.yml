@@ -1,0 +1,771 @@
+- title: Create and manage Data
+  subitems:
+    - id: WorkspaceManagent
+      title: Data Management
+      subitems:  
+        - id: WorkspaceManagent
+          title: Managing Workspaces
+          href: /DataProcessing/DataManagement/WorkspaceManagent
+        - id: DatabaseManagement
+          title: Managing Datasources
+          href: /DataProcessing/DataManagement/DatabaseManagement
+        - id: DatasetManagement
+          title: Managing Datasets
+          href: /DataProcessing/DataManagement/DatasetManagement          
+        - id: EncodeType
+          title: Dataset Encoding Types
+          href: /DataProcessing/DataManagement/EncodeType          
+        - id: PyramidManage
+          title: Managing Image Pyramids
+          href: /DataProcessing/DataManagement/PyramidManage          
+        - id: SpatialIndexManage
+          title: Managing Spatial Indexes
+          href: /DataProcessing/DataManagement/SpatialIndexManage          
+        - id: EngineType
+          title: Datasource types and data engines
+          href: /DataProcessing/DataManagement/EngineType         
+        - id: CatalogManagement
+          title: Catalog Management   
+          href: /DataProcessing/DataManagement/CatalogManagement
+- title: Data Processing
+  subitems:
+    - id: GeoFormates
+      title: Data Conversion
+      href:  /DataProcessing/DataConversion/GeoFormates
+      subitems: 
+        - id: GeoFormates
+          title: File Formats Supported
+          href:  /DataProcessing/DataConversion/GeoFormates
+        - id: ImportData
+          title: Importing Data
+          href:  /DataProcessing/DataConversion/ImportData
+        - id: ExportData
+          title: Exporting Data
+          href:  /DataProcessing/DataConversion/ExportData  
+        - id: DataAppend  
+          title: Appending Datasets
+          href:  /DataProcessing/DataConversion/DataAppend         
+    - id: AboutDateTypeConvert
+      title: Converting Data
+      href:  /DataProcessing/ConvertDataType/AboutDateTypeConvert
+      subitems: 
+        - id: LineToPgn
+          title: Line to Region
+          href:  /DataProcessing/ConvertDataType/LineToPgn
+        - id: PgnToLine
+          title: Region to Line
+          href:  /DataProcessing/ConvertDataType/PgnToLine
+        - id: LineToPoint
+          title: Line to Point
+          href:  /DataProcessing/ConvertDataType/LineToPoint   
+        - id: PointToLine
+          title: Point to Line
+          href:  /DataProcessing/ConvertDataType/PointToLine
+        - id: PgnToPoint
+          title: Region to Point
+          href:  /DataProcessing/ConvertDataType/PgnToPoint
+        - id: ConvertCAD
+          title: CAD to Simple
+          href:  /DataProcessing/ConvertDataType/ConvertCAD  
+        - id: CADToModel
+          title: CAD to Model
+          href:  /DataProcessing/ConvertDataType/CADToModel
+        - id: ConvertToCAD
+          title: Simple to CAD
+          href:  /DataProcessing/ConvertDataType/ConvertToCAD
+        - id: ConvertNetworkEdge
+          title: Network to Point
+          href:  /DataProcessing/ConvertDataType/ConvertNetworkEdge  
+        - id: ConvertRoute
+          title: Route to Line
+          href:  /DataProcessing/ConvertDataType/ConvertRoute
+        - id: FieldToText
+          title: Field to Text
+          href:  /DataProcessing/ConvertDataType/FieldToText
+        - id: TextToField
+          title: Text to Field
+          href:  /DataProcessing/ConvertDataType/TextToField     
+        - id: 2DsTo3Ds
+          title: 2D to 3D
+          href:  /DataProcessing/ConvertDataType/2DsTo3Ds
+        - id: 3DsTo2Ds
+          title: 3D to 2D
+          href:  /DataProcessing/ConvertDataType/3DsTo2Ds 
+        - id: TextToPoint
+          title: Text to Point
+          href:  /DataProcessing/ConvertDataType/TextToPoint
+        - id: AttributeToPoint
+          title: Attribute to Point
+          href:  /DataProcessing/ConvertDataType/AttributeToPoint 
+        - id: PointFieldToPgnField
+          title: Point Property to Region Property
+          href:  /DataProcessing/ConvertDataType/PointFieldToPgnField   
+        # - id: ImportSHP
+        #   title: Import Shape 
+        #   href:  /DataProcessing/DataConversion/ImportSHP
+        # - id: ImportCAD
+        #   title: Import CAD
+        #   href:  /DataProcessing/DataConversion/ImportCAD
+        # - id: ImportMif
+        #   title: Import MIF
+        #   href:  /DataProcessing/DataConversion/CImportMif  
+        # - id: ImportWor
+        #   title: Import WOR
+        #   href:  /DataProcessing/DataConversion/ImportWor
+        # - id: ImportExcel
+        #   title: Import Excel
+        #   href:  /DataProcessing/DataConversion/ImportExcel
+        # - id: CSVimport
+        #   title: Import CSV
+        #   href:  /DataProcessing/DataConversion/CSVimport 
+        # - id: ImportLidar
+        #   title: Import Lidar
+        #   href:  /DataProcessing/DataConversion/ImportLidar
+        # - id: ImportIMG
+        #   title: Import Images
+        #   href:  /DataProcessing/DataConversion/ImportIMG
+        # - id: ImportGJB
+        #   title: Import Models
+        #   href:  /DataProcessing/DataConversion/ImportGJB
+        # - id: ImportGJB
+        #   title: Import GJB
+        #   href:  /DataProcessing/DataConversion/ImportGJB   
+        # - id: ImportSimpleJson
+        #   title: Import SimpleJson
+        #   href:  /DataProcessing/DataConversion/ImportSimpleJson
+        # - id: ImportModelAndPoint
+        #   title: Import Points&Models
+        #   href:  /DataProcessing/DataConversion/ImportModelAndPoint 
+        # - id: ExportXFile
+        #   title: Export .X Model Files
+        #   href:  /DataProcessing/DataConversion/ExportXFile                                                                                                      
+    - id: Objects
+      title: Object Operations
+      href:  /DataProcessing/Objects/Objects
+      subitems: 
+        - id: Selection
+          title: Select Objects
+          href:  /DataProcessing/Objects/SelectObjects/Selection
+          subitems: 
+            - id: DTv2_Visible
+              title: Make Layer Visible
+              href:  /DataProcessing/Objects/SelectObjects/DTv2_Visible
+            - id: DTv2_Selectable 
+              title: Make Layer Selectable
+              href:  /DataProcessing/Objects/SelectObjects/DTv2_Selectable              
+        - id: CreateGeometry 
+          title: Create Objects
+          href:  /DataProcessing/Objects/CreateObjects/CreateGeometry 
+          subitems: 
+            - id: AutoConect
+              title: Connect Lines Automatically
+              href:  /DataProcessing/Objects/CreateObjects/AutoConect
+            - id: AutoClose 
+              title: Close Lines Automatically
+              href:  /DataProcessing/Objects/CreateObjects/AutoClose
+            - id: AutoSplit
+              title: Split Lines Automatically
+              href:  /DataProcessing/Objects/CreateObjects/AutoSplit
+            - id: AutoCut
+              title: Cut Lines Automatically
+              href:  /DataProcessing/Objects/CreateObjects/AutoCut
+            - id: Point
+              title: Draw Points
+              href:  /DataProcessing/Objects/CreateObjects/Point
+            - id: DrawStraightLine 
+              title: Draw Lines
+              href:  /DataProcessing/Objects/CreateObjects/DrawStraightLine
+            - id: DrawPolyLine
+              title: Draw Broken Lines
+              href:  /DataProcessing/Objects/CreateObjects/DrawPolyLine
+            - id: DrawParalleLlines 
+              title: Draw Parallels
+              href:  /DataProcessing/Objects/CreateObjects/DrawParalleLlines      
+            - id: Draw2PolyLine 
+              title: Draw Multiple Line Segments
+              href:  /DataProcessing/Objects/CreateObjects/Draw2PolyLine
+            - id: DrawPolygon
+              title: Draw Polygons
+              href:  /DataProcessing/Objects/CreateObjects/DrawPolygon
+            - id: DrawQuadRangle 
+              title: Draw Quadrangle
+              href:  /DataProcessing/Objects/CreateObjects/DrawQuadRangle
+            - id: DrawCurve
+              title: Draw Curves
+              href:  /DataProcessing/Objects/CreateObjects/DrawCurve
+            - id: DrawArc 
+              title: Draw Arcs
+              href:  /DataProcessing/Objects/CreateObjects/DrawArc
+            - id: CreateCircle
+              title: Draw Circles
+              href:  /DataProcessing/Objects/CreateObjects/CreateCircle
+            - id: CreateEllipse
+              title: Draw Ellipses
+              href:  /DataProcessing/Objects/CreateObjects/CreateEllipse 
+            - id: CreatePie
+              title: Draw Sectors
+              href:  /DataProcessing/Objects/CreateObjects/CreatePie
+            - id: Text
+              title: Draw Text
+              href:  /DataProcessing/Objects/CreateObjects/Text
+            - id: DrawRegularPolygon
+              title: Draw Orthogonal Polygons
+              href:  /DataProcessing/Objects/CreateObjects/DrawRegularPolygon
+            - id: DrawingSetting 
+              title: Draw Settings
+              href:  /DataProcessing/Objects/CreateObjects/DrawingSetting     
+        - id: AboutEdittingGeometry
+          title: Edit Objects
+          href:  /DataProcessing/Objects/EditObjects/AboutEdittingGeometry
+          subitems: 
+            - id: Clipboard
+              title: Essential Operations
+              href:  /DataProcessing/Objects/EditObjects/Clipboard
+            - id: DTv2_Editable
+              title: Make Layers Editable
+              href:  /DataProcessing/Objects/EditObjects/DTv2_Editable
+            - id: VertexEdit
+              title: Edit Nodes
+              href:  /DataProcessing/Objects/EditObjects/VertexEdit
+            - id: Del
+              title: Delete Objects
+              href:  /DataProcessing/Objects/EditObjects/Del
+            - id: trim
+              title: Trim
+              href:  /DataProcessing/Objects/EditObjects/trim
+            - id: extend
+              title: Extend
+              href:  /DataProcessing/Objects/EditObjects/extend
+            - id: split
+              title: Split
+              href:  /DataProcessing/Objects/EditObjects/split
+            - id: SplitAccurately
+              title: Split Accurately
+              href:  /DataProcessing/Objects/EditObjects/SplitAccurately
+            - id: ChangeDirction
+              title: Reverse Nodes 
+              href:  /DataProcessing/Objects/EditObjects/ChangeDirction
+            - id: ReverseRoundAngle
+              title: Fillet
+              href:  /DataProcessing/Objects/EditObjects/ReverseRoundAngle
+            - id: ReverseRightAngle
+              title: Chamfer
+              href:  /DataProcessing/Objects/EditObjects/ReverseRightAngle
+            - id: NodeAdjust
+              title: Point Balancing
+              href:  /DataProcessing/Objects/EditObjects/NodeAdjust
+            - id: Explode
+              title: Explode
+              href:  /DataProcessing/Objects/EditObjects/Explode
+            - id: JoinLine
+              title: Connect Lines
+              href:  /DataProcessing/Objects/EditObjects/JoinLine
+            - id: ReSampleGeometry
+              title: Resample Curves
+              href:  /DataProcessing/Objects/EditObjects/ReSampleGeometry
+            - id: SmoothGeometry
+              title: Smooth Curves
+              href:  /DataProcessing/Objects/EditObjects/SmoothGeometry 
+            - id: move
+              title: Move
+              href:  /DataProcessing/Objects/EditObjects/move
+            - id: offset
+              title: Zoom
+              href:  /DataProcessing/Objects/EditObjects/offset
+            - id: DesCopy
+              title: Locate and Copy
+              href:  /DataProcessing/Objects/EditObjects/DesCopy
+            - id: Mirror
+              title: Mirror
+              href:  /DataProcessing/Objects/EditObjects/Mirror
+            - id: rotate
+              title: Rotate
+              href:  /DataProcessing/Objects/EditObjects/rotate
+            - id: CutPolygon
+              title: Cut by Lines
+              href:  /DataProcessing/Objects/EditObjects/CutPolygon
+            - id: CutByPolygon
+              title: Cut by Polygons
+              href:  /DataProcessing/Objects/EditObjects/CutByPolygon
+            - id: CutByChoosePolygon
+              title: Cut by Selected Obejcts
+              href:  /DataProcessing/Objects/EditObjects/CutByChoosePolygon
+            - id: CutByArea
+              title: Cut by Area
+              href:  /DataProcessing/Objects/EditObjects/CutByArea
+            - id: UpdatePartly
+              title: Update Part
+              href:  /DataProcessing/Objects/EditObjects/UpdatePartly
+            - id: StyleBrush
+              title: Style Brush
+              href:  /DataProcessing/Objects/EditObjects/StyleBrush
+            - id: PropertyBrush
+              title: Attribute Brush
+              href:  /DataProcessing/Objects/EditObjects/PropertyBrush
+            - id: Merge
+              title: Merge
+              href:  /DataProcessing/Objects/EditObjects/Merge
+            - id: Intersect
+              title: Union
+              href:  /DataProcessing/Objects/EditObjects/Intersect
+            - id: Group
+              title: Group
+              href:  /DataProcessing/Objects/EditObjects/Group
+            - id: UnGroup
+              title: Ungroup
+              href:  /DataProcessing/Objects/EditObjects/UnGroup
+            - id: ProtectedDecompose
+              title: Protective Decomposition
+              href:  /DataProcessing/Objects/EditObjects/ProtectedDecompose
+            - id: XOr
+              title: XOr
+              href:  /DataProcessing/Objects/EditObjects/XOr
+            - id: Erase
+              title: Erase
+              href:  /DataProcessing/Objects/EditObjects/Erase
+            - id: ExternalErase
+              title: Erase Outer Content
+              href:  /DataProcessing/Objects/EditObjects/ExternalErase
+            - id: PolygonWithHole
+              title: Doughnut Polygon
+              href:  /DataProcessing/Objects/EditObjects/PolygonWithHole
+            - id: FillGap
+              title: Fill Gap
+              href:  /DataProcessing/Objects/EditObjects/FillGap
+            - id: LineToPoint
+              title: Line -> Point
+              href:  /DataProcessing/Objects/EditObjects/LineToPoint
+            - id: LineToRegion
+              title: Line -> Polygon
+              href:  /DataProcessing/Objects/EditObjects/LineToRegion 
+            - id: RegionToLine
+              title: Polygon -> Line
+              href:  /DataProcessing/Objects/EditObjects/RegionToLine
+            - id: RouteAddNode
+              title: Add Points according to M Values and Highlight Lines
+              href:  /DataProcessing/Objects/EditObjects/RouteAddNode
+            - id: CalibrateRouteM
+              title: Calibrate M Values of Route Objects
+              href:  /DataProcessing/Objects/EditObjects/CalibrateRouteM
+            - id: RouteDelM
+              title: Delete M Values
+              href:  /DataProcessing/Objects/EditObjects/RouteDelM        
+        - id: ObjectProperty
+          title: Check and Modify Attributes
+          href:  /DataProcessing/ConvertDataType/ObjectProperty
+          subitems: 
+            - id: Geometry_Property
+              title: Check and Modify Attributes of Geometric Objects
+              href:  /Visualization/Interaction/Geometry_Property
+            - id: Text_Property
+              title: Check and Modify Attributes of Text Objects
+              href:  /Visualization/Interaction/Text_Property
+        - id: PgnToLine
+          title: Interactive Semi-automatic Vectorization
+          href:  /DataProcessing/ConvertDataType/PgnToLine
+          subitems: 
+            - id: AboutTrace
+              title: Interactive Semi-automatic Vectorization Settings
+              href:  /DataProcessing/Objects/Trace/AboutTrace
+            - id: TraceLine
+              title: Vectorize Line
+              href:  /DataProcessing/Objects/Trace/TraceLine
+            - id: TraceLineBackoff
+              title: Undo Lines
+              href:  /DataProcessing/Objects/Trace/TraceLineBackoff
+            - id: TracePolygon
+              title: Vectorize Region
+              href:  /DataProcessing/Objects/Trace/TracePolygon
+        - id: SymbolicDrawing
+          title: Symbolic Mapping
+          href:  /DataProcessing/Objects/FeatureSignifying/SymbolicDrawing
+          subitems: 
+            - id: TemplateManager
+              title: Manage Template
+              href:  /DataProcessing/Objects/FeatureSignifying/TemplateManager
+            - id: SymbolicMappingExample
+              title: Symbolic Mapping Examples
+              href:  /DataProcessing/Objects/FeatureSignifying/SymbolicMappingExample
+            - id: SymbolicMappingPropertySettings 
+              title: Symbolic Mapping Attribute Editing
+              href:  /DataProcessing/Objects/FeatureSignifying/SymbolicMappingPropertySettings                                                                                             
+    - id: UsingSnapping
+      title: Snap
+      href:  /DataProcessing/Objects/Snapping/UsingSnapping
+      subitems: 
+        - id: Selection
+          title: Enable Layer Snapping
+          href:  /DataProcessing/Objects/Snapping/DTv2_Snappable
+        - id: Snapping
+          title: Enable Snapping
+          href:  /DataProcessing/Objects/Snapping/Snapping
+        - id: SnappIntrtoduct  
+          title: Snap Modes Supported
+          href:  /DataProcessing/Objects/Snapping/SnappIntrtoduct
+    - id: UsingSnapping
+      title: Edit Attributes
+      href:  /DataProcessing/Objects/Snapping/UsingSnapping
+      subitems: 
+        - id: OpenTabular
+          title: Open Attributes
+          href:  /DataProcessing/EditTabular/OpenTabular
+        - id: Snapping
+          title: Browse Attribute
+          href:  /DataProcessing/EditTabular/Browsegroup
+          subitems: 
+          - id: SortOrderAscendingButton  
+            title: Ascend
+            href:  /DataProcessing/EditTabular/SortOrderAscendingButton
+          - id: SortOrderDescendingButton
+            title: Descend
+            href:  /DataProcessing/EditTabular/SortOrderDescendingButton
+          - id: HideButton
+            title: Hide Columns
+            href:  /DataProcessing/EditTabular/HideButton
+          - id: CancelHideButton
+            title: Show Hidden Columns
+            href:  /DataProcessing/EditTabular/CancelHideButton     
+          - id: HiddenRows
+            title: Hide Row
+            href:  /DataProcessing/EditTabular/HiddenRows
+          - id: CancelHideRows
+            title: Show Hidden Row
+            href:  /DataProcessing/EditTabular/CancelHideRows
+          - id: FilterButton
+            title: Filter
+            href:  /DataProcessing/EditTabular/FilterButton
+          - id: GoToButton 
+            title: Locate
+            href:  /DataProcessing/EditTabular/GoToButton
+        - id: Editgroup
+          title: Edit Attribute Table 
+          href:  /DataProcessing/EditTabular/Editgroup
+          subitems: 
+          - id: DeleteRecordsButton 
+            title: Delete Row
+            href:  /DataProcessing/EditTabular/DeleteRecordsButton
+          - id: AddRecordsButton
+            title: Add Row
+            href:  /DataProcessing/EditTabular/AddRecordsButton
+          - id: UpdateButton
+            title: Update Column
+            href:  /DataProcessing/EditTabular/UpdateButton
+          - id: UndoButton 
+            title: Undo/Redo
+            href:  /DataProcessing/EditTabular/UndoButton   
+          - id: CopyAndPaste
+            title: Copy and Paste Attribute Table 
+            href:  /DataProcessing/EditTabular/CopyAndPaste
+          - id: DragTabular
+            title: Drag Attribute Table
+            href:  /DataProcessing/EditTabular/DragTabular
+          - id: BinaryEdit
+            title: Edit Binary Field
+            href:  /DataProcessing/EditTabular/BinaryEdit
+          - id: UpdateGeometryAttribute  
+            title: Update Attribute
+            href:  /DataProcessing/EditTabular/UpdateGeometryAttribute
+          - id: AddGeometryAttributet 
+            title: Calculate Attribute
+            href:  /DataProcessing/EditTabular/AddGeometryAttributet
+        - id: StatisticAnalystgroup
+          title: Statistics Group
+          href:  /DataProcessing/EditTabular/StatisticAnalystgroup
+          subitems: 
+          - id: SumButton
+            title: Sum
+            href:  /DataProcessing/EditTabular/SumButton
+          - id: AverageButton
+            title: Average
+            href:  /DataProcessing/EditTabular/AverageButton
+          - id: MaxButton
+            title: Maximum
+            href:  /DataProcessing/EditTabular/MaxButton
+          - id: MinButton 
+            title: Minimum
+            href:  /DataProcessing/EditTabular/MinButton  
+          - id: VarianceButton
+            title: Variance
+            href:  /DataProcessing/EditTabular/VarianceButton
+          - id: StdDeviationButton
+            title: Standard Deviation
+            href:  /DataProcessing/EditTabular/StdDeviationButton
+          - id: CountOfValueButton
+            title: Unique Count
+            href:  /DataProcessing/EditTabular/CountOfValueButton
+          - id: Summarize  
+            title: Summarize Fields
+            href:  /DataProcessing/EditTabular/Summarize               
+          - id: DatasetButton
+            title: Export as Dataset
+            href:  /DataProcessing/EditTabular/DatasetButton
+          - id: SaveasExcel
+            title: Save as Excel
+            href:  /DataProcessing/EditTabular/SaveasExcel
+          - id: ColumnWidthSetting
+            title: Set Column Width
+            href:  /DataProcessing/EditTabular/ColumnWidthSetting
+          - id: ColorSetting
+            title: Set Color
+            href:  /DataProcessing/EditTabular/ColorSetting
+          - id: CheckColumn
+            title: Select Whole Column
+            href:  /DataProcessing/EditTabular/CheckColumn
+          - id: EditTabularSet 
+            title: Undoing Settings
+            href:  /DataProcessing/EditTabular/EditTabularSet   
+- title: Map Visualization
+  subitems:
+    - id: LayerSetting
+      title: Layer Properties
+    - id: MapSetting_Basic
+      title: Maps Properties - Basic
+    - id: MapSetting_Range
+      title: Map Property - Bounds
+- title: Query
+  subitems:
+    - id: SQLQuery
+      title: SQL Query
+      href: /Query/SQLQuery_Expression     
+      subitems: 
+        - id: SQLQuery_Expression
+          title: Constructing SQL Query Statements
+          href: /Query/SQLQuery_Expression
+        - id: SQLQueryDia
+          title: Querying with SQL Statements
+          href: /Query/SQLQueryDia
+        - id: SQLQueryDiaFuction
+          title: Description on Constructing SQL Expression
+          href: /Query/SQLQueryDiaFuction
+        - id: JoinItemsDia
+          title: Setting the Linked Table
+          href: /Query/JoinItemsDia
+        # - id: SQLQuery_Group
+        #   title: 使用SQL查询进行分组统计
+        #   href: /Query/SQLQuery_Group
+        # - id: SQLQuery_OrderByexample
+        #   title: 使用SQL查询进行字段排序
+        #   href: /Query/SQLQuery_OrderByexample                         
+- title: Big Data Online Analysis
+  subitems:
+    - id: BigDataAnalysisEnvironmentConfiguration
+      title: Environment Configuration
+      href: /BigData/BigDataAnalysisEnvironmentConfiguration   
+    - id: DataPreparation
+      title: Data Preparation
+      href: /BigData/DataPreparation        
+    - id: DataInputType
+      title: Data Input
+      href: /BigData/DataInputType        
+    - id: DensityAnalysis
+      title: Density Analysis
+      href: /BigData/DensityAnalysis       
+    - id: Aggregatepoints
+      title: Point Aggregation Analysis
+      href: /BigData/Aggregatepoints        
+    - id: Buffers
+      title: Buffer Zone Analysis
+      href: /BigData/Buffers       
+    - id: ODAnalyst
+      title: OD Line Make Analysis
+      href: /BigData/ODAnalyst        
+    - id: SummaryRegion
+      title: Region Summary Analysis
+      href: /BigData/SummaryRegion        
+    - id: Overlay
+      title: Overlay Analysis
+      href: /BigData/Overlay        
+    - id: VectorClip
+      title: Vector Clip
+      href: /BigData/VectorClip        
+    - id: SingleObjectSpatialQuery
+      title: Single Object Spatial Query
+      href: /BigData/SingleObjectSpatialQuery      
+    - id: FeatureJoin
+      title: Join Features
+      href: /BigData/FeatureJoin        
+    - id: ReconStructtracks
+      title: Reconstruct Tracks Analysis
+      href: /BigData/ReconStructtracks
+    - id: TopologyValidator
+      title: Check Topology
+      href: /BigData/TopologyValidator         
+- title: Spatial Statistic Anlaysis
+  subitems:
+    - id: SpatialStatisticalAnalysisSummary
+      title: Spatial Statistic Anlaysis
+      href: /SpatialStatisticalAnalysis/SpatialStatisticalAnalysisSummary 
+    - id: BasicVocabulary
+      title: Essential Concepts
+      href: /SpatialStatisticalAnalysis/BasicVocabulary          
+    - id: MeasureGeographicDistributions
+      title: Measuring Geographic Analysis 
+      href: /SpatialStatisticalAnalysis/AnalyzingPatterns      
+      subitems: 
+        - id: CentralFeature
+          title: Central Feature
+          href: /SpatialStatisticalAnalysis/CentralFeature
+        - id: MeanCenter
+          title: Mean Center 
+          href: /SpatialStatisticalAnalysis/MeanCenter          
+        - id: MeanCenterResult
+          title: Median Center
+          href: /SpatialStatisticalAnalysis/MeanCenterResult
+        - id: MeasureDirection
+          title: Directional Distribution
+          href: /SpatialStatisticalAnalysis/MeasureDirection
+        - id: MeasureLinearDirectional
+          title: Linear Directional Mean
+          href: /SpatialStatisticalAnalysis/MeasureLinearDirectional
+        - id: MeasureStandardDistance
+          title: Standard Distance
+          href: /SpatialStatisticalAnalysis/MeasureStandardDistance
+    - id: AnalyzingPatterns
+      title: Analysis Patterns
+      href: /SpatialStatisticalAnalysis/AnalyzingPatterns
+      subitems:
+        - id: SpatialAutocorrelation
+          title: Spatial Autocorrelation
+          href: /SpatialStatisticalAnalysis/SpatialAutocorrelation
+        - id: HighLowClustering
+          title: High/Low clustering
+          href: /SpatialStatisticalAnalysis/HighLowClustering
+        - id: IncrementalSpatialAutocorrelation
+          title: Incremental spatial autocorrelation
+          href: /SpatialStatisticalAnalysis/IncrementalSpatialAutocorrelation
+        - id: AverageNearestNeighbor
+          title: Average nearest neighbor
+          href: /SpatialStatisticalAnalysis/AverageNearestNeighbor
+    - id: Clusters
+      title: Cluster Distribution
+      href: /SpatialStatisticalAnalysis/Clusters
+      subitems:
+        - id: HotSpotAnalyst
+          title: Hot spot analysis
+          href: /SpatialStatisticalAnalysis/HotSpotAnalyst
+        - id: OptimizedHotSpotAnalyst
+          title: Optimized hot spot analysis
+          href: /SpatialStatisticalAnalysis/OptimizedHotSpotAnalyst
+        - id: ClusterOutlierAnalyst
+          title: Cluster and outlier analysis
+          href: /SpatialStatisticalAnalysis/ClusterOutlierAnalyst
+    - id: SpatialRelationshipModeling
+      title: Modeling spatial relationships
+      href: /SpatialStatisticalAnalysis/SpatialRelationshipModeling
+      subitems:
+        - id: SpatialAutocorrelation
+          title: Geographically weighted regression analysis
+          href: /SpatialStatisticalAnalysis/SpatialAutocorrelation
+    - id: CollectEvents
+      title: Collect Events
+      href: /SpatialStatisticalAnalysis/CollectEvents
+    - id: GeneratingWeightMatrix
+      title: Generate Spatial Weights Matrix File
+      href: /SpatialStatisticalAnalysis/GeneratingWeightMatrix            
+# - title: 可视化建模
+#   subitems:
+#     - id: WorkFlowSummarize
+#       title: 概述
+#       href: /workflow/WorkFlowSummarize
+#     - id: WFConcepts
+#       title: 基本词汇
+#       href: /workflow/WFConcepts
+#     - id: WFBasicOperation
+#       title: 基本操作
+#       href: /workflow/WFBasicOperation
+#     - id: CreatWorkFlow
+#       title: 创建模型
+#       href: /workflow/CreatWorkFlow      
+#     - id: WFTaskManagement
+#       title: 任务管理
+#       href: /workflow/WFTaskManagement
+#     - id: WorkFlowTemplate
+#       title: 模型模板
+#       href: /workflow/WorkFlowTemplate      
+#     - id: WorkFlowApplications
+#       title: 可视化建模实例
+#       href: /workflow/WorkFlowApplications
+- title: Layout
+  subitems:
+    - id: layout
+      title: Layout Overview
+      href: /Layout/Basic/layout
+    - id: layoutOpention
+      title: Basic Operations
+      href: /Layout/Basic/layoutOpention
+    - id: layoutSetting
+      title: Layout Settings
+      href: /Layout/Basic/layoutSetting
+    - id: Arrangement
+      title: Adjusting Layout Elements
+      href: /Layout/Basic/Arrangement 
+    - id: LayoutInteraction
+      title: Layout Interactions
+      href: /Layout/Basic/LayoutInteraction
+    - id: LayoutTemplate
+      title: Layout Templates
+      href: /Layout/Basic/LayoutTemplate   
+    - id: DrawingObjects
+      title: Drawing Objects
+      href: /Layout/Basic/DrawingObjects     
+    - id: DrawingMapElements
+      title: Drawing Map Elements
+      href: /Layout/DrawingMapElements/DrawingMapElements 
+      subitems:  
+        - id: Map
+          title: Drawing a Map
+          href: /Layout/DrawingMapElements/Map
+        - id: ScaleBar
+          title: Drawing a Scale
+          href: /Layout/DrawingMapElements/ScaleBar 
+        - id: Legend
+          title: Drawing a Legend
+          href: /Layout/DrawingMapElements/Legend 
+        - id: NorthArrow
+          title: Drawing a North Arrow
+          href: /Layout/DrawingMapElements/NorthArrow
+        - id: ThreeNorthArrow
+          title: Drawing Three North Arrows
+          href: /Layout/DrawingMapElements/ThreeNorthArrow
+        - id: DrawingTable   
+          title: Drawing Table
+          href: /Layout/DrawingObjects/DrawingTable 
+        - id: DrawingCharts   
+          title: Drawing Diagram
+          href: /Layout/DrawingObjects/DrawingCharts          
+    - id: MapSeries
+      title: Map Series
+      href: /Layout/MapSeries/MapSeries
+      subitems:
+        - id: CreateGridIndex
+          title: Create Grid Index
+          href: /Layout/MapSeries/CreateGridIndex   
+        - id: CaculateAdjacentFieldhtm
+          title: Calculate Adjacent Fields
+          href: /Layout/MapSeries/CaculateAdjacentFieldhtm 
+        - id: MapSerieSettings
+          title: Enable Map Series
+          href: /Layout/MapSeries/MapSerieSettings 
+        - id: MapLocator
+          title: Draw Map Locator
+          href: /Layout/MapSeries/MapLocator
+        - id: DynamicText
+          title: Dynamic Text
+          href: /Layout/MapSeries/DynamicText 
+        - id: PrintingMapBooks
+          title: Print Atlas
+          href: /Layout/MapSeries/PrintingMapBooks 
+    - id: ExportLayout
+      title: Exporting and Printing Layouts
+      href: /Layout/Export/ExportLayout
+      subitems:
+        - id: ExportAsPicbutton
+          title: Exporting Layout
+          href: /Layout/Export/ExportAsPicbutton   
+        - id: Printbutton
+          title: Printing Layout
+          href: /Layout/Export/Printbutton 
+    - id: LayoutShortcutKey
+      title: Shortcut Keys for Layout Operations
+      href: /Layout/Basic/LayoutShortcutKey
+  
