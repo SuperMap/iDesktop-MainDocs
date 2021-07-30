@@ -1,0 +1,81 @@
+
+[OPTIONS]
+Auto Index=Yes
+Binary TOC=No
+Binary Index=Yes
+Compatibility=1.1
+Compiled File=GettingStarted.chm
+Contents File=GettingStarted.hhc
+Default Topic=index.htm
+Error log file=ErrorLog.log
+Index File=GettingStarted.hhk
+Title=GettingStarted
+Full-text search=Yes
+Display compile progress=Yes
+Display compile notes=Yes
+Default Window=main
+Default Font=Î¢ÈíÑÅºÚ, 9,134
+Language=0x804 Chinese (Simplified/PRC)
+Create CHI file=No
+Full text search stop list file=
+
+[WINDOWS]
+main=,"GettingStarted.hhc","GettingStarted.hhk","index.htm","index.htm",,,,,0x23520,222,0x1046,[10,10,780,560],0xB0000,,,,,,0
+
+[FILES]
+ApplyRes.htm
+ControlCus.htm
+DelControl.htm
+EditMap.htm
+GettingStart.htm
+index.htm
+OpenData.htm
+OpenUI.htm
+Operation_index.htm
+SaveWorkSpace.htm
+UIIntro.htm
+UI_index.htm
+ViewData.htm
+img\back.png
+img\cineprojector.png
+img\close.gif
+img\copycode.gif
+img\copycodeHighlight.gif
+img\copycode_h.gif
+img\Customize.swf
+img\Development.swf
+img\Label.png
+img\LineColor.png
+img\next.png
+img\note.png
+img\open.gif
+img\OpenDS.png
+img\OpenDSDia.png
+img\OpenDT.png
+img\OpenSDBDS.png
+img\OpenWorld.png
+img\Picture.png
+img\PropertyRegion.png
+img\read.gif
+img\RegionColor.png
+img\RenameMap.png
+img\Result1.png
+img\Result2.png
+img\RibbonIntro.png
+img\SavaAsWorkspaceDia.png
+img\SaveWS.png
+img\Screentip1.png
+img\Screentip2.png
+img\seealso.png
+img\SelectBut1.png
+img\SelectBut2.png
+img\SelectBut3.png
+img\SelectBut4.png
+img\SelectGroup.png
+img\smalltitle.png
+img\TitleBackground.bmp
+img\UIIntro.png
+img\UIOperation.swf
+img\UntitleMap1.png
+img\UserWE.png
+img\WorldMap.png
