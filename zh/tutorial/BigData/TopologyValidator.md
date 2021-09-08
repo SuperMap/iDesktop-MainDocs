@@ -29,8 +29,8 @@ title: 拓扑检查
   * **容限** ：选填参数，设置拓扑错误检查时使用的容限，单位与进行拓扑错误检查的数据集单位相同，取值范围为≥0，默认值：0.000001。
 4. 设置好以上参数即可进行拓扑检查，分析成功之后，地图窗口会自动弹出分析结果，同时输出窗口会提示结果数据集所保存在的工作空间路径，可从该路径获取结果数据路径。 **注意** ：用户若直接打开生成结果路径的数据会提示打开失败，是由于基于iSever服务的分析，会存在数据被占用而无法打开的情况。建议用户将数据拷贝至其他路径中打开该数据进行编辑操作。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [环境配置](BigDataAnalysisEnvironmentConfiguration)
+ [环境配置](BigDataAnalysisEnvironmentConfiguration)
 
-![](../img/smalltitle.png) [数据准备](DataPreparation)
+ [数据准备](DataPreparation)

@@ -25,5 +25,5 @@ DEM 切割与栅格地图裁剪不同，DEM
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png)
+
 [关于地图裁剪](../../DataProcessing/ClippingMap/MapClip_basic)

@@ -35,19 +35,19 @@ title: 隐藏列/取消列隐藏
 
 ![](img/cancleHide1.png)
   
-![](../../img/smalltitle.png) [升序](SortOrderAscendingButton)
+ [升序](SortOrderAscendingButton)
 
-![](../../img/smalltitle.png) [降序](SortOrderDescendingButton)
+ [降序](SortOrderDescendingButton)
 
-![](../../img/smalltitle.png) [取消列隐藏](CancelHideButton)
+ [取消列隐藏](CancelHideButton)
 
-![](../../img/smalltitle.png) [隐藏行](HiddenRows)
+ [隐藏行](HiddenRows)
 
-![](../../img/smalltitle.png) [取消行隐藏](CancelHideRows)
+ [取消行隐藏](CancelHideRows)
 
-![](../../img/smalltitle.png) [筛选](FilterButton)
+ [筛选](FilterButton)
 
-![](../../img/smalltitle.png) [定位](GoToButton)
+ [定位](GoToButton)
 
-![](../../img/smalltitle.png) [显示十六进制](DisplayHexadecimal)
+ [显示十六进制](DisplayHexadecimal)
 

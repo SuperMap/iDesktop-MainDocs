@@ -16,7 +16,7 @@ title: 地址解析
 
 ### 操作说明
 
-  1. 通过 **"数据导入"** 功能将 Excel 等文本文件导入到目标数据数据源中，导入后文件以属性表数据集存在。有关数据导入的功能，详细请参看[导入数据](../../Features/DataProcessing/DataConversion/ImportData.html)。  
+  1. 通过 **"数据导入"** 功能将 Excel 等文本文件导入到目标数据数据源中，导入后文件以属性表数据集存在。有关数据导入的功能，详细请参看[导入数据](../../tutorial/DataProcessing/DataConversion/ImportData)。  
 
 ![](img/testdataExcel2.png)  
 
@@ -30,6 +30,6 @@ title: 地址解析
   * 若解析后的X、Y值存在空坐标，则为程序没有解析成功的记录，用户可通过再一次执行“地址解析”的操作，在“ **地址解析** ”对话框中勾选“ **仅对空坐标进行检查更新** ”复选框，对空坐标记录再次解析。
 ![](img/addressResult2.png)  
 
-  4. 用户可通过“ **[属性数据转为点数据](../DataProcessing/ConvertDataType/AttributeToPoint.html)** ”功能将属性表中的 X、Y 坐标值创建相对应的点对象，从而生成一个点数据集。将转换完成的点数据叠加在在线地图中，即可查看每套房源在地图上的空间位置。如下如所示：  
+  4. 用户可通过“ **[属性数据转为点数据](../DataProcessing/ConvertDataType/AttributeToPoint)** ”功能将属性表中的 X、Y 坐标值创建相对应的点对象，从而生成一个点数据集。将转换完成的点数据叠加在在线地图中，即可查看每套房源在地图上的空间位置。如下如所示：  
 
 ![](img/addressResultView.png)  

@@ -11,6 +11,6 @@ title: 复合标签专题图
 
 ### ![](../../img/read.gif)制作复合标签专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建复合标签专题图](MixedLabelMapDefault)
+ [新建复合标签专题图](MixedLabelMapDefault)
 
-![](../../img/smalltitle.png) [修改复合标签专题图](MixedLabelMapDia)
+ [修改复合标签专题图](MixedLabelMapDia)

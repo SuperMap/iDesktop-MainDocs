@@ -8,4 +8,4 @@ title: 数据挖掘
 
 ### ![](../img/read.gif)内容提要：
 
-![](../img/smalltitle.png) [统计图表](../DataMining/Diagrams/Diagrams1)
+ [统计图表](../DataMining/Diagrams/Diagrams1)

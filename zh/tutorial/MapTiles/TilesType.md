@@ -18,7 +18,7 @@ Maps、Google Maps等都采用了栅格瓦片技术加载地图底图。
 ---  
 图：栅格瓦片结构示意  
   
-有关生成栅格瓦片的内容，请参看[生成地图瓦片](MapTileMode.html)。
+有关生成栅格瓦片的内容，请参看[生成地图瓦片](MapTileMode)。
 
 ### ![](../img/read.gif) 矢量瓦片
 
@@ -28,7 +28,7 @@ Maps、Google Maps等都采用了栅格瓦片技术加载地图底图。
 
 另外，矢量瓦片支持样式的修改，不再需要为不同的样式而反复进行制图、渲染、切片、更新服务等过程。应用场景如在国土等行业的应用中，涉及海量数据，当地图样式发生变化时，使用栅格瓦片需要重新切图，花费大量时间，而应用矢量瓦片，可以直接更改样式，省时省力。
 
-有关生成矢量瓦片的内容，请参看[矢量瓦片](VectorTiles.html)。
+有关生成矢量瓦片的内容，请参看[矢量瓦片](VectorTiles)。
 
 ### ![](../img/read.gif) 瓦片格式对比
 
@@ -52,19 +52,15 @@ Maps、Google Maps等都采用了栅格瓦片技术加载地图底图。
 成熟度 | 一般 | 高  
 应用场景 | 特殊（移动端、风格修改） | 广泛  
   
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png)  [地图瓦片](MapTiles.html)
+  [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png)  [地图瓦片存储类型](MapCacheType.html)
+  [地图瓦片存储类型](MapCacheType)
 
-![](../img/smalltitle.png)  [地图瓦片目录结构](MapCacheFolder.html)
+  [地图瓦片目录结构](MapCacheFolder)
 
-![](../img/smalltitle.png)  [使用地图瓦片的建议](AdviceAboutMapCache.html)
+  [使用地图瓦片的建议](AdviceAboutMapCache)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

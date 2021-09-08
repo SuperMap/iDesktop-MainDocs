@@ -20,16 +20,16 @@ title: 升序/降序
 若同时选中了多个属性列（配置 Ctrl 或 Shift
 键），系统默认会按照所选中字段中最靠前（即所有选中属性列的最左边）的字段的属性值进行降序排列，用户也可以通过改变属性表窗口底部的状态栏中间的下拉列表显示的字段名称，浏览选中字段的基本信息。
 
-![](../../img/smalltitle.png) [降序](SortOrderDescendingButton)
+ [降序](SortOrderDescendingButton)
 
-![](../../img/smalltitle.png) [隐藏列](HideButton)
+ [隐藏列](HideButton)
 
-![](../../img/smalltitle.png) [取消隐藏](CancelHideButton)
+ [取消隐藏](CancelHideButton)
 
-![](../../img/smalltitle.png) [筛选](FilterButton)
+ [筛选](FilterButton)
 
-![](../../img/smalltitle.png) [定位](GoToButton)
+ [定位](GoToButton)
 
-![](../../img/smalltitle.png) [显示十六进制](DisplayHexadecimal)
+ [显示十六进制](DisplayHexadecimal)
 
 

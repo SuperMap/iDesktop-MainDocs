@@ -82,5 +82,5 @@ ChangeStation图层代表的是各个地铁线路上的中转站，每个中转�
 
 ### 相关主题
 
-![](../img/smalltitle.png) [对地图进行标注](LabelMap.html)
+ [对地图进行标注](LabelMap)
 

@@ -70,12 +70,12 @@ title: 多任务切图
     * 每台切图机器会按照设置的任务数，在共享目录Task 文件夹领取拆分的子任务，不同的机器领取不同的任务，被领取的子任务会从 task 移至 doing 文件夹中。当子任务切图完成后，会将该任务从 doing 文件夹移至同级的 build 文件夹中。例如同时部署三台机器，进程数分别设置为6、8、10，则有24个子任务sci同时执行切图，切图完成的进程会再在 task 中领取任务，直到无任务可领，则执行切图完成。
 4. 完成切图任务，程序将给出完成提示对话框，多进程切图完成，并给出缓存结果路径和耗费时间。切好的缓存瓦片会保存在总 sci 文件同级目录文件夹中。若为 MongDB 的缓存类型，瓦片存储在 MongoDB 数据库中。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png)  [生成地图瓦片](MapTileMode)
+  [生成地图瓦片](MapTileMode)
 
-![](../img/smalltitle.png)  [单任务切图](MapTilesSingle)
+  [单任务切图](MapTilesSingle)
 
-![](../img/smalltitle.png)  [多任务切图效率比对](MultiTaskSuggest)
+  [多任务切图效率比对](MultiTaskSuggest)
 
-![](../img/smalltitle.png)  [生成多版本瓦片](MultiversionTile)
+  [生成多版本瓦片](MultiversionTile)

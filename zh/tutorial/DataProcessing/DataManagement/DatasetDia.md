@@ -12,9 +12,9 @@ title: 查看数据集的属性信息
 
 下面分别介绍上述三种情况下，数据集属性面板的具体内容：
 
-![](../../img/smalltitle.png) [矢量数据集属性窗口](DTgroupDiaVector)
+ [矢量数据集属性窗口](DTgroupDiaVector)
 
-![](../../img/smalltitle.png) [栅格数据集属性窗口](DTgroupDiaGrid)
+ [栅格数据集属性窗口](DTgroupDiaGrid)
 
-![](../../img/smalltitle.png) [影像数据集属性窗口](DTgroupDiaImage)
+ [影像数据集属性窗口](DTgroupDiaImage)
 

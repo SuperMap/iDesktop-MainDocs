@@ -16,13 +16,13 @@ title: 对象操作
 
 ### ![](../../img/read.gif)内容提要：
 
-![](../../img/smalltitle.png) [选择对象](SelectObjects/Selection)
+ [选择对象](SelectObjects/Selection)
 
-![](../../img/smalltitle.png) [创建对象](CreateObjects/CreateGeometry)
+ [创建对象](CreateObjects/CreateGeometry)
 
-![](../../img/smalltitle.png) [编辑对象](EditObjects/EdittingGeometry)
+ [编辑对象](EditObjects/EdittingGeometry)
 
-![](../../img/smalltitle.png) [查看和修改对象的属性](ObjectProperty)
+ [查看和修改对象的属性](ObjectProperty)
 
-![](../../img/smalltitle.png) [栅格矢量化](trace/AboutTrace)
+ [栅格矢量化](trace/AboutTrace)
 

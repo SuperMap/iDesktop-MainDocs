@@ -44,7 +44,7 @@ MyCtrlAction.cs 文件中，将 Run() 方法中的代码替换为如下实现代
     
 ```
   3. 编译 “MyCtrlAction”工程，生成 MyCtrlAction.dll 动态库文件，本例中的输出路径为：安装目录\SampleCode\MyCtrlAction\MyCtrlAction\obj\X86\Debug\MyCtrlAction.dll。
-  4. 生成 MyCtrlAction.dll 后，可以按照工作环境设计快速入门中的[“CtrlAction”方法](CtrlAction.html)，配置到用户界面中，配置后的界面以及功能执行的结果如下图所示。  
+  4. 生成 MyCtrlAction.dll 后，可以按照工作环境设计快速入门中的[“CtrlAction”方法](CtrlAction)，配置到用户界面中，配置后的界面以及功能执行的结果如下图所示。  
   
 ![](img/output.png)  
 

@@ -23,8 +23,8 @@ title: 叠加分析
   * **叠加保留字段** ：保留的字段来自于叠加数据集，通过下拉按钮，选择结果数据中要保留的字段，字段之间以逗号隔开，例如：zone,borough。 **注意** ：该字段对裁剪、更新、擦除模式无效。
 4. **分析结果** :设置好以上参数之后即可执行分析，分析结果会自动在地图窗口中打开，结果数据的保存路径也会在输出窗口中打开，从该路径获取结果数据集。 **注意** ：用户若直接打开生成结果路径的数据会提示打开失败，是由于基于iSever服务的分析，会存在数据被占用而无法打开的情况。建议用户将数据拷贝至其他路径中打开该数据进行编辑操作。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [环境配置](BigDataAnalysisEnvironmentConfiguration)
+ [环境配置](BigDataAnalysisEnvironmentConfiguration)
 
-![](../img/smalltitle.png) [数据准备](DataPreparation)
+ [数据准备](DataPreparation)

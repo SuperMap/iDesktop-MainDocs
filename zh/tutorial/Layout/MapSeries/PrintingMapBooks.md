@@ -23,14 +23,14 @@ title: 打印地图册
 
 ### 相关主题：
 
-![](../img/smalltitle.png) [地图系列](MapSeries.html)
+ [地图系列](MapSeries)
 
-![](../img/smalltitle.png) [创建格网索引](CreateGridIndex.html)
+ [创建格网索引](CreateGridIndex)
 
-![](../img/smalltitle.png) [计算相邻字段](CaculateAdjacentFieldhtm.html)
+ [计算相邻字段](CaculateAdjacentFieldhtm)
 
-![](../img/smalltitle.png) [启用地图系列](MapSerieSettings.html)
+ [启用地图系列](MapSerieSettings)
 
-![](../img/smalltitle.png) [绘制地图定位器](MapLocator.html)
+ [绘制地图定位器](MapLocator)
 
-![](../img/smalltitle.png) [动态文本](DynamicText.html)
+ [动态文本](DynamicText)

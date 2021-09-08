@@ -111,12 +111,12 @@ title: 多任务切图效率比对
 
 通过上述结论，用户可根据自身切图数据情况，瓦片类型，以及计算机性能合理选择切图方式。切图过程中，根据机器资源，增加/减少进程数，做到合理有效地利用计算机资源，最大限度的提升切图效率。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png)  [生成地图瓦片](MapTileMode)
+  [生成地图瓦片](MapTileMode)
 
-![](../img/smalltitle.png)  [单任务切图](MapTilesSingle)
+  [单任务切图](MapTilesSingle)
 
-![](../img/smalltitle.png)  [多任务切图](MultiTaskStep)
+  [多任务切图](MultiTaskStep)
 
-![](../img/smalltitle.png)  [生成多版本瓦片](MultiversionTile)
+  [生成多版本瓦片](MultiversionTile)

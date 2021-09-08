@@ -106,9 +106,9 @@ SuperMap发送用户使用产品的相关信息，包括桌面平台功能执行
 
 选中该项，则用户在打开桌面时，会在起始页中看到版本新特性的推送。如不想显示特性信息，则可不选中该项。
 
-### ![](../img/seealso.png)相关链接
+### 相关链接
 
-![](../img/smalltitle.png) [保存](AutoSave.html)
+ [保存](AutoSave)
 
-![](../img/smalltitle.png) [环境](Environment.html)
+ [环境](Environment)
 

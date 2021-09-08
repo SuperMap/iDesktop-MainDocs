@@ -13,11 +13,11 @@ title: 水深编辑
 
 ### ![](../../../img/seealso.png) 内容提要：
 
-[添加/删除水深点](AddSounding.html)  
+[添加/删除水深点](AddSounding)  
 介绍添加或删除水深点的具体操作。
 
-[水深分组属性编辑](EditSoundingGroupAttribute.html)  
+[水深分组属性编辑](EditSoundingGroupAttribute)  
 介绍编辑、修改水深分组属性的具体操作，可统一设置水深点处深度值以外的属性。
 
-[修改水深属性](EditSoundingDepth.html)  
+[修改水深属性](EditSoundingDepth)  
 介绍编辑水深点深度值的具体操作。

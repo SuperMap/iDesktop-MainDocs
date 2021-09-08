@@ -15,30 +15,30 @@ S-58 标准，对海图数据进行验核，即根据标准检查数据，并提
 
 ### ![](../img/read.gif)内容提要：
 
-[海图概述](AboutChart.html)  
+[海图概述](AboutChart)  
 概述 SuperMap 海图模块目前支持的 IHO S-57、IHO S-52 和 IHO S-58
 国际标准，以及海图模块提供的海图数据转换、显示、查询、编辑和数据验核等功能。
 
-[海图数据存储](ChartDataStorage.html)  
+[海图数据存储](ChartDataStorage)  
 介绍海图数据的存储结构，即特征物标与空间物标的关系、链节点模型。
 
-[海图数据分组](DataGroup/StructureDatasetGroups.html)  
+[海图数据分组](DataGroup/StructureDatasetGroups)  
 介绍海图数据集分组类型、创建海图分组、删除海图分组、分组类型之间的转换等内容。
 
-[S-57数据转换](DataProcessing/Conversion/DataConversion.html)  
+[S-57数据转换](DataProcessing/Conversion/DataConversion)  
 介绍导入 *.000 海图数据文件和导出标准海图数据的功能。
 
-[海图基本操作](DataProcessing/basic/ChartBasic.html)  
+[海图基本操作](DataProcessing/basic/ChartBasic)  
 介绍打开海图的基本操作内容，包括打开海图、查看海图分组属性、查看特征物标属性、物标要素显示控制。
 
-[海图显示](Visualization/ChartDisplaySetting.html)  
+[海图显示](Visualization/ChartDisplaySetting)  
 设置海图显示包括海图显示设置、水深显示设置、过滤显示设置等内容。
 
-[海图物标查询](ChartQuery.html)  
+[海图物标查询](ChartQuery)  
 介绍海图物标查询的物标长名、记录标识、物标属性三种查询方式。
 
-[海图编辑](DataProcessing/ChartEditor/ChartEditor.html)  
+[海图编辑](DataProcessing/ChartEditor/ChartEditor)  
 介绍海图编辑相关的操作，包括特征物标数据集、物标对象编辑、水深点编辑、关联关系管理、拓扑关系管理等内容。
 
-[海陆一体化](Visualization/ChartIntegrate.html)  
+[海陆一体化](Visualization/ChartIntegrate)  
 介绍 SuperMap 桌面海图模块对海陆一体化存储、海陆一体化显示和海陆一体化发布方面的支持情况。

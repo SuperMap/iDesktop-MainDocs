@@ -15,9 +15,9 @@ title: 许可配置
 
 ### ![](img/read.gif)内容提要：
 
-![](img/smalltitle.png) [配置本地许可](ConfigureLicense_Windows.html)
+ [配置本地许可](ConfigureLicense_Windows)
 
-![](img/smalltitle.png) [配置公有云许可](ConfigureLicense_Online.html)
+ [配置公有云许可](ConfigureLicense_Online)
 
-![](img/smalltitle.png) [配置私有云许可](ConfigureLicense_Private.html)
+ [配置私有云许可](ConfigureLicense_Private)
 

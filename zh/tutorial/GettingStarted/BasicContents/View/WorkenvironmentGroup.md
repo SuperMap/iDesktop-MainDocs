@@ -13,7 +13,7 @@ WorkEnvironment 文件夹下名称为 Default 子文件夹对应的工作环境�
 在“ **视图** ”选项卡上的“ **自定义界面** ”组中，单击“ **环境设计** ”下拉按钮，选择“ **工作环境设计**
 ”，可打开工作环境设计窗口，在该窗口中可对当前的工作环境进行定制和扩展。
 
-有关工作环境设计窗口中的具体操作，请参见 [工作环境设计](../../UserCustom/UserCustom.html)。
+有关工作环境设计窗口中的具体操作，请参见 [工作环境设计](../../UserCustom/UserCustom)。
 
 ### 切换当前工作环境
 
@@ -27,5 +27,5 @@ WorkEnvironment 文件夹中所能获取到的所有的工作环境，用户可�
 
 ###  相关主题
 
-![](../../img/smalltitle.png) [工作环境设计](../../UserCustom/UserCustom.html)
+ [工作环境设计](../../UserCustom/UserCustom)
 

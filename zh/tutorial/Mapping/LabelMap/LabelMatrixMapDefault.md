@@ -21,5 +21,5 @@ title: 新建标签矩阵专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改标签矩阵专题图](LabelMatrixMapDia)
+ [修改标签矩阵专题图](LabelMatrixMapDia)
 

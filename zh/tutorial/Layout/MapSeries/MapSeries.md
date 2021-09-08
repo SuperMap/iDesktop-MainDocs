@@ -17,7 +17,7 @@ title: 地图系列
 ![](img/MapSeriesIntroduce.png)  
 
   
-[创建格网索引](CreateGridIndex.html)功能可帮助用户创建索引图层。还可通过[计算相邻字段](CaculateAdjacentFieldhtm.html)功能，为索引图层中创建一些字段，用来对地图系列中的相邻页面进行标注。
+[创建格网索引](CreateGridIndex)功能可帮助用户创建索引图层。还可通过[计算相邻字段](CaculateAdjacentFieldhtm)功能，为索引图层中创建一些字段，用来对地图系列中的相邻页面进行标注。
 
 通常情况下，一个完整的地图系列中每个页面包含有标题、主地图、定位地图、文本、表格等组成部分。您可通过地图系列中一系列相关功能，为每个地图系列页面定义布局组成元素，布局元素可分为动态元素和静态元素。其中动态元素会随各页面内容的不同而发生变化，例如以动态文本的形式创建的页面标题及页码；以及添加定位地图使用户在较大区域中快速定位和识别当前地图所在的空间位置。定位地图也是动态的，只要关联的主地图范围发生变化，定位地图就会自动更新。
 
@@ -27,15 +27,15 @@ title: 地图系列
 
 ### 相关主题：
 
-![](../img/smalltitle.png) [创建格网索引](CreateGridIndex.html)
+ [创建格网索引](CreateGridIndex)
 
-![](../img/smalltitle.png) [计算相邻字段](CaculateAdjacentFieldhtm.html)
+ [计算相邻字段](CaculateAdjacentFieldhtm)
 
-![](../img/smalltitle.png) [启用地图系列](MapSerieSettings.html)
+ [启用地图系列](MapSerieSettings)
 
-![](../img/smalltitle.png) [绘制地图定位器](MapLocator.html)
+ [绘制地图定位器](MapLocator)
 
-![](../img/smalltitle.png) [动态文本](DynamicText.html)
+ [动态文本](DynamicText)
 
-![](../img/smalltitle.png) [打印地图册](PrintingMapBooks.html)
+ [打印地图册](PrintingMapBooks)
 

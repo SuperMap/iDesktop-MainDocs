@@ -23,26 +23,26 @@ title: 帮助
 应用程序默认载入方式为先在本地尝试，然后再联机尝试。用户可以根据需要，更改帮助内容的载入方式。
 
 ###
-[在线地址](http://support.supermap.com.cn/DataWarehouse/WebDocHelp/iDesktop/SuperMap_iDesktop_10i.html)
+[在线地址](http://support.supermap.com.cn/DataWarehouse/WebDocHelp/iDesktop/SuperMap_iDesktop_10i)
 
-应用程序的帮助文档默认在线地址为：http://support.supermap.com.cn/DataWarehouse/WebDocHelp/iDesktop/SuperMap_iDesktop_10i.htm。
+应用程序的帮助文档默认在线地址为：http://support.supermap.com.cn/DataWarehouse/WebDocHelp/iDesktop/SuperMap_iDesktop_10i。
 
 在线地址支持用户定制帮助文档。用户可以将定制的帮助文档进行发布，将在线地址设置为已发布的帮助文档的地址，即可在线获取和查阅。
 
-### ![](../img/seealso.png)相关链接
+### 相关链接
 
-![](../img/smalltitle.png) [打开](ItemOpen.html)
+ [打开](ItemOpen)
 
-![](../img/smalltitle.png) [保存/另存](ItemSave.html)
+ [保存/另存](ItemSave)
 
-![](../img/smalltitle.png) [示范数据](ItemSampleData.html)
+ [示范数据](ItemSampleData)
 
-![](../img/smalltitle.png) [打印](ItemPrint.html)
+ [打印](ItemPrint)
 
-![](../img/smalltitle.png) [选项](ItemDeskproOption.html)
+ [选项](ItemDeskproOption)
 
-![](../img/smalltitle.png) [许可](ItemLicense.html)
+ [许可](ItemLicense)
 
-![](../img/smalltitle.png) [服务](OnlineAddress.html)
+ [服务](OnlineAddress)
 
-![](../img/smalltitle.png) [关于](About.html)
+ [关于](About)

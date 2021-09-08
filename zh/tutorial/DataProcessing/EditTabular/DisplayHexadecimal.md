@@ -15,13 +15,13 @@ title: 显示十六进制
 ---  
   * 再次单击“显示十六进制”按钮，该列数据恢复为原十进制方式显示。
 
-![](../../img/smalltitle.png) [降序](SortOrderDescendingButton)
+ [降序](SortOrderDescendingButton)
 
-![](../../img/smalltitle.png) [隐藏列](HideButton)
+ [隐藏列](HideButton)
 
-![](../../img/smalltitle.png) [取消隐藏](CancelHideButton)
+ [取消隐藏](CancelHideButton)
 
-![](../../img/smalltitle.png) [筛选](FilterButton)
+ [筛选](FilterButton)
 
-![](../../img/smalltitle.png) [定位](GoToButton)
+ [定位](GoToButton)
 

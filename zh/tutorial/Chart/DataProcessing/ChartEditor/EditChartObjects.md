@@ -24,4 +24,4 @@ title: 编辑物标对象
   * **分解** ：将一个或多个复杂对象或复合对象进行分解。分解的结果可以是单一对象，也可以是复杂对象。
   * **保护性分解** ：将一个或多个复杂对象或复合对象进行分解，分解的结果会保留复杂对象或复合对象中的岛洞，将非岛洞关系的对象进行分解。具体操作与分解操作一致。
 
-海图编辑模块提供的对象编辑功能的详细操作，请参照[编辑对象](../../../DataProcessing/Objects/EditObjects/EdittingGeometry.html)。
+海图编辑模块提供的对象编辑功能的详细操作，请参照[编辑对象](../../../DataProcessing/Objects/EditObjects/EdittingGeometry)。

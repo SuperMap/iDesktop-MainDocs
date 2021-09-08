@@ -7,10 +7,7 @@ title: 方法二：ScriptCode
 ---  
 ScriptCode  
   2. 选择脚本语言为"C#"，并且将下列代码复制到“代码编辑窗口”。
-
-![д](img/CopyCode.gif)Copy
-
-    
+```
         
     //获取应用程序中所加载的所有插件的数目
     Int32 pluginCount = SuperMap.Desktop.Application.ActiveApplication.PluginManager.Count;
@@ -39,7 +36,7 @@ ScriptCode
         SuperMap.Desktop.Application.ActiveApplication.Output.Output("插件名称：" + pluginName + "\r\n" + "所在的程序集：" + pluginAssemble,InfoLevel.Information);
     }
       
-    
+    ```
 
   3. 单击“脚本编译”按钮进行编译，编译成功后，单击“脚本保存”按钮进行保存，如下图所示。
 
@@ -50,9 +47,5 @@ ScriptCode
 脚本编译保存  
   4. 设置完成后，单击“确定”按钮，保存相关设置信息。
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

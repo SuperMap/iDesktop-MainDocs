@@ -9,7 +9,7 @@ title: 与图表联动交互
 ### ![](../../img/read.gif)操作步骤
 
   1. 在新的地图窗口中分别打开需要联动显示的图表、地图以及属性表。
-  2. 在“ **视图** ”选项卡上的“ **窗口** "组中，单击“ **关联** ”按钮，弹出窗口列表，勾选进行绑定的窗口前的复选框即可进行关联浏览。 此时应用程序自动对选择的绑定窗口进行水平排列，从而便于窗口间的联动操作与浏览，如下图所示。关于关联浏览的详细描述请参见[关联浏览](../../Visualization/BrowseMap/WindowsBinding)。
+  2. 在“ **视图** ”选项卡上的“ **窗口** "组中，单击“ **关联浏览** ”按钮，弹出窗口列表，勾选进行绑定的窗口前的复选框即可进行关联浏览。 此时应用程序自动对选择的绑定窗口进行水平排列，从而便于窗口间的联动操作与浏览，如下图所示。关于关联浏览的详细描述请参见[关联浏览](../../Visualization/BrowseMap/WindowsBinding)。
 ![](img/LinkageInteraction.png)  
 
   3. 图表、地图和属性表之间的选择是动态的。如果在图表中选择一个或者多个对象，那么也将同时选中地图和属性表中的相同对象。同样，地图或属性表中的选择也将反映在图表中，选中的对象会在窗口中高亮显示。
@@ -24,14 +24,14 @@ title: 与图表联动交互
 
 ### ![](../../img/seealso.png) 相关内容
 
-![](../../img/smalltitle.png)[**统计图表概述**](Diagrams1)
+[**统计图表概述**](Diagrams1)
 
-![](../../img/smalltitle.png)[**统计图表类型**](DiagramsType)
+[**统计图表类型**](DiagramsType)
 
-![](../../img/smalltitle.png)[**制作统计图表**](CreateDiagram)
+[**制作统计图表**](CreateDiagram)
 
-![](../../img/smalltitle.png)[**图表与专题图的转换**](ConvertThemticMap)
+[**图表与专题图的转换**](ConvertThemticMap)
 
-![](../../img/smalltitle.png)[**使用统计图表模版**](DiagramTemplate)
+[**使用统计图表模版**](DiagramTemplate)
 
 

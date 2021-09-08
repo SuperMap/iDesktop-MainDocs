@@ -14,11 +14,11 @@ Ctrl 键同时选中多个矢量数据集，在右键菜单中“浏览属性表
 
 “属性表”选项卡中包含的组有：
 
-![](../../img/smalltitle.png) [浏览属性表](Browsegroup)
+ [浏览属性表](Browsegroup)
 
-![](../../img/smalltitle.png) [编辑属性表](Editgroup)
+ [编辑属性表](Editgroup)
 
-![](../../img/smalltitle.png) [统计分析属性表](StatisticAnalystgroup)
+ [统计分析属性表](StatisticAnalystgroup)
 
-![](../../img/smalltitle.png) [输出属性表](DatasetButton)
+ [输出属性表](DatasetButton)
 

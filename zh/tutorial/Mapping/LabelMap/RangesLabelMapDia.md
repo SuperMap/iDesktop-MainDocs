@@ -16,11 +16,11 @@ title: 修改分段标签专题图
 
 具体介绍如下：
 
-![](../../img/smalltitle.png) [“属性”选项卡](PropertiesDia)
+ [“属性”选项卡](PropertiesDia)
 
-![](../../img/smalltitle.png) [“风格”选项卡](RangesStyleDia)
+ [“风格”选项卡](RangesStyleDia)
 
-![](../../img/smalltitle.png) [“高级”选项卡](AdvancedDia)
+ [“高级”选项卡](AdvancedDia)
 
 在“分段标签专题图”窗口中的各项参数设置都会实时反映到当前地图窗口中相应的专题图图层，即实现所见即所得。用户也可以通过取消勾选对话框底部的“启用即时刷新”复选框，不启用实时刷新。若不勾选“启用即时刷新”复选框，则用户完成各项参数设置后，可单击对话框底部的“应用”按钮，将对话框中的参数设置应用于当前专题图。
 

@@ -6,28 +6,28 @@ title: 动态分段
 
 ### ![](../img/read.gif)内容提要：
 
-![](../img/smalltitle.png) [动态分段概述](AboutDynamicS)
+ [动态分段概述](AboutDynamicS)
 
-![](../img/smalltitle.png) [动态分段的流程](WorkFlow)
+ [动态分段的流程](WorkFlow)
 
-![](../img/smalltitle.png) [生成路由](CreateRoute)
+ [生成路由](CreateRoute)
 
-![](../img/smalltitle.png) [校准路由](CalibrateRoute)
+ [校准路由](CalibrateRoute)
 
-![](../img/smalltitle.png) [生成事件表](CreateEvent)
+ [生成事件表](CreateEvent)
 
-![](../img/smalltitle.png) [叠加事件表](OverlayEvent)
+ [叠加事件表](OverlayEvent)
 
-![](../img/smalltitle.png) [融合事件表](DissolveEvent)
+ [融合事件表](DissolveEvent)
 
-![](../img/smalltitle.png) [生成空间数据](CreateSpatialData)
+ [生成空间数据](CreateSpatialData)
 
-![](../img/smalltitle.png) [动态分段关系管理](RelationManage)
+ [动态分段关系管理](RelationManage)
 
-![](../img/smalltitle.png) [动态分段关系联动修改](RelationLink)
+ [动态分段关系联动修改](RelationLink)
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
 流程管理用于对流程化的多个功能模块进行统一管理，按照各个流程的组织顺序自动化执行多个流程，其目的在于帮助用户迅速执行用户定制的操作流程。动态分段模块就采用了流程管理的方式。
 
-![](../img/smalltitle.png) [流程管理窗口介绍](../UIIntroduct/proceduremanage)
+ [流程管理窗口介绍](../UIIntroduct/proceduremanage)

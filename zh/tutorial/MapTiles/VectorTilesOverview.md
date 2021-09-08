@@ -15,23 +15,19 @@ title: 矢量瓦片概述
 
 ### ![](../img/read.gif) 内容提要：
 
-![](img/smalltitle.png)[ 矢量瓦片风格](VectorTiles.html#1)
+[ 矢量瓦片风格](VectorTiles)
 
-![](img/smalltitle.png)[ 生成矢量瓦片](VectorTiles.html#2)
+[ 生成矢量瓦片](VectorTiles)
 
-![](img/smalltitle.png)[ 矢量瓦片目录](VectorTiles.html#3)
+[ 矢量瓦片目录](VectorTiles)
 
-![](img/smalltitle.png)[ 矢量瓦片显示](BrowseVectorTiles.html)
+[ 矢量瓦片显示](BrowseVectorTiles)
 
-![](img/smalltitle.png)[ 修改瓦片风格](ModifyVectorTiles.html)
+[ 修改瓦片风格](ModifyVectorTiles)
 
-![](img/smalltitle.png)[ 制图最佳实践](VectorTilesNotice.html)
+[ 制图最佳实践](VectorTilesNotice)
 
-![](img/smalltitle.png)[ 矢量瓦片常见问题解答](VectorTilesFAQ.html)
+[ 矢量瓦片常见问题解答](VectorTilesFAQ)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

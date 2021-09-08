@@ -5,7 +5,7 @@ title: 加载 MongoDB 瓦片
 在地图窗口可添加存储类型为 MongoDB
 型的地图瓦片。当存在多个版本的地图瓦片时，支持以动画的形式播放多版本瓦片中的若干瓦片，可动态呈现数据所发生的变化。
 
-**注意** ：使用该功能前，需先启动 MongoDB 服务，请参看“[MongDB使用说明](../../Features/TechDocument/MongoDBDatabaseGuide)”启动服务。
+**注意** ：使用该功能前，需先启动 MongoDB 服务，请参看“[MongDB使用说明](../../tutorial/TechDocument/MongoDBDatabaseGuide)”启动服务。
 
 ### 操作步骤
 
@@ -29,14 +29,14 @@ title: 加载 MongoDB 瓦片
 
 如若当前地图窗口中的瓦片图层在其他图层下方，被遮挡了不可见，播放时瓦片图层会自动置顶显示.
 
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png)  [地图瓦片](MapTiles)
+  [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png)  [续传瓦片](RecoverTiles)
+  [续传瓦片](RecoverTiles)
 
-![](../img/smalltitle.png)  [更新瓦片](UpdateTiles)
+  [更新瓦片](UpdateTiles)
 
-![](../img/smalltitle.png)  [瓦片检查](CheckTlies)
+  [瓦片检查](CheckTlies)
 
-![](../img/smalltitle.png)  [瓦片管理](MongoDBTilesManger)
+  [瓦片管理](MongoDBTilesManger)

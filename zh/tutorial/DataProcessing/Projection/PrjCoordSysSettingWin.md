@@ -131,15 +131,15 @@ title: 投影设置
 
 
 
- ![](../../img/smalltitle.png) [新建地理坐标系](NewGeoCoordSys)
+  [新建地理坐标系](NewGeoCoordSys)
 
 
 
- ![](../../img/smalltitle.png) [新建投影坐标系](NewProCoordSys)
+  [新建投影坐标系](NewProCoordSys)
 
 
 
- ![](../../img/smalltitle.png) [通过EPSG编码创建坐标系](NewGEPSGCoordSys)
+  [通过EPSG编码创建坐标系](NewGEPSGCoordSys)
 
 
 

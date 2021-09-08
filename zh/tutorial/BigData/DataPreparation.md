@@ -90,8 +90,8 @@ DataStore 默认端口为 8020，请先修改防火墙配置，使该端口通�
 8. 数据集上传成功后，会返回一个唯一的 dataID，如上图所示，用于代表该上传文件的数据包。单击该DataID，可查看该数据包的详细描述信息。上传成功的数据集，也会出现在 relationship/datasets 资源的“数据集列表”中。 <br/>![](img/DataStore7.png)
 9. 上传数据之后，在桌面应用程序中通过打开刚配置好的 iServer DataStore 数据源，即可查看其中上传的数据。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [环境配置](BigDataAnalysisEnvironmentConfiguration)
+ [环境配置](BigDataAnalysisEnvironmentConfiguration)
 
-![](../img/smalltitle.png) [密度分析](DensityAnalysis)
+ [密度分析](DensityAnalysis)

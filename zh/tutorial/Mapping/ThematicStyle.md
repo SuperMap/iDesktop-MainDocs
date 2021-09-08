@@ -42,6 +42,6 @@ title: 修改专题图项风格（二维）
 ### ![](../img/read.gif)操作步骤
 
   1. 在专题列表中选中多项专题值（可配合使用 Ctrl 或 Shift 键），单击"工具条"中符号风格按钮时，弹出"修改专题项风格"对话框（以面符号为例）。
-  2. 在对话框中选择所要修改的符号风格，单击“设置风格”按钮，对线符号和填充符号会弹出线符号选择器和填充符号选择器。线符号和填充符号风格设置的方法参见[设置线符号风格](../../Visualization/LayerStyle/LineSymStyle)和[设置填充符号风格](../../Visualization/LayerStyle/FillSymStyle)。
+  2. 在对话框中选择所要修改的符号风格，单击“设置风格”按钮，对线符号和填充符号会弹出线符号选择器和填充符号选择器。线符号和填充符号风格设置的方法参见[设置线符号风格](../Visualization/LayerStyle/LineSymStyle)和[设置填充符号风格](../Visualization/LayerStyle/FillSymStyle)。
   3. 设置完毕后，单击“确定”按钮，选中的专题项即可按新的风格进行显示。
 

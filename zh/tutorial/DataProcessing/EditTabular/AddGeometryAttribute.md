@@ -59,9 +59,5 @@ title: 计算几何属性
 ![](img/UpdateAttributeResult.png)  
 ---  
   
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

@@ -6,13 +6,13 @@ title: 矢量瓦片
 
 桌面产品支持将矢量地图生成遵循 MapBox MVT规范的矢量瓦片，瓦片数据包含要素的几何形状与属性信息，而要素的风格样式由 MapBox
 标准样式文件（style.json）描述。矢量瓦片相比栅格瓦片具有无级缩放，风格修改，数据量相对较小的优势，能更好满足灵活多样的 Web
-地图应用。有关栅格瓦片和矢量瓦片的描述和对比，请参看[地图瓦片类型](TilesType.html)页面。在本章节您将了解到如下内容：
+地图应用。有关栅格瓦片和矢量瓦片的描述和对比，请参看[地图瓦片类型](TilesType)页面。在本章节您将了解到如下内容：
 
-![](img/smalltitle.png)[ 矢量瓦片风格](VectorTiles.html#1)
+[ 矢量瓦片风格](VectorTiles)
 
-![](img/smalltitle.png)[ 如何生成矢量瓦片？](VectorTiles.html#2)
+[ 如何生成矢量瓦片？](VectorTiles)
 
-![](img/smalltitle.png)[ 矢量瓦片结果目录](VectorTiles.html#3)
+[ 矢量瓦片结果目录](VectorTiles)
 
 ### ![](../img/read.gif) 矢量瓦片风格
 
@@ -51,12 +51,12 @@ gl-style-spec](https://www.mapbox.com/mapbox-gl-style-spec)，随着 MapBox GL
     * 在使用多任务生成矢量瓦片时，程序默认勾选“生成矢量瓦片”和“生成瓦片格式”不可更改，用户可选择是否“生成字体缓存文件”。
     * 如果地图中的图层使用了过滤表达式或者标签带有背景，将不支持矢量瓦片数据和样式的独立生成和更新，否则，所生成的瓦片数据和风格对应有误。
   5. **路径设置** :设置瓦片名称和工作目录。
-  6. **存储设置** ：支持原始、紧凑和 MongoDB 存储类型。有关存储类型的更多内容，请参见[地图瓦片存储类型](MapCacheType.html)。
+  6. **存储设置** ：支持原始、紧凑和 MongoDB 存储类型。有关存储类型的更多内容，请参见[地图瓦片存储类型](MapCacheType)。
   7. **设置瓦片生成范围** ：单击“下一步”，指定瓦片范围。
 ![](img/VectorTiles.png)  
 ---  
 图：设置矢量瓦片范围  
-  8. 所有参数设置完成后，单击“生成”按钮，后台执行拆分任务完成后，将弹出“多任务切图”对话框，设置多任务切图的进程数，有关参数的具体描述请参看[多任务切图](MultiTaskStep.html)。
+  8. 所有参数设置完成后，单击“生成”按钮，后台执行拆分任务完成后，将弹出“多任务切图”对话框，设置多任务切图的进程数，有关参数的具体描述请参看[多任务切图](MultiTaskStep)。
   9. 设置完成后，单击“生成”，开始多进程切图。
 
 **注意事项** ：
@@ -93,17 +93,13 @@ SuperMap 桌面提供单独 **生成矢量瓦片风格** 入口，在不改变�
   3. 结果文件包含三个文件夹，包括： **fonts** （矢量瓦片使用的字体文件）、 **sprites** （矢量瓦片图标相关风格内容资源）、 **styles** （矢量瓦片风格描述文件）。
   4. 最后，将新创建的矢量瓦片风格内容替换到待更新风格的矢量缓存目录，即可将当前矢量瓦片按照新生成的瓦片风格进行显示。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [地图瓦片](MapTiles.html)
+ [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png) [制图最佳实践](VectorTilesNotice.html)
+ [制图最佳实践](VectorTilesNotice)
 
-![](../img/smalltitle.png) [矢量瓦片常见问题解答](VectorTilesFAQ.html)
+ [矢量瓦片常见问题解答](VectorTilesFAQ)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

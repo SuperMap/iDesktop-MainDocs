@@ -6,7 +6,7 @@ title: 安装插件
 
 ### ![](../img/read.gif) 直接安装
 
-1. 通过插件管理器[ **下载插件**](Download.html)，完成下载后其状态会由可下载变为等待安装状态。
+1. 通过插件管理器[ **下载插件**](Download)，完成下载后其状态会由可下载变为等待安装状态。
 2. 单击“安装”按钮，一键式安装插件。安装位置为当前应用程序的所在的路径,安装完成后，该插件的状态由安装变为已安装。此时启动 SuperMap iDesktop 应用程序，即可使用插件提供的功能。
 
 ### ![](../img/read.gif) 导入安装
@@ -24,10 +24,10 @@ title: 安装插件
 
 ### 相关主题
 
-![](../img/smalltitle.png) [插件管理](aboutpluginmanage.html)
+ [插件管理](aboutpluginmanage)
 
-![](../img/smalltitle.png) [插件管理器](manager.html)
+ [插件管理器](manager)
 
-![](../img/smalltitle.png) [下载插件](Download.html)
+ [下载插件](Download)
 
-![](../img/smalltitle.png) [卸载/移除插件](Remove.html)
+ [卸载/移除插件](Remove)

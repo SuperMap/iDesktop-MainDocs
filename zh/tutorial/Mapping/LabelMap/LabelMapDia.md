@@ -13,11 +13,11 @@ title: 修改标签专题图
     1. 在图层管理器中双击某类型标签专题图，在弹出的某种类型的“标签专题图”窗口显示了选中的标签专题图的设置信息。
     2. 在相应的专题图窗口中，可进行各类型标签专题图的参数设置。不同类型的标签专题图，标签专题图窗口的名称与显示参数有所区别。具体请参见： 
 
-![](../../img/smalltitle.png) [修改统一风格标签专题图](UniformLabelMapDia)
+ [修改统一风格标签专题图](UniformLabelMapDia)
 
-![](../../img/smalltitle.png) [修改分段风格标签专题图](RangesLabelMapDia)
+ [修改分段风格标签专题图](RangesLabelMapDia)
 
-![](../../img/smalltitle.png) [修改复合风格标签专题图](MixedLabelMapDia)
+ [修改复合风格标签专题图](MixedLabelMapDia)
 
-![](../../img/smalltitle.png) [修改标签矩阵专题图](LabelMatrixMapDia)
+ [修改标签矩阵专题图](LabelMatrixMapDia)
 

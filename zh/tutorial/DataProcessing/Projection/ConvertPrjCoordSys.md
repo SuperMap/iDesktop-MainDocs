@@ -20,19 +20,19 @@ SuperMap 提供的投影转换功能，对数据进行投影变换。
 
 
 
- ![](../../img/smalltitle.png)  [数据集投影转换](ConvertPrjCoordSysSingle)
+   [数据集投影转换](ConvertPrjCoordSysSingle)
 
 
 
- ![](../../img/smalltitle.png)  [批量投影转换](ConvertPrjCoordSysBatch)
+   [批量投影转换](ConvertPrjCoordSysBatch)
 
 
 
- ![](../../img/smalltitle.png)  [坐标点转换](ConvertPointPrjCoordSys)
+   [坐标点转换](ConvertPointPrjCoordSys)
 
 
 
- ![](../../img/smalltitle.png)  [转换模型参数计算](Coordinatetransformation)
+   [转换模型参数计算](Coordinatetransformation)
 
 
 

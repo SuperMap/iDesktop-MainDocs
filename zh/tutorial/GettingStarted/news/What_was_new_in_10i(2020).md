@@ -6,20 +6,20 @@ title: SuperMap iDesktop 10i(2020) 新特性
 
 **数据管理**
 
-  * 新增[导入COGO 文件功能](../../Features/DataProcessing/DataConversion/ImportCOGO.html) ，程序将按照文件记录的坐标、角度、方向等属性信息，绘制成为空间几何对象，常用于将测量外业记录的属性信息自动解译为空间数据，并查看对象之间的相对位置关系。
-  * 支持以打开文件型数据源的方式直接[打开地图切片包文件(*.tpk )数据](../../Features/DataProcessing/DataManagement/OpenDatasource.html) ，并在地图中进行浏览、作为底图使用等，无需进行地图切片的任何处理或者转化。
+  * 新增[导入COGO 文件功能](../../tutorial/DataProcessing/DataConversion/ImportCOGO) ，程序将按照文件记录的坐标、角度、方向等属性信息，绘制成为空间几何对象，常用于将测量外业记录的属性信息自动解译为空间数据，并查看对象之间的相对位置关系。
+  * 支持以打开文件型数据源的方式直接[打开地图切片包文件(*.tpk )数据](../../tutorial/DataProcessing/DataManagement/OpenDatasource) ，并在地图中进行浏览、作为底图使用等，无需进行地图切片的任何处理或者转化。
   * 支持通过修改配置文件参数的方式自定义数据库型数据源的功能入口，无需任何编码，可快速增加或者删除 SuperMap iObjects 已支持的各种数据库数据源。
   * 新增波段管理功能，支持将多个单波段数据合成为多波段影像进行管理。
   * 优化影像合成功能，支持将单波段合成为多波段影像。
-  * 优化镶嵌数据集功能，[重建裁剪范围新增复杂多边形选项](../../Features/DataProcessing/DataManagement/MosaicDatasetManage.html) ，针对影像的有效值区域形状复杂的情况，支持了自动计算这类影像有效值范围的能力，可通过影像图层的裁剪显示方式，去除影像的无值部分。
+  * 优化镶嵌数据集功能，[重建裁剪范围新增复杂多边形选项](../../tutorial/DataProcessing/DataManagement/MosaicDatasetManage) ，针对影像的有效值区域形状复杂的情况，支持了自动计算这类影像有效值范围的能力，可通过影像图层的裁剪显示方式，去除影像的无值部分。
   * 支持添加*.PIX 影像文件至镶嵌数据集中进行管理。
 ![](../img/MosaicCompoundPolygon.png)  
 ---  
 
 **数据处理**
 
-  * 优化[计算/更新几何属性功能](../../Features/DataProcessing/EditTabular/AddGeometryAttribute.html)界面，使用户操作更便捷。
-  * 优化[栅格拼接功能](../../Features/DataProcessing/Raster/RasterSplice.html)，支持影像数据集和直接添加本地影像文件进行混合拼接，减少数据导入过程，提升数据处理效率。
+  * 优化[计算/更新几何属性功能](../../tutorial/DataProcessing/EditTabular/AddGeometryAttribute)界面，使用户操作更便捷。
+  * 优化[栅格拼接功能](../../tutorial/DataProcessing/Raster/RasterSplice)，支持影像数据集和直接添加本地影像文件进行混合拼接，减少数据导入过程，提升数据处理效率。
   * 新增拓扑逻辑图功能，根据网络关系创建拓扑逻辑图，支持树形图、等级图和直角正交图。
 
 **地图制图**
@@ -28,7 +28,7 @@ title: SuperMap iDesktop 10i(2020) 新特性
   * 重新指定数据集时新增支持搜索，可通过输入关键字快速检索与定位到指定数据集。
   * 优化性能诊断功能，新增支持检测获取数据时间、获取对象个数及其他总耗时等信息，帮助用户更直观的监测地图性能的详细情况。
   * 优化多任务切图功能，支持添加数据库型工作空间中地图执行切图任务。
-  * 新增生成[Webp 格式的栅格瓦片功能](../../Features/MapTiles/WEBPTileType.html) ，在保证瓦片质量的同时极大缩小了瓦片的体积，可应用于移动端及 Web 端，提升加载渲染速度。
+  * 新增生成[Webp 格式的栅格瓦片功能](../../tutorial/MapTiles/WEBPTileType) ，在保证瓦片质量的同时极大缩小了瓦片的体积，可应用于移动端及 Web 端，提升加载渲染速度。
 ![](../img/WebPTile.gif)  
 ---  
   * 优化矢量重采样功能，支持设置线交点不变，保证了对象之间拓扑关系的正确性。
@@ -40,7 +40,7 @@ title: SuperMap iDesktop 10i(2020) 新特性
 **空间分析**
 
   * 优化 NDVI 与 NDWI 功能，支持不同影像数据参与计算，多个单波段及合成波段的影像均可参与。 
-  * 优化[室内导航分析功能](../../Features/Network/IndoorNavigation/IndoorNavigation.html)： 
+  * 优化[室内导航分析功能](../../tutorial/Network/IndoorNavigation/IndoorNavigation)： 
     * 支持多幢建筑物数据同时构建多路网导航模型，实现多幢建筑之间的连贯导航。
     * 支持添加室外道路，构建室内外一体化导航模型，实现室内路线和室外路线的自由过渡。
 ![](../img/IndoorNavigation.gif)  
@@ -144,4 +144,4 @@ title: SuperMap iDesktop 10i(2020) 新特性
 
 **交互易用性**
 
-  * 优化启动过程中[插件未成功加载的提示信息](../FAQ_Plugin.html)，输出具体的失败原因，辅助用户定位问题。
+  * 优化启动过程中[插件未成功加载的提示信息](../FAQ_Plugin)，输出具体的失败原因，辅助用户定位问题。

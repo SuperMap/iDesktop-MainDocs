@@ -42,8 +42,8 @@ title: 轨迹重建分析
 
 ![](img/SeaTrack.jpg)
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [环境配置](BigDataAnalysisEnvironmentConfiguration)
+ [环境配置](BigDataAnalysisEnvironmentConfiguration)
 
-![](../img/smalltitle.png) [数据准备](DataPreparation)
+ [数据准备](DataPreparation)

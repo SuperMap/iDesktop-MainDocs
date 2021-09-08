@@ -92,11 +92,11 @@ Intercept(回归系数) + C1(解释字段1回归系数) * 2017地铁站 + C2(解
 
 ### ![](img/seealso.png) 相关主题
 
-![](img/smalltitle.png) [基础词汇](BasicVocabulary)
+ [基础词汇](BasicVocabulary)
 
-![](img/smalltitle.png) [度量地理分析](MeasureGeographicDistributions)
+ [度量地理分析](MeasureGeographicDistributions)
 
-![](img/smalltitle.png) [聚类分布](Clusters)
+ [聚类分布](Clusters)
 
-![](img/smalltitle.png) [分析模式](AnalyzingPatterns)
+ [分析模式](AnalyzingPatterns)
 

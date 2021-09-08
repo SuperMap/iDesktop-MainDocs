@@ -56,13 +56,9 @@ WebP
 ![](img/WebP_iSever.png)  
 ---  
   
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png)  [生成地图瓦片](MapTileMode.html)
+  [生成地图瓦片](MapTileMode)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

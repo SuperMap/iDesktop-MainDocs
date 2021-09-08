@@ -12,7 +12,7 @@ title: 主题设计开发实例
   
   
   1. **大海绿** 风格使用接口程序传递参数方式实现主题设计外观更换。该方法适合能熟练进行扩展开发的用户，灵活调用各个应用程序外观属性的接口，自定义其外观颜色和文本风格。
-  * 参照前边介绍的[二次开发](../../GettingStarted\\Develop_index.html)文档建立 DeskproThemeStlyeTest 工程,在工程中添加上对于SuperMap.Desktop.UI， System.Drawing和 System.IO 等 .dll 文件的引用。
+  * 参照前边介绍的[二次开发](../../GettingStarted\\Develop_index)文档建立 DeskproThemeStlyeTest 工程,在工程中添加上对于SuperMap.Desktop.UI， System.Drawing和 System.IO 等 .dll 文件的引用。
   * 建立 _CtrlActionSeaGreen 工程文件用于实现 **大海绿** 风格的程序填写,（Using）添加SuperMap.Desktop.UI； System.Drawing ；的引用。
   * 在 _CtrlActionSeaGreen 类中重写 Run()方法。 Run() 方法是用来响应控件事件，本例中实现的功能为：使用 已开放的 ThemeStlye 类中的成员属性进行参数传递实现桌面风格的更换。在 _CtrlActionSeaGreen.cs 文件中，将 Run() 方法中的代码重写为如下实现代码：
 
@@ -136,7 +136,7 @@ System.Drawing；和System.IO的引用。
         		  
         
 
-![](img/close.gif)themeStyle.xml
+themeStyle.xml
 
 ![](img/CopyCode.gif)Copy
 

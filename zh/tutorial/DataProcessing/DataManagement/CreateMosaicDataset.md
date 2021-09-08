@@ -77,6 +77,6 @@ China2000分带投影，则将镶嵌数据集的坐标系设置为China2000分�
 
 ### ![](../../img/seealso.png)相关主题
 
-![](../../img/smalltitle.png) [镶嵌数据集概述](MosaicDataset)
+ [镶嵌数据集概述](MosaicDataset)
 
-![](../../img/smalltitle.png) [镶嵌数据集显示](MosaicDatasetView)
+ [镶嵌数据集显示](MosaicDatasetView)

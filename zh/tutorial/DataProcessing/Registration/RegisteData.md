@@ -10,20 +10,20 @@ title: 数据配准
 
 
 
- ![](../../img/smalltitle.png) [第一步 新建配准](NewRegistration)
+  [第一步 新建配准](NewRegistration)
 
 
 
- ![](../../img/smalltitle.png) [第二步 选择控制点](Poniting)
+  [第二步 选择控制点](Poniting)
 
 
 
- ![](../../img/smalltitle.png) [第三步 计算误差](CalculatError)
+  [第三步 计算误差](CalculatError)
 
 
 
- ![](../../img/smalltitle.png) [第四步 执行配准](Registrating)
+  [第四步 执行配准](Registrating)
 
 
 
- ![](../../img/smalltitle.png) [导入/导出配准信息文件](importGCP)
+  [导入/导出配准信息文件](importGCP)

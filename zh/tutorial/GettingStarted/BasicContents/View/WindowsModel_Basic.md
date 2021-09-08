@@ -56,9 +56,9 @@ title: 关于窗口模式
 
 ###  相关主题
 
-![](../../img/smalltitle.png) [切换窗口模式](WindowsModel_Basic.html)
+ [切换窗口模式](WindowsModel_Basic)
 
-![](../../img/smalltitle.png) [全屏](FullScreen.html)
+ [全屏](FullScreen)
 
-![](../../img/smalltitle.png) [[设置叠加窗口的排列方式](WindowsArrange.html)
+ [[设置叠加窗口的排列方式](WindowsArrange)
 

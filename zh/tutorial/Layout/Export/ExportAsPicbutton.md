@@ -36,7 +36,7 @@ title: 布局输出
 
 ###  输出为 PDF
 
-支持将布局输出为PDF，布局输出为PDF，当前布局页面的所有内容都将输出，并将按照布局100%显示状态下的内容输出。该功能与“地图输出为PDF”内容相同，有关注意事项请参考[地图输出为PDF](../../Visualization/Basic/WinMap_OutputPDF.html)。
+支持将布局输出为PDF，布局输出为PDF，当前布局页面的所有内容都将输出，并将按照布局100%显示状态下的内容输出。该功能与“地图输出为PDF”内容相同，有关注意事项请参考[地图输出为PDF](../../Visualization/Basic/WinMap_OutputPDF)。
 
     1. 单击“ **布局** ”选项卡中的“输出为 PDF”按钮，弹出“输出为 PDF 文件”对话框。
     2. 在对话框中对“ **文件名称** ”和“ **DPI(即导出纸张的分辨率)** ”进行设置。
@@ -49,8 +49,8 @@ title: 布局输出
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png)
-[设置布局窗口](../SettiongLayoutWin/SettingLayout.html)
 
-![](../../img/smalltitle.png) [设置布局页面](../SettingPage/PageSetup.html)
+[设置布局窗口](../SettiongLayoutWin/SettingLayout)
+
+ [设置布局页面](../SettingPage/PageSetup)
 

@@ -8,22 +8,22 @@ title: 服务
   * SuperMap Online :提供的云服务地址为 http://www.supermapol.com ，地址为只读，不支持修改。
   * SuperMap iPortal :支持添加多个服务地址，并对服务地址进行修改及删除等操作。
 
-### ![](../img/seealso.png) 相关链接
+###  相关链接
 
-![](../img/smalltitle.png) [打开](ItemOpen.html)
+ [打开](ItemOpen)
 
-![](../img/smalltitle.png) [新建](ItemNew.html)
+ [新建](ItemNew)
 
-![](../img/smalltitle.png) [保存/另存](ItemSave.html)
+ [保存/另存](ItemSave)
 
-![](../img/smalltitle.png) [示范数据](ItemSampleData.html)
+ [示范数据](ItemSampleData)
 
-![](../img/smalltitle.png) [打印](ItemPrint.html)
+ [打印](ItemPrint)
 
-![](../img/smalltitle.png) [选项](ItemDeskproOption.html)
+ [选项](ItemDeskproOption)
 
-![](../img/smalltitle.png) [许可](ItemLicense.html)
+ [许可](ItemLicense)
 
-![](../img/smalltitle.png) [帮助](ItemHelp.html)
+ [帮助](ItemHelp)
 
-![](../img/smalltitle.png) [关于](About.html)
+ [关于](About)

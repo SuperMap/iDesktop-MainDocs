@@ -36,8 +36,8 @@ OD线构造分析可用于以下场景：
 
 ![](img/ODLineResult1.png)
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [环境配置](BigDataAnalysisEnvironmentConfiguration)
+ [环境配置](BigDataAnalysisEnvironmentConfiguration)
 
-![](../img/smalltitle.png) [数据准备](DataPreparation)
+ [数据准备](DataPreparation)

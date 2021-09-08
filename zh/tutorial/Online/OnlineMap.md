@@ -66,19 +66,15 @@ Online或iPortal）。上传过程中可在弹出的“任务管理”对话框�
 
 ### 相关内容：
 
-![](../img/smalltitle.png) [配置服务](ConfigureAddress.html)
+ [配置服务](ConfigureAddress)
 
-![](../img/smalltitle.png) [在线数据](OnlineData.html)
+ [在线数据](OnlineData)
 
-![](../img/smalltitle.png) [在线颜色方案](OnlineColorSchemes.html)
+ [在线颜色方案](OnlineColorSchemes)
 
-![](../img/smalltitle.png) [在线符号库](OnlineSymbol.html)
+ [在线符号库](OnlineSymbol)
 
-![](../img/smalltitle.png) [我的数据](OnlineMyData.html)
+ [我的数据](OnlineMyData)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

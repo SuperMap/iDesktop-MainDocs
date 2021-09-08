@@ -21,5 +21,5 @@ title: 新建等级符号专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改等级符号专题图](GraduatedSymbolMapGroupDia)
+ [修改等级符号专题图](GraduatedSymbolMapGroupDia)
 

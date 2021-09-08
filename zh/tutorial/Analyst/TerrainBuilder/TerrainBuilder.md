@@ -7,15 +7,15 @@ DEM
 
 ### ![](../../img/seealso.png) 内容提要：
 
-![](../../img/smalltitle.png) [DEM 构建概述](AboutTerrainBuilder)
+ [DEM 构建概述](AboutTerrainBuilder)
 
-![](../../img/smalltitle.png) [DEM 构建](TerrainBuilderDia)
+ [DEM 构建](TerrainBuilderDia)
 
-![](../../img/smalltitle.png) [DEM 挖湖](TerrainBuilderLake)
+ [DEM 挖湖](TerrainBuilderLake)
 
-![](../../img/smalltitle.png) [DEM 切割](TerrainBuilderClip)
+ [DEM 切割](TerrainBuilderClip)
 
-![](../../img/smalltitle.png) [地形模型匹配](../Raster/SurfaceAnalyst/TerrainMatch)
+ [地形模型匹配](../Raster/SurfaceAnalyst/TerrainMatch)
 
-![](../../img/smalltitle.png) [点修改地形](PointModifyTerrain)
+ [点修改地形](PointModifyTerrain)
 

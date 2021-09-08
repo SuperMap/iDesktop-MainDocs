@@ -46,7 +46,7 @@ title: 点匹配线方向
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [新建自定义专题图](CustomizeMapDefault)
+ [新建自定义专题图](CustomizeMapDefault)
 
-![](../../img/smalltitle.png) [修改自定义专题图](CustomizeMapGroupDia)
+ [修改自定义专题图](CustomizeMapGroupDia)
 

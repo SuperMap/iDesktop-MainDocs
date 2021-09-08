@@ -12,6 +12,6 @@ title: 修改统计专题图
   2. **专题图图层** ：显示当前呈现的专题图名称。
   3. 统计专题图对应的“统计专题图”窗口包含两个选项卡页，分别为“属性”和“高级”。具体介绍如下：
 
-![](../../img/smalltitle.png) [“属性”选项卡](PropertiesDia)
+ [“属性”选项卡](PropertiesDia)
 
-![](../../img/smalltitle.png) [“高级”选项卡](AdvancedDia)
+ [“高级”选项卡](AdvancedDia)

@@ -30,7 +30,7 @@ title: 创建格网索引
 
 若未勾选该复选框输出的格网索引数据集，将按照指定的行/列数生成规整的格网。
 
-下一步您可以对索引格网进行[计算相邻字段](CaculateAdjacentFieldhtm.html)操作。
+下一步您可以对索引格网进行[计算相邻字段](CaculateAdjacentFieldhtm)操作。
 
 ### 应用实例
 
@@ -43,16 +43,16 @@ title: 创建格网索引
 
 ### 相关主题：
 
-![](../img/smalltitle.png) [地图系列](MapSeries.html)
+ [地图系列](MapSeries)
 
-![](../img/smalltitle.png) [计算相邻字段](CaculateAdjacentFieldhtm.html)
+ [计算相邻字段](CaculateAdjacentFieldhtm)
 
-![](../img/smalltitle.png) [启用地图系列](MapSerieSettings.html)
+ [启用地图系列](MapSerieSettings)
 
-![](../img/smalltitle.png) [绘制地图定位器](MapLocator.html)
+ [绘制地图定位器](MapLocator)
 
-![](../img/smalltitle.png) [动态文本](DynamicText.html)
+ [动态文本](DynamicText)
 
-![](../img/smalltitle.png) [打印地图册](PrintingMapBooks.html)
+ [打印地图册](PrintingMapBooks)
 
 

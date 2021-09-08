@@ -25,8 +25,8 @@ title: 新建地图
 
 ![](img/CreateNewMap.png)   
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [符号化地图图层](SymbolizeMapLayers.html)
+ [符号化地图图层](SymbolizeMapLayers)
 
 

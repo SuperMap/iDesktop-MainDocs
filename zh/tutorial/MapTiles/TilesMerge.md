@@ -91,15 +91,11 @@ MongoDB 数据库。
 
 如若合并的瓦片数据，坐标系不一致，会提示合并失败。
 
-![](../img/smalltitle.png)  [瓦片管理](MongoDBTilesManger.html)
+  [瓦片管理](MongoDBTilesManger)
 
-![](../img/smalltitle.png)  [瓦片分发](DistributeTiles.html)
+  [瓦片分发](DistributeTiles)
 
-![](../img/smalltitle.png)  [地图瓦片](MapTiles.html)
+  [地图瓦片](MapTiles)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

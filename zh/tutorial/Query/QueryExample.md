@@ -6,6 +6,6 @@ title: 查询实例
 
 下面详细介绍“查询”组的各个功能按钮和操作方式。
 
-![](../img/smalltitle.png) [SQL 关联查询实例](SQLQuery_Related)
+ [SQL 关联查询实例](SQLQuery_Related)
 
-![](../img/smalltitle.png) [空间查询实例](SpatialQuery_Example)
+ [空间查询实例](SpatialQuery_Example)

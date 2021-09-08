@@ -30,8 +30,8 @@ iServer 服务，并有管理员账号，才可发布服务。
 
 **上传本地瓦片文件** ：设置是否上传本地瓦片。如果不上传本地文件，当文件目录发生变更时会导致服务不可用。
 
-  5. **REST 服务** ：支持发布为REST 地图服务，有关REST 服务类型的详细介绍请参看[REST 服务](../TechDocument/WebDatasets/AboutWebDataset.html#2)。
-  6. **OGC 服务** ：包括 WMS1.1.1服务、WMS1.3.0服务、WMS1.0.0服务、WMTS-CHINA服务。有关OGC 服务类型的详细介绍请参看[OGC 服务](../TechDocument/WebDatasets/AboutWebDataset.html#1)。
+  5. **REST 服务** ：支持发布为REST 地图服务，有关REST 服务类型的详细介绍请参看[REST 服务](../TechDocument/WebDatasets/AboutWebDataset)。
+  6. **OGC 服务** ：包括 WMS1.1.1服务、WMS1.3.0服务、WMS1.0.0服务、WMTS-CHINA服务。有关OGC 服务类型的详细介绍请参看[OGC 服务](../TechDocument/WebDatasets/AboutWebDataset)。
   7. **其他服务** ：包括 ArcGIS REST地图服务，Google REST 地图服务、Baidu REST 地图服务。
   8. 完成参数设置，单击“ **发布** ”按钮，弹出“ **确认选择** ”对话框，对话框中显示缓存目录中的数据，用户通过勾选确认需要打包上传的数据。
 ![](img/ConfirmPublish.png)  
@@ -44,15 +44,11 @@ iServer 服务，并有管理员账号，才可发布服务。
 ---  
 图：矢量瓦片浏览  
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [地图瓦片](MapTiles.html)
+ [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png) [发布 MongoDB瓦片](PublishMongoDBTile.html)
+ [发布 MongoDB瓦片](PublishMongoDBTile)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

@@ -20,6 +20,6 @@ title: 基于模板制作分段专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改分段专题图](RangesMapGroupDia)
+ [修改分段专题图](RangesMapGroupDia)
 
-![](../../img/smalltitle.png)[保存到专题图模板库](../Methods/VURTheme2_SaveThemeTempl)
+[保存到专题图模板库](../Methods/VURTheme2_SaveThemeTempl)

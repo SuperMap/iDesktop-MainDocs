@@ -20,6 +20,6 @@ title: 编辑颜色方案
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [关于颜色管理器](ColorRampManager.html)
+ [关于颜色管理器](ColorRampManager)
 
 

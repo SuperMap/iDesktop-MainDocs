@@ -6,36 +6,36 @@ title: SuperMap iDesktop 10i SP1 新特性
 
 **数据管理**
 
-  * 支持将[多个数据集同时导出至 File GeoDatabase Vector(*.gdb)文件](../../Features/DataProcessing/DataConversion/ExportData.html#1) 。
+  * 支持将[多个数据集同时导出至 File GeoDatabase Vector(*.gdb)文件](../../tutorial/DataProcessing/DataConversion/ExportData) 。
   * 支持将DEM数据导出为军用数据高程模型（*.EGC）文件和 ArcGIS ASC（*.asc）文件。
-  * 镶嵌数据集的影像图层，[支持设置对象显示顺序](../../Features/DataProcessing/DataManagement/MosaicDatasetView.html#3)。
+  * 镶嵌数据集的影像图层，[支持设置对象显示顺序](../../tutorial/DataProcessing/DataManagement/MosaicDatasetView)。
 
 **数据处理**
 
-  * 支持[将单波段影像组合成为多波段影像](../../Features/DataProcessing/DataManagement/DTgroupDiaImage.html#1)，便于用户通过组合不同波段展示及处理遥感影像数据。
+  * 支持[将单波段影像组合成为多波段影像](../../tutorial/DataProcessing/DataManagement/DTgroupDiaImage)，便于用户通过组合不同波段展示及处理遥感影像数据。
 ![](../img/CompositeBands.png)  
 ---  
 
 **地图制图**
 
-  * 优化[ MongoDB 瓦片管理](../../Features/MapTiles/MongoDBTilesManger.html)功能：
+  * 优化[ MongoDB 瓦片管理](../../tutorial/MapTiles/MongoDBTilesManger)功能：
     * 支持开启多进程进行瓦片合并，用户可根据机器资源合理设置进程数，提升合并性能。
     * 支持 JPG_PNG 格式的瓦片合并，可用于解决瓦片接边处的白图问题。
   * 优化 AI 配图功能：
     * 优化色相、亮度、对比度、饱和度、填充柔化、填充锐化设置，支持对地图的整体风格进行调整，也可单独对填充、边框、线、文本风格进行调整。
     * 优化填充柔化和锐化的算法，使得调整后的效果更佳。
     * 支持输入数值进行风格调整。
-  * 优化[地图角度量算](../../Features/Visualization/Interaction/Measuregroup.html)，量算时明确地图中真北方向，帮助用户更好的理解方位角。
+  * 优化[地图角度量算](../../tutorial/Visualization/Interaction/Measuregroup)，量算时明确地图中真北方向，帮助用户更好的理解方位角。
 
 **空间分析**
 
-  * 优化两点最短地表路径和两点最小耗费路径功能，[支持设置障碍面](../../Features/Analyst/Raster/Distance/TwoPointDis.html#1)，可在分析时添加更多的障碍影响因素，使分析结果更符合实际需求。
+  * 优化两点最短地表路径和两点最小耗费路径功能，[支持设置障碍面](../../tutorial/Analyst/Raster/Distance/TwoPointDis)，可在分析时添加更多的障碍影响因素，使分析结果更符合实际需求。
 ![](../img/PolygonBarriers2.png)  
 ---  
 
 **统计图表**
 
-  * 优化[统计图表风格设置](../../Features/DataMining/Diagrams/CreateDiagram.html)，支持自定义坐标轴极值，使图表能更好的表现数据变化的有效范围。 
+  * 优化[统计图表风格设置](../../tutorial/DataMining/Diagrams/CreateDiagram)，支持自定义坐标轴极值，使图表能更好的表现数据变化的有效范围。 
 
 **可视化建模**
 

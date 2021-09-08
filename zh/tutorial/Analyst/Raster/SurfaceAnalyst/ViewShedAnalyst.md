@@ -56,7 +56,7 @@ title: 可视域分析
 
 ### ![](../../../img/seealso.png) 相关主题
 
-![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst.html)
+![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
 
 * * *
 

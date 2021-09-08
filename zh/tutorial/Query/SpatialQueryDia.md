@@ -75,9 +75,9 @@ title: 空间查询
   2. 只有当选择了搜索对象后，才能对被搜索图层设置空间查询条件，否则在输出窗口中会出现提示信息“请指定搜索对象”。
   3. 当被搜索图层为CAD数据集（CAD数据集是一种复合数据集，可能同时包含点，线，面等几何对象）进行空间查询时，空间查询条件中的可选算子包含了搜索对象与点，线，面数据集进行空间查询时的所支持的全部算子。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [空间查询基本算子](SQ_BasicOperators)
+ [空间查询基本算子](SQ_BasicOperators)
 
-![](../img/smalltitle.png) [空间查询示例](SpatialQuery_Example)
+ [空间查询示例](SpatialQuery_Example)
 

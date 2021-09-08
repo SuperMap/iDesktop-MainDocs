@@ -26,7 +26,7 @@ Ctrl+Z 按键，撤销上一步的量算记录。同时支持设置量算单位�
 ![](img/DistanceMeasureCompare1.png) | ![](img/DistanceMeasureCompare2.png)  
 ---|---  
 图1：直线距离量算 | 图2：测地线距离量算  
-* [**地表距离**](../../Analyst/Raster/SurfaceAnalyst/SurfaceDistance.html)是指地图中在栅格数据拟合的三维曲面上，沿指定的线段或折线段量算地形表面的距离。地表距离量算的距离是曲面上的，比直线距离和测地线的距离要大。
+* [**地表距离**](../../Analyst/Raster/SurfaceAnalyst/SurfaceDistance)是指地图中在栅格数据拟合的三维曲面上，沿指定的线段或折线段量算地形表面的距离。地表距离量算的距离是曲面上的，比直线距离和测地线的距离要大。
 
 量算的操作方式类似，本文以“直线距离”量算操作为例：
 
@@ -42,7 +42,7 @@ Ctrl+Z 按键，撤销上一步的量算记录。同时支持设置量算单位�
 
 ### ![](../../img/read.gif) 面积量算
 
-面积量算包括平面面积和[地表面积](../../Analyst/Raster/SurfaceAnalyst/SurfaceArea.html)两种，地表面积是指量算栅格数据拟合曲面的表面面积。下面以面积量算为例，进行说明：
+面积量算包括平面面积和[地表面积](../../Analyst/Raster/SurfaceAnalyst/SurfaceArea)两种，地表面积是指量算栅格数据拟合曲面的表面面积。下面以面积量算为例，进行说明：
 
 1. 在 **地图量算** 下拉选项中选择 **面积** 选项，鼠标在当前地图窗口中的状态变为十字丝。
 2. 在当前地图窗口中，鼠标单击待量算面积的区域边界的某位置，即可确定用来量算面积的临时多边形边界的起点。当鼠标单击待量算面积的区域边界上的第二个点时，移动鼠标，当前鼠标点与前两个点构成一个临时面域（不共线的三点即可构成一个面），并且该面随着鼠标的移动而变化。同时，鼠标旁边会显示出当前临时面的面积。
@@ -71,14 +71,14 @@ Ctrl+Z 按键，撤销上一步的量算记录。同时支持设置量算单位�
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png)
-[**地表距离**](../../Analyst/Raster/SurfaceAnalyst/SurfaceDistance.html)
 
-![](../../img/smalltitle.png)
-[地表面积](../../Analyst/Raster/SurfaceAnalyst/SurfaceArea.html)
+[**地表距离**](../../Analyst/Raster/SurfaceAnalyst/SurfaceDistance)
 
-![](../../img/smalltitle.png)
-[地表体积](../../Analyst/Raster/SurfaceAnalyst/SurfaceVolume.html)
+
+[地表面积](../../Analyst/Raster/SurfaceAnalyst/SurfaceArea)
+
+
+[地表体积](../../Analyst/Raster/SurfaceAnalyst/SurfaceVolume)
 
 
 

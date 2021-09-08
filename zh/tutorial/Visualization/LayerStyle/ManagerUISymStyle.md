@@ -10,13 +10,13 @@ title: 符号风格设置区域
 
 ![](img/SymLibManagerUI.png)  
 
-![](../../img/smalltitle.png) [点符号风格设置（地图和布局）](PointSymStyle.html)
+ [点符号风格设置（地图和布局）](PointSymStyle)
 
-![](../../img/smalltitle.png) [点符号风格设置（场景）](Scene_PointSymStyle.html)
+ [点符号风格设置（场景）](Scene_PointSymStyle)
 
-![](../../img/smalltitle.png) [线符号风格设置](LineSymStyle.html)
+ [线符号风格设置](LineSymStyle)
 
-![](../../img/smalltitle.png) [填充符号风格设置](FillSymStyle.html)
+ [填充符号风格设置](FillSymStyle)
 
 
 

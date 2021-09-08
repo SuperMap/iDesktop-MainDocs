@@ -7,7 +7,7 @@ title: 三维应用实例
 是如何实现二三维一体化的。
 
 ### ![](../../img/read.gif) 内容提要：
-[应用实例一](Application1.html)
+[应用实例一](Application1)
 
 
 
@@ -19,7 +19,7 @@ title: 三维应用实例
 
   * 如何保存场景.
 
-[应用实例二](Application2.html)
+[应用实例二](Application2)
 
 
 
@@ -29,7 +29,7 @@ title: 三维应用实例
 
   * 如何制作三维专题图。
 
-[应用实例三](Application3.html)
+[应用实例三](Application3)
 
 
 

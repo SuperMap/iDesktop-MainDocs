@@ -28,10 +28,10 @@ SuperMap 桌面产品支持瓦片分发功能，通过指定特定比例尺及�
 
 ![](img/DistributeResult.png)  
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png)  [瓦片管理](MongoDBTilesManger)
+  [瓦片管理](MongoDBTilesManger)
 
-![](../img/smalltitle.png)  [瓦片合并](TilesMerge)
+  [瓦片合并](TilesMerge)
 
-![](../img/smalltitle.png)  [地图瓦片](MapTiles)
+  [地图瓦片](MapTiles)

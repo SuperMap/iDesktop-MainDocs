@@ -17,15 +17,11 @@ title: 第五步：配置按钮对应的功能
   
 下面分别说明这三种方式的代码实现及配置方式。
 
-[方法一：CodeFile](CodeFile.html)
+[方法一：CodeFile](CodeFile)
 
-[方法二：ScriptCode](ScriptCode.html)
+[方法二：ScriptCode](ScriptCode)
 
-[方法三：CtrlAction](CtrlAction.html)
+[方法三：CtrlAction](CtrlAction)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

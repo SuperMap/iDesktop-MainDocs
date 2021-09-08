@@ -8,9 +8,9 @@ title: 发布 MongoDB瓦片
 
 发布MongoDB 瓦片前，需要完成以下工作：
 
-    * 生成 MongoDB 存储的地图瓦片，生成地图瓦片的详细说明请参看 “[地图瓦片](MapTiles.html)"。
+    * 生成 MongoDB 存储的地图瓦片，生成地图瓦片的详细说明请参看 “[地图瓦片](MapTiles)"。
     * 启动 iServer 服务，默认在 SuperMap iServer的bin 目录下运行 startup.bat/startup.sh 之后处于启动的状态。
-    * 启动 MongoDB 服务，请参看“[MongDB 使用说明](../../Features/TechDocument/MongoDBDatabaseGuide.html)”启动服务。注：目前支持 MongoDB 3.2版本。
+    * 启动 MongoDB 服务，请参看“[MongDB 使用说明](../../tutorial/TechDocument/MongoDBDatabaseGuide)”启动服务。注：目前支持 MongoDB 3.2版本。
 
 ### ![](../img/read.gif)操作步骤
 
@@ -36,18 +36,18 @@ iServer”对话框，输入服务地址、管理员账户及密码，即可登�
 
 3\. **连接到MongoDB** :该区域设置 MongoDB 服务器和数据库的相关信息，在使用该功能前，需先启动 MongoDB
 服务，有关MongoDB 的详细信息，请参考“[MongDB
-使用说明](../../Features/TechDocument/MongoDBDatabaseGuide.html)”。有关参数说明如下：
+使用说明](../../tutorial/TechDocument/MongoDBDatabaseGuide)”。有关参数说明如下：
 
       * **服务器名称** ：用于输入存储地图瓦片的 MongoDB 服务器的地址。
       * **数据库名称** ：用于输入存储地图瓦片的数据库名称。 若MongoDB 服务启动成功，程序会自动读取当前连接地址下的数据库名称，用户可点击下拉菜单选择当前MongDB 中的 数据库。
       * **用户名称/密码** ：若数据库设置了用户名和密码，则需输入该数据库对应的用户名称和密码；若数据库未设置用户和密码，则可不填写。 
 
 4\. **发布地图服务** ：支持的地图服务包括REST 地图服务、OGC 服务以及其他服务。有关服务类型的详细介绍请参看[Web
-服务类型介绍](../TechDocument/WebDatasets/AboutWebDataset.html)。
+服务类型介绍](../TechDocument/WebDatasets/AboutWebDataset)。
 
       * **地图** ：选择要发布的地图的瓦片。一个 MongoDB 服务中可能包含多次切图得到的多个地图的瓦片，同一幅地图还可能包含多个版本的瓦片，如果您：选择发布“全部”地图，则系统会发布全部地图的最新版本的瓦片，选择某一个地图，则系统会发布该地图的最新版本的瓦片。
-      * **REST 地图服务** ：支持发布为REST 地图服务，REST服务可选地图服务和矢量瓦片服务。有关REST 服务类型的详细介绍请参看[REST 服务](../Publish/PublishiserverProcess.html#1)。
-      * **OGC 服务** ：包括 WMS1.1.1服务、WMS1.3.0服务、WMS1.0.0服务、WMTS-CHINA服务。有关OGC 服务类型的详细介绍请参看[OGC 服务](../TechDocument/WebDatasets/AboutWebDataset.html#1)。
+      * **REST 地图服务** ：支持发布为REST 地图服务，REST服务可选地图服务和矢量瓦片服务。有关REST 服务类型的详细介绍请参看[REST 服务](../Publish/PublishiserverProcess)。
+      * **OGC 服务** ：包括 WMS1.1.1服务、WMS1.3.0服务、WMS1.0.0服务、WMTS-CHINA服务。有关OGC 服务类型的详细介绍请参看[OGC 服务](../TechDocument/WebDatasets/AboutWebDataset)。
       * **其他服务** ：包括 ArcGIS REST地图服务，Google REST 地图服务、Baidu REST 地图服务。
 
 ArcGIS REST地图服务，提供了对地图和图层进行访问与相关操作功能，包括了：
@@ -74,15 +74,11 @@ ArcGIS REST地图服务，提供了对地图和图层进行访问与相关操作
 
   
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [地图瓦片](MapTiles.html)
+ [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png) [发布本地瓦片](PublishTiles.html)
+ [发布本地瓦片](PublishTiles)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

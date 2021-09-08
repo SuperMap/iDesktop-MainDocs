@@ -6,6 +6,6 @@ title: 单值标签专题图
 
 ### ![](../../img/read.gif)制作单值标签专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建单值标签专题图](UniqueLabelMapDefault)
+ [新建单值标签专题图](UniqueLabelMapDefault)
 
-![](../../img/smalltitle.png) [修改单值标签专题图](UniformLabelMapDia)
+ [修改单值标签专题图](UniformLabelMapDia)

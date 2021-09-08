@@ -30,9 +30,9 @@ substation、ChangeStation两个图层的标注效果如下图所示：
 对地图标注完成后，点击“ **开始** ”选项卡“ **工作空间** ”组中的“ **保存** ”按钮，将地图命名为“ **北京市地铁线路图**
 ”，保存地图并保存工作空间。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [发布地图](ShareAWebMap.html)
+ [发布地图](ShareAWebMap)
 
-![](../img/smalltitle.png) [创建布局](MakeALayout.html)
+ [创建布局](MakeALayout)
 

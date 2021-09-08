@@ -26,4 +26,4 @@ title: “风格”选项卡
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改单值专题图](../UniqueValueMap/PropertiesDia)
+ [修改单值专题图](../UniqueValueMap/PropertiesDia)

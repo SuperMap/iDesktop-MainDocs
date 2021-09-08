@@ -11,9 +11,9 @@ title: 保存
 
 支持设置 **最近使用文件显示数目** ，即在目录管理或“文件→打开”的最近使用文件显示数目。
 
-### ![](../img/seealso.png)相关链接
+### 相关链接
 
-![](../img/smalltitle.png) [常用](General.html)
+ [常用](General)
 
-![](../img/smalltitle.png) [环境](Environment.html)
+ [环境](Environment)
 

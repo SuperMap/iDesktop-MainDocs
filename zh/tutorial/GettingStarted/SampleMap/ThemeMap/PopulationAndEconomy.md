@@ -8,7 +8,7 @@ title: 人口与经济专题图
 
   1. 数据来源
 
-矢量数据来源于国家测绘地理信息局制作的公共版中国1：100万比例尺数据，属性数据是在国家统计局下的国家数据网站下载获得（网址为http://data.stats.gov.cn/index.htm）。
+矢量数据来源于国家测绘地理信息局制作的公共版中国1：100万比例尺数据，属性数据是在国家统计局下的国家数据网站下载获得（网址为http://data.stats.gov.cn/index）。
 
   2. 数据内容
 ![](img/PopulationAndEconomydata.png)     

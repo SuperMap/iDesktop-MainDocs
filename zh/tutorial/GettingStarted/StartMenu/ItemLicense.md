@@ -17,7 +17,7 @@ title: 许可
 
 **许可设置** ：提供对本地许可和云许可的配置和管理，并对购买许可提供链接。
 
-  * **配置本地许可** ：通过 SuperMap 许可中心对本地许可进行配置，详细内容请参见[ 配置本地许可 ](../../GettingStarted/ConfigureLicense_Windows.html)。
-  * **使用云许可** ：通过登录 SuperMap Online 使用云许可，详细内容请参见[ 使用云许可 ](../../GettingStarted/ConfigureLicense_Online.html)。
+  * **配置本地许可** ：通过 SuperMap 许可中心对本地许可进行配置，详细内容请参见[ 配置本地许可 ](../../guides/ConfigureLicense_Windows)。
+  * **使用云许可** ：通过登录 SuperMap Online 使用云许可，详细内容请参见[ 使用云许可 ](../../guides/ConfigureLicense_Online)。
   * **了解更多许可信息** ：通过单击“了解更多许可信息”，将弹出帮助文档中的许可说明页面，可以查看  产品功能与许可信息的对应情况，方便用户查询所使用的功能需要获得的许可信息。
 

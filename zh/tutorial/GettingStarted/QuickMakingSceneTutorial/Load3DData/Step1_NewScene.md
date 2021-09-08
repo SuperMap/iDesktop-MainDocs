@@ -12,8 +12,8 @@ title: 第一步：新建场景窗口
  ![](../Load3DModel/img/AddFramData.png)  
 
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [第二步：加载数据](Step2_LoadData.html)
+ [第二步：加载数据](Step2_LoadData)
 
 

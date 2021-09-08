@@ -56,7 +56,7 @@ title: 绘制动态文本
 
 绘制八方向文本，即标注当前页面的相邻八方向的页面索引字段值。标注的八方向文本为动态文本，当切换不同页面时，相邻八方向的文本标注也会随之发生改变。
 
-绘制八方向文本前提是，已知当前索引字段八方向的属性值，您可以使用[计算相邻字段](CaculateAdjacentFieldhtm.html)来创建用于标注相邻页面的字段。
+绘制八方向文本前提是，已知当前索引字段八方向的属性值，您可以使用[计算相邻字段](CaculateAdjacentFieldhtm)来创建用于标注相邻页面的字段。
 
 以下步骤假定创建标注所需的字段和值已经是地图系列索引图层的一部分。
 
@@ -69,15 +69,15 @@ title: 绘制动态文本
 
 ### 相关主题：
 
-![](../img/smalltitle.png) [地图系列](MapSeries.html)
+ [地图系列](MapSeries)
 
-![](../img/smalltitle.png) [创建格网索引](CreateGridIndex.html)
+ [创建格网索引](CreateGridIndex)
 
-![](../img/smalltitle.png) [计算相邻字段](CaculateAdjacentFieldhtm.html)
+ [计算相邻字段](CaculateAdjacentFieldhtm)
 
-![](../img/smalltitle.png) [启用地图系列](MapSerieSettings.html)
+ [启用地图系列](MapSerieSettings)
 
-![](../img/smalltitle.png) [绘制地图定位器](MapLocator.html)
+ [绘制地图定位器](MapLocator)
 
-![](../img/smalltitle.png) [打印地图册](PrintingMapBooks.html)
+ [打印地图册](PrintingMapBooks)
 

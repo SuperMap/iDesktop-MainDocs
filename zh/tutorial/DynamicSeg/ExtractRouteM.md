@@ -21,6 +21,6 @@ title: 提取路由M值
 
 ![](img/ExtractRouteMResult.png)  
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [查询路由M值](InquireRouteM)
+ [查询路由M值](InquireRouteM)

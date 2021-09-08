@@ -42,5 +42,5 @@ title: “风格”选项卡
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [自定义标签设置说明](CustomLabelMapDefault)
+ [自定义标签设置说明](CustomLabelMapDefault)
 

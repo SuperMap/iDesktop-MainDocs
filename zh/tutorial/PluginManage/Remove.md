@@ -16,11 +16,11 @@ title: 卸载/移除插件
 
 ### 相关主题
 
-![](../img/smalltitle.png) [插件管理](aboutpluginmanage.html)
+ [插件管理](aboutpluginmanage)
 
-![](../img/smalltitle.png) [插件管理器](manager.html)
+ [插件管理器](manager)
 
-![](../img/smalltitle.png) [安装插件](Install.html)
+ [安装插件](Install)
 
-![](../img/smalltitle.png) [下载插件](Download.html)
+ [下载插件](Download)
 

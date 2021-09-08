@@ -24,7 +24,7 @@ ArcInfo Export文件（*.e00） | E00 文件是 ESRI ArcInfo 的通用交换格�
 GeoDatabase Vector 文件（*.gdb） | 是 ESRI Geodatabase 矢量数据文件，可导入为点、线、面、文本以及纯属性表数据集，导入结果为单个矢量数据集。 | 简单数据集 | √  
 ArcGIS Personal GeoDatabase 文件（*.mdb） | 是 ArcGIS 个人地理数据库数据文件，可导入为点、线、面、文本以及纯属性表数据集，导入结果为单个矢量数据集。 **注意** ：该文件使用了 Microsoft Access 数据文件结构，因此导入该文件时请下载安装[**AccessDatabaseEngine.exe**](https://www.microsoft.com/en-us/download/details.aspx?id=54920)文件，根据 iDesktop 的位数来决定安装的AccessDatabaseEngine 类型，比如用64位的 iDesktop，就需要安装64位的 AccessDatabaseEinenge。 |简单数据集 |  MapInfo TAB 文件（*.tab） | 是属性数据的表结构文件，以表的形式存储信息，TAB 文件定义了地图属性数据的表结构 |CAD复合数据集、简单数据集 | √  
 [MapInfo 交换格式（*.mif）](ImportMif) | 是 MapInfo 用来对外交换数据的一种中间交换文件，保存了MapInfo 的表结构及对象的空间信息，包括了对象的符号样式、填充模式等风格信息。 | CAD复合数据集、简单数据集 | √  
-[MapInfo WOR 文件（*.wor）](ImportWor) | 是 MapInfo工作空间文件。工作空间文件用于保存表、窗口和窗口位置、地图、布局、资源符号、MapInfo 环境设置等信息。 | 简单数据集 |  
+[MapInfo 交换格式（*.mif）](ImportWor) | 是 MapInfo工作空间文件。工作空间文件用于保存表、窗口和窗口位置、地图、布局、资源符号、MapInfo 环境设置等信息。 | 简单数据集 |  
 MapGIS 交换格式(*.wat; *.wal; *.wap; *.wan) |是MapGIS的明码文件，其文件结构由文件头和数据区两部分组成。在MAPGIS文件系统中，其工程文件（后缀名为.MPJ）一般包括点文件（*.WT）、线文件（*.WL）、面文件（*.WP）、网络文件（*.WN）。在执行导入功能之前，必须将MapGIS 的这些图形文件格式转换为 MapGIS明码格式，之后再进行导入工作。上述四种文件格式，转化为明码格式后，文件名分别为：点明码文件（*.wat）、线明码文件（*.wal）、区明码文件（*.wap）、网络明码文件（*.wan）。| CAD复合数据集、简单数据集 |  
 [Microsoft Excel 文件（*.xlsx）](ImportExcel) | 支持 Office 2007 及更新版本文件，即*.xlsx 格式的文件，通常存储了地理数据的空间和属性信息，可导入为属性表数据。 | 属性表数据集 | √  
 [CSV 文本文件（*.csv）](CSVimport) |以文本形式记录数据的文件（通常以逗号为分隔符），这种格式经常用来作为不同程序之间的数据交互的格式。 | 属性表数据集 |  

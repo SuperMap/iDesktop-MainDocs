@@ -6,7 +6,7 @@ title: 统一风格标签专题图
 
 ### ![](../../img/read.gif)制作统一风格标签专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建统一风格标签专题图](UniformLabelMapDefault)
+ [新建统一风格标签专题图](UniformLabelMapDefault)
 
-![](../../img/smalltitle.png) [修改统一风格标签专题图](UniformLabelMapDia)
+ [修改统一风格标签专题图](UniformLabelMapDia)
 

@@ -8,14 +8,14 @@ title: 特征物标编辑
 
 ### ![](../../../img/read.gif) 内容提要：
 
-[添加特征物标](AddChartObjects.html)  
+[添加特征物标](AddChartObjects)  
 介绍在特征物标数据集中，添加特征物标的相关操作。
 
-[选择物标对象](SelectChartObjects.html)  
+[选择物标对象](SelectChartObjects)  
 介绍如何在选中的多个物标对象中筛选想选的物标对象。
 
-[编辑物标对象](EditChartObjects.html)  
+[编辑物标对象](EditChartObjects)  
 介绍海图编辑模块提供的 14 中对象编辑功能。
 
-[物标对象属性编辑](EditChartObjectsAttribute.html)  
+[物标对象属性编辑](EditChartObjectsAttribute)  
 介绍物标对象的属性信息，及编辑物标属性的相关操作。

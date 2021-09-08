@@ -7,7 +7,7 @@ title: 第三步：保存图层
 ![](img/SaveLayer.png)  
 
   
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [第四步：模型数据的分发](Step4_DistributeModel.html)
+ [第四步：模型数据的分发](Step4_DistributeModel)
 

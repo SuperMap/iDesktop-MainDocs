@@ -90,12 +90,12 @@ title: 公交分析环境设置
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [获取公交数据](TrafficDataPrepare)
+ [获取公交数据](TrafficDataPrepare)
 
-![](../../img/smalltitle.png) [加载公交数据](LoadTranfficData)
+ [加载公交数据](LoadTranfficData)
 
-![](../../img/smalltitle.png) [公交换乘分析](TransferAnalysis)
+ [公交换乘分析](TransferAnalysis)
 
-![](../../img/smalltitle.png) [查询路线分析](FindLinesByStop)
+ [查询路线分析](FindLinesByStop)
 
-![](../../img/smalltitle.png) [查询站点分析](FindStopsByLineStop)
+ [查询站点分析](FindStopsByLineStop)

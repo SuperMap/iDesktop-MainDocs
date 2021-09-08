@@ -17,4 +17,4 @@ title: 第二步：添加模型到场景中
 
 ### 相关主题
 
-![](../img/smalltitle.png) [第三步：保存图层](Step3_SaveLayer.html)
+ [第三步：保存图层](Step3_SaveLayer)

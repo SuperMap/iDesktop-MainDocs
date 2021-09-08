@@ -10,31 +10,31 @@ title: 配准
 
 
 
- ![](../../img/smalltitle.png) [配准概述](Registration)
+  [配准概述](Registration)
 
 
 
- ![](../../img/smalltitle.png) [配准算法介绍](RegistrationMode)
+  [配准算法介绍](RegistrationMode)
 
 
 
- ![](../../img/smalltitle.png) [配准误差介绍](RegistrationError)
+  [配准误差介绍](RegistrationError)
 
 
 
- ![](../../img/smalltitle.png) [栅格重采样方法介绍](resamplemethod)
+  [栅格重采样方法介绍](resamplemethod)
 
 
 
- ![](../../img/smalltitle.png) [数据配准](RegisteData)
+  [数据配准](RegisteData)
 
 
 
- ![](../../img/smalltitle.png) [快速配准](BatchRegistration)
+  [快速配准](BatchRegistration)
 
 
 
- ![](../../img/smalltitle.png) [三维配准](Transformation3D)
+  [三维配准](Transformation3D)
 
 
 

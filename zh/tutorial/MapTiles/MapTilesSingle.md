@@ -57,7 +57,7 @@ PNG8 | 256色的 PNG 格式，不支持背景透明，存储空间更小，约�
   * **存储类型** ：程序提供3种瓦片类型：紧凑、原始、MongoDB。有关存储类型的详细描述，请参见[地图瓦片存储类型](MapCacheType)。 
     * 紧凑型表示采用一定的压缩和加密机制，在建立瓦片时对数据进行压缩和加密； 
     * 原始表示不对数据进行压缩，保留模型数据的原始信息。 
-    * MongoDB 型是将生成的瓦片切片文件，以分布式格式存储在服务器的数据库中，地图切片的存取速度较快，便于数据分享与发布。当选择 MongoDB 类型时，需先启动 MongoDB 服务，支持检查当前服务是否可用。 **注意** ：MongoDB 2.0 版本的认证模式，不支持生成地图瓦片。有关MongDB 数据库使用，请参看“[MongDB 使用说明](../../Features/TechDocument/MongoDBDatabaseGuide)”。
+    * MongoDB 型是将生成的瓦片切片文件，以分布式格式存储在服务器的数据库中，地图切片的存取速度较快，便于数据分享与发布。当选择 MongoDB 类型时，需先启动 MongoDB 服务，支持检查当前服务是否可用。 **注意** ：MongoDB 2.0 版本的认证模式，不支持生成地图瓦片。有关MongDB 数据库使用，请参看“[MongDB 使用说明](../../tutorial/TechDocument/MongoDBDatabaseGuide)”。
     * **设置密码** ：当存储类型设置为“紧凑”时，可以为地图瓦片设置密码进行加密以保证数据安全；当加载该地图瓦片时，需要输入密码。
 8.**瓦片范围** ：对瓦片处理的地图数据的地理范围进行设置。应用程序提供了以下四种设置方式：
   * 单击“ **整幅地图** ”按钮，使用整幅地图的范围作为瓦片范围，左下右上四个文本框用来显示所设置的处理范围。
@@ -97,12 +97,12 @@ PNG8 | 256色的 PNG 格式，不支持背景透明，存储空间更小，约�
 
 关于全球剖分规则的介绍可以参照[瓦片目录其他层级结构构建基础](../ApplicationTheme/CacheBuild/ImageCache4Base)中的简介。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png)  [生成地图瓦片](MapTileMode)
+  [生成地图瓦片](MapTileMode)
 
-![](../img/smalltitle.png)  [多任务切图](MultiTaskStep)
+  [多任务切图](MultiTaskStep)
 
-![](../img/smalltitle.png)  [多任务切图效率比对](MultiTaskSuggest)
+  [多任务切图效率比对](MultiTaskSuggest)
 
-![](../img/smalltitle.png)  [生成多版本瓦片](MultiversionTile)
+  [生成多版本瓦片](MultiversionTile)

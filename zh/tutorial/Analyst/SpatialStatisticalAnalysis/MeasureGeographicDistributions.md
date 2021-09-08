@@ -12,11 +12,11 @@ title: 度量地理分析
 
 ### ![](img/seealso.png) 相关主题
 
-![](img/smalltitle.png) [基础词汇](BasicVocabulary)
+ [基础词汇](BasicVocabulary)
 
-![](img/smalltitle.png) [聚类分布](Clusters)
+ [聚类分布](Clusters)
 
-![](img/smalltitle.png) [空间关系建模](SpatialRelationshipModeling)
+ [空间关系建模](SpatialRelationshipModeling)
 
-![](img/smalltitle.png) [分析模式](AnalyzingPatterns)
+ [分析模式](AnalyzingPatterns)
 

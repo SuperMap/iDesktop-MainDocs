@@ -13,11 +13,11 @@ title: 海图拓扑关系管理
 
 ### ![](../../../../img/seealso.png)内容提要：
 
-[### 拓扑关系检查](CheckTopoRelation.htm)
+[### 拓扑关系检查](CheckTopoRelation)
 
 介绍海图拓扑关系检查的检查内容，以及拓扑关系检查的具体操作。
 
-[### 拓扑关系构建](BuildTopoRelation.htm)
+[### 拓扑关系构建](BuildTopoRelation)
 
 介绍海图数据拓扑关系构建的具体操作。
 

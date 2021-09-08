@@ -12,23 +12,23 @@ SuperMap海图模块提供的海图编辑功能，基于可编辑数据集分组
 
 ### ![](../../../img/read.gif) 内容提要：
 
-[海图编辑流程](ChartEditorProcess.html)  
+[海图编辑流程](ChartEditorProcess)  
 介绍海图数据生产与发布的一般操作流程，及海图数据编辑的流程。
 
-[创建特征标识序列](CreateFOID.html)  
+[创建特征标识序列](CreateFOID)  
 介绍特征标识和特征标识序列的概念，以及创建特征标识序列的相关操作。
 
-[特征物标数据集管理](FeatureDataset.html)  
+[特征物标数据集管理](FeatureDataset)  
 介绍特征物标数据集的相关操作，包括创建一个新的特征物标数据集、删除一个特征物标数据集、向特征物标数据集追加记录等内容。
 
-[物标对象编辑](ChartObjectsEditor.html)  
+[物标对象编辑](ChartObjectsEditor)  
 介绍添加海图特征物标、选择物标对象、编辑物标对象、特征物标属性编辑等内容。
 
-[水深编辑](EditSounding.html)  
+[水深编辑](EditSounding)  
 介绍水深点、水深分组的相关操作内容，包括添加、删除水深点、编辑海图分组、编辑水深值等内容。
 
-[物标关联关系管理](RelationshipManagement/RelationshipManagement.html)  
+[物标关联关系管理](RelationshipManagement/RelationshipManagement)  
 介绍特征物标关联关系的管理和维护的相关内容，包括创建组合关系、创建主从关系、修改关联关系等操作。
 
-[海图拓扑关系管理](S57TopologyRelation/S57TopoRelation.html)  
+[海图拓扑关系管理](S57TopologyRelation/S57TopoRelation)  
 介绍海图拓扑关系检查规则，及构建海图拓扑关系相关操作。

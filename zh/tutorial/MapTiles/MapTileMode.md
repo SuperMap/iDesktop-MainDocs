@@ -36,12 +36,12 @@ title: 生成地图瓦片
 
 ![](img/MultiProcessTilesPrinciple.jpg)  
   
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png)  [单任务切图](MapTilesSingle)
+  [单任务切图](MapTilesSingle)
 
-![](../img/smalltitle.png)  [多任务切图](MultiTaskStep)
+  [多任务切图](MultiTaskStep)
 
-![](../img/smalltitle.png)  [多任务切图效率比对](MultiTaskSuggest)
+  [多任务切图效率比对](MultiTaskSuggest)
 
-![](../img/smalltitle.png)  [生成多版本瓦片](MultiversionTile)
+  [生成多版本瓦片](MultiversionTile)

@@ -7,7 +7,7 @@ title: 第一步：新建三维场景
 ![](img/NewScene.png)  
  
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [第二步：添加模型到场景中](Step2_AddModel.html)
+ [第二步：添加模型到场景中](Step2_AddModel)
 

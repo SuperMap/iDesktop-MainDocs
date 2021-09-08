@@ -22,5 +22,5 @@ title: 共享为web地图
 
  ###相关主题
 
-![](../img/smalltitle.png)[发布iServer服务](../../Features/Publish/PublishiserverProcess.html)
+[发布iServer服务](../../tutorial/Publish/PublishiserverProcess)
 

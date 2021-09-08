@@ -40,12 +40,12 @@ title: 平均中心
 
 ### ![](img/seealso.png) 相关主题
 
-![](img/smalltitle.png) [中心要素](CentralFeature)
+ [中心要素](CentralFeature)
 
-![](img/smalltitle.png) [中位数中心](MeanCenterResult)
+ [中位数中心](MeanCenterResult)
 
-![](img/smalltitle.png) [方向分布](MeasureDirection)
+ [方向分布](MeasureDirection)
 
-![](img/smalltitle.png) [线性方向平均值](MeasureLinearDirectional)
+ [线性方向平均值](MeasureLinearDirectional)
 
-![](img/smalltitle.png) [标准距离](MeasureStandardDistance)
+ [标准距离](MeasureStandardDistance)

@@ -16,6 +16,6 @@ Buildings，右键点击鼠标，在弹出的右键菜单中选择“添加到�
   5. 添加面矢量数据集后，图层管理器中增加了一个图层，位于“普通图层”结点下，双击该图层结点，使场景飞行到数据集所处的地理范围，同时，进行浏览操作，调整到合适的视角。
 ![](../SceneApplication/img/Buildings.png)  
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [第二步：快速建模](Step2_MakeingModel.html)
+ [第二步：快速建模](Step2_MakeingModel)

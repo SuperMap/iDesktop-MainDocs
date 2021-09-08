@@ -21,19 +21,19 @@ title: 在线颜色方案
 ### 在线颜色方案上传共享
 
   1. 打开  应用程序，单击“ **开始** ”选项卡，“ **颜色管理** ”组中的“颜色方案”，弹出”颜色方案管理器”.在”颜色方案库管理器“中选中需要上传的颜色方案，鼠标右键单击”分享至Online“按钮。弹出“上传颜色方案”对话框。
-  2. 在“上传颜色方案”对话框中，需对上传颜色方案数据资源如下信息，资源路径、名称、关键字、简介及上传地址等参数。具体参数介绍请参考[“上传资源”](OnlineSymbol.html#2)。
+  2. 在“上传颜色方案”对话框中，需对上传颜色方案数据资源如下信息，资源路径、名称、关键字、简介及上传地址等参数。具体参数介绍请参考[“上传资源”](OnlineSymbol#2)。
   3. 完成上述设置，单击“分享”按钮，弹出“任务管理”对话框，对话框内显示符号数据的上传总进度、单个符号文件的上传进度；并通过暂停、取消、删除等按钮对上传文件进行操作控制。
   4. 分享成功后， 可在SuperMap Online 及 iPortal 中的在线颜色方案中浏览、下载，方便了其他用户使用在线数据资源。 
 
 ### 相关内容：
 
-![](../img/smalltitle.png) [配置服务](ConfigureAddress.html)
+ [配置服务](ConfigureAddress)
 
-![](../img/smalltitle.png) [在线地图](OnlineMap.html)
+ [在线地图](OnlineMap)
 
-![](../img/smalltitle.png) [在线数据](OnlineData.html)
+ [在线数据](OnlineData)
 
-![](../img/smalltitle.png) [在线符号库](OnlineSymbol.html)
+ [在线符号库](OnlineSymbol)
 
-![](../img/smalltitle.png) [我的数据](OnlineMyData.html)
+ [我的数据](OnlineMyData)
 

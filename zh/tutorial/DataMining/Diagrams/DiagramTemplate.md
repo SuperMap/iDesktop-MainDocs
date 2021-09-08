@@ -36,15 +36,15 @@ title: 使用统计图表模版
 
 ### ![](../../img/seealso.png) 相关内容
 
-![](../../img/smalltitle.png)[**统计图表概述**](Diagrams1)
+[**统计图表概述**](Diagrams1)
 
-![](../../img/smalltitle.png)[**统计图表类型**](DiagramsType)
+[**统计图表类型**](DiagramsType)
 
-![](../../img/smalltitle.png)[**制作统计图表**](CreateDiagram)
+[**制作统计图表**](CreateDiagram)
 
-![](../../img/smalltitle.png)[**图表与专题图的转换**](ConvertThemticMap)
+[**图表与专题图的转换**](ConvertThemticMap)
 
-![](../../img/smalltitle.png)[**与图表联动交互**](ConvertThemticMap)
+[**与图表联动交互**](ConvertThemticMap)
 
-![](../../img/smalltitle.png)[**使用统计图表模版**](DiagramTemplate)
+[**使用统计图表模版**](DiagramTemplate)
 

@@ -25,13 +25,13 @@ title: 功能区域
 ![](img/MenuandTool.png)  
 ---  
 
-![](../../img/smalltitle.png)  [文件菜单提供的功能](SymManagerFile.html)
+  [文件菜单提供的功能](SymManagerFile)
 
-![](../../img/smalltitle.png)  [编辑菜单提供的功能](SymManagerEdit.html)
+  [编辑菜单提供的功能](SymManagerEdit)
 
-![](../../img/smalltitle.png)  [窗口布局按钮](SymManagerLayout.html)
+  [窗口布局按钮](SymManagerLayout)
 
-![](../../img/smalltitle.png)  [显示方式按钮](SymManagerDisplay.html)
+  [显示方式按钮](SymManagerDisplay)
 
 
 

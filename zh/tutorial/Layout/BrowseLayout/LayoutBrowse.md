@@ -6,11 +6,11 @@ title: 浏览布局
 
 “布局浏览”组中包含以下按钮，下面详细介绍如何使用这些按钮实现相应的功能。
 
-![](../../img/smalltitle.png) [放大和缩小布局](LayoutZoomInOut.html)
+ [放大和缩小布局](LayoutZoomInOut)
 
-![](../../img/smalltitle.png) [漫游布局](PanButton.html)
+ [漫游布局](PanButton)
 
-![](../../img/smalltitle.png) [整页显示布局](EntirePagebutton.html)
+ [整页显示布局](EntirePagebutton)
 
-![](../../img/smalltitle.png) [前视图/后视图](NextBookmarkbutton.html)
+ [前视图/后视图](NextBookmarkbutton)
 

@@ -2,7 +2,7 @@
 id: WindowsModel
 title: 切换窗口模式
 ---
-应用程序的[窗口模式](WindowsModel_Basic.html)包括标签模式和扩展模式二种类型，用户可通过以下操作设置应用程序中子窗口（地图窗口、布局窗口、属性表窗口、三维窗口）的排列模式。
+应用程序的[窗口模式](WindowsModel_Basic)包括标签模式和扩展模式二种类型，用户可通过以下操作设置应用程序中子窗口（地图窗口、布局窗口、属性表窗口、三维窗口）的排列模式。
 
 ### 操作步骤
 
@@ -13,4 +13,4 @@ title: 切换窗口模式
 
 ### 相关主题
 
-![](../../img/smalltitle.png) [关于窗口模式](WindowsModel_Basic.html)
+ [关于窗口模式](WindowsModel_Basic)

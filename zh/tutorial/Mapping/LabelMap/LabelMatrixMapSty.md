@@ -11,7 +11,7 @@ title: “风格”选项卡
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png)
+
 [分段方法介绍（修改分段专题图）](../rangesmap/RangesMapGroupDia)
 
   * **段数：** 用来设置对专题值进行分段的分段数，即最终得到的范围段的个数。 
@@ -30,5 +30,5 @@ title: “风格”选项卡
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png)
+
 [文本风格的设置方法(修改统一风格标签专题图)](UniformLabelMapDia)

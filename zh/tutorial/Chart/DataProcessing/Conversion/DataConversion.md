@@ -7,10 +7,10 @@ SuperMap 格式数据的导出，将只读海图数据集分组导出为 *.000 �
 
 下面分别详细介绍 S-57海图数据文件的导入和导出功能。
 
-[海图数据导入](ImportChartData.html)
+[海图数据导入](ImportChartData)
 
 介绍如何将 S-57 格式海图数据（000 文件）导入到工作空间数据源中。
 
-[海图数据导出](ExportChartData.html)
+[海图数据导出](ExportChartData)
 
 介绍如何将只读海图数据导出为 *.000 文件或者 *.shp。

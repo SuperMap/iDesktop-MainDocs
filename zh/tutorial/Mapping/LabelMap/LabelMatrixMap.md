@@ -6,6 +6,6 @@ title: 标签矩阵专题图
 
 ### ![](../../img/read.gif)制作标签矩阵专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建标签矩阵专题图](LabelMatrixMapDefault.html)
+ [新建标签矩阵专题图](LabelMatrixMapDefault)
 
-![](../../img/smalltitle.png) [修改标签矩阵专题图](LabelMatrixMapDia.html)
+ [修改标签矩阵专题图](LabelMatrixMapDia)

@@ -6,13 +6,13 @@ title: 绘制地图元素
 
 下面详细介绍“对象绘制”组中地图元素各个控件的功能和操作方式。
 
-![](../../img/smalltitle.png) [地图](Map.html)
+ [地图](Map)
 
-![](../../img/smalltitle.png) [比例尺](ScaleBar.html)
+ [比例尺](ScaleBar)
 
-![](../../img/smalltitle.png) [图例](Legend.html)
+ [图例](Legend)
 
-![](../../img/smalltitle.png) [指北针](NorthArrow.html)
+ [指北针](NorthArrow)
 
-![](../../img/smalltitle.png) [几何对象和文本](../DrawingObjects/DrawingObjects.html)
+ [几何对象和文本](../DrawingObjects/DrawingObjects)
 

@@ -5,7 +5,7 @@ title: 个人中心
 ### 使用说明
 
 在 中登录 SuperMap Online 和 iPortal 帐号，在“个人中心”中支持对 SuperMap Online 和 iPortal
-帐号里“[我的服务](OnlineMyData.html#1)和“[我的数据](OnlineMyData.html#2)”资源进行管理。
+帐号里“[我的服务](OnlineMyData#1)和“[我的数据](OnlineMyData#2)”资源进行管理。
 
 在工作空间管理器在线数据面板中，选择Super Online或 iPortal 资源目录。单击“ **个人中心**
 ”，在“个人中心”文件目录中包含“我的服务”和“我的数据”，点击某个数据节点，在数据列表展示该类型下的数据信息。默认显示“我的服务“内容，如下图所示：
@@ -47,12 +47,12 @@ title: 个人中心
 
 ### 相关内容：
 
-![](../img/smalltitle.png) [配置服务](ConfigureAddress.html)
+ [配置服务](ConfigureAddress)
 
-![](../img/smalltitle.png) [在线地图](OnlineMap.html)
+ [在线地图](OnlineMap)
 
-![](../img/smalltitle.png) [在线数据](OnlineData.html)
+ [在线数据](OnlineData)
 
-![](../img/smalltitle.png) [在线颜色方案](OnlineColorSchemes.html)
+ [在线颜色方案](OnlineColorSchemes)
 
-![](../img/smalltitle.png) [在线符号库](OnlineSymbol.html)
+ [在线符号库](OnlineSymbol)

@@ -2,7 +2,7 @@
 id: PlayTemporalData
 title: 播放时态数据
 ---
-对时态数据进行播放前，需要对时态数据的时间属性进行设置，详情请参考[对数据启用时间](SetDataTime.html)页面。
+对时态数据进行播放前，需要对时态数据的时间属性进行设置，详情请参考[对数据启用时间](SetDataTime)页面。
 
 ### ![](../../img/read.gif) 时态数据播放器
 
@@ -93,11 +93,11 @@ SuperMap 桌面支持将时态数据的播放过程输出为GIF，输出范围�
 
 **相关内容** ：
 
-![](../../img/smalltitle.png) [时态数据概述](LayerPlay.html)
+ [时态数据概述](LayerPlay)
 
-![](../../img/smalltitle.png) [准备时态数据](PrepareTemporalData.html)
+ [准备时态数据](PrepareTemporalData)
 
-![](../../img/smalltitle.png) [对数据启用时间](SetDataTime.html)
+ [对数据启用时间](SetDataTime)
 
 
 

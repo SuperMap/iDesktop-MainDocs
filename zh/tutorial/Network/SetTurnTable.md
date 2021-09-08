@@ -15,8 +15,8 @@ title: 设置转向表
   * **结点花费字段：** 用来记录特定转弯处，在对应节点上的花费。
 4. 单击"确定"按钮，完成设置转向表操作。单击"取消"按钮，退出当前对话框。 
 
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png)[转向表](TurnTable)
+[转向表](TurnTable)
 
-![](../img/smalltitle.png)[创建转向表](CreatTurnTable)
+[创建转向表](CreatTurnTable)

@@ -71,15 +71,15 @@ Length；否则，如果没有指定别名，则查询结果中不会保存相�
   1. 对于 SQL Server Plus 数据源的查询，如果对于查询函数没有指定别名，那么系统是不会给出默认的别名，即字段名为空。此时，“结果显示”中勾选“浏览属性表”时，在打开的属性表中可以看到对应函数的字段无字段名，但有查询结果数据；而“保存查询结果”中保存的查询结果里没有相应函数的查询结果。这是数据库的差异引起的。
   2. 对于 UDB/UBDX、Oracle 数据源的查询，如果对于查询函数没有指定别名，那么系统会默认将查询结果中对应函数的字段命名为查询时的函数名，如 Atan(Region2.SMID)；此时，“结果显示”中勾选“浏览属性表”时，在打开的属性表中可以看到对应函数查询结果的字段名为函数名 Atan(Region2.SMID)，且有查询结果数据；但“保存查询结果”中保存的查询结果里没有相应函数的查询结果。这是数据库的差异引起的。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [SQL查询分组统计](SQLQuery_Group)
+ [SQL查询分组统计](SQLQuery_Group)
 
-![](../img/smalltitle.png) [SQL查询常用表达式](SQLQuery_Expression)
+ [SQL查询常用表达式](SQLQuery_Expression)
 
-![](../img/smalltitle.png) [构建SQL查询的函数说明](SQLQueryFunction)
+ [构建SQL查询的函数说明](SQLQueryFunction)
 
-![](../img/smalltitle.png) [SQL查询属性查询示例](SQLQuery_Example)
+ [SQL查询属性查询示例](SQLQuery_Example)
 
-![](../img/smalltitle.png) [SQL关联查询示例](SQLQuery_Related)
+ [SQL关联查询示例](SQLQuery_Related)
 

@@ -6,6 +6,6 @@ title: 转向表
 
 **注意**：耗费的单位取决于实际的耗费内容，如果耗费字段表示的是时间花费，那么耗费字段的单位就是时间单位，如小时、分钟、秒等；如果耗费字段表示的距离花费，那么耗费字段的单位就是距离单位，如米、千米、英尺等。
 
-![](../img/smalltitle.png) [创建转向表](CreatTurnTable)
+ [创建转向表](CreatTurnTable)
 
-![](../img/smalltitle.png) [设置转向表](SetTurnTable)
+ [设置转向表](SetTurnTable)

@@ -21,5 +21,5 @@ title: 新建复合标签专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改复合标签专题图](MixedLabelMapDia)
+ [修改复合标签专题图](MixedLabelMapDia)
 

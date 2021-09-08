@@ -4,7 +4,7 @@ title: UDB 与 UDBX 数据源转换
 ---
 ### ![](../../img/read.gif)使用说明
 
-程序提供了UDB 数据源与 UDBX 数据源之间的相互转换。即 **UDB->UDBX** ， **UDBX->UDB** 。“ **UDB->UDBX**
+提供 UDB 数据源与 UDBX 数据源之间的相互转换。即 **UDB->UDBX** ， **UDBX->UDB** 。“ **UDB->UDBX**
 ” 是将 UDB 数据源(*.udb)转换为 UDBX 数据源(*.udbx)。 “ **UDBX->UDB** ” 是将 UDBX
 数据源(*.udbx)转换为 UDB 数据源(*.udb)。
 

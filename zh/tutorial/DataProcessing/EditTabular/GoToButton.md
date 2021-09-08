@@ -26,14 +26,14 @@ title: 定位
 * 在 Oracle 和 SQL 数据源中，不支持使用两个二进制字段相等作为查询条件进行定位。
 * 属性表定位对话框为非模态窗口，便于用户在属性表中直接选中行来设置定位的参数。
 
-![](../../img/smalltitle.png) [升序](SortOrderAscendingButton)
+ [升序](SortOrderAscendingButton)
 
-![](../../img/smalltitle.png) [降序](SortOrderDescendingButton)
+ [降序](SortOrderDescendingButton)
 
-![](../../img/smalltitle.png) [隐藏列](HideButton)
+ [隐藏列](HideButton)
 
-![](../../img/smalltitle.png) [取消隐藏](CancelHideButton)
+ [取消隐藏](CancelHideButton)
 
-![](../../img/smalltitle.png) [筛选](FilterButton)
+ [筛选](FilterButton)
 
 

@@ -11,12 +11,12 @@ title: 以界面结构模式显示
   
 下面详细介绍应用程序五大界面部分是如何组织其界面元素的，进而了解工作环境设计窗口的结构区的目录树结构。
 
-![](../img/smalltitle.png) [文件菜单](StartMenuCus.html)
+ [文件菜单](StartMenuCus)
 
-![](../img/smalltitle.png) [功能区](RibbonCus.html)
+ [功能区](RibbonCus)
 
-![](../img/smalltitle.png) [浮动窗口](FloatWinCus.html)
+ [浮动窗口](FloatWinCus)
 
-![](../img/smalltitle.png) [状态栏](StatusBarCus.html)
+ [状态栏](StatusBarCus)
 
-![](../img/smalltitle.png) [右键菜单](ContextMenuCus.html)
+ [右键菜单](ContextMenuCus)

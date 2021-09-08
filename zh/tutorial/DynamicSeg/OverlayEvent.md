@@ -30,6 +30,6 @@ title: 叠加事件表
 
   * 准备完毕后，“执行”按钮可用。单击“执行”按钮，执行该步骤。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [事件表分析概述](AboutEventAnalyst)
+ [事件表分析概述](AboutEventAnalyst)

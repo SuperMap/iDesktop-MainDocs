@@ -53,9 +53,9 @@ TIFF 影像数据等格式）进行输出，便于在其他环境中应用。
 
 通过“ **布局** ”选项卡中“ **文件操作** ”组的“ **打印** ”下拉按钮，可预览并打印当前布局窗口中布局页面中显示的所有内容。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [布局排版打印](../../Features/Layout/layout.html)
+ [布局排版打印](../../tutorial/Layout/layout)
 
 
 

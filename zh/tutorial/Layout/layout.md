@@ -6,20 +6,20 @@ title: 布局排版打印
 
 ### ![](../img/read.gif)内容提要：
 
-![](../img/smalltitle.png) [基本操作](Basic/Basic.html)
+ [基本操作](Basic/Basic)
 
-![](../img/smalltitle.png) [设置布局参数](LayoutPara.html)
+ [设置布局参数](LayoutPara)
 
-![](../img/smalltitle.png) [与布局交互](Layout_Interaction.html)
+ [与布局交互](Layout_Interaction)
 
-![](../img/smalltitle.png)
-[绘制布局元素](DrawingMapElements/DrawingMapElements.html)
 
-![](../img/smalltitle.png) [调整布局元素的分布](Arrangement/Arrangement.html)
+[绘制布局元素](DrawingMapElements/DrawingMapElements)
 
-![](../img/smalltitle.png) [使用布局模块](Template/LayoutTemplate.html)
+ [调整布局元素的分布](Arrangement/Arrangement)
 
-![](../img/smalltitle.png) [输出和打印布局](Export/ExportLayout.html)
+ [使用布局模块](Template/LayoutTemplate)
 
-![](../img/smalltitle.png) [布局操作的快捷键](LayoutShortcutKey.html)
+ [输出和打印布局](Export/ExportLayout)
+
+ [布局操作的快捷键](LayoutShortcutKey)
 

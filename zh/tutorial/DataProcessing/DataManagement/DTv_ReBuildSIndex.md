@@ -15,7 +15,7 @@ title: 重建空间索引
 
 ### ![](../../img/read.gif)相关主题
 
-![](../../img/smalltitle.png) [空间索引](ManageSpatialIndex)
+ [空间索引](ManageSpatialIndex)
 
-![](../../img/smalltitle.png) [管理空间索引](SpatialIndexManagement)
+ [管理空间索引](SpatialIndexManagement)
 

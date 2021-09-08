@@ -21,5 +21,5 @@ title: 新建点密度专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改点密度专题图](DotDensityMapGroupDia)
+ [修改点密度专题图](DotDensityMapGroupDia)
 

@@ -65,19 +65,19 @@ title: 绘制地图定位器
   * 在标记图层和掩膜图层下拉菜单中分别设置配置好的对应图层。
 3. 在当前页面切换不同页码，查看不同页面时，定位地图将随之变化，以便高亮显示当前页面。
 
-现在，一组包含地图定位器的地图系列创建完毕。您可以定位并浏览各个布局页面，并为地图浏览者指示当前页面在较大的范围的位置信息。下一步可以为地图系列添加[动态文本](DynamicText.html)。
+现在，一组包含地图定位器的地图系列创建完毕。您可以定位并浏览各个布局页面，并为地图浏览者指示当前页面在较大的范围的位置信息。下一步可以为地图系列添加[动态文本](DynamicText)。
 
 ### 相关主题：
 
-![](../img/smalltitle.png) [地图系列](MapSeries.html)
+ [地图系列](MapSeries)
 
-![](../img/smalltitle.png) [创建格网索引](CreateGridIndex.html)
+ [创建格网索引](CreateGridIndex)
 
-![](../img/smalltitle.png) [计算相邻字段](CaculateAdjacentFieldhtm.html)
+ [计算相邻字段](CaculateAdjacentFieldhtm)
 
-![](../img/smalltitle.png) [启用地图系列](MapSerieSettings.html)
+ [启用地图系列](MapSerieSettings)
 
-![](../img/smalltitle.png) [动态文本](DynamicText.html)
+ [动态文本](DynamicText)
 
-![](../img/smalltitle.png) [打印地图册](PrintingMapBooks.html)
+ [打印地图册](PrintingMapBooks)
 

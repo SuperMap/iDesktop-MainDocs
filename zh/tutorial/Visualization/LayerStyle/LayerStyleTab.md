@@ -9,10 +9,10 @@ SuperMap 提供两种方式对图层风格进行设置，分别是 **“图层�
 
 **注意** ：“风格设置”选项卡是上下文选项卡，与地图窗口绑定。只有当应用程序中当前活动的窗口为地图窗口时，该选项卡才会出现在功能区上。
 
-![](../../img/smalltitle.png) [设置点图层风格](PointStylegroup.html)
+ [设置点图层风格](PointStylegroup)
 
-![](../../img/smalltitle.png) [设置线图层风格](LineStylegroup.html)
+ [设置线图层风格](LineStylegroup)
 
-![](../../img/smalltitle.png) [设置面图层风格](FillStylegroup.html)
+ [设置面图层风格](FillStylegroup)
 
-![](../../img/smalltitle.png) [设置文本对象风格](TextStylegroup.html)
+ [设置文本对象风格](TextStylegroup)

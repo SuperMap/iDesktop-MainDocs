@@ -39,8 +39,8 @@ title: 生成空间权重矩阵
 
 ### ![](img/seealso.png) 相关主题
 
-![](img/smalltitle.png)[聚类和异常值分析](ClusterOutlierAnalyst)
+[聚类和异常值分析](ClusterOutlierAnalyst)
 
-![](img/smalltitle.png)[优化的热点分析](OptimizedHotSpotAnalyst)
+[优化的热点分析](OptimizedHotSpotAnalyst)
 
-![](img/smalltitle.png)[分析模式](AnalyzingPatterns)
+[分析模式](AnalyzingPatterns)

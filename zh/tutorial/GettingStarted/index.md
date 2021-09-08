@@ -10,11 +10,11 @@ title: 产品入门
 
 ### 主要内容：
 
-  1. [桌面工作环境介绍 ]( UIIntro.html)
-  2. [快速制图教程](QuickMakingMapTutorial/QuickMakingMapGuide.html)
-  3. [快速构建三维场景教程](QuickMakingSceneTutorial/QuickMakingSceneGuide.html)
-  4. [工作环境设计](UI_index.html)
-  5. [二次开发](Develop_index.html)
+  1. [桌面工作环境介绍 ]( UIIntro)
+  2. [快速制图教程](QuickMakingMapTutorial/QuickMakingMapGuide)
+  3. [快速构建三维场景教程](QuickMakingSceneTutorial/QuickMakingSceneGuide)
+  4. [工作环境设计](UI_index)
+  5. [二次开发](Develop_index)
 
 ### 目的:
 

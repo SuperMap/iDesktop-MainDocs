@@ -22,5 +22,5 @@ title: 新建统一风格标签专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改统一风格标签专题图](UniformLabelMapDia)
+ [修改统一风格标签专题图](UniformLabelMapDia)
 

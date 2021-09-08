@@ -8,10 +8,10 @@ title: 查询
 
 本章节将详细介绍SQL 查询和空间查询的操作方式。
 
-![](../img/smalltitle.png) [SQL 查询](SQLQuery)
+ [SQL 查询](SQLQuery)
 
-![](../img/smalltitle.png) [空间查询](SpatialQuery)
+ [空间查询](SpatialQuery)
 
-![](../img/smalltitle.png) [查询实例](QueryExample)
+ [查询实例](QueryExample)
 
 

@@ -28,7 +28,7 @@ SuperMap 桌面提供更新瓦片的功能，支持对栅格瓦片和矢量瓦�
 ### ![](../img/read.gif)执行切图
 
   * 若使用单任务更新瓦片，设置完成更新瓦片参数之后，即可直接进行单任务更新瓦片操作。
-  * 若使用多任务更新瓦片，完成更新瓦片参数设置，单击“下一步”后，会弹出“多任务切图”对话框，用户需设置任务数，进行多任务更新瓦片，有关多任务切图的详细说明请参看：[多任务切图](MultiTaskStep.html)。
+  * 若使用多任务更新瓦片，完成更新瓦片参数设置，单击“下一步”后，会弹出“多任务切图”对话框，用户需设置任务数，进行多任务更新瓦片，有关多任务切图的详细说明请参看：[多任务切图](MultiTaskStep)。
 
 **注意**
 ：瓦片更新成功后，在结果文件夹下，会根据更新参数新生成一个*.sci，该文件中只记录了更新时设置的参数。同时原始.sci文件中也将自动更新为变更后的瓦片参数，原始.sci文件参数信息更完整。
@@ -37,17 +37,17 @@ SuperMap 桌面提供更新瓦片的功能，支持对栅格瓦片和矢量瓦�
 
 * * *
 
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png)  [地图瓦片](MapTiles.html)
+  [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png)  [续传瓦片](RecoverTiles.html)
+  [续传瓦片](RecoverTiles)
 
-![](../img/smalltitle.png)  [瓦片检查](CheckTlies.html)
+  [瓦片检查](CheckTlies)
 
-![](../img/smalltitle.png)  [瓦片管理](MongoDBTilesManger.html)
+  [瓦片管理](MongoDBTilesManger)
 
-![](../img/smalltitle.png)  [加载 MongoDB 瓦片](AddMongoDBTiles.html)
+  [加载 MongoDB 瓦片](AddMongoDBTiles)
 
 [](http://www.supermap.com)  
   

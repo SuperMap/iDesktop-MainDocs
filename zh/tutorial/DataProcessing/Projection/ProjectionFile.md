@@ -13,7 +13,7 @@ title: 载入投影信息
 
  SuperMap 目前支持将自定义的坐标系统保存为 SuperMap UGC 6.0和 SuperMap 6.0两种版本的 xml 文件。
 
-用文本工具打开 XML 文件的例子 ![д](img/CopyCode.gif)Copy
+用文本工具打开 XML 文件的例子
 
 ```
  

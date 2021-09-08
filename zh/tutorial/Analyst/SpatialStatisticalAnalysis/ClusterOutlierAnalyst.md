@@ -93,8 +93,8 @@ P＜0.05 | Z＜0 | 表示有一个具有统计显著性的空间数据异常值�
 
 ### ![](img/seealso.png) 相关主题
 
-![](img/smalltitle.png)[热点分析](HotSpotAnalyst)
+[热点分析](HotSpotAnalyst)
 
-![](img/smalltitle.png)[分析模式](AnalyzingPatterns)
+[分析模式](AnalyzingPatterns)
 
 

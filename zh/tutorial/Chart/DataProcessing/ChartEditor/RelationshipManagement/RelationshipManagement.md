@@ -10,14 +10,14 @@ SuperMap 海图提供基于 ENC
 
 ### ![](../../../../img/seealso.png) 内容提要：
 
-[### 创建组合物标](CreateCollection.htm)
+[### 创建组合物标](CreateCollection)
 
 引入组合物标的相关概念，介绍创建组合物标的具体操作。
 
-[### 创建主从关系](CreateMasterSlave.htm)
+[### 创建主从关系](CreateMasterSlave)
 
 引入主从关系的相关概念，介绍创建主从关系的具体操作。
 
-[### 修改关联关系](ResetRelationship.htm)
+[### 修改关联关系](ResetRelationship)
 
 介绍修改组合物标和主从关系的操作内容。

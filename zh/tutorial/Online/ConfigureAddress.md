@@ -38,12 +38,12 @@ SuperMap Online 的地址为：<http://www.supermapol.com>，在“ **文件** �
 
 ### 相关内容：
 
-![](../img/smalltitle.png) [在线地图](OnlineMap.html)
+ [在线地图](OnlineMap)
 
-![](../img/smalltitle.png) [在线数据](OnlineData.html)
+ [在线数据](OnlineData)
 
-![](../img/smalltitle.png) [在线颜色方案](OnlineColorSchemes.html)
+ [在线颜色方案](OnlineColorSchemes)
 
-![](../img/smalltitle.png) [在线符号库](OnlineSymbol.html)
+ [在线符号库](OnlineSymbol)
 
-![](../img/smalltitle.png) [我的数据](OnlineMyData.html)
+ [我的数据](OnlineMyData)

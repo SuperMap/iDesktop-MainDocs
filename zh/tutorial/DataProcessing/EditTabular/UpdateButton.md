@@ -64,14 +64,14 @@ SQL Server |①进行单字段更新时，运算方程式前添加ifnull()函数
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png)  [编辑属性表](Editgroup)
+  [编辑属性表](Editgroup)
 
-![](../../img/smalltitle.png)  [属性表复制粘贴](CopyAndPaste)
+  [属性表复制粘贴](CopyAndPaste)
 
-![](../../img/smalltitle.png)  [属性表拖拽](DragTabular)
+  [属性表拖拽](DragTabular)
 
-![](../../img/smalltitle.png)  [属性表更新](UpdateTabular)
+  [属性表更新](UpdateTabular)
 
-![](../../img/smalltitle.png)  [二进制字段编辑](BinaryEdit)
+  [二进制字段编辑](BinaryEdit)
 
   

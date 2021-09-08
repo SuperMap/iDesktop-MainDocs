@@ -6,25 +6,25 @@ title: SuperMap iDesktop 10i(2020) SP1 新特性
 
 **数据管理**
 
-  * [PostgreSQL 数据源](../../Features/DataProcessing/DataManagement/DTgroupDiaVector_ModifyType.html)，支持直接修改数据集属性字段名称、类型、长度、必填、缺省值，修改后不会生成冗余的备份数据，且数据集表名不变。 
+  * [PostgreSQL 数据源](../../tutorial/DataProcessing/DataManagement/DTgroupDiaVector_ModifyType)，支持直接修改数据集属性字段名称、类型、长度、必填、缺省值，修改后不会生成冗余的备份数据，且数据集表名不变。 
   * 提升PostgreSQL、PostGIS数据源导入数据的性能。
-  * 新增[数据集刷新](../../Features/DataProcessing/DataManagement/DatasetManagement.html#refresh)功能，便于并发操作数据集时及时刷新数据集内容。
+  * 新增[数据集刷新](../../tutorial/DataProcessing/DataManagement/DatasetManagement#refresh)功能，便于并发操作数据集时及时刷新数据集内容。
 
 **数据处理**
 
-  * 优化 [CAD 数据集配准](../../Features/DataProcessing/Registration/RegistrationMode.html)，支持线性和二次多项式配准模式。
-  * 数据[ 导出为TIFF文件](../../Features/DataProcessing/DataConversion/ExportData.html#image)时，支持设置文件的压缩方式。
+  * 优化 [CAD 数据集配准](../../tutorial/DataProcessing/Registration/RegistrationMode)，支持线性和二次多项式配准模式。
+  * 数据[ 导出为TIFF文件](../../tutorial/DataProcessing/DataConversion/ExportData#image)时，支持设置文件的压缩方式。
 
 **空间分析**
 
-  * 优化叠加分析功能，当线数据集与面数据集进行[裁剪](../../Features/Analyst/Vector/overlayanalyst/Clipbutton.html)、[同一](../../Features/Analyst/Vector/overlayanalyst/Identitybutton.html)、[求交](../../Features/Analyst/Vector/overlayanalyst/Intersectbutton.html)分析时，新增“保留单个对象”的参数设置，可用于线对象在多个有重叠的面对象内时，选择只保留单个对象，或同时保留多个对象。
+  * 优化叠加分析功能，当线数据集与面数据集进行[裁剪](../../tutorial/Analyst/Vector/overlayanalyst/Clipbutton)、[同一](../../tutorial/Analyst/Vector/overlayanalyst/Identitybutton)、[求交](../../tutorial/Analyst/Vector/overlayanalyst/Intersectbutton)分析时，新增“保留单个对象”的参数设置，可用于线对象在多个有重叠的面对象内时，选择只保留单个对象，或同时保留多个对象。
 
 **地图制图**
 
-  * 优化[地图输出为图片](../../Features/Visualization/Basic/WinMap_OutputPic.html)功能，提供预估输出文件大小的参考值，辅助用户根据文件大小设置输出参数。 
-  * [网格图](../../Features/BigdataVisualization/AggregationMap/GridAggregationMap.html)支持设置标签的显示精度，当格网字段为双精度类型时，便于调整地图中标签的美观性。
-  * 支持[批量设置影像图层的拉伸方式](../../Features/Visualization/VisualSetting/Imagegroup.html#1)，便于统一调整影像显示效果。
-  * 优化[多任务切图](../../Features/MapTiles/MultiTaskStep.html)功能，支持对带密码的文件型工作空间执行切图任务。
+  * 优化[地图输出为图片](../../tutorial/Visualization/Basic/WinMap_OutputPic)功能，提供预估输出文件大小的参考值，辅助用户根据文件大小设置输出参数。 
+  * [网格图](../../tutorial/BigdataVisualization/AggregationMap/GridAggregationMap)支持设置标签的显示精度，当格网字段为双精度类型时，便于调整地图中标签的美观性。
+  * 支持[批量设置影像图层的拉伸方式](../../tutorial/Visualization/VisualSetting/Imagegroup)，便于统一调整影像显示效果。
+  * 优化[多任务切图](../../tutorial/MapTiles/MultiTaskStep)功能，支持对带密码的文件型工作空间执行切图任务。
 
 **三维**
 

@@ -85,6 +85,6 @@ DEM、气温或降雨量分布、坡度等，这些数据本来就是通过采�
 
 
 
- ![](../../img/smalltitle.png) [栅格重采样](../Raster/RasterResample)
+  [栅格重采样](../Raster/RasterResample)
 
 

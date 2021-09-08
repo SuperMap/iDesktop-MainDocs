@@ -33,23 +33,23 @@ title: 界面介绍
 
 应用程序的用户界面主要由以下几部分构成：
 
-![](../img/smalltitle.png) [文件按钮及文件菜单](../StartMenu/StartMenu.html)
+ [文件按钮及文件菜单](../StartMenu/StartMenu)
 
-![](../img/smalltitle.png) [Ribbon 功能区](RibbonIntroduct.html)
+ [Ribbon 功能区](RibbonIntroduct)
 
-![](../img/smalltitle.png) [上下文选项卡](ContextTabsIntroduct.html)
+ [上下文选项卡](ContextTabsIntroduct)
 
-![](../img/smalltitle.png) [Ribbon 控件](RibbonControlsIntroduct.html)
+ [Ribbon 控件](RibbonControlsIntroduct)
 
-![](../img/smalltitle.png) [应用程序中的子窗口](ChildWindows.html)
+ [应用程序中的子窗口](ChildWindows)
 
-![](../img/smalltitle.png) [浮动窗口](FloatWindows.html)
+ [浮动窗口](FloatWindows)
 
-![](../img/smalltitle.png) [工作空间管理器](WorkspaceManager.html)
+ [工作空间管理器](WorkspaceManager)
 
-![](../img/smalltitle.png) [图层管理器](LayerManagerIntroduct.html)
+ [图层管理器](LayerManagerIntroduct)
 
-![](../img/smalltitle.png) [输出窗口](OutputWindows.html)
+ [输出窗口](OutputWindows)
 
-![](../img/smalltitle.png) [流程管理窗口介绍](proceduremanage.html)
+ [流程管理窗口介绍](proceduremanage)
 

@@ -6,7 +6,7 @@ Binary Index=Yes
 Compatibility=1.1
 Compiled File=GettingStarted.chm
 Contents File=GettingStarted.hhc
-Default Topic=index.htm
+Default Topic=index
 Error log file=ErrorLog.log
 Index File=GettingStarted.hhk
 Title=GettingStarted
@@ -14,28 +14,28 @@ Full-text search=Yes
 Display compile progress=Yes
 Display compile notes=Yes
 Default Window=main
-Default Font=Î¢ÈíÑÅºÚ, 9,134
+Default Font=Î¢ï¿½ï¿½ï¿½Åºï¿½, 9,134
 Language=0x804 Chinese (Simplified/PRC)
 Create CHI file=No
 Full text search stop list file=
 
 [WINDOWS]
-main=,"GettingStarted.hhc","GettingStarted.hhk","index.htm","index.htm",,,,,0x23520,222,0x1046,[10,10,780,560],0xB0000,,,,,,0
+main=,"GettingStarted.hhc","GettingStarted.hhk","index","index",,,,,0x23520,222,0x1046,[10,10,780,560],0xB0000,,,,,,0
 
 [FILES]
-ApplyRes.htm
-ControlCus.htm
-DelControl.htm
-EditMap.htm
-GettingStart.htm
-index.htm
-OpenData.htm
-OpenUI.htm
-Operation_index.htm
-SaveWorkSpace.htm
-UIIntro.htm
-UI_index.htm
-ViewData.htm
+ApplyRes
+ControlCus
+DelControl
+EditMap
+GettingStart
+index
+OpenData
+OpenUI
+Operation_index
+SaveWorkSpace
+UIIntro
+UI_index
+ViewData
 img\back.png
 img\cineprojector.png
 img\close.gif

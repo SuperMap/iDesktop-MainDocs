@@ -29,5 +29,5 @@ title: 新建单值专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改单值专题图](UniqueValuesMapGroupDia)
+ [修改单值专题图](UniqueValuesMapGroupDia)
 

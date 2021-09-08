@@ -18,11 +18,11 @@ title: 镶嵌数据集
 
 ### ![](../../img/seealso.png)相关主题
 
-![](../../img/smalltitle.png) [管理镶嵌数据集](MosaicDataManagement)
+ [管理镶嵌数据集](MosaicDataManagement)
 
-![](../../img/smalltitle.png) [镶嵌数据集显示](MosaicDatasetView)
+ [镶嵌数据集显示](MosaicDatasetView)
 
-![](../../img/smalltitle.png) [创建镶嵌数据集](CreateMosaicDataset)
+ [创建镶嵌数据集](CreateMosaicDataset)
 
 
 

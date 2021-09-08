@@ -30,19 +30,19 @@ CAD 数据集  | *SmID、SmUserID
 
 修改属性值最基本的方式就是手工修改属性值。基本操作步骤为：1）打开要修改的属性表；2）选中要编辑的某个单元格，然后输入数据即可。这种方式简单，但不适合大数据量的属性数据的修改、更新和录入，下面介绍其他两种属性表更新的途径。
 
-![](../../img/smalltitle.png)  [使用填充柄更新列](UpdateTabular1)
+  [使用填充柄更新列](UpdateTabular1)
 
-![](../../img/smalltitle.png)  [使用“更新列”对话框更新](UpdateTabular2)
+  [使用“更新列”对话框更新](UpdateTabular2)
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png)  [编辑属性表](Editgroup)
+  [编辑属性表](Editgroup)
 
-![](../../img/smalltitle.png)  [更新列](UpdateButton)
+  [更新列](UpdateButton)
 
-![](../../img/smalltitle.png)  [属性表复制粘贴](CopyAndPaste)
+  [属性表复制粘贴](CopyAndPaste)
 
-![](../../img/smalltitle.png)  [属性表拖拽](DragTabular)
+  [属性表拖拽](DragTabular)
 
-![](../../img/smalltitle.png)  [二进制字段编辑](BinaryEdit)
+  [二进制字段编辑](BinaryEdit)
 

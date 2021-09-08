@@ -19,5 +19,5 @@ title: 新建默认风格的自定义专题图
 
 ### ![](../../img/seealso.png)相关主题
 
-![](../../img/smalltitle.png) [修改自定义专题图](CustomizeMapGroupDia)
+ [修改自定义专题图](CustomizeMapGroupDia)
 

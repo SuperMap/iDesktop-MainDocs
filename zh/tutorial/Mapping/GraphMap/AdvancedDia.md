@@ -47,8 +47,8 @@ title: “高级”选项卡
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改统计专题图](GraphMapDia)
+ [修改统计专题图](GraphMapDia)
 
-![](../../img/smalltitle.png) [“属性”选项卡](PropertiesDia)
+ [“属性”选项卡](PropertiesDia)
 
 

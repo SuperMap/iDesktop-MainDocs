@@ -21,16 +21,16 @@ title: 筛选
   1. 筛选操作是针对对当前属性表进行的，因此，用户若想对某几列的属性值都进行筛选，必须在所有筛选操作前先将待筛选的所有列都选中，再对每列分别进行筛选操作。
   2. 筛选操作开始后，再次单击“筛选”按钮所有的筛选操作都被取消。
 
-![](../../img/smalltitle.png) [升序](SortOrderAscendingButton)
+ [升序](SortOrderAscendingButton)
 
-![](../../img/smalltitle.png) [降序](SortOrderDescendingButton)
+ [降序](SortOrderDescendingButton)
 
-![](../../img/smalltitle.png) [隐藏列](HideButton)
+ [隐藏列](HideButton)
 
-![](../../img/smalltitle.png) [取消隐藏](CancelHideButton)
+ [取消隐藏](CancelHideButton)
 
-![](../../img/smalltitle.png) [定位](GoToButton)
+ [定位](GoToButton)
 
-![](../../img/smalltitle.png) [显示十六进制](DisplayHexadecimal)
+ [显示十六进制](DisplayHexadecimal)
 
 

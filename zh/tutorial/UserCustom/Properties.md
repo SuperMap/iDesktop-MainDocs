@@ -11,36 +11,36 @@ title: 界面元素的属性介绍
   
 下面详细介绍界面元素的属性，由于不同界面元素具有的属性内容不同，以下将分别介绍各个界面元素的属性：
 
-![](../img/smalltitle.png) [选项卡](Properties_Tab.html)
+ [选项卡](Properties_Tab)
 
-![](../img/smalltitle.png) [控件组](Properties_Group.html)
+ [控件组](Properties_Group)
 
-![](../img/smalltitle.png) [弹出组对话框按钮](Properties_Lauch.html)
+ [弹出组对话框按钮](Properties_Lauch)
 
-![](../img/smalltitle.png) [控件盒](Properties_Box.html)
+ [控件盒](Properties_Box)
 
-![](../img/smalltitle.png) [分隔条](Properties_Seperator.html)
+ [分隔条](Properties_Seperator)
 
-![](../img/smalltitle.png) [按钮](Properties_Button.html)
+ [按钮](Properties_Button)
 
-![](../img/smalltitle.png) [下拉按钮](Properties_ButtonDrop.html)
+ [下拉按钮](Properties_ButtonDrop)
 
-![](../img/smalltitle.png) [复选框](Properties_Check.html)
+ [复选框](Properties_Check)
 
-![](../img/smalltitle.png) [文本框](Properties_Text.html)
+ [文本框](Properties_Text)
 
-![](../img/smalltitle.png) [标签](Properties_Label.html)
+ [标签](Properties_Label)
 
-![](../img/smalltitle.png) [颜色按钮](Properties_Color.html)
+ [颜色按钮](Properties_Color)
 
-![](../img/smalltitle.png) [组合框](Properties_Comb.html)
+ [组合框](Properties_Comb)
 
-![](../img/smalltitle.png) [数字显示框](Properties_Interger.html)
+ [数字显示框](Properties_Interger)
 
-![](../img/smalltitle.png) [按钮栏](Properties_Gallery.html)
+ [按钮栏](Properties_Gallery)
 
-![](../img/smalltitle.png) [状态栏](Properties_Satus.html)
+ [状态栏](Properties_Satus)
 
-![](../img/smalltitle.png) [浮动窗口](Properties_Dockbar.html)
+ [浮动窗口](Properties_Dockbar)
 
-![](../img/smalltitle.png) [右键菜单](Properties_Context.html)
+ [右键菜单](Properties_Context)

@@ -14,19 +14,19 @@ title: 插件管理
 ### SuperMap Online 桌面插件管理
 
 SuperMap Online 桌面插件主页是实现用户插件共享的网络门户，是汇集各类型插件的展示窗口，为用户提供一个插件下载的平台。您可直接输入网址
-<https://www.supermapol.com/resources/datas.html#plugin> 进入SuperMap Online
+<https://www.supermapol.com/resources/datas> 进入SuperMap Online
 桌面插件的主页。
 
 ![](img/SuperMapOnline.png)  
 
   
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png) [插件管理器](manager.html)
+ [插件管理器](manager)
 
-![](../img/smalltitle.png) [安装插件](Install.html)
+ [安装插件](Install)
 
-![](../img/smalltitle.png) [下载插件](Download.html)
+ [下载插件](Download)
 
-![](../img/smalltitle.png) [卸载/移除插件](Remove.html)
+ [卸载/移除插件](Remove)
 

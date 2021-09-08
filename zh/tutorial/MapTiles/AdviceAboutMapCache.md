@@ -54,14 +54,14 @@ Java_HOME%\webapps\iserver\output\cache，否则瓦片切片拷贝可能会花�
 * 保持桌面和服务器中两个 SuperMap.xml 文件的 CustomDPIX 和 CustomDPIY 的取值相同。
 7.在桌面端生成的地图瓦片，如需在 SueprMap iServer Java 服务端发布，需要注意，生成紧凑型地图瓦片时，不要对瓦片进行加密，即不要设置密码，否则在服务端发布会有问题。
 
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png)  [地图瓦片](MapTiles)
+  [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png)  [地图瓦片类型](TilesType)
+  [地图瓦片类型](TilesType)
 
-![](../img/smalltitle.png)  [地图瓦片存储类型](MapCacheType)
+  [地图瓦片存储类型](MapCacheType)
 
-![](../img/smalltitle.png)  [地图瓦片目录结构](MapCacheFolder)
+  [地图瓦片目录结构](MapCacheFolder)
 
-![](../img/smalltitle.png)  [使用地图瓦片的建议](AdviceAboutMapCache)
+  [使用地图瓦片的建议](AdviceAboutMapCache)

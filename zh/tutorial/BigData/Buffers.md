@@ -22,8 +22,8 @@ title: 缓冲区分析
 4. **分析范围** ：选填参数，当不设置时，默认为输入数据集的全幅范围。可手动输入范围，还可以通过复制属性中的数据集或对象范围，将其粘贴至此。
 5. 设置好以上参数之后，即可执行分析，分析成功后会在地图窗口直接打开执行结果，并且输出窗口会提示分析结果的存储路径。 **注意** ：用户若直接打开生成结果路径的数据会提示打开失败，是由于基于iSever服务的分析，会存在数据被占用而无法打开的情况。建议用户将数据拷贝至其他路径中打开该数据进行编辑操作。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [环境配置](BigDataAnalysisEnvironmentConfiguration)
+ [环境配置](BigDataAnalysisEnvironmentConfiguration)
 
-![](../img/smalltitle.png) [数据准备](DataPreparation)
+ [数据准备](DataPreparation)

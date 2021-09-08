@@ -8,12 +8,12 @@ title: 空间关系建模
 
 ### ![](img/seealso.png) 相关主题
 
-![](img/smalltitle.png) [基础词汇](BasicVocabulary)
+ [基础词汇](BasicVocabulary)
 
-![](img/smalltitle.png) [地理度量分析](MeasureGeographicDistributions)
+ [地理度量分析](MeasureGeographicDistributions)
 
-![](img/smalltitle.png) [聚类分析](Clusters)
+ [聚类分析](Clusters)
 
-![](img/smalltitle.png) [分析模式](AnalyzingPatterns)
+ [分析模式](AnalyzingPatterns)
 
 

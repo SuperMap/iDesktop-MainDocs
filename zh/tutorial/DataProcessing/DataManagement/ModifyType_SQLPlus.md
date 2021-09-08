@@ -139,15 +139,15 @@ title: SQLPlus修改字段类型支持情况
   
 ### ![](../../img/seealso.png) 相关内容
 
-![](../../img/smalltitle.png)[ **PostGreSQL**
+[ **PostGreSQL**
 字段类型修改情况](ModifyType_PostGreSQL)
 
-![](../../img/smalltitle.png)[ **OraclePlus**
-字段类型修改情况](ModifyType_OraclePlus.htm)
+[ **OraclePlus**
+字段类型修改情况](ModifyType_OraclePlus)
 
-![](../../img/smalltitle.png)[ **MySQL** 字段类型修改情况](ModifyType_MySQL)
+[ **MySQL** 字段类型修改情况](ModifyType_MySQL)
 
-![](../../img/smalltitle.png)[ **PostGIS** 字段类型修改情况](ModifyType_PostGIS)
+[ **PostGIS** 字段类型修改情况](ModifyType_PostGIS)
 
-![](../../img/smalltitle.png)[ **DMPlus** 字段类型修改情况](ModifyType_DMPlus)
+[ **DMPlus** 字段类型修改情况](ModifyType_DMPlus)
 

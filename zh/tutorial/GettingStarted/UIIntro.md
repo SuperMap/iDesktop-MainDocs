@@ -28,7 +28,7 @@ title: 桌面工作环境简介
   * 功能分布更清晰、直观：通过选项卡（tab 页）和组（group 组）的组织结构，对功能控件进行层次化组织管理；
   * 操作更方便：大部分的功能控件都摆在用户眼前，用户不必再通过点击层层菜单来寻找某个功能或命令，只需激活功能所在的“选项卡”，即可直接操作相应的功能，提高工作效率。
 
-![](../Features/UIIntroduct/img/Ribbon.png)  
+![](../tutorial/UIIntroduct/img/Ribbon.png)  
 ---  
 图：功能区（Ribbon）组织结构  
   
@@ -41,37 +41,33 @@ title: 桌面工作环境简介
 
 应用程序的用户界面主要由以下几部分构成：
 
-![](img/smalltitle.png) [文件按钮及文件菜单](../Features/StartMenu/StartMenu.html)
+ [文件按钮及文件菜单](../tutorial/StartMenu/StartMenu)
 
-![](img/smalltitle.png) [Ribbon
-功能区](../Features/UIIntroduct/RibbonIntroduct.html)
+ [Ribbon
+功能区](../tutorial/UIIntroduct/RibbonIntroduct)
 
-![](img/smalltitle.png)
-[上下文选项卡](../Features/UIIntroduct/ContextTabsIntroduct.html)
 
-![](img/smalltitle.png) [Ribbon
-控件](../Features/UIIntroduct/RibbonControlsIntroduct.html)
+[上下文选项卡](../tutorial/UIIntroduct/ContextTabsIntroduct)
 
-![](img/smalltitle.png) [应用程序中的子窗口](../Features/UIIntroduct/ChildWindows.html)
+ [Ribbon
+控件](../tutorial/UIIntroduct/RibbonControlsIntroduct)
 
-![](img/smalltitle.png) [浮动窗口](../Features/UIIntroduct/FloatWindows.html)
+ [应用程序中的子窗口](../tutorial/UIIntroduct/ChildWindows)
 
-![](img/smalltitle.png)
-[工作空间管理器](../Features/UIIntroduct/WorkspaceManager.html)
+ [浮动窗口](../tutorial/UIIntroduct/FloatWindows)
 
-![](img/smalltitle.png)
-[图层管理器](../Features/UIIntroduct/LayerManagerIntroduct.html)
 
-![](img/smalltitle.png) [输出窗口](../Features/UIIntroduct/OutputWindows.html)
+[工作空间管理器](../tutorial/UIIntroduct/WorkspaceManager)
 
-![](img/smalltitle.png)
-[流程管理窗口介绍](../Features/UIIntroduct/proceduremanage.html)
 
-* * *
+[图层管理器](../tutorial/UIIntroduct/LayerManagerIntroduct)
+
+ [输出窗口](../tutorial/UIIntroduct/OutputWindows)
+
+
+[流程管理窗口介绍](../tutorial/UIIntroduct/proceduremanage)
 
 * * *
 
-[](http://www.supermap.com)  
-  
----
+
 

@@ -25,8 +25,8 @@ title: 关键要素分析
 
 ![](img/CriticalResult.png)
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [邻近要素分析](AdjoinAnalyst)
+ [邻近要素分析](AdjoinAnalyst)
 
-![](../img/smalltitle.png) [通达要素分析](AccessibilityAnalyst)
+ [通达要素分析](AccessibilityAnalyst)

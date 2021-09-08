@@ -6,19 +6,19 @@ title: 地图可视化表达
 
 ### ![](../img/read.gif)内容提要：
 
-![](../img/smalltitle.png) [基本操作](../Visualization/Basic/Basic.html)
+ [基本操作](../Visualization/Basic/Basic)
 
-![](../img/smalltitle.png)[设置地图参数](../Visualization/MapSetting/MapSetting.html)
+[设置地图参数](../Visualization/MapSetting/MapSetting)
 
-![](../img/smalltitle.png)[管理地图图层](../Visualization/LayerManagement/LayerManagement.html)
+[管理地图图层](../Visualization/LayerManagement/LayerManagement)
 
-![](../img/smalltitle.png) [与地图交互](Interaction/Interaction.html)
+ [与地图交互](Interaction/Interaction)
 
-![](../img/smalltitle.png) [地图符号化表达](LayerStyle/mapsymbol.html)
+ [地图符号化表达](LayerStyle/mapsymbol)
 
-![](../img/smalltitle.png) [使用地图模板](MapTemplate/MapTemplate.html)
+ [使用地图模板](MapTemplate/MapTemplate)
 
-![](../img/smalltitle.png) [地图操作的快捷键](MapShortcutKey.html)
+ [地图操作的快捷键](MapShortcutKey)
 
 
 

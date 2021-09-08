@@ -18,10 +18,10 @@ GDP 数值制作的分段专题图。按照 GDP 数值的分布情况，分为�
 
 ### ![](../../img/read.gif)制作分段专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建分段专题图](RangesMapDefault)
+ [新建分段专题图](RangesMapDefault)
 
-![](../../img/smalltitle.png) [修改分段专题图](RangesMapGroupDia)
+ [修改分段专题图](RangesMapGroupDia)
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [编辑专题图](../EditingMap/EditingMap)
+ [编辑专题图](../EditingMap/EditingMap)

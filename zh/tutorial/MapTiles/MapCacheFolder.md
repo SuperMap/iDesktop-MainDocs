@@ -61,12 +61,12 @@ iServer 2.0 瓦片目录结构说明
 ---  
   * 第五层：瓦片图片文件名称。其格式为：Index_y.postfix 的值。如上图中选中的文件夹，文件夹5表示 X 索引号（Index_x）为5 ，图片名称15表示 Y 索引号(Index_y)为15，则此图片位于地图目录的第5行第15列。
 
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png)  [地图瓦片](MapTiles)
+  [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png)  [地图瓦片类型](TilesType)
+  [地图瓦片类型](TilesType)
 
-![](../img/smalltitle.png)  [地图瓦片存储类型](MapCacheType)
+  [地图瓦片存储类型](MapCacheType)
 
-![](../img/smalltitle.png)  [使用地图瓦片的建议](AdviceAboutMapCache)
+  [使用地图瓦片的建议](AdviceAboutMapCache)

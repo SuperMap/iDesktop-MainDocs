@@ -35,13 +35,9 @@ n 边形，则就与 n 个离散点相邻；当某一数据点落入某一泰森
 
 ### ![](../../../img/seealso.png) 相关主题
 
-![](../../../img/smalltitle.png) [泰森多边形构建原理](ThiessenPolygon_Theory.html)
+![](../../../img/smalltitle.png) [泰森多边形构建原理](ThiessenPolygon_Theory)
 
-![](../../../img/smalltitle.png) [泰森多边形应用实例](ThiessenAnalyst_Example.html)
+![](../../../img/smalltitle.png) [泰森多边形应用实例](ThiessenAnalyst_Example)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

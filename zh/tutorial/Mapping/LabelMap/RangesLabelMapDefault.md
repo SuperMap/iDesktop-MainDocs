@@ -21,5 +21,5 @@ title: 新建分段标签专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改分段标签专题图](RangesLabelMapDia)
+ [修改分段标签专题图](RangesLabelMapDia)
 

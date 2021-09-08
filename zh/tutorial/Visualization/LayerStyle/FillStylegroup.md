@@ -35,13 +35,13 @@ title: 设置面图层的风格
 ### ![](../../img/read.gif) 风格面板
 
 双击面图层打开面图层风格面板，在面板中可对填充风格进行设置。该面板组织方式同“ **填充符号选择器**
-”，风格设置详细说明请参考[填充符号风格设置](FillSymStyle.html)。
+”，风格设置详细说明请参考[填充符号风格设置](FillSymStyle)。
 
 **注意** :当前设置是对整个线图层中的所有线对象都实时生效。
 
 ### ![](../../img/seealso.png) 相关主题
 
-[保存到风格模板库](DTv2_SaveStyleTempl.html)
+[保存到风格模板库](DTv2_SaveStyleTempl)
 
-[填充柔化](MapSoften.html)
+[填充柔化](MapSoften)
 

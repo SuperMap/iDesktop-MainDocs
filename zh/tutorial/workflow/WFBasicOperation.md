@@ -39,21 +39,17 @@ title: 地理处理建模基本操作
 
 ### 相关内容
 
-![](../img/smalltitle.png) [地理处理建模概述](WorkFlowSummarize.html)
+ [地理处理建模概述](WorkFlowSummarize)
 
-![](../img/smalltitle.png) [基本词汇](WFConcepts.html)
+ [基本词汇](WFConcepts)
 
-![](../img/smalltitle.png) [创建模型](CreatWorkFlow.html)
+ [创建模型](CreatWorkFlow)
 
-![](../img/smalltitle.png) [任务管理](WFTaskManagement.html)
+ [任务管理](WFTaskManagement)
 
-![](../img/smalltitle.png) [模型模版](WorkFlowTemplate.html)
+ [模型模版](WorkFlowTemplate)
 
-![](../img/smalltitle.png) [地理处理建模实例](WorkFlowApplications.html)
+ [地理处理建模实例](WorkFlowApplications)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

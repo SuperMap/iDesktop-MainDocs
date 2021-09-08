@@ -13,11 +13,11 @@ title: 修改统一风格标签专题图
 
 ### 基于矢量图层制作统一风格标签专题图时，专题图属性面板组织为三个选项卡页，分别为“属性”、“风格”、“高级”。具体介绍如下：
 
-![](../../img/smalltitle.png) [“属性”选项卡](PropertiesDia)
+ [“属性”选项卡](PropertiesDia)
 
-![](../../img/smalltitle.png) [“风格”选项卡](UniformStyleDia)
+ [“风格”选项卡](UniformStyleDia)
 
-![](../../img/smalltitle.png) [“高级”选项卡](AdvancedDia)
+ [“高级”选项卡](AdvancedDia)
 
 ### ![](../../img/read.gif)备注
 

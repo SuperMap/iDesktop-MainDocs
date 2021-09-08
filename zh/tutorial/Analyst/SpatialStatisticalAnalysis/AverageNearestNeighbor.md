@@ -33,9 +33,9 @@ title: 平均最近邻
 
 ### ![](img/seealso.png) 相关主题
 
-![](img/smalltitle.png) [空间自相关](SpatialAutocorrelation)
+ [空间自相关](SpatialAutocorrelation)
 
-![](img/smalltitle.png) [高低值聚类](HighLowClustering)
+ [高低值聚类](HighLowClustering)
 
 ![](img/smalltitle.png [增量空间自相关](IncrementalSpatialAutocorrelation)
 

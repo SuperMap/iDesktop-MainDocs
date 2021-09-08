@@ -37,13 +37,9 @@ title: 泰森多边形构建原理
   
 ### ![](../../../img/seealso.png) 相关主题
 
-![](../../../img/smalltitle.png) [构建泰森多边形](ThiessenPolygon.html)
+![](../../../img/smalltitle.png) [构建泰森多边形](ThiessenPolygon)
 
-![](../../../img/smalltitle.png) [泰森多边形应用实例](ThiessenAnalyst_Example.html)
+![](../../../img/smalltitle.png) [泰森多边形应用实例](ThiessenAnalyst_Example)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

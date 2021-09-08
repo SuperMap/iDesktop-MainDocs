@@ -13,9 +13,9 @@ SuperMap
   
 实现在地图中播放显示时态数据，您需要完成以下步骤：
 
-  * 第一步：[准备时态数据](PrepareTemporalData.html)
-  * 第二步：[对数据启用时间](SetDataTime.html)
-  * 第三步：[播放时态数据](PlayTemporalData.html)
+  * 第一步：[准备时态数据](PrepareTemporalData)
+  * 第二步：[对数据启用时间](SetDataTime)
+  * 第三步：[播放时态数据](PlayTemporalData)
 
 
 

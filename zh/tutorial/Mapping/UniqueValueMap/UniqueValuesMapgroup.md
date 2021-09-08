@@ -21,9 +21,9 @@ GRID
 
 ### ![](../../img/read.gif)制作单值专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建单值专题图](UniqueValuesMapDefault)
+ [新建单值专题图](UniqueValuesMapDefault)
 
-![](../../img/smalltitle.png) [修改单值专题图](UniqueValuesMapGroupDia)
+ [修改单值专题图](UniqueValuesMapGroupDia)
 
 ### ![](../../img/note.png)注意事项
 
@@ -31,5 +31,5 @@ GRID
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [编辑专题图](../EditingMap/EditingMap)
+ [编辑专题图](../EditingMap/EditingMap)
 

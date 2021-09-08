@@ -41,4 +41,4 @@ ColorScheme \"下的 Default 子文件夹中。
 
 ### ![](../../img/seealso.png)相关主题
 
-![](../../img/smalltitle.png) [管理颜色方案](ManageColorRamp.html)
+ [管理颜色方案](ManageColorRamp)

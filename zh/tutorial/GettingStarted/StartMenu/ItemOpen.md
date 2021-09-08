@@ -15,14 +15,14 @@ title: 打开
   * 打开工作空间
 
 用户可以单击“文件型...”、“Oracle...”、“SQL
-Server...”按钮，打开不同类型的工作空间文件。具体操作方式，请参见：[打开工作空间](../DataProcessing/DataManagement/OpenWorkspace.html)。
+Server...”按钮，打开不同类型的工作空间文件。具体操作方式，请参见：[打开工作空间](../DataProcessing/DataManagement/OpenWorkspace)。
 
 还可在“最近使用的工作空间”列表中，单击某项记录即可打开对应的工作空间。
 
   * 打开数据源
 
 用户可以单击“文件型...”、“数据库型...”、“Web
-型...”按钮，打开不同类型的数据源文件。具体操作方式，请参见：[打开数据源](../DataProcessing/DataManagement/OpenDatasource.html)。
+型...”按钮，打开不同类型的数据源文件。具体操作方式，请参见：[打开数据源](../DataProcessing/DataManagement/OpenDatasource)。
 
 还可在“最近使用的数据源”列表中，单击某项记录即可打开对应的数据源。
 
@@ -36,22 +36,22 @@ Server...”按钮，打开不同类型的工作空间文件。具体操作方�
 文件中记录了最近打开的工作空间和数据源。用户可以打开该文件查看最近使用的文件名称及其路径。SuperMap.Desktop.RecentFile.xml
 的位置：安装目录\Configuration\SuperMap.Desktop.RecentFile.xml。
 
-### ![](../img/seealso.png) 相关链接
+###  相关链接
 
-![](../img/smalltitle.png) [新建](ItemNew.html)
+ [新建](ItemNew)
 
-![](../img/smalltitle.png) [保存/另存](ItemSave.html)
+ [保存/另存](ItemSave)
 
-![](../img/smalltitle.png) [示范数据](ItemSampleData.html)
+ [示范数据](ItemSampleData)
 
-![](../img/smalltitle.png) [打印](ItemPrint.html)
+ [打印](ItemPrint)
 
-![](../img/smalltitle.png) [选项](ItemDeskproOption.html)
+ [选项](ItemDeskproOption)
 
-![](../img/smalltitle.png) [许可](ItemLicense.html)
+ [许可](ItemLicense)
 
-![](../img/smalltitle.png) [服务](OnlineAddress.html)
+ [服务](OnlineAddress)
 
-![](../img/smalltitle.png) [帮助](Help.html)
+ [帮助](Help)
 
-![](../img/smalltitle.png) [关于](About.html)
+ [关于](About)

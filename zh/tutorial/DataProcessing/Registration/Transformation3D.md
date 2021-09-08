@@ -10,22 +10,22 @@ title: 三维配准
 
 
 
- ![](../../img/smalltitle.png) [第一步 新建配准](NewRegistration3D)
+  [第一步 新建配准](NewRegistration3D)
 
 
 
- ![](../../img/smalltitle.png) [第二步 选择控制点](Poniting3D)
+  [第二步 选择控制点](Poniting3D)
 
 
 
- ![](../../img/smalltitle.png) [第三步 计算误差](CalculatError3D)
+  [第三步 计算误差](CalculatError3D)
 
 
 
- ![](../../img/smalltitle.png) [第四步 执行配准](Registrating3D)
+  [第四步 执行配准](Registrating3D)
 
 
 
- ![](../../img/smalltitle.png) [导入/导出配准信息文件](importGCP)
+  [导入/导出配准信息文件](importGCP)
 
 

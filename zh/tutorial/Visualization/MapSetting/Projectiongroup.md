@@ -12,29 +12,29 @@ title: 设置地图投影
 
 可通过工具条中工作设置地图坐标系，具体操作如下所述：
 
-  * **重新设定坐标系** ：单击 “重新设定坐标系” 按钮，在下拉菜单中选择“更多”，可在“坐标系设置”对话框中设置目标投影。坐标系设置的具体操作，请参考[投影设置](../../DataProcessing/Projection/PrjCoordSysSettingWin.html)。
+  * **重新设定坐标系** ：单击 “重新设定坐标系” 按钮，在下拉菜单中选择“更多”，可在“坐标系设置”对话框中设置目标投影。坐标系设置的具体操作，请参考[投影设置](../../DataProcessing/Projection/PrjCoordSysSettingWin)。
   * **复制坐标系** ：单击 “复制坐标系”按钮，弹出“复制坐标系”对话框，可选择从数据源复制或从数据集复制：
     * **从数据源** ：选择“来自数据源”单选框，单击组合框下拉按钮，选择一个数据源，将该数据源的坐标系设置为目标坐标系。
     * **从数据集数据集** ：选择“来自数据集”单选框，单击组合框下拉按钮，选择一个数据集，将该数据集的坐标系设置为目标坐标系。
   * **导入坐标系** ：单击“导入坐标系...”按钮，在弹出的“选择”窗口中，选择投影信息文件并导入即可。支持导入 shape 投影信息文件（*.shp;*.prj）、MapInfo 交换格式（*.mif）、MapInfo TAB 文件（*.tab）、影像格式投影信息文件（*.tif;*.img;*.sit）、投影信息文件（*.xml）。
   * **导出坐标系** ：单击“导出坐标系...”按钮，可将当前地图坐标信息导出为投影信息文件（*.xml）。
-  * **转换参数** ：单击“转换参数”按钮，在弹出的“投影转换参数设置”窗口中，设置转换参数即可对当前地图投影进行投影转换，详细信息可参看[投影转换参数](../../DataProcessing/Projection/ConvertPrjCoordSysSingle.html#1)描述。
-  * **动态投影** ：勾选“动态投影”复选框，可对当前地图[启用动态投影](DynamicProjection.html)。
+  * **转换参数** ：单击“转换参数”按钮，在弹出的“投影转换参数设置”窗口中，设置转换参数即可对当前地图投影进行投影转换，详细信息可参看[投影转换参数](../../DataProcessing/Projection/ConvertPrjCoordSysSingle)描述。
+  * **动态投影** ：勾选“动态投影”复选框，可对当前地图[启用动态投影](DynamicProjection)。
 
 **相关内容** ：
 
-![](../../img/smalltitle.png) [
-关于地图投影](../../DataProcessing/Projection/AboutMapProjection.html)
+ [
+关于地图投影](../../DataProcessing/Projection/AboutMapProjection)
 
-![](../../img/smalltitle.png)[
-地图投影类型](../../DataProcessing/Projection/ProjectionType.html)
+[
+地图投影类型](../../DataProcessing/Projection/ProjectionType)
 
-![](../../img/smalltitle.png) [
-常用的地图投影](../../DataProcessing/Projection/ProjectionUsed.html)
+ [
+常用的地图投影](../../DataProcessing/Projection/ProjectionUsed)
 
-![](../../img/smalltitle.png) [如何选择地图投影](ChooseAMapProjection.html)
+ [如何选择地图投影](ChooseAMapProjection)
 
-![](../../img/smalltitle.png) [启用动态投影](DynamicProjection.html)
+ [启用动态投影](DynamicProjection)
 
 
 

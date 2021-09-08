@@ -20,4 +20,4 @@ title: 新建栅格单值专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改栅格单值专题](GridUniqueValuesMapGroupDia)
+ [修改栅格单值专题](GridUniqueValuesMapGroupDia)

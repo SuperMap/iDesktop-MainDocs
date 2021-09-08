@@ -79,10 +79,10 @@ analysis)是确定两个或多个变量间相互依赖的定量关系的一种�
 
 ### ![](img/seealso.png) 相关主题
 
-![](img/smalltitle.png) [地理度量分析](MeasureGeographicDistributions)
+ [地理度量分析](MeasureGeographicDistributions)
 
-![](img/smalltitle.png) [聚类分析](Clusters)
+ [聚类分析](Clusters)
 
-![](img/smalltitle.png) [空间关系建模](SpatialRelationshipModeling)
+ [空间关系建模](SpatialRelationshipModeling)
 
-![](img/smalltitle.png) [分析模式](AnalyzingPatterns)
+ [分析模式](AnalyzingPatterns)

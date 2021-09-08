@@ -34,8 +34,8 @@ title: 通达要素分析
 * 通达要素分析的事件点可以在网络弧段和网络结点上或在捕捉容限范围内的附近区域。
 * 事件点位置需要进行更改时，可以通过单击“实例管理”窗口工具栏中的“鼠标移动”按钮，用鼠标选中事件点，拖拽至其合适的位置。
 
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png) [邻近要素分析](AdjoinAnalyst)
+ [邻近要素分析](AdjoinAnalyst)
 
-![](../img/smalltitle.png) [通达要素分析](AccessibilityAnalyst)
+ [通达要素分析](AccessibilityAnalyst)

@@ -59,9 +59,9 @@ title: 第二步：加载数据
 
 ![](../SceneApplication/img/AddCAD.png)  
 
-关于CAD模型数据集的更多知识，详细请查看：[](../../../Features/DataProcessing/DataManagement/DataFormats/CADModelDataset.html)
+关于CAD模型数据集的更多知识，详细请查看：[](../../../tutorial/DataProcessing/DataManagement/DataFormats/CADModelDataset)
 CAD模型数据集。
 
 ### 相关主题
 
-![](../img/smalltitle.png) [第三步：保存场景](Step3_SaveScene.html)
+ [第三步：保存场景](Step3_SaveScene)

@@ -31,8 +31,8 @@ title: 统计专题图
 
 ### ![](../../img/read.gif)制作统计专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建统计专题图](GraphMapDefault)
+ [新建统计专题图](GraphMapDefault)
 
-![](../../img/smalltitle.png) [修改统计专题图](GraphMapDia)
+ [修改统计专题图](GraphMapDia)
 
 

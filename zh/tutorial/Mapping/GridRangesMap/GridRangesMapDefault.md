@@ -22,5 +22,5 @@ title: 新建的栅格分段专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改栅格分段专题图](GridRangesMapGroupDia)
+ [修改栅格分段专题图](GridRangesMapGroupDia)
 

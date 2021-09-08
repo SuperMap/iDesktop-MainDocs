@@ -19,10 +19,10 @@ title: 自定义专题图
 
 ### ![](../../img/read.gif)制作自定义专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建自定义专题图](CustomizeMapDefault)
+ [新建自定义专题图](CustomizeMapDefault)
 
-![](../../img/smalltitle.png) [修改自定义专题图](CustomizeMapGroupDia)
+ [修改自定义专题图](CustomizeMapGroupDia)
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [编辑专题图](../EditingMap/EditingMap)
+ [编辑专题图](../EditingMap/EditingMap)

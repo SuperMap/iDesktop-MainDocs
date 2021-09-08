@@ -22,17 +22,17 @@ SuperMap Online 地图的 POI 服务，对地图进行位置搜索操作。能�
   
 ![](img/QueryResult.png)  
 ---  
-  5. 用户可将搜索出的POI结果，以链接方式分享给其他用户，POI 搜索面板底部有“分享”按钮，单击该按钮，弹出“分享”对话框，其中“ **URL** ”即为当前搜索结果的搜索链接，点击复制按钮，可复制该点的地址链接。用户可通过[ **打开POI分享**](OpenPOI.html)功能查看其他用户分享的POI链接。
+  5. 用户可将搜索出的POI结果，以链接方式分享给其他用户，POI 搜索面板底部有“分享”按钮，单击该按钮，弹出“分享”对话框，其中“ **URL** ”即为当前搜索结果的搜索链接，点击复制按钮，可复制该点的地址链接。用户可通过[ **打开POI分享**](OpenPOI)功能查看其他用户分享的POI链接。
 
 ### 相关内容：
 
-![](../img/smalltitle.png) [配置服务](ConfigureAddress.html)
+ [配置服务](ConfigureAddress)
 
-![](../img/smalltitle.png) [在线地图](OnlineMap.html)
+ [在线地图](OnlineMap)
 
-![](../img/smalltitle.png) [在线数据](OnlineData.html)
+ [在线数据](OnlineData)
 
-![](../img/smalltitle.png) [在线符号库](OnlineSymbol.html)
+ [在线符号库](OnlineSymbol)
 
-![](../img/smalltitle.png) [我的数据](OnlineMyData.html)
+ [我的数据](OnlineMyData)
 

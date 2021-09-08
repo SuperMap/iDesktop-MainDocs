@@ -30,17 +30,13 @@ title: 矢量瓦片常见问题解答
 ![](img/image072.jpg)  
 ---  
   
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [地图瓦片](MapTiles.html)
+ [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png) [矢量瓦片](VectorTiles.html)
+ [矢量瓦片](VectorTiles)
 
-![](../img/smalltitle.png) [制图最佳实践](VectorTilesNotice.html)
+ [制图最佳实践](VectorTilesNotice)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

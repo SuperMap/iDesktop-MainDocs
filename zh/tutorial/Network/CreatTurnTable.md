@@ -25,8 +25,8 @@ title: 创建转向表
       * FEdgeID、TEdgeID 字段记录经过该结点的每个转向的起始弧段和终止弧段。
       * TurnCost 结点耗费字段，记录每个转向的消耗，默认值为0，表示无耗费，用户可根据实际操作需求，为该字段赋值。
 
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png)[转向表](TurnTable)
+[转向表](TurnTable)
 
-![](../img/smalltitle.png)[设置转向表](SetTurnTable)
+[设置转向表](SetTurnTable)

@@ -8,7 +8,7 @@ title: 大数据可视化
 
 ### ![](../img/read.gif)内容提要：
 
-![](../img/smalltitle.png)
+
 [热力图](../BigdataVisualization/AggregationMap/HeatMap)
 
 热力图是通过色带渲染数据的各种程度信息，例如表达温度的高低程度、表达密度的疏密程度或者访问频度等，帮助人们从海量数据中快速提取有价值的信息，通过可视化的手段直观展现，因此，热力图是大数据可视化手段之一。
@@ -16,7 +16,7 @@ title: 大数据可视化
 ![](img/Heatmap.png)  
 ---  
   
-![](../img/smalltitle.png)
+
 [网格图](../BigdataVisualization/AggregationMap/GridAggregationMap)
 
 网格聚合图是使用空间聚合方法，表现空间数据的分布特征和统计特征。SuperMap提供了两种形状的网格进行聚合显示，一种是矩形网格，一种是六边形网格。

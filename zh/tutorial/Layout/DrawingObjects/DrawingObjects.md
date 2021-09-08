@@ -98,29 +98,29 @@ title: 绘制几何对象
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png)
-[绘制点对象](../../DataProcessing/Objects/CreateObjects/Point.html)
 
-![](../../img/smalltitle.png)
-[绘制直线](../../DataProcessing/Objects/CreateObjects/DrawStraightLine.html)
+[绘制点对象](../../DataProcessing/Objects/CreateObjects/Point)
 
-![](../../img/smalltitle.png)
-[绘制折线](../../DataProcessing/Objects/CreateObjects/DrawPolyLine.html)
 
-![](../../img/smalltitle.png)
-[绘制圆弧](../../DataProcessing/Objects/CreateObjects/DrawArc.html)
+[绘制直线](../../DataProcessing/Objects/CreateObjects/DrawStraightLine)
 
-![](../../img/smalltitle.png)
-[绘制曲线](../../DataProcessing/Objects/CreateObjects/DrawCurve.html)
 
-![](../../img/smalltitle.png)
-[绘制多边形](../../DataProcessing/Objects/CreateObjects/DrawPolygon.html)
+[绘制折线](../../DataProcessing/Objects/CreateObjects/DrawPolyLine)
 
-![](../../img/smalltitle.png)
-[绘制四边形](../../DataProcessing/Objects/CreateObjects/DrawQuadRangle.html)
 
-![](../../img/smalltitle.png)
-[绘制圆](../../DataProcessing/Objects/CreateObjects/CreateCircle.html)
+[绘制圆弧](../../DataProcessing/Objects/CreateObjects/DrawArc)
 
-![](../../img/smalltitle.png)
-[绘制扇形](../../DataProcessing/Objects/CreateObjects/CreatePie.html)
+
+[绘制曲线](../../DataProcessing/Objects/CreateObjects/DrawCurve)
+
+
+[绘制多边形](../../DataProcessing/Objects/CreateObjects/DrawPolygon)
+
+
+[绘制四边形](../../DataProcessing/Objects/CreateObjects/DrawQuadRangle)
+
+
+[绘制圆](../../DataProcessing/Objects/CreateObjects/CreateCircle)
+
+
+[绘制扇形](../../DataProcessing/Objects/CreateObjects/CreatePie)

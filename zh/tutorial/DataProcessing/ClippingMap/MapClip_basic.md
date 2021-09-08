@@ -55,6 +55,6 @@ title: 地图裁剪概述
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [地图裁剪](RecanlgeClip)
+ [地图裁剪](RecanlgeClip)
 
 

@@ -8,12 +8,12 @@ title: 工作环境设计
 
 下面详细介绍如何在工作环境设计窗口中实现应用程序的定制和功能扩展。
 
-![](../img/smalltitle.png) [工作环境设计窗口介绍](UserCustomUI.html)
+ [工作环境设计窗口介绍](UserCustomUI)
 
-![](../img/smalltitle.png) [如何定制应用程序中已有的界面元素](CustomUIElement.html)
+ [如何定制应用程序中已有的界面元素](CustomUIElement)
 
-![](../img/smalltitle.png)
-[如何向应用程序中添加新的界面元素](../../GettingStarted/UI_index.html)
 
-![](../img/smalltitle.png)[应用程序的工作环境与如何保存定制工作环境](SaveWKEnvironment.html)
+[如何向应用程序中添加新的界面元素](../../guides/UI_index)
+
+[应用程序的工作环境与如何保存定制工作环境](SaveWKEnvironment)
 

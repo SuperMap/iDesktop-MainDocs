@@ -23,8 +23,8 @@ title: 属性汇总统计
   * **统计模式** ：选填参数，对所填属性字段进行统计。支持的模式有：最大值、最小值、平均值、总和、方差、标准差。
 4. 设置好以上参数之后，即可执行分析，属性汇总分析的结果是属性表数据集，分析结果保存的路径会在输出窗口提示。 **注意** ：用户若直接打开生成结果路径的数据会提示打开失败，是由于基于iSever服务的分析，会存在数据被占用而无法打开的情况。建议用户将数据拷贝至其他路径中打开该数据进行编辑操作。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [环境配置](BigDataAnalysisEnvironmentConfiguration)
+ [环境配置](BigDataAnalysisEnvironmentConfiguration)
 
-![](../img/smalltitle.png) [数据准备](DataPreparation)
+ [数据准备](DataPreparation)

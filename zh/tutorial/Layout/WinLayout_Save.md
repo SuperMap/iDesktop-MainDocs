@@ -37,5 +37,5 @@ title: 保存布局
 
 ### ![](../img/read.gif)相关主题：
 
-![](../img/smalltitle.png) [布局基本操作](Basic.html)
+ [布局基本操作](Basic)
 

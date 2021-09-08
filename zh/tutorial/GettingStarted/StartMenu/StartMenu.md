@@ -4,23 +4,23 @@ title: “文件”菜单
 ---
 应用程序用户界面的最左上角的“文件”按钮，点击后会弹出文件菜单。文件菜单提供了包括打开、新建、保存/另存、示范数据、打印、选项、许可、服务、帮助等操作。下面将详细介绍文件按钮菜单上各项的作用和具体操作方式：
 
-![](../img/smalltitle.png) [打开](ItemOpen.html)
+ [打开](ItemOpen)
 
-![](../img/smalltitle.png) [新建](ItemNew.html)
+ [新建](ItemNew)
 
-![](../img/smalltitle.png) [保存/另存](ItemSave.html)
+ [保存/另存](ItemSave)
 
-![](../img/smalltitle.png) [示范数据](ItemSampleData.html)
+ [示范数据](ItemSampleData)
 
-![](../img/smalltitle.png) [打印](ItemPrint.html)
+ [打印](ItemPrint)
 
-![](../img/smalltitle.png) [选项](ItemDeskproOption.html)
+ [选项](ItemDeskproOption)
 
-![](../img/smalltitle.png) [许可](ItemLicense.html)
+ [许可](ItemLicense)
 
-![](../img/smalltitle.png) [服务](OnlineAddress.html)
+ [服务](OnlineAddress)
 
-![](../img/smalltitle.png) [帮助](ItemHelp.html)
+ [帮助](ItemHelp)
 
-![](../img/smalltitle.png) [关于](About.html)
+ [关于](About)
 

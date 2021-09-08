@@ -7,7 +7,7 @@ title: 输出和打印布局
 
 下面详细介绍布局“输出”和“打印”功能和操作方式：
 
-![](../../img/smalltitle.png) [布局输出](ExportAsPicbutton.html)
+ [布局输出](ExportAsPicbutton)
 
-![](../../img/smalltitle.png) [布局打印](Printbutton.html)
+ [布局打印](Printbutton)
 

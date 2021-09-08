@@ -9,11 +9,11 @@ title: 三维快速入门
 
 ### ![](../img/read.gif)内容提要：
 
-![](../img/smalltitle.png) [加载三维模型](Load3DModel/LoadModel.html)
+ [加载三维模型](Load3DModel/LoadModel)
 
-![](../img/smalltitle.png) [加载数据](SceneApplication/Application1.html)
+ [加载数据](SceneApplication/Application1)
 
-![](../img/smalltitle.png) [快速建模](SceneApplication/Application3.html)
+ [快速建模](SceneApplication/Application3)
 
-![](../img/smalltitle.png) [场景操作快捷键](../SceneOperation/SceneShortcutKey.html)
+ [场景操作快捷键](../SceneOperation/SceneShortcutKey)
 

@@ -51,4 +51,4 @@ title: DEM 构建
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [DEM 构建概述](AboutTerrainBuilder)
+ [DEM 构建概述](AboutTerrainBuilder)

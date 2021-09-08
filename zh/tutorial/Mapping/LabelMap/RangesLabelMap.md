@@ -6,7 +6,7 @@ title: 分段标签专题图
 
 ### ![](../../img/read.gif)制作分段标签专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建分段标签专题图](RangesLabelMapDefault)
+ [新建分段标签专题图](RangesLabelMapDefault)
 
-![](../../img/smalltitle.png) [修改分段标签专题图](RangesLabelMapDia)
+ [修改分段标签专题图](RangesLabelMapDia)
 

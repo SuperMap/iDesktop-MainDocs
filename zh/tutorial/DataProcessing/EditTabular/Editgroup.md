@@ -60,15 +60,15 @@ title: 编辑属性表
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png)  [更新列](UpdateButton)
+  [更新列](UpdateButton)
 
-![](../../img/smalltitle.png)  [属性表复制粘贴](CopyAndPaste)
+  [属性表复制粘贴](CopyAndPaste)
 
-![](../../img/smalltitle.png)  [属性表拖拽](DragTabular)
+  [属性表拖拽](DragTabular)
 
-![](../../img/smalltitle.png)  [属性表更新](UpdateTabular)
+  [属性表更新](UpdateTabular)
 
-![](../../img/smalltitle.png)  [二进制字段编辑](BinaryEdit)
+  [二进制字段编辑](BinaryEdit)
 
 
 

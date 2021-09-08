@@ -21,23 +21,23 @@ SampleData”示范数据包，下载后需要安装到安装目录下-> SampleD
 
 若应用程序为绿色包，则不存在 **SampleData** 文件夹，可将下载后的示例数据包安装至程序文件夹根目录下使用。
 
-### ![](../img/seealso.png) 相关链接
+###  相关链接
 
-![](../img/smalltitle.png) [打开](ItemOpen.html)
+ [打开](ItemOpen)
 
-![](../img/smalltitle.png) [新建](ItemNew.html)
+ [新建](ItemNew)
 
-![](../img/smalltitle.png) [保存/另存](ItemSave.html)
+ [保存/另存](ItemSave)
 
-![](../img/smalltitle.png) [打印](ItemPrint.html)
+ [打印](ItemPrint)
 
-![](../img/smalltitle.png) [选项](ItemDeskproOption.html)
+ [选项](ItemDeskproOption)
 
-![](../img/smalltitle.png) [许可](ItemLicense.html)
+ [许可](ItemLicense)
 
-![](../img/smalltitle.png) [服务](OnlineAddress.html)
+ [服务](OnlineAddress)
 
-![](../img/smalltitle.png) [帮助](ItemHelp.html)
+ [帮助](ItemHelp)
 
-![](../img/smalltitle.png) [关于](About.html)
+ [关于](About)
 

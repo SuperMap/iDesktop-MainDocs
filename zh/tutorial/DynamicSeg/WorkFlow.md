@@ -24,7 +24,7 @@ SuperMap 提供的动态分段功能的主要步骤包括：生成路由数据�
 
 [7、动态分段关系管理](RelationManage)
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [流程管理窗口介绍](../UIIntroduct/proceduremanage)
+ [流程管理窗口介绍](../UIIntroduct/proceduremanage)
 

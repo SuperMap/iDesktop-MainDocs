@@ -9,9 +9,9 @@ title: 栅格单值专题图
 
 ### ![](../../img/read.gif)制作栅格单值专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建栅格单值专题图](GridUniqueValuesMapDefault)
+ [新建栅格单值专题图](GridUniqueValuesMapDefault)
 
-![](../../img/smalltitle.png) [修改栅格单值专题图](GridUniqueValuesMapGroupDia)
+ [修改栅格单值专题图](GridUniqueValuesMapGroupDia)
 
 ### ![](../../img/note.png) 注意事项
 

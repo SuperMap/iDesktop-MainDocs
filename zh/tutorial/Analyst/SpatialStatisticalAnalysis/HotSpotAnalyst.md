@@ -77,9 +77,9 @@ Z 得分(标准差) | P 值(概率) | Gi_ConfInvl 值 | 置信度 | 分析结果
 
 ### ![](img/seealso.png) 相关主题
 
-![](img/smalltitle.png)[聚类和异常值分析](ClusterOutlierAnalyst)
+[聚类和异常值分析](ClusterOutlierAnalyst)
 
-![](img/smalltitle.png)[优化的热点分析](OptimizedHotSpotAnalyst)
+[优化的热点分析](OptimizedHotSpotAnalyst)
 
-![](img/smalltitle.png)[分析模式](AnalyzingPatterns)
+[分析模式](AnalyzingPatterns)
 

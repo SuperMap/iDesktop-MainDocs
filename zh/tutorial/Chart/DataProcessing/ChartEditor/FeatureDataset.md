@@ -9,8 +9,8 @@ title: 特征物标数据集的管理
 
 ### ![](../../../img/read.gif)内容提要：
 
-[创建特征物标数据集](CreateFeatureDataset.html)  
+[创建特征物标数据集](CreateFeatureDataset)  
 介绍在可编辑分组中创建特征物标数据集的具体操作。
 
-[追加特征物标数据集](AddToFeatureDataset.html)  
+[追加特征物标数据集](AddToFeatureDataset)  
 介绍将已有特征物标数据集信息追加至可编辑分组中的具体操作。

@@ -8,8 +8,8 @@ title: 自动制图
 
 ### ![](../img/read.gif)内容提要：
 
-![](../img/smalltitle.png) [自动制图技术专题](AutoMapMaking2)
+ [自动制图技术专题](AutoMapMaking2)
 
-![](../img/smalltitle.png) [自动制图流程](AutoMapMaking1)
+ [自动制图流程](AutoMapMaking1)
 
-![](../img/smalltitle.png) [自动制图自定义扩展](AutoMapMaking3)
+ [自动制图自定义扩展](AutoMapMaking3)

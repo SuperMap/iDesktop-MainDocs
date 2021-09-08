@@ -13,4 +13,4 @@ title: 新建单值标签专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [修改单值标签专题图](UniqueLabelMapDia)
+ [修改单值标签专题图](UniqueLabelMapDia)

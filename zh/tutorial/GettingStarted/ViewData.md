@@ -12,9 +12,5 @@ title: 第二步：打开数据集并显示
 ![](img/UntitleMap1.png)  
 ---  
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

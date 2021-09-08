@@ -23,4 +23,4 @@ title: 新建分段专题图
 
 ### ![](../../img/seealso.png)相关主题
 
-![](../../img/smalltitle.png) [修改分段专题图](RangesMapGroupDia)
+ [修改分段专题图](RangesMapGroupDia)

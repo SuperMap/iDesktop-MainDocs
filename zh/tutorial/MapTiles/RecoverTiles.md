@@ -27,23 +27,19 @@ SuperMap 桌面提供续传/恢复地图瓦片功能，当您遇到程序意外�
 图：续传瓦片  
   3. 程序通过瓦片配置文件（*.sci）读取切图比例尺，及相关瓦片参数，对话框的参数均默认不可修改，单击“生成”即可续切瓦片配置文件*.sci 中未完成的切图任务。
 
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png)  [地图瓦片](MapTiles.html)
+  [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png)  [更新瓦片](UpdateTiles.html)
+  [更新瓦片](UpdateTiles)
 
-![](../img/smalltitle.png)  [瓦片检查](CheckTlies.html)
+  [瓦片检查](CheckTlies)
 
-![](../img/smalltitle.png)  [瓦片管理](MongoDBTilesManger.html)
+  [瓦片管理](MongoDBTilesManger)
 
-![](../img/smalltitle.png)  [加载 MongoDB 瓦片](AddMongoDBTiles.html)
+  [加载 MongoDB 瓦片](AddMongoDBTiles)
 
   
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

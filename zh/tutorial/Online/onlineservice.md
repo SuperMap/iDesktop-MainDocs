@@ -5,7 +5,7 @@ title: 在线服务
 ### 使用说明
 
 支持
-Online在线服务，服务包括：[实时路况查看](onlineservice.html#1)、[POI搜索](POIRetrieval.html)以及[查询路线公交](QueryRoute.html)。基于 SuperMap Online 地图服务，可以快速实时的查看路况信息、查询AQI实时掌握空气质量指数，快速实现位置定位及公交线路查询等。
+Online在线服务，服务包括：[实时路况查看](onlineservice)、[POI搜索](POIRetrieval)以及[查询路线公交](QueryRoute)。基于 SuperMap Online 地图服务，可以快速实时的查看路况信息、查询AQI实时掌握空气质量指数，快速实现位置定位及公交线路查询等。
 
 ### 实时路况
 
@@ -27,13 +27,13 @@ Online在线服务，服务包括：[实时路况查看](onlineservice.html#1)�
 
 ### 相关内容：
 
-![](../img/smalltitle.png) [配置服务](ConfigureAddress.html)
+ [配置服务](ConfigureAddress)
 
-![](../img/smalltitle.png) [在线地图](OnlineMap.html)
+ [在线地图](OnlineMap)
 
-![](../img/smalltitle.png) [在线数据](OnlineData.html)
+ [在线数据](OnlineData)
 
-![](../img/smalltitle.png) [在线符号库](OnlineSymbol.html)
+ [在线符号库](OnlineSymbol)
 
-![](../img/smalltitle.png) [我的数据](OnlineMyData.html)
+ [我的数据](OnlineMyData)
 

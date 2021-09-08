@@ -4,19 +4,19 @@ title: 制图最佳实践
 ---
 生成矢量瓦片，首先要准备一幅有效的矢量地图，SuperMap地图中的点、线、面、文本图层都支持生成矢量瓦片，并且SuperMap地图要素的符号化、图层设置等绝大多数都能被MapBox样式支持；但是，由于MapBox风格显示表达与SuperMap不同，所以矢量地图的制作存在一些局限性和注意事项，下文以地图制作的一般流程为主线，详细介绍您需要重点关注的制图内容，包括：数据坐标系、数据复杂度、地图符号化等风格设置以及图层可见比例尺范围等，以保证矢量瓦片创建的正确性和高效性。
 
-![](img/smalltitle.png) 数据坐标系
+ 数据坐标系
 
-![](img/smalltitle.png) 降低数据复杂度
+ 降低数据复杂度
 
-![](img/smalltitle.png) 符号化地图
+ 符号化地图
 
-![](img/smalltitle.png) 文字的效果
+ 文字的效果
 
-![](img/smalltitle.png) 制作专题图
+ 制作专题图
 
-![](img/smalltitle.png) 限制可见比例尺
+ 限制可见比例尺
 
-![](img/smalltitle.png) 瓦片与地图显示差异
+ 瓦片与地图显示差异
 
 ### ![](../img/read.gif) 数据坐标系
 
@@ -365,17 +365,13 @@ MapBox 样式对 SuperMap 地图中文字效果的支持也存在局限性，因
 ---  
 图：矢量瓦片不支持地图压盖设置  
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [地图瓦片](MapTiles.html)
+ [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png) [矢量瓦片](VectorTiles.html)
+ [矢量瓦片](VectorTiles)
 
-![](../img/smalltitle.png) [矢量瓦片常见问题解答](VectorTilesFAQ.html)
+ [矢量瓦片常见问题解答](VectorTilesFAQ)
 
-* * *
 
-[](http://www.supermap.com)  
-  
----
 

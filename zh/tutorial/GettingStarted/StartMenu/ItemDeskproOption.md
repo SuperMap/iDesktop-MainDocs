@@ -8,9 +8,9 @@ title: 选项
 
 “选项”按钮包含以下几个选项卡：
 
-![](../img/smalltitle.png) [常用](General.html)
+ [常用](General)
 
-![](../img/smalltitle.png) [环境](Environment.html)
+ [环境](Environment)
 
-![](../img/smalltitle.png) [保存](AutoSave.html)
+ [保存](AutoSave)
 

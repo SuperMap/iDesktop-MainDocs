@@ -20,7 +20,7 @@ title: 标签专题图
 
 ### ![](../../img/read.gif)制作标签专题图的两种途径：
 
-![](../../img/smalltitle.png)[新建标签专题图](LabelMapDefault)
+[新建标签专题图](LabelMapDefault)
 
-![](../../img/smalltitle.png)[修改标签专题图](LabelMapDia)
+[修改标签专题图](LabelMapDia)
 

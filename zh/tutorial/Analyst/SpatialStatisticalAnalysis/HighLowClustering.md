@@ -58,9 +58,9 @@ p 值 **具有** 统计学上的显著性，且 z 得分为负值。 | 可以拒
 
 ### ![](img/seealso.png) 相关主题
 
-![](img/smalltitle.png) [空间自相关](SpatialAutocorrelation)
+ [空间自相关](SpatialAutocorrelation)
 
-![](img/smalltitle.png) [增量空间自相关](IncrementalSpatialAutocorrelation)
+ [增量空间自相关](IncrementalSpatialAutocorrelation)
 
-![](img/smalltitle.png) [平均最近邻](AverageNearestNeighbor)
+ [平均最近邻](AverageNearestNeighbor)
 

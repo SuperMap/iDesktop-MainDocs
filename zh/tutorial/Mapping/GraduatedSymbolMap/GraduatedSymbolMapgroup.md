@@ -14,6 +14,6 @@ title: 等级符号专题图
 
 ### ![](../../img/read.gif)制作等级符号专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建等级符号专题图](GraduatedSymbolMapDefault)
+ [新建等级符号专题图](GraduatedSymbolMapDefault)
 
-![](../../img/smalltitle.png) [修改等级符号专题图](GraduatedSymbolMapGroupDia)
+ [修改等级符号专题图](GraduatedSymbolMapGroupDia)

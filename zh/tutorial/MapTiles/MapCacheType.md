@@ -35,7 +35,7 @@ SuperMap iDesktop 在生成地图瓦片时，提供三种瓦片存储类型，�
 
 当瓦片储存类型为 MongoDB 型时，生成的瓦片切片文件，以分布式格式存储在服务器的数据库中，而本地会生成一个索引文件（*.sci）。MongoDB
 类型的分布式切图服务，只支持5.0版本的瓦片。若选择 MongoDB 类型，需先启动 MongoDB 服务，请参看“[MongDB
-使用说明](../../../Features/TechDocument/MongoDBDatabaseGuide)”启动服务。有关连接信息的参数说明如下：
+使用说明](../../../tutorial/TechDocument/MongoDBDatabaseGuide)”启动服务。有关连接信息的参数说明如下：
 
   1. 服务器名称：用于设置 MongoDB 服务器地址，例如：192.168.120.42。
   2. 数据库名称：用于设置数据库名称。若服务器是以非用户验证方式启动 MongoDB，则可单击下拉按钮选择服务器中已存在的数据库，或直接输入新数据库名称创建一个数据库；若服务器以用户验证方式启动 MongoDB，则不支持新建数据库，也不能读取到已有的数据库名称，只能在文本框中输入已存在数据库名称。同时在用户验证模式下启动数据库服务，可以在"用户名"和"密码"中输入管理员用户名和密码，这样数据库名称下拉项中就可以看到库中已存在的数据库名称。
@@ -47,12 +47,12 @@ SuperMap iDesktop 在生成地图瓦片时，提供三种瓦片存储类型，�
   * 以分布式格式进行存储，便于数据分享与发布。
   * MongoDB 中存储的瓦片数据支持直接进行拷贝分发，可将数据从一个 MongoDB 服务器拷贝到另一个 MongoDB 服务器，有利于数据传输与备份。
 
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png)  [地图瓦片](MapTiles)
+  [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png)  [地图瓦片类型](TilesType)
+  [地图瓦片类型](TilesType)
 
-![](../img/smalltitle.png)  [地图瓦片目录结构](MapCacheFolder)
+  [地图瓦片目录结构](MapCacheFolder)
 
-![](../img/smalltitle.png)  [使用地图瓦片的建议](AdviceAboutMapCache)
+  [使用地图瓦片的建议](AdviceAboutMapCache)

@@ -39,15 +39,15 @@ SuperMap 桌面支持瓦片检查功能，通过读取 Geojson 格式的检查�
 4 | **failure** | 对于紧凑缓存，打开紧凑缓存cf文件失败。  
 5 | **error** | 检查的瓦片内容打开失败。  
 
-### ![](../img/seealso.png)相关主题
+### 相关主题
 
-![](../img/smalltitle.png)  [地图瓦片](MapTiles)
+  [地图瓦片](MapTiles)
 
-![](../img/smalltitle.png)  [续传瓦片](RecoverTiles)
+  [续传瓦片](RecoverTiles)
 
-![](../img/smalltitle.png)  [更新瓦片](UpdateTiles)
+  [更新瓦片](UpdateTiles)
 
-![](../img/smalltitle.png)  [瓦片管理](MongoDBTilesManger)
+  [瓦片管理](MongoDBTilesManger)
 
-![](../img/smalltitle.png)  [加载 MongoDB 瓦片](AddMongoDBTiles)
+  [加载 MongoDB 瓦片](AddMongoDBTiles)
 

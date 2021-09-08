@@ -18,6 +18,6 @@ SuperMap
 
 ### ![](../../img/read.gif)制作点密度专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建点密度专题图](DotDensityMapDefault)
+ [新建点密度专题图](DotDensityMapDefault)
 
-![](../../img/smalltitle.png) [修改点密度专题图](DotDensityMapGroupDia)
+ [修改点密度专题图](DotDensityMapGroupDia)

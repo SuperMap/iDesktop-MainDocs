@@ -14,7 +14,7 @@ title: 栅格分段专题图
 
 ### ![](../../img/read.gif)制作栅格分段专题图的两种途径：
 
-![](../../img/smalltitle.png) [新建栅分段专题图](GridRangesMapDefault)
+ [新建栅分段专题图](GridRangesMapDefault)
 
-![](../../img/smalltitle.png) [修改栅格分段专题图](GridRangesMapGroupDia)
+ [修改栅格分段专题图](GridRangesMapGroupDia)
 

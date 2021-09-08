@@ -1,12 +1,12 @@
 ---
 id: SplashControl
-title: *定制全局工作环境
+title: 定制全局工作环境
 ---
 应用程序支持对启动界面进行定制。首先要保证“显示启动界面”属性为 True，即启动应用程序的时候，显示启动画面。否则其它属性项的设置都将无效。
 
 SuperMap iDesktop 启动界面的配置有两种方式：
 
-  * 通过 SuperMap.Desktop.Startup.xml 文件中的 < splash enabled="true"></splash> 标签用于配置应用程序的启动界面，包括启动界面的界面设计以及启动时需要显示的信息和处理的内容。该文件位于"安装目录\\Configuration" 文件夹下。有关如何通过 SuperMap.Desktop.Startup.xml 文件配置启动界面的内容，请参见:[配置启动界面](../../HTMLconfig/StartupUIConfiguration.html)。
+  * 通过 SuperMap.Desktop.Startup.xml 文件中的 < splash enabled="true"></splash> 标签用于配置应用程序的启动界面，包括启动界面的界面设计以及启动时需要显示的信息和处理的内容。该文件位于"安装目录\\Configuration" 文件夹下。有关如何通过 SuperMap.Desktop.Startup.xml 文件配置启动界面的内容，请参见:[配置启动界面](../../HTMLconfig/StartupUIConfiguration)。
   * 通过定制工作环境，完成应用程序启动界面的配置。在工作环境设计界面的结构区选择“SuperMap”根结点，在右侧的属性浏览设置区域修改与启动界面相关的属性即可。
 
 下面详细介绍如何在工作环境中配置启动界面。

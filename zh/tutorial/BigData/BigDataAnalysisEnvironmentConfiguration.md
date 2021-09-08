@@ -24,8 +24,8 @@ UDB中存储的数据。同时还提供了大数据的管理、分析、地图�
 6. 切换至“分布式分析服务”面板，勾选“是否启用”复选框，设置关联服务地址、关联服务Token等参数，单击“保存”按钮即可；<br/>![](img/ProcessingServer.png)
 7. 配置好分析环境后，在iServer注册数据即可执行大数据在线分析操作，数据准备的操作可参见[注册数据](DataPreparation)页面。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [数据准备](DataPreparation)
+ [数据准备](DataPreparation)
 
-![](../img/smalltitle.png) [密度分析](DensityAnalysis)
+ [密度分析](DensityAnalysis)

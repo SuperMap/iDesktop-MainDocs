@@ -29,5 +29,5 @@ title: 创建专题图
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [地图专题表达概述](../ThematicMapTab)
+ [地图专题表达概述](../ThematicMapTab)
 

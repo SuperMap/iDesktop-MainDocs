@@ -15,7 +15,7 @@ title: 全屏
 
 ###  相关主题
 
-![](../../img/smalltitle.png) [关于窗口模式](WindowsModel_Basic.html)
+ [关于窗口模式](WindowsModel_Basic)
 
-![](../../img/smalltitle.png) [切换窗口模式](WindowsModel.html)
+ [切换窗口模式](WindowsModel)
 

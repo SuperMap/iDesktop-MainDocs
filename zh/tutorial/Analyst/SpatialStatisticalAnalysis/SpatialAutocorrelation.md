@@ -75,10 +75,10 @@ Moran’s I > 0 , Moran’s I显著为正存在显著的正相关性，观测值
 
 ### ![](img/seealso.png) 相关主题
 
-![](img/smalltitle.png)[高低值聚类](HighLowClustering)
+[高低值聚类](HighLowClustering)
 
-![](img/smalltitle.png)[增量空间自相关](IncrementalSpatialAutocorrelation)
+[增量空间自相关](IncrementalSpatialAutocorrelation)
 
-![](img/smalltitle.png)[平均最近邻](AverageNearestNeighbor)
+[平均最近邻](AverageNearestNeighbor)
 
 

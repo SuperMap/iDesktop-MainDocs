@@ -22,5 +22,5 @@ title: 绘制统计图表
   
 ### 相关内容
 
- * [制作统计图表](../../DataMining/Diagrams/CreateDiagram.html)
+ * [制作统计图表](../../DataMining/Diagrams/CreateDiagram)
 

@@ -23,7 +23,7 @@ title: 图层管理器（与地图窗口关联）
 
 图层管理器提供了丰富的右键菜单功能，每一个图层对应的结点都有右键菜单，方便用户管理该图层。
 
-另外，图层管理器工具条中的按钮，可以新建分组，对当前地图窗口中的图层进行统一管理，以及实现分级配图的功能。有关图层分组、图层控制的更多内容，请参见[图层分组](../Visualization/LayerManagement/LayerGroup.html)、[图层控制](../Visualization/LayerManagement/LayerControl.html)。
+另外，图层管理器工具条中的按钮，可以新建分组，对当前地图窗口中的图层进行统一管理，以及实现分级配图的功能。有关图层分组、图层控制的更多内容，请参见[图层分组](../Visualization/LayerManagement/LayerGroup)、[图层控制](../Visualization/LayerManagement/LayerControl)。
 
 ### ![](../img/read.gif)图层管理器操作
 

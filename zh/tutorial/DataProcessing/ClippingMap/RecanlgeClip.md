@@ -63,4 +63,4 @@ title: 地图裁剪
 
 ### ![](../../img/seealso.png) 相关主题
 
-![](../../img/smalltitle.png) [关于地图裁剪](MapClip_basic)
+ [关于地图裁剪](MapClip_basic)
