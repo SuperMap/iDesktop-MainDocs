@@ -13,10 +13,10 @@ title: 全屏
   1. 在“ **视图** ”选项卡的“ **窗口** ”组中，单击“全屏”按钮，或者按 F11快捷键，则当前窗口将全屏显示。
   2. 按 Esc 键或者再次按 F11 快捷键退出全屏状态。
 
-### ![](../img/seealso.png) 相关主题
+###  相关主题
 
-![](../img/smalltitle.png) [关于窗口模式](WindowsModel_Basic.htm)
+ [关于窗口模式](WindowsModel_Basic)
 
-![](../img/smalltitle.png) [切换窗口模式](WindowsModel.htm)
+ [切换窗口模式](WindowsModel)
 
 

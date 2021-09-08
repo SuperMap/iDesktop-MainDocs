@@ -109,8 +109,8 @@ SuperMap发送用户使用产品的相关信息，包括桌面平台功能执行
 
 ### ![](img/seealso.png)相关链接
 
-![](img/smalltitle.png) [保存](AutoSave.html)
+ [保存](AutoSavel)
 
-![](img/smalltitle.png) [环境](Environment.htm)
+ [环境](Environment)
 
 

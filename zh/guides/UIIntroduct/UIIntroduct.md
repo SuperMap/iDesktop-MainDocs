@@ -2,8 +2,7 @@
 id: UIIntroduct
 title: 界面介绍
 ---
-启动后，将显示如下图所示的主窗口界面。本产品的界面采用 Microsoft Office 2016 的风格界面，即 Ribbon
-风格界面，这种界面风格取代了利用菜单和工具条组织各个功能项和命令的传统模式。
+启动后，将显示如下图所示的主窗口界面。本产品的界面采用 Microsoft Office 2016 的风格界面，即 Ribbon 风格界面，这种界面风格取代了利用菜单和工具条组织各个功能项和命令的传统模式。
 
 应用程序的主窗口界面主要包括以下几部分：
 
@@ -23,9 +22,7 @@ title: 界面介绍
   * 功能分布更清晰、直观：通过选项卡（tab 页）和组（group 组）的组织结构，对功能控件进行层次化组织管理；
   * 操作更方便：大部分的功能控件都摆在用户眼前，用户不必再通过点击层层菜单来寻找某个功能或命令，只需激活功能所在的“选项卡”，即可直接操作相应的功能，提高工作效率。
 
-![](img/RibbonIntro.png)  
----  
-图：功能区（Ribbon）组织结构  
+![](img/Ribbon.png)  
   
   * 图中橘黄色矩形框所示的区域为功能区，即功能控件放置的区域。功能区所放置的各个控件统称为 Ribbon 控件，功能区上只能放置 Ribbon 控件。
   * 功能区最顶部所显示的名称，如“开始”、“数据”、“视图”等，为相应的选项卡的名称，通过点击选项卡的名称，即可进入相应的选项卡页，上图所示的“开始”选项卡为当前被选中的选项卡，此时，功能区上所呈现的控件为组织在“开始”选项卡中的功能控件。 
@@ -36,24 +33,23 @@ title: 界面介绍
 
 应用程序的用户界面主要由以下几部分构成：
 
-![](img/smalltitle.png) [文件按钮及文件菜单](../StartMenu/StartMenu)
+ [文件按钮及文件菜单](../StartMenu/StartMenu)
 
-![](img/smalltitle.png) [Ribbon 功能区](RibbonIntroduct)
+ [Ribbon 功能区](RibbonIntroduct)
 
-![](img/smalltitle.png) [上下文选项卡](ContextTabsIntroduct)
+ [上下文选项卡](ContextTabsIntroduct)
 
-![](img/smalltitle.png) [Ribbon 控件](RibbonControlsIntroduct)
+ [Ribbon 控件](RibbonControlsIntroduct)
 
-![](img/smalltitle.png) [应用程序中的子窗口](ChildWindows)
+ [应用程序中的子窗口](ChildWindows)
 
-![](img/smalltitle.png) [浮动窗口](FloatWindows)
+ [浮动窗口](FloatWindows)
 
-![](img/smalltitle.png) [工作空间管理器](WorkspaceManager)
+ [工作空间管理器](WorkspaceManager)
 
-![](img/smalltitle.png) [图层管理器](LayerManagerIntroduct)
+ [图层管理器](LayerManagerIntroduct)
 
-![](img/smalltitle.png) [输出窗口](OutputWindows)
+ [输出窗口](OutputWindows)
 
-![](img/smalltitle.png) [流程管理窗口介绍](proceduremanage)
-
+ [流程管理窗口介绍](proceduremanage)
 

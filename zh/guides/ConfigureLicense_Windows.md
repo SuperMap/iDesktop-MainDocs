@@ -9,20 +9,11 @@ title: 配置本地许可
 SuperMap 许可中心（SuperMap License
 Center）用来管理系列产品所有与许可相关的工作，包括：配置许可信息、许可信息的内外管理、以及查看目标机器上详细的许可状态和使用情况。
 
-1.SuperMap 许可中心以 Zip 包的形式提供，您可以通过以下任意一种方式获取 Zip 包并进行部署：
+1.SuperMap 许可中心以 Zip 包的形式提供，您可以通过以下方式获取 Zip 包并进行部署：
 
-    * ### 下载 Zip 包并部署 
-
-访问地址：[ SuperMap
-技术资源中心](http://support.supermap.com.cn)，下载“SuperMapLicenseCenter.zip”包。将 Zip
-包解压，运行产品包目录\Tools 路径下的 Setup.bat 文件，以完成 SuperMap 许可中心的部署。
-
-    * ### 在线安装
-
-访问地址：[在线安装（http://product.supermap.com.cn/）](http://product.supermap.com.cn)，下载
-SuperMap License Center（Windows 32 位）在线安装工具（LicenseCenter.exe），双击运行
-LicenseCenter.exe 安装最新版本的 SuperMap 许可中心。在线安装方式会自动安装许可驱动以完成许可中心的部署，您不需要执行
-trial.bat 文件。
+   访问地址：[ SuperMap
+技术资源中心](http://support.supermap.com.cn/DownloadCenter/ProductPlatform.aspx)，下载“SuperMapLicenseCenter.zip”包。将
+Zip 包解压，运行产品包目录\Tools 路径下的 Setup.bat 文件，以完成 SuperMap 许可中心的部署。
 
 2.完成 SuperMap 许可中心的部署之后，即可通过运行产品包目录下的 SuperMap.LicenseCenter.exe
 文件启动许可中心。首次打开许可中心，默认安装一个90天的试用软许可。
@@ -50,9 +41,6 @@ SuperMap 许可中心提供以软件激活方式配置软许可。用户通过 S
 
 在 SuperMap 许可中心，打开"激活更新"页，如下图所示，将您获得的*.v2c 正式许可文件或 *.lic10i
 试用许可文件，指定到"文件位置"处，然后单击"更新"按钮，即可将许可激活生效。
-
-![](img/LicenseCenter3.png)  
----  
 
 ### 配置硬件许可
 
@@ -109,7 +97,7 @@ SuperMap 许可中心的“许可更新”页用来进行更新许可的工作�
 
 打开 SuperMap 许可中心的“许可更新”页，将上述三种情况的目标文件（*.v2c/*.h2r/*.r2h）指定到“文件位置”处，然后单击更新按钮即可。
 
-### ![](img/note.png)注意事项
+### 注意事项
 
   1. 硬件锁插入计算机后，锁上的信号指示灯点亮说明硬件锁有效。在Windows操作系统下，硬件锁插入后会被识别为 USB 设备，可直接运行。 
   2. 对于两种硬件锁，在同一台计算机，会优先使用单机锁。

@@ -13,8 +13,8 @@ title: 保存
 
 ### ![](img/seealso.png)相关链接
 
-![](img/smalltitle.png) [常用](General.htm)
+ [常用](General)
 
-![](img/smalltitle.png) [环境](Environment.htm)
+ [环境](Environment)
 
 

@@ -1,11 +1,11 @@
 ---
 id: add-react-to-a-website
 title: 添加 React 到站点
-permalink: docs/add-react-to-a-website.html
+permalink: docs/add-react-to-a-websitel
 redirect_from:
-  - "docs/add-react-to-an-existing-app.html"
-prev: getting-started.html
-next: create-a-new-react-app.html
+  - "docs/add-react-to-an-existing-appl"
+prev: getting-startedl
+next: create-a-new-react-appl
 ---
 
 Use as little or as much React as you need.
@@ -73,7 +73,7 @@ Open **[this starter code](https://cdn.rawgit.com/gaearon/0b180827c190fe4fd98b4c
 
 >Tip
 >
->This code defines a React component called `LikeButton`. Don't worry if you don't understand it yet -- we'll cover the building blocks of React later in our [hands-on tutorial](/tutorial/tutorial.html) and [main concepts guide](/docs/hello-world.html). For now, let's just get it showing on the screen!
+>This code defines a React component called `LikeButton`. Don't worry if you don't understand it yet -- we'll cover the building blocks of React later in our [hands-on tutorial](/tutorial/tutoriall) and [main concepts guide](/docs/hello-worldl). For now, let's just get it showing on the screen!
 
 After **[the starter code](https://cdn.rawgit.com/gaearon/0b180827c190fe4fd98b4c7f570ea4a8/raw/b9157ce933c79a4559d2aa9ff3372668cce48de7/LikeButton.js)**, add two lines to the bottom of `like_button.js`:
 
@@ -106,7 +106,7 @@ Commonly, you might want to display React components in multiple places on the H
 
 >Note
 >
->This strategy is mostly useful while React-powered parts of the page are isolated from each other. Inside React code, it's easier to use [component composition](/docs/components-and-props.html#composing-components) instead.
+>This strategy is mostly useful while React-powered parts of the page are isolated from each other. Inside React code, it's easier to use [component composition](/docs/components-and-propsl#composing-components) instead.
 
 ### Tip: Minify JavaScript for Production {#tip-minify-javascript-for-production}
 
@@ -136,7 +136,7 @@ return e(
 );
 ```
 
-However, React also offers an option to use [JSX](/docs/introducing-jsx.html) instead:
+However, React also offers an option to use [JSX](/docs/introducing-jsxl) instead:
 
 ```js
 // Display a "Like" <button>
@@ -147,7 +147,7 @@ return (
 );
 ```
 
-These two code snippets are equivalent. While **JSX is [completely optional](/docs/react-without-jsx.html)**, many people find it helpful for writing UI code -- both with React and with other libraries.
+These two code snippets are equivalent. While **JSX is [completely optional](/docs/react-without-jsxl)**, many people find it helpful for writing UI code -- both with React and with other libraries.
 
 You can play with JSX using [this online converter](https://babeljs.io/repl#?babili=false&browsers=&build=&builtIns=false&spec=false&loose=false&code_lz=Q&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&sourceType=module&lineWrap=true&presets=es2015%2Creact%2Cstage-2%2Cstage-3&prettier=true&targets=Node-6.12&version=6.26.0&envVersion=).
 
@@ -159,7 +159,7 @@ The quickest way to try JSX in your project is to add this `<script>` tag to you
 <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
 ```
 
-Now you can use JSX in any `<script>` tag by adding `type="text/babel"` attribute to it. Here is [an example HTML file with JSX](https://raw.githubusercontent.com/reactjs/reactjs.org/master/static/html/single-file-example.html) that you can download and play with.
+Now you can use JSX in any `<script>` tag by adding `type="text/babel"` attribute to it. Here is [an example HTML file with JSX](https://raw.githubusercontent.com/reactjs/reactjs.org/master/static/html/single-file-examplel) that you can download and play with.
 
 This approach is fine for learning and creating simple demos. However, it makes your website slow and **isn't suitable for production**. When you're ready to move forward, remove this new `<script>` tag and the `type="text/babel"` attributes you've added. Instead, in the next section you will set up a JSX preprocessor to convert all your `<script>` tags automatically.
 
@@ -199,4 +199,4 @@ If you now create a file called `src/like_button.js` with this **[JSX starter co
 
 As a bonus, this also lets you use modern JavaScript syntax features like classes without worrying about breaking older browsers. The tool we just used is called Babel, and you can learn more about it from [its documentation](https://babeljs.io/docs/en/babel-cli/).
 
-If you notice that you're getting comfortable with build tools and want them to do more for you, [the next section](/docs/create-a-new-react-app.html) describes some of the most popular and approachable toolchains. If not -- those script tags will do just fine!
+If you notice that you're getting comfortable with build tools and want them to do more for you, [the next section](/docs/create-a-new-react-appl) describes some of the most popular and approachable toolchains. If not -- those script tags will do just fine!

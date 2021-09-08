@@ -17,8 +17,8 @@ title: 图层管理器
 
 下面详细介绍每种状态下，图层管理器管理图层的结构、方式及各个图层的具体信息。
 
-![](img/smalltitle.png) [图层管理器（与地图窗口关联）](Layer2DManager.htm)
+ [图层管理器（与地图窗口关联）](Layer2DManager)
 
-![](img/smalltitle.png) [图层管理器（与场景窗口关联）](Layer3DManager.htm)
+ [图层管理器（与场景窗口关联）](Layer3DManager)
 
 

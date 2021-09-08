@@ -11,26 +11,26 @@ Plus、Oracle Plus、PostgreSQL、 DB2、KingBase、MySQL等数据源。
 
 ### ![](img/read.gif)操作步骤
 
-新建数据源的具体操作方式，请参见：[新建数据源](../DataProcessing/DataManagement/CreateDatasource.htm)。
+新建数据源的具体操作方式，请参见：[新建数据源](../DataProcessing/DataManagement/CreateDatasource)。
 
 ### ![](img/seealso.png) 相关链接
 
-![](img/smalltitle.png) [打开](ItemOpen.htm)
+ [打开](ItemOpen)
 
-![](img/smalltitle.png) [保存/另存](ItemSave.htm)
+ [保存/另存](ItemSave)
 
-![](img/smalltitle.png) [示范数据](ItemSampleData.htm)
+ [示范数据](ItemSampleData)
 
-![](img/smalltitle.png) [打印](ItemPrint.htm)
+ [打印](ItemPrint)
 
-![](img/smalltitle.png) [选项](ItemDeskproOption.htm)
+ [选项](ItemDeskproOption)
 
-![](img/smalltitle.png) [许可](ItemLicense.htm)
+ [许可](ItemLicense)
 
-![](img/smalltitle.png) [服务](OnlineAddress.htm)
+ [服务](OnlineAddress)
 
-![](img/smalltitle.png) [帮助](ItemHelp.htm)
+ [帮助](ItemHelp)
 
-![](img/smalltitle.png) [关于](About.htm)
+ [关于](About)
 
 

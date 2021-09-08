@@ -4,7 +4,7 @@ title: 快捷键管理
 ---
 应用程序提供了大量可用的键盘快捷键，在不使用鼠标的情况下也可使用快捷键完成一些基本操作。可通过快捷键管理功能，可直接修改功能的快捷键。
 
-### ![](../Features/img/read.gif)使用说明
+### ![](../tutorial/img/read.gif)使用说明
 
     1. 在“视图”选项卡的“自定义界面”组中，单击“快捷键管理”按钮，即可弹出“快捷键管理”对话框，如下图所示：  ![](img/ShortcutKeyManage.png)  
 
@@ -18,9 +18,9 @@ title: 快捷键管理
     5. 单击对话框中的“恢复默认”按钮，可将各个功能的快捷键恢复为默认。
     6. 设置好功能的快捷键后，单击对话框中的“确定”按钮，即可设置生效。
 
-### ![](../Features/img/seealso.png) 相关内容
+### ![](../tutorial/img/seealso.png) 相关内容
 
-![](../Features/img/smalltitle.png) [快捷键一览表](DeskproShortcutKey.htm)
+![](../tutorial/img/smalltitle.png) [快捷键一览表](DeskproShortcutKey)
 
 ### ![](../img/note.png)注意事项
 

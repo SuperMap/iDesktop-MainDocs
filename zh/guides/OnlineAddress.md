@@ -13,22 +13,22 @@ title: 服务
   
 ### ![](img/seealso.png) 相关链接
 
-![](img/smalltitle.png) [打开](ItemOpen.htm)
+ [打开](ItemOpen)
 
-![](img/smalltitle.png) [新建](ItemNew.htm)
+ [新建](ItemNew)
 
-![](img/smalltitle.png) [保存/另存](ItemSave.htm)
+ [保存/另存](ItemSave)
 
-![](img/smalltitle.png) [示范数据](ItemSampleData.htm)
+ [示范数据](ItemSampleData)
 
-![](img/smalltitle.png) [打印](ItemPrint.htm)
+ [打印](ItemPrint)
 
-![](img/smalltitle.png) [选项](ItemDeskproOption.htm)
+ [选项](ItemDeskproOption)
 
-![](img/smalltitle.png) [许可](ItemLicense.htm)
+ [许可](ItemLicense)
 
-![](img/smalltitle.png) [帮助](ItemHelp.htm)
+ [帮助](ItemHelp)
 
-![](img/smalltitle.png) [关于](About.htm)
+ [关于](About)
 
 

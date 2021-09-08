@@ -24,26 +24,26 @@ title: 帮助
 
 ### 在线地址
 
-应用程序的帮助文档默认在线地址为：http://support.supermap.com.cn/onlinedoc/deskpronet/WebHelp/SuperMap_Desktop_7C.htm。
+应用程序的帮助文档默认在线地址为：http://support.supermap.com.cn/onlinedoc/deskpronet/WebHelp/SuperMap_Desktop_7C。
 
 在线地址支持用户定制帮助文档。用户可以将定制的帮助文档进行发布，将在线地址设置为已发布的帮助文档的地址，即可在线获取和查阅。
 
 ### ![](img/seealso.png)相关链接
 
-![](img/smalltitle.png) [打开](ItemOpen.htm)
+ [打开](ItemOpen)
 
-![](img/smalltitle.png) [保存/另存](ItemSave.htm)
+ [保存/另存](ItemSave)
 
-![](img/smalltitle.png) [示范数据](ItemSampleData.htm)
+ [示范数据](ItemSampleData)
 
-![](img/smalltitle.png) [打印](ItemPrint.htm)
+ [打印](ItemPrint)
 
-![](img/smalltitle.png) [选项](ItemDeskproOption.htm)
+ [选项](ItemDeskproOption)
 
-![](img/smalltitle.png) [许可](ItemLicense.htm)
+ [许可](ItemLicense)
 
-![](img/smalltitle.png) [服务](OnlineAddress.htm)
+ [服务](OnlineAddress)
 
-![](img/smalltitle.png) [关于](About.htm)
+ [关于](About)
 
 
