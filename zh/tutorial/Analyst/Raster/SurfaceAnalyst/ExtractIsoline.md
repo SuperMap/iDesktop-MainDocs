@@ -54,7 +54,7 @@ SuperMap桌面产品目前支持从二维点数据集、三维点集合中提取
 
 ![](img/ExtractIsolineResult.png)  
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
 

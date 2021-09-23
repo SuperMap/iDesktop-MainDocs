@@ -46,7 +46,7 @@ CSV（即 Comma Separate Values）是以文本形式记录数据的文件（通�
 
 
 
-### ![](../../img/note.png) 注意事项
+###  注意事项
 
 1. 在用记事本等文本编辑工具编辑 CSV 文件时，若列内容中存在半角特殊字符（逗号、换行符或双引号），需使用半角双引号对字段值进行转义。若列内容中存在半角引号（即"），则应替换为半角双引号("")转义，并用半角引号将字符串包含起来。如导入后字段值需为：Venture"Extended Edition"，则 CSV 文件中应写成："Venture""Extended Edition"""；导入后字段值为："Supermap"，则 CSV 文件中可写成：""Supermap""或者"""Supermap"""。
 2. 在用 Microsoft Excel 工具编辑 CSV 文件时，字段内容存在特殊字符时，不需要添加转义符进行转码，Excel 在保存 CSV 文件时，会自动对单元格中的特殊字符进行转义处理。

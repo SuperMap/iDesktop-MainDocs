@@ -30,10 +30,8 @@ SuperMap SDX+ 是 SuperMap 的空间引擎技术，它提供了一种通用的�
   * 此外，UDBX 文件引擎具有更加开放的特点，支持直接操作第三方导入到 Spatialite 空间数据数据库中的空间数据，如显示，数据编辑。应用时，只需将 Spatialite 空间数据库文件（*.sqlite）作为文件型数据源加载到 iDesktop 即可。
 * **影像插件引擎** ，支持栅格类型的数据在 SuperMap 中只读显示，目前支持格式为 BMP，JPEG，RAW，TIFF，SCI，SIT 和 ERDAS IMAGINE 的栅格数据类型（BMP，JPEG 为通用的栅格数据类型，RAW，TIFF 为遥感影像数据类型，SCI 为 SuperMap 定义的地图预缓存图片文件，SIT 为 SuperMap 定义的栅格数据类型）。故插件引擎共有以下7 种类型：BMP 只读引擎，JPEG 只读引擎，RAW 只读引擎，TIFF 只读引擎，SCI 只读引擎，SIT 只读引擎和ERDAS IMAGINE只读引擎。
 * **矢量文件引擎** ，针对通用矢量格式如 shp，tab，Acad 等，支持矢量文件的编辑和保存。
-
-文件型数据源引擎类型  
----  
 **类型** | **描述**  
+--|--
 UDB | 跨平台文件引擎类型，针对 UDB 数据源。  
 UDBX | UDBX 文件引擎，可以读写以及管理 Spatialite 空间数据，针对 UDBX
 数据源，支持的数据集类型包括：点、线、面、文本、CAD、属性表、三维点/线/面、EPS复合点/线/面/文本、栅格、影像、镶嵌数据集。  
@@ -52,9 +50,7 @@ Spatial、SQLPlus、PostgreSQL、DB2、KingBase、MySQL、BeyonDB、HighGoDB、K
 SuperMap 空间数据库以大型关系型数据库为存储容器，通过 SuperMap SDX+
 进行管理和操作，将空间数据和属性数据一体化存储到大型关系型数据库中，如Oracle、SQL Server、Sybase 和 DM3
 等。如下表所示的空间数据库类型。
-
-数据库型数据源引擎类型  
----  
+  
 **类型** | **描述**  
 ---|---
 SQLPlus | SQL Server 引擎类型，针对 SQL Server 数据源。必须有客户端，环境变量配置正确。  
@@ -84,9 +80,7 @@ SuperMap iObjects 已支持的各种数据库数据源。
 
 * 其中“ **extraEngineType=""** ”默认为空，此时数据库入口为桌面默认的数据库数据源入口，若要增加新的SuperMap iObjects 已支持的数据库，只需将数据库对应的枚举值，填入即可，例如：增加 Altibase 引擎类型，其对应的枚举值为 2004，则配置文件编码写为extraEngineType="2004"。
 * 其中“ **hiddenEngineTypes=""** ”默认为空，若要删除数据库数据源的功能入口，只需将数据库对应的枚举值，填入即可，例如：删除OracleSpatial 引擎和SQLPlus 引擎类型，其对应的枚举值分别为 10,16，则配置文件编码写为hiddenEngineTypes="10,16"即可。
-
 SuperMap iObjects 支持的数据源引擎类型  
----  
 **类型** | **枚举值**  
 ---|---
 SDE | 4  
@@ -131,8 +125,6 @@ Web引擎可以直接访问WFS、WMS、WCS等所提供的Web服务，这类引�
 的数据源来处理，通过它可以把网络发布的地图和数据与 SuperMap 的地图和数据完全结合，将WFS和WMS的应用融入到 SuperMap
 的技术体系，拓展了 SuperMap 数据引擎的应用领域。Web引擎为只读引擎。
 
-Web 型数据源引擎类型  
----  
 **类型** | **描述** 
 ---|--- 
 OGC | OGC 引擎类型，针对于 Web 数据源，目前支持的类型有 WMS，WFS，WCS 和 WMTS。  
@@ -149,7 +141,7 @@ OpenStreetMaps | 又称 OSM 引擎类型，是由网络大众共同打造的免�
 
 内存数据源对应的数据引擎为内存引擎。
 
-### ![](../../img/note.png)注意事项
+### 注意事项
 
 SuperMap 支持 SDX+
 数据引擎，支持存储的数据集对象最大记录数理论值为231-1，即：2147483647条记录，超过该记录值，后续记录将无法显示。

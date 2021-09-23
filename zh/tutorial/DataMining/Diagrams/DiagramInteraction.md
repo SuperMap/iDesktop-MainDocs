@@ -22,7 +22,7 @@ title: 与图表联动交互
 ![](img/SelectedObject.png)  
 
 
-### ![](../../img/seealso.png) 相关内容
+### 相关内容
 
 [**统计图表概述**](Diagrams1)
 

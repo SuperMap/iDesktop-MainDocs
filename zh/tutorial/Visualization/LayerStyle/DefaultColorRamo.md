@@ -10,7 +10,7 @@ title: 恢复默认颜色方案
 
 在“颜色管理器”中，点击“默认颜色方案”按钮 ![](img/DefaultColorRamp.png)，将颜色方案管理器由现有的状态恢复至系统默认的状态。
 
-### ![](../../img/seealso.png) 相关主题
+### 相关主题
 
  [关于颜色管理器](ColorRampManager)
 

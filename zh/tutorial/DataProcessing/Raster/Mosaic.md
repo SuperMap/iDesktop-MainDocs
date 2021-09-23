@@ -167,7 +167,7 @@ PNG | PNG | PNG | PNG | DCT | PNG | PNG
 
 
 
-### ![](../../img/note.png)注意事项
+### 注意事项
 
 
 

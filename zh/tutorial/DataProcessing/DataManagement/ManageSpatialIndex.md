@@ -6,35 +6,35 @@ title: 空间索引
 
 地理信息系统中的空间索引是相对于字段索引而言的。由于空间数据特有的位置相关性，传统的字段索引不能满足空间数据快速定位的需求，因此需要空间索引的提供位置相关的数据的快速访问能力。
 
-[### 支持的空间索引类型](SpatialIndexType)
+[支持的空间索引类型](SpatialIndexType)
 
 介绍 SuperMap 支持的空间索引类型，包括四叉树索引、R 树索引、图库索引以及动态索引。
 
-[### R树索引](SpatialIndexRTree)
+[R树索引](SpatialIndexRTree)
 
 介绍R树索引的实现原理、特点及适用情况等内容。
 
-[### 四叉树索引](SpatialIndexQTree)
+[四叉树索引](SpatialIndexQTree)
 
 介绍四叉树索引的实现原理、适用情况等内容。
 
-[### 图库索引](SpatialIndexTile)
+[图库索引](SpatialIndexTile)
 
 介绍图库索引的实现原理、适用情况等内容。
 
-[### 动态索引](SpatialIndexMultiLevelGrid)
+[动态索引](SpatialIndexMultiLevelGrid)
 
 介绍动态索引的实现原理、特点及适用情况等内容。
 
-[### 索引存储示例](SpatialIndexStorage)
+[索引存储示例](SpatialIndexStorage)
 
 分别介绍了四种空间索引的存储结构。
 
-[### 重建空间索引](DTv_ReBuildSIndex)
+[重建空间索引](DTv_ReBuildSIndex)
 
 介绍R树索引的实现原理、特点及适用情况等内容。
 
-[### 管理空间索引](SpatialIndexManagement)
+[管理空间索引](SpatialIndexManagement)
 
 介绍如何对一个或者多个数据集的索引进行管理，包括查看数据集的空间索引信息、建立空间索引等。
 

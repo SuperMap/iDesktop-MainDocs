@@ -43,7 +43,7 @@ DEM 数据，如果设置基准值为500，等值距为50，则提取等值线�
   * 单击“确定”按钮，完成等值线提取操作。
 ![](img/AllContourResult.png)  
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
 

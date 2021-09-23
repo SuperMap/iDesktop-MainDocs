@@ -20,7 +20,7 @@ title: 绘制多段线
 
 绘制多段线操作不支持参数化绘制。
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [绘制折线](DrawPolyLine)
 

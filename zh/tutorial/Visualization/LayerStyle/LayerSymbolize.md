@@ -12,7 +12,7 @@ title: 地图符号化表达
 
 介绍如何使用图层风格模板，修改图层的风格。
 
-[### 管理符号资源](../../SymManager/AboutSymManager)
+[### 管理符号资源](ResourcesManagerUI)
 
 介绍如何通过符号资源窗口，使用点符号、线符号以及填充符号。
 

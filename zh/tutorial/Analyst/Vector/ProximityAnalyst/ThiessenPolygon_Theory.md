@@ -35,7 +35,7 @@ title: 泰森多边形构建原理
 ---  
 图：构建泰森多边形步骤  
   
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [构建泰森多边形](ThiessenPolygon)
 

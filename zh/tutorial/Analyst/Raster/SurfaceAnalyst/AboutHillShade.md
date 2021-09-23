@@ -38,7 +38,7 @@ title: 三维效果图概述
 
 ![](img/DefaultHillShad.png)  
   
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [生成正射三维影像](OrthoImage)
 

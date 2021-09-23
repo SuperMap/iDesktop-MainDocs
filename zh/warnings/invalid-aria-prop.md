@@ -1,7 +1,7 @@
 ---
 title: Invalid ARIA Prop Warning
 layout: single
-permalink: warnings/invalid-aria-prop.html
+permalink: warnings/invalid-aria-propl
 ---
 
 The invalid-aria-prop warning will fire if you attempt to render a DOM element with an aria-* prop that does not exist in the Web Accessibility Initiative (WAI) Accessible Rich Internet Application (ARIA) [specification](https://www.w3.org/TR/wai-aria-1.1/#states_and_properties).

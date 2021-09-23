@@ -10,7 +10,7 @@ title: 空间分析
 
 矢量分析功能包括：缓冲区分析、叠加分析、动态分段等内容。
 
-  * [缓冲区分析](Vector/bufferanalyst/Bufferanalyst)
+  * [缓冲区分析](Vector/bufferanalyst/HowBufferWork)
 
 缓冲区分析是根据指定的距离，在点、线、面几何对象周围自动建立一定宽度的区域的分析方法。
 

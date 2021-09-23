@@ -70,7 +70,7 @@ title: 面提取中心线
 ![](img/RegionToCenterLine.png)  
 ---  
 
-### ![](../../img/note.png)注意事项
+### 注意事项
 
 
 

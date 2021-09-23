@@ -16,7 +16,7 @@ title: 镶嵌数据集
 ![](img/GlobeDEM.jpg)  
 
 
-### ![](../../img/seealso.png)相关主题
+### 相关主题
 
  [管理镶嵌数据集](MosaicDataManagement)
 

@@ -37,7 +37,7 @@ title: 填挖方
 
 ![](img/CutFillList.png)  
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [反算填挖方](InverseCutFill)
 

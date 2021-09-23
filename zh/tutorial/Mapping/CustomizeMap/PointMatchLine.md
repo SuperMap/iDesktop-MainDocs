@@ -44,7 +44,7 @@ title: 点匹配线方向
 
 ![](img/PointMacthLineResult.png)  
 
-### ![](../../img/seealso.png) 相关主题
+### 相关主题
 
  [新建自定义专题图](CustomizeMapDefault)
 

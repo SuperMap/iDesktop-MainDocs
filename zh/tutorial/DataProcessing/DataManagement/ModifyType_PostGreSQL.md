@@ -137,7 +137,7 @@ title: PostGreSQL字段类型修改
 日期 | x |  
 字节型 | x |  
   
-### ![](../../img/seealso.png) 相关内容
+### 相关内容
 
 [ **OraclePlus**
 字段类型修改情况](ModifyType_OraclePlus)

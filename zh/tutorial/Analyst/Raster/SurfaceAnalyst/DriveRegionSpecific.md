@@ -33,7 +33,7 @@ title: 提取指定面
   * 设置重采样系数、光滑方法、光滑系数等参数，请参见：[公共参数说明](CommonPara)。
   * 单击“确定”按钮，完成等值面提取操作。
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
 

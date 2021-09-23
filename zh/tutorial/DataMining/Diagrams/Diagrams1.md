@@ -30,7 +30,7 @@ SuperMap
 
 ![](img/diagramexample2.png)  
   
-### ![](../../img/seealso.png) 相关内容
+### 相关内容
 
 [**统计图表类型**](DiagramsType)
 

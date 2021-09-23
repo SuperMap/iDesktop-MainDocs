@@ -49,7 +49,7 @@ title: 修改自定义专题图
 ![](img/FillBase.png)  
  
 
-### ![](../../img/seealso.png) 相关主题
+### 相关主题
 
 [符号风格设置](../../Visualization/LayerStyle/ManagerUISymStyle)
 

@@ -32,7 +32,7 @@ title: 缓冲区分析应用实例
 ![](img/BufferApplication4.png)  
 
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [缓冲区分析原理](BufferTheory)
 
@@ -40,9 +40,4 @@ title: 缓冲区分析应用实例
 
 ![](../../../img/smalltitle.png) [生成多重缓冲区](../bufferanalyst/MutilBuffer)
 
-* * *
-
-[](http://www.supermap.com.cn)  
-  
----
 

@@ -1,7 +1,7 @@
 ---
 title: Refs Must Have Owner Warning
 layout: single
-permalink: warnings/refs-must-have-owner.html
+permalink: warnings/refs-must-have-ownerl
 ---
 
 You are probably here because you got one of the following error messages:
@@ -31,7 +31,7 @@ If `<Foo>` is a function component, you can't add a ref to it:
 <Foo ref={foo} />
 ```
 
-If you need to add a ref to a component, convert it to a class first, or consider not using refs as they are [rarely necessary](/docs/refs-and-the-dom.html#when-to-use-refs).
+If you need to add a ref to a component, convert it to a class first, or consider not using refs as they are [rarely necessary](/docs/refs-and-the-doml#when-to-use-refs).
 
 ## Strings Refs Outside the Render Method {#strings-refs-outside-the-render-method}
 
@@ -54,7 +54,7 @@ ReactDOM.render(
 );
 ```
 
-Consider if you [really need a ref](/docs/refs-and-the-dom.html#when-to-use-refs) before using this approach.
+Consider if you [really need a ref](/docs/refs-and-the-doml#when-to-use-refs) before using this approach.
 
 ## Multiple copies of React {#multiple-copies-of-react}
 

@@ -27,7 +27,7 @@ title: 点选提取等值线
 
 ![](img/PointContourResult.png)  
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
 

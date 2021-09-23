@@ -40,7 +40,7 @@ title: 三维缓冲区
 
 ![](img/Buffer3DResult.png)  
   
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [关于缓冲区分析](HowBufferWork)
 

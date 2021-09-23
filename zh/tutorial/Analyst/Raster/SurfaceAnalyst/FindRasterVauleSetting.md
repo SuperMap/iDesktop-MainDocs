@@ -35,7 +35,7 @@ title: 栅格查询设置
 
  2. 单击对话框中的“确定”按钮，即可完成栅格值查询的设置。
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [栅格查询](FindRasterVaule)
 

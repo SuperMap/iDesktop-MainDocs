@@ -69,7 +69,7 @@ title: 点密度聚类
    ![](img/AggregatePointsResult.png)  
  ---  
   
- ### ![](../../img/note.png)注意事项
+ ### 注意事项
 
 
 

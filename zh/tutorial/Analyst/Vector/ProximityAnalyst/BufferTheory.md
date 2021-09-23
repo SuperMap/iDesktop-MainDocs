@@ -36,7 +36,7 @@ title: 缓冲区分析原理
 
 ![](img/Buffer5.png)  
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [生成单重缓冲区](../bufferanalyst/SingleBuffer)
 

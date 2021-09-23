@@ -60,7 +60,7 @@ title: 面主干中心线
 ![](img/RegionToCenterLineMainResult.png)  
 ---  
 
-### ![](../../img/note.png)注意事项
+### 注意事项
 
 
 

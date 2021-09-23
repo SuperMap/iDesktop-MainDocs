@@ -21,7 +21,7 @@ title: 查询路线
 
 ![](img/SearchLineResult.png)  
   
-### ![](../../img/seealso.png) 相关主题
+### 相关主题
 
  [获取公交数据](TrafficDataPrepare)
 

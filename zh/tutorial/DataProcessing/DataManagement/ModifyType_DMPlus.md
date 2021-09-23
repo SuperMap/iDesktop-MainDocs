@@ -138,7 +138,7 @@ title: DMPlus修改字段类型支持情况
 日期 | x |  
 字节型 | x |  
   
-### ![](../../img/seealso.png) 相关内容
+### 相关内容
 
 [ **PostGreSQL**
 字段类型修改情况](ModifyType_PostGreSQL)

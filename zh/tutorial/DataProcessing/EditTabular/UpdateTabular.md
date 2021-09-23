@@ -34,7 +34,7 @@ CAD 数据集  | *SmID、SmUserID
 
   [使用“更新列”对话框更新](UpdateTabular2)
 
-### ![](../../img/seealso.png) 相关主题
+### 相关主题
 
   [编辑属性表](Editgroup)
 

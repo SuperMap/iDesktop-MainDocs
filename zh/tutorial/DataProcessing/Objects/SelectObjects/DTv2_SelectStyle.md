@@ -18,7 +18,7 @@ title: 设置选中对象的显示风格
 
 5. 单击“下一步”按钮，即可在“符号选择器”对话框中设置选中对象的统一风格。具体操作可参见“相关主题”中的页面描述。
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png)
 [设置点符号风格](../../../Visualization/LayerStyle/PointSymStyle)

@@ -50,7 +50,7 @@ title: 距离计算
 <br/>![](img/DisMeasureResult.png)  
   
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [距离计算原理](DistanceMeasure_Theory)
 

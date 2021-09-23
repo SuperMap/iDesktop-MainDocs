@@ -37,7 +37,7 @@ title: 地形匹配
 
 ![](img/TerrainMatch2.png)  
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [地形模型匹配概述](AboutTerrainMatch)
 

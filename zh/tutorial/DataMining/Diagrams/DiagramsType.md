@@ -98,7 +98,7 @@ title: 统计图表类型
 ![](img/TimeSeries.png)  
 
   
-### ![](../../img/seealso.png) 相关内容
+### 相关内容
 
 [**统计图表概述**](Diagrams1)
 

@@ -42,7 +42,7 @@ title: 生成三维晕渲图
 ![](img/HillShadeResult.png)  
 
   
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [三维晕渲图](AboutHillShade)
 

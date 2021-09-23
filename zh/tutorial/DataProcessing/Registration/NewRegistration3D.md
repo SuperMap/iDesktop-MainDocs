@@ -34,7 +34,7 @@ title: 第一步 新建配准
 * 当界面自动切换到“配准”选项卡下的配准窗口后，可以通过普通图层结点右键菜单添加[在线地图](../../SceneOperation/LayersManagement/AddOnlineMaps)和[三维缓存](../../SceneOperation/LayersManagement/CacheButton)。
 
 
-### ![](../../img/seealso.png) 相关主题
+### 相关主题
 
 
 

@@ -43,7 +43,7 @@ title: 查询栅格值
 
 * 按住 ESC 键或者单击鼠标右键可以取消查询，且按住 ESC 键可以同时清除地图窗口高亮的栅格点。
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [栅格查询设置](FindRasterVauleSetting)
 

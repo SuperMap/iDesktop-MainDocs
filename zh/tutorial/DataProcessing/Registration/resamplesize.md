@@ -36,7 +36,7 @@ title: 设置重采样像素大小
 
  ![](img/before.png) 
 
- ### ![](../../img/note.png)注意事项
+ ### 注意事项
 
 
 

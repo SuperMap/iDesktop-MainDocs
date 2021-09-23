@@ -21,7 +21,7 @@ title: 距离计算原理
 ![](img/DistanceMeasure3.png)  
  
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [距离计算](DistanceMeasure)
 

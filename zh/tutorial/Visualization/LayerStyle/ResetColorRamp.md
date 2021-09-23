@@ -10,7 +10,7 @@ title: 重置颜色方案
 
 在“颜色管理器”中，点击“重置颜色方案”按钮 ![](img/ResetColorRamp.png)，将颜色方案重置，恢复至上一次修改之前的状态。
 
-### ![](../../img/seealso.png) 相关主题
+### 相关主题
 
  [关于颜色管理器](ColorRampManager)
 

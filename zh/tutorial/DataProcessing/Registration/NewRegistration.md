@@ -48,7 +48,7 @@ title: 第一步 新建配准
 
 应用程序提供三种拉伸方式：无拉伸、最值拉伸、标准差拉伸、高斯拉伸。有关影像拉伸的介绍请参考[影像拉伸](../../../tutorial/Visualization/VisualSetting/Imagegroup#1)。
 
-### ![](../../img/seealso.png) 相关主题
+### 相关主题
 
 
 

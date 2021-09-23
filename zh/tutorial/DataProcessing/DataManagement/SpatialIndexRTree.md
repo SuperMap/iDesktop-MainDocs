@@ -23,6 +23,6 @@ R树空间索引方法是通过设计虚拟的矩形目标，将一些空间位�
 
 R树索引比较适合静态数据，例如用作底图的数据和不经常编辑的数据（属性数据的编辑除外）推荐建立R树索引。
 
-### ![](../../img/note.png) 备注
+###  备注
 
 支持建立R树索引的引擎类型包括：UDB、SQLPlus、PostgreSQL、OraclePlus、OracleSpatial、KingBase、MySQL、BeyonDB、Altibase。

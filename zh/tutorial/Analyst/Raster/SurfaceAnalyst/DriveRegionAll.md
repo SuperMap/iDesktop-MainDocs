@@ -36,7 +36,7 @@ title: 提取所有面
 
 ![](img/AllRegionResult.png)  
 
-### ![](../../../img/seealso.png) 相关主题
+###  相关主题
 
 ![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
 

@@ -53,7 +53,7 @@ title: 双线提取中心线
 ![](img/DualLineToCenterLine.png)  
 ---  
 
-### ![](../../img/note.png)注意事项
+### 注意事项
 
 
 

@@ -73,7 +73,7 @@ title: 图幅接边
 ![](img/EdgeMatchResult.png)  
  
 
-### ![](../../img/note.png)注意事项
+### 注意事项
 
 
 

@@ -1121,14 +1121,6 @@
         - id: GridRangesMapGroupDia
           title: 修改栅格分段专题图
           href: Mapping/GridRangesMap/GridRangesMapGroupDia
-- title: 大数据可视化
-  subitems: 
-    - id: HeatMap
-      title: 热力图
-      href: BigdataVisualization/AggregationMap/HeatMap
-    - id: GridAggregationMap
-      title: 网格图
-      href: BigdataVisualization/AggregationMap/GridAggregationMap
 - title: 统计图表
   href: DataMining/Diagrams/Diagrams1
   subitems: 
@@ -1147,6 +1139,14 @@
     - id: DiagramTemplate
       title: 使用图表模板
       href: DataMining/Diagrams/DiagramTemplate
+- title: 大数据可视化
+  subitems: 
+    - id: HeatMap
+      title: 热力图
+      href: BigdataVisualization/AggregationMap/HeatMap
+    - id: GridAggregationMap
+      title: 网格图
+      href: BigdataVisualization/AggregationMap/GridAggregationMap
 - title: 自动制图
   href: AutoMapMaking/AutoMapMaking
   subitems: 

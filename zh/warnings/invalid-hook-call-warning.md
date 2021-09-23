@@ -1,7 +1,7 @@
 ---
 title: Invalid Hook Call Warning
 layout: single
-permalink: warnings/invalid-hook-call-warning.html
+permalink: warnings/invalid-hook-call-warningl
 ---
 
  You are probably here because you got the following error message:
@@ -11,7 +11,7 @@ permalink: warnings/invalid-hook-call-warning.html
 There are three common reasons you might be seeing it:
 
 1. You might have **mismatching versions** of React and React DOM.
-2. You might be **breaking the [Rules of Hooks](/docs/hooks-rules.html)**.
+2. You might be **breaking the [Rules of Hooks](/docs/hooks-rulesl)**.
 3. You might have **more than one copy of React** in the same app.
 
 Let's look at each of these cases.
@@ -25,9 +25,9 @@ You might be using a version of `react-dom` (< 16.8.0) or `react-native` (< 0.59
 You can only call Hooks **while React is rendering a function component**:
 
 * ✅ Call them at the top level in the body of a function component.
-* ✅ Call them at the top level in the body of a [custom Hook](/docs/hooks-custom.html).
+* ✅ Call them at the top level in the body of a [custom Hook](/docs/hooks-customl).
 
-**Learn more about this in the [Rules of Hooks](/docs/hooks-rules.html).**
+**Learn more about this in the [Rules of Hooks](/docs/hooks-rulesl).**
 
 ```js{2-3,8-9}
 function Counter() {
@@ -82,7 +82,7 @@ You can use the [`eslint-plugin-react-hooks` plugin](https://www.npmjs.com/packa
 
 >Note
 >
->[Custom Hooks](/docs/hooks-custom.html) *may* call other Hooks (that's their whole purpose). This works because custom Hooks are also supposed to only be called while a function component is rendering.
+>[Custom Hooks](/docs/hooks-customl) *may* call other Hooks (that's their whole purpose). This works because custom Hooks are also supposed to only be called while a function component is rendering.
 
 
 ## Duplicate React {#duplicate-react}

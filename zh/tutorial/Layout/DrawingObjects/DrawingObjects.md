@@ -96,7 +96,7 @@ title: 绘制几何对象
 * 在布局窗口中任意非文本框所在区域单击鼠标右键。
 * 再次单击“ **对象操作** ”选项卡“ **文本** ”组对应文本对象绘制的按钮。
 
-### ![](../../img/seealso.png) 相关主题
+### 相关主题
 
 
 [绘制点对象](../../DataProcessing/Objects/CreateObjects/Point)

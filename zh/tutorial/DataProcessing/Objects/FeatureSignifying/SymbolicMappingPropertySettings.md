@@ -32,7 +32,7 @@ title: 符号化制图属性编辑
  ![](img/FeatureAttribute3.png)  
 
   
- ### ![](../../../img/seealso.png) 相关主题
+ ###  相关主题
 
 
 

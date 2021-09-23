@@ -24,6 +24,6 @@ title: “风格”选项卡
 ![](img/UniqueLableMap.png)  
 
 
-### ![](../../img/seealso.png) 相关主题
+### 相关主题
 
  [修改单值专题图](../UniqueValueMap/PropertiesDia)

@@ -29,7 +29,7 @@ title: 雷达站点分析
   
   ![](img/AngleInterval.png)  
 
-### ![](../../../img/seealso.png)相关主题
+### 相关主题
 
 ![](../../../img/smalltitle.png) [雷达遮蔽角](RadarShieldingAngle)
 
