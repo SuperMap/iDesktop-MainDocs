@@ -8,16 +8,16 @@ title: 物标关联关系管理
 SuperMap 海图提供基于 ENC
 产品规范的特征物标关联关系的维护，包括创建组合关系、创建主从关系、重置和关联关系等操作。本章节将详细介绍海图物标关联关系管理的具体内容。
 
-### ![](../../../../img/seealso.png) 内容提要：
+###  内容提要：
 
-[### 创建组合物标](CreateCollection)
+[创建组合物标](CreateCollection)
 
 引入组合物标的相关概念，介绍创建组合物标的具体操作。
 
-[### 创建主从关系](CreateMasterSlave)
+[创建主从关系](CreateMasterSlave)
 
 引入主从关系的相关概念，介绍创建主从关系的具体操作。
 
-[### 修改关联关系](ResetRelationship)
+[修改关联关系](ResetRelationship)
 
 介绍修改组合物标和主从关系的操作内容。

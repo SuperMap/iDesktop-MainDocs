@@ -54,13 +54,12 @@ Maps、Google Maps等都采用了栅格瓦片技术加载地图底图。
   
 ### 相关主题
 
-  [地图瓦片](MapTiles)
+ [地图瓦片](MapTiles)
 
-  [地图瓦片存储类型](MapCacheType)
+ [地图瓦片存储类型](MapCacheType)
 
-  [地图瓦片目录结构](MapCacheFolder)
+ [地图瓦片目录结构](MapCacheFolder)
 
-  [使用地图瓦片的建议](AdviceAboutMapCache)
-
+ [使用地图瓦片的建议](AdviceAboutMapCache)
 
 

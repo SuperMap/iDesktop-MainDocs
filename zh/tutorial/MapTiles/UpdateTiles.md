@@ -39,15 +39,15 @@ SuperMap 桌面提供更新瓦片的功能，支持对栅格瓦片和矢量瓦�
 
 ### 相关主题
 
-  [地图瓦片](MapTiles)
+ [地图瓦片](MapTiles)
 
-  [续传瓦片](RecoverTiles)
+ [续传瓦片](RecoverTiles)
 
-  [瓦片检查](CheckTlies)
+ [瓦片检查](CheckTlies)
 
-  [瓦片管理](MongoDBTilesManger)
+ [瓦片管理](MongoDBTilesManger)
 
-  [加载 MongoDB 瓦片](AddMongoDBTiles)
+ [加载 MongoDB 瓦片](AddMongoDBTiles)
 
 [](http://www.supermap.com)  
   

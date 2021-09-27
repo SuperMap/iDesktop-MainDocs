@@ -28,8 +28,12 @@ title: 数据输入
 使用 iServer Catalog 的数据输入方式，单击数据集右侧的下拉按钮，在弹出的数据集列表中显示为当前服务地址中可用于分析的数据类型，用户选择用于当前分析的数据即可。 用户还可通过“
 **注册数据** ”和“ **导入数据** ”两种方式注册和导入新的数据用于当前分析。
 
-1. **注册数据** ：单击注册数据按钮，程序将自动弹出 iServer 数据注册的服务页面，即可注册新的自管理数据存储位置，即磁盘共享目录、HDFS 目录和空间数据库。自管理的数据会出现在 sharefile 资源下。有关注册数据的详细说明请参见：[注册数据](DataPreparation)。<br/>![](img/RegistrationDataURL.png)
-2. **导入数据** ：单击导入数据按钮，程序将自动弹出 iServer datacatalog 关系型数据列表页面。在该页面用户可进行导入数据的操作。 **注意** ：在导入数据前，请您将iServer Datastore 配置到当前连接的 iServer 服务地址中。<br/>![](img/ImportData.png)
-  * 在 relationship/dataimport 资源下，可以上传数据集。支持上传的文件类型包括：UDB数据源、CSV文件、工作空间、Excel 文件、 GeoJson 文件和Shape文件，且 udb 数据源、Shape文件与工作空间导入格式需要压缩为 *.zip 的格式。  <br/>![](img/ImportData2.png)
-  * 上传成功的数据集，可在 relationship/datasets 资源的数据集列表中查看。  <br/>![](img/ImportDatalist.png)
+1. **注册数据** ：单击注册数据按钮，程序将自动弹出 iServer 数据注册的服务页面，即可注册新的自管理数据存储位置，即磁盘共享目录、HDFS 目录和空间数据库。自管理的数据会出现在 sharefile 资源下。有关注册数据的详细说明请参见：[注册数据](DataPreparation)。<br/>  
+![](img/RegistrationDataURL.png)  
+
+2. **导入数据** ：单击导入数据按钮，程序将自动弹出 iServer datacatalog 关系型数据列表页面。在该页面用户可进行导入数据的操作。 **注意** ：在导入数据前，请您将iServer Datastore 配置到当前连接的 iServer 服务地址中。<br/>    
+
+![](img/ImportData.png)
+  - 在 relationship/dataimport 资源下，可以上传数据集。支持上传的文件类型包括：UDB数据源、CSV文件、工作空间、Excel 文件、 GeoJson 文件和Shape文件，且 udb 数据源、Shape文件与工作空间导入格式需要压缩为 *.zip 的格式。  <br/>![](img/ImportData2.png)
+  - 上传成功的数据集，可在 relationship/datasets 资源的数据集列表中查看。  <br/>![](img/ImportDatalist.png)
 3. 通过以上两种方式输入成功的数据均会在数据集下拉菜单中显示，用户选择用于当前分析的数据即可。

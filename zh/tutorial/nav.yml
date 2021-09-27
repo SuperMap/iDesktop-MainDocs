@@ -79,13 +79,13 @@
         - id: PyromidManagement
           title: 管理影像金字塔
           href: DataProcessing/DataManagement/PyromidManagement          
-        - id: SpatialIndexManage
+        - id: MosaicDataset
           title: 管理镶嵌数据集
-          href: DataProcessing/DataManagement/SpatialIndexManag
+          href: DataProcessing/DataManagement/MosaicDataset
           subitems:          
-            - id: MosaicDataset
+            - id: CreateMosaicDatase
               title: 创建镶嵌数据集
-              href: DataProcessing/DataManagement/MosaicDataset       
+              href: DataProcessing/DataManagement/CreateMosaicDatase       
             - id: MosaicDataManagement
               title: 镶嵌数据集管理    
               href: DataProcessing/DataManagement/MosaicDataManagement
@@ -95,7 +95,7 @@
             - id: ImageConvertToBlock
               title: 影像数据转换为块存储    
               href: DataProcessing/DataManagement/ImageConvertToBlock             
-    - id: GeoFormates
+    - id: Dataconversion
       title: 数据转换
       herf: DataProcessing/DataConversion/Dataconversion
       subitems: 
@@ -277,7 +277,7 @@
               href:  DataProcessing/Objects/EditObjects/Clipboard
             - id: DTv2_Editable
               title: 开启图层编辑
-              href:  DataProcessing/Objects/EditObjects/DTv2_Editable
+              href:  DataProcessing/Objects/CreateObjects/DTv2_Editable
             - id: VertexEdit
               title: 编辑节点
               href:  DataProcessing/Objects/EditObjects/VertexEdit
@@ -427,6 +427,7 @@
             href:  DataProcessing/EditTabular/SortOrderAscendingButton
           - id: HideButton
             title: 隐藏列/取消列隐藏 
+            href:  DataProcessing/EditTabular/HideButton
           - id: HiddenRows
             title: 隐藏行/取消隐藏行
             href:  DataProcessing/EditTabular/HiddenRows
@@ -511,15 +512,15 @@
         - id: ExtractBorderLine
           title: 提取边界线
           href:  DataProcessing/Vector/ExtractBorderLine
-        - id: SortOrderAscendingButton  
+        - id: DualLineToCenterLine  
           title: 双线提取中心线
-          href:  DataProcessing/Vector/SortOrderAscendingButton
-        - id: DualLineToCenterLine
-          title: 面提取中心线
           href:  DataProcessing/Vector/DualLineToCenterLine
         - id: RegionToCenterLine
-          title: 主干中心线
+          title: 面提取中心线
           href:  DataProcessing/Vector/RegionToCenterLine
+        - id: RegionToCenterLineMain
+          title: 主干中心线
+          href:  DataProcessing/Vector/RegionToCenterLineMain
         - id: EdgeMatch
           title: 图幅接边
           href:  DataProcessing/Vector/EdgeMatch   
@@ -553,7 +554,7 @@
           href:  DataProcessing/Raster/Append
         - id: resamplemethod
           title: 栅格重采样方法介绍
-          href:  DataProcessing/Raster/resamplemethod
+          href:  DataProcessing/Registration/resamplemethod
         - id: RasterResample
           title: 重采样
           href:  DataProcessing/Raster/RasterResample
@@ -655,13 +656,10 @@
             - id: importGCP
               title: 导入/导出配准信息文件
               href:  DataProcessing/Registration/importGCP
-        - id: BatchRegistration
-          title: 快速配准
-          href:  DataProcessing/Registration/BatchRegistration
-          subitems: 
-            - id: Transformation3D
-              title: 三维配准
-              href:  DataProcessing/Registration/Transformation3D
+        - id: Transformation3D
+          title: 三维配准
+          href:  DataProcessing/Registration/Transformation3D
+          subitems:
             - id: NewRegistration3D
               title: 第一步 新建配准
               href:  DataProcessing/Registration/NewRegistration3D
@@ -674,6 +672,9 @@
             - id: TransformationModel
               title: 第四步 执行配准
               href:  DataProcessing/Registration/TransformationModel
+        - id: BatchRegistration
+          title: 快速配准
+          href:  DataProcessing/Registration/BatchRegistration
     - id: UsingSnapping
       title: 捕捉
       href:  DataProcessing/Objects/Snapping/UsingSnapping            
@@ -689,20 +690,20 @@
       subitems:
         - id: MapSetting_Basic
           title: 地图属性—基本
-          href: Visualization/Basic/MapSetting_Basic     
+          href: Visualization/Basic/MapSetting_Basic
         - id: MapSetting_Range
           title: 地图属性—范围
-          href: Visualization/Basic/MapSetting_Range       
-    - id: Projectiongroup
-      title: 地图属性-坐标系
-      href: Visualization/MapSetting/Projectiongroup
-      subitems: 
-        - id: ChooseAMapProjection
-          title: 如何选择地图投影
-          href: Visualization/MapSetting/ChooseAMapProjection
-        - id: DynamicProjection
-          title: 启用动态投影
-          href: Visualization/MapSetting/DynamicProjection
+          href: Visualization/Basic/MapSetting_Range      
+        - id: Projectiongroup
+          title: 地图属性-坐标系
+          href: Visualization/MapSetting/Projectiongroup
+          subitems: 
+            - id: ChooseAMapProjection
+              title: 如何选择地图投影
+              href: Visualization/MapSetting/ChooseAMapProjection
+            - id: DynamicProjection
+              title: 启用动态投影
+              href: Visualization/MapSetting/DynamicProjection
     - id: LayerManagement
       title: 管理地图图层
       href: Visualization/LayerManagement/LayerManagement
@@ -788,9 +789,9 @@
             - id: MapSwipe
               title: 地图卷帘
               href: Visualization/BrowseMap/MapSwipe
-        - id: MapSetting
+        - id: BrowseMap_MapSetting2
           title: 地图操作设置
-          href: Visualization/BrowseMap/MapSetting
+          href: Visualization/BrowseMap/BrowseMap_MapSetting2
         - id: Select
           title: 选择地图对象
           href: Visualization/BrowseMap/Select
@@ -856,7 +857,7 @@
           href: Visualization/TemporalData/PlayTemporalData
     - id: LayerSymbolize
       title: 地图符号化表达
-      href: LayerStyle/LayerSymbolize
+      href:  Visualization/LayerStyle/LayerSymbolize
       subitems: 
         - id: LayerStyleTab
           title: 设置图层的风格
@@ -880,9 +881,6 @@
             - id: MapSoften
               title: 填充柔化
               href: Visualization/LayerStyle/MapSoften
-        - id: LayerStyle
-          title: 使用图层风格模板
-          href: Visualization/LayerStyle/LayerStyle
         - id: ManagerUISymStyle
           title: 符号风格设置
           href: Visualization/LayerStyle/ManagerUISymStyle
@@ -924,20 +922,17 @@
               href: Visualization/ColorManage/ColorSelector
             - id: ColorManager
               title: 颜色库管理器
-              href: Visualization/ColorManage/ColorManager                                      
-    - id: MapTemplate
-      title: 使用地图模板
-      href: Visualization/MapTemplate/MapTemplate
+              href: Visualization/ColorManage/ColorManager                                   
     - id: LayerTemplate
       title: 使用图层属性模板
-      href: Visualization/MapTemplate/LayerTemplate
+      href: Visualization/LayerTemplate/LayerTemplate
       subitems: 
         - id: LayerTemplateApplication
           title: 图层模板应用实例
           href: Visualization/LayerTemplate/LayerTemplateApplication
-    - id: WinMap_OutputPDF
+    - id: WinMap_Output
       title: 输出与打印地图
-      href: Visualization/Basic/WinMap_OutputPDF
+      href: Visualization/Basic/WinMap_Output
       subitems: 
         - id: WinMap_OutputPDF
           title: 地图输出为PDF
@@ -951,6 +946,9 @@
         - id: PrintMap
           title: 打印地图
           href: Visualization/Basic/PrintMap
+    - id: MapTemplate
+      title: 使用地图模板
+      href: Visualization/MapTemplate/MapTemplate
     - id: MapShortcutKey
       title: 地图操作的快捷键
       href: Visualization/MapShortcutKey
@@ -1049,9 +1047,9 @@
         - id: TextExpression
           title: 显示上下标
           href: Mapping/TextExpression
-        - id: Movelable
+        - id: movelable
           title: 移动标签
-          href: Mapping/Movelable
+          href: Visualization/Interaction/movelable
     - id: GraphMapGroup
       title: 统计专题图
       href: Mapping/GraphMap/GraphMapGroup
@@ -1064,7 +1062,7 @@
           href: Mapping/GraphMap/GraphMapDia
         - id: movestatisticsymbol
           title: 移动统计符号
-          href: Mapping/Interaction/movestatisticsymbol
+          href: Visualization/Interaction/movestatisticsymbol
     - id: GraduatedSymbolMapgroup
       title: 等级符号专题图
       href: Mapping/GraduatedSymbolMap/GraduatedSymbolMapgroup
@@ -1077,7 +1075,7 @@
           href: Mapping/GraduatedSymbolMap/GraduatedSymbolMapGroupDia
         - id: movegridsymbol
           title: 移动等级符号
-          href: Mapping/Interaction/movegridsymbol
+          href: Visualization/Interaction/movegridsymbol
     - id: DotDensityMapgroup
       title: 点密度专题图
       href: Mapping/DotdensityMap/DotDensityMapgroup
@@ -1140,6 +1138,7 @@
       title: 使用图表模板
       href: DataMining/Diagrams/DiagramTemplate
 - title: 大数据可视化
+  href: BigdataVisualization/BigDataVisualization
   subitems: 
     - id: HeatMap
       title: 热力图
@@ -1172,9 +1171,9 @@
         - id: SQLQueryDia
           title: 通过SQL语句进行查询
           href: Query/SQLQueryDia
-        - id: SQLQueryDiaFuction
+        - id: SQLQueryFunction
           title: 构建SQL查询的函数说明
-          href: Query/SQLQueryDiaFuction
+          href: Query/SQLQueryFunction
         - id: JoinItemsDia
           title: 设置连接表
           href: Query/JoinItemsDia

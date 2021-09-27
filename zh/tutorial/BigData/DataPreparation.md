@@ -11,7 +11,7 @@ title: 数据准备
 
 用户可将拥有的数据库或数据文件所在目录注册到 iServer，即可以使 iServer 提供的服务访问并使用这些数据。
 
-在 iServer 服务管理页面：http://supermapiserver:8090/iserver/manager，依次点击“集群”→“数据注册”，即可将以下数据库或数据存储目录注册到 iServer：
+在 iServer 服务管理页面：(http://supermapiserver:8090/iserver/manager)，依次点击“集群”→“数据注册”，即可将以下数据库或数据存储目录注册到 iServer：
   * **注册大数据文件共享** ：可将网络中共享目录、本地文件目录或 HDFS 目录，注册到 iServer 中，目录中的 csv文件、index文件、udb 数据集文件及子文件夹可用于分布式分析服务。
   * **注册空间数据库** ：可将远程 HBase、Oracle、PostgreSQL、PostGIS、MongoDB 服务注册到 iServer，用于存储空间数据，并提供给分布式分析服务。 **注意** ，注册的 MongoDB 服务仅支持分布式分析服务中的叠加分析、单对象空间查询分析。
 
@@ -20,9 +20,10 @@ title: 数据准备
 iServer 分布式分析服务提供对 csv 数据和 udb 数据集的处理与分析能力。您可以将共享目录以及HDFS 目录注册到 iServer 中，目录中的 csv文件、index文件、udb 数据集文件及子文件夹用于分布式分析服务。下面将具体为您介绍。
 
 1. 在 iServer 服务管理页面(http://supermapiserver:8090/iserver/manager)，依次点击“集群”→“数据注册”→"注册数据存储"，"数据存储类型"选择"大数据文件共享"。
-2. 文件共享类型可选择以下两种：
-  * 共享目录：可以将存储于本地或者文件共享的csv 数据和 udb 数据注册到iServer中,用于分布式分析。其中，注册的csv数据支持修改数据的字段类型。
-  * HDFS目录：为更好的适应大规模数据的 GIS 应用，推荐您使用 HDFS（Hadoop Distributed File System），即 Hadoop 分布式文件系统。它具有高容错特性，适合大规模数据集上的应用。iServer 支持注册 HDFS 中存储的 csv 数据（注册的csv数据支持修改数据的字段类型）、index文件数据。 
+2. 文件共享类型可选择以下两种：  
+
+    - 共享目录：可以将存储于本地或者文件共享的csv 数据和 udb 数据注册到iServer中,用于分布式分析。其中，注册的csv数据支持修改数据的字段类型。
+    - HDFS目录：为更好的适应大规模数据的 GIS 应用，推荐您使用 HDFS（Hadoop Distributed File System），即 Hadoop 分布式文件系统。它具有高容错特性，适合大规模数据集上的应用。iServer 支持注册 HDFS 中存储的 csv 数据（注册的csv数据支持修改数据的字段类型）、index文件数据。 
 3. 在“共享目录”中输入注册数据所在的共享路径，或在“HDFS目录”中输入csv 数据数据的路径即可。
 4. 设置好以上参数后，单击“注册数据存储”按钮，即可将数据注册到iServer中。
 
@@ -50,7 +51,7 @@ ID，可查看详细的存储配置信息。
 **注**：在进行数据注册时，如果iServer服务与HBase集群不在同一机器，需要将HBase集群各个节点所在机器的ip、主机名添加到iServer服务所在机器的hosts文件中。
 
 也可以通过修改数据目录服务配置文件来注册空间数据库，具体操作时，在 iserver-datacatalog.xml 中添加如下配置信息：
-
+```
     <datastore> 
     <datastoreType>SPATIAL</datastoreType> 
     <name>postgresql2</name>
@@ -67,7 +68,7 @@ ID，可查看详细的存储配置信息。
         <readOnly>false</readOnly>  
       </connectionInfo> 
     </datastore> 
-
+```
 其中，datastoreType、name、type 为必填参数，conectionInfo 中：dataBase、password、server、user也均为必填参数。
 
 ### ![](../img/read.gif) iServer DataStore

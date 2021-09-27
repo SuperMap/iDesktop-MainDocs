@@ -24,22 +24,21 @@ SuperMap 桌面提供续传/恢复地图瓦片功能，当您遇到程序意外�
   2. 通过瓦片配置文件（*.sci）文件路径，程序会自动判断同级目录下是否有 resume.log 文件，若没有则会弹出一个 massageBox 提示用户缺少 log 文件，不能进行瓦片续切；若存在则弹出“ **单任务：续传地图瓦片** ”对话框。
 ![](img/RecoverTilesDia.png)  
 ---  
-图：续传瓦片  
+
   3. 程序通过瓦片配置文件（*.sci）读取切图比例尺，及相关瓦片参数，对话框的参数均默认不可修改，单击“生成”即可续切瓦片配置文件*.sci 中未完成的切图任务。
 
 ### 相关主题
 
-  [地图瓦片](MapTiles)
+ [地图瓦片](MapTiles)
 
-  [更新瓦片](UpdateTiles)
+ [更新瓦片](UpdateTiles)
 
-  [瓦片检查](CheckTlies)
+ [瓦片检查](CheckTlies)
 
-  [瓦片管理](MongoDBTilesManger)
+ [瓦片管理](MongoDBTilesManger)
 
-  [加载 MongoDB 瓦片](AddMongoDBTiles)
+ [加载 MongoDB 瓦片](AddMongoDBTiles)
 
   
-
 
 
