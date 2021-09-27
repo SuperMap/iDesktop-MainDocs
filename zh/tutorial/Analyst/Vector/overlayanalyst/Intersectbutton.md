@@ -33,13 +33,13 @@ title: 求交
 
 ![](img/KeepSingleObjectSourceData.png)
 
-### ![](../../../img/note.png) 注意事项
+### 注意事项
 
 在进行叠加分析前，请确保操作的数据投影信息保持一致，否则可能导致叠加分析失败。
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [关于叠加分析](AboutOverlay)
+[关于叠加分析](AboutOverlay)
 
-![](../../../img/smalltitle.png) [叠加分析算子](Overlayoperation)
+[叠加分析算子](Overlayoperation)
 

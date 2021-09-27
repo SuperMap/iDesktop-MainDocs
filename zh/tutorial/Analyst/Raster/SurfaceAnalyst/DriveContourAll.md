@@ -45,8 +45,8 @@ DEM 数据，如果设置基准值为500，等值距为50，则提取等值线�
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
+[关于表面分析](AoubtSurfaceAnalyst)
 
-![](../../../img/smalltitle.png) [提取指定等值线](DriveContourSpecific)
+[提取指定等值线](DriveContourSpecific)
 
-![](../../../img/smalltitle.png) [点选提取等值线](DriveContourPoint)
+[点选提取等值线](DriveContourPoint)

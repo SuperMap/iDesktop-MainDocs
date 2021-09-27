@@ -38,8 +38,8 @@ title: 缓冲区分析原理
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [生成单重缓冲区](../bufferanalyst/SingleBuffer)
+[生成单重缓冲区](../bufferanalyst/SingleBuffer)
 
-![](../../../img/smalltitle.png) [生成多重缓冲区](../bufferanalyst/MutilBuffer)
+[生成多重缓冲区](../bufferanalyst/MutilBuffer)
 
-![](../../../img/smalltitle.png) [缓冲区分析应用实例](BufferAnalyst_Example)
+[缓冲区分析应用实例](BufferAnalyst_Example)

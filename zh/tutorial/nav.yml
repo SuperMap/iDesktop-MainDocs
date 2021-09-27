@@ -1215,7 +1215,7 @@
       subitems: 
         - id: BufferTheory
           title: 缓冲区分析原理
-          href: Analyst/Vector/bufferanalyst/BufferTheory
+          href: Analyst/Vector/ProximityAnalyst/BufferTheory
         - id: SingleBuffer 
           title: 生成单重缓冲区
           href: Analyst/Vector/bufferanalyst/SingleBuffer 
@@ -1287,9 +1287,6 @@
 - title: 栅格分析
   href: Analyst/Analyst
   subitems: 
-    - id: AnalystEnvironment
-      title: 设置分析环境
-      href: Analyst/Raster/AnalystEnvironment
     - id: AoubtSurfaceAnalyst
       title: 表面分析
       href: Analyst/Raster/SurfaceAnalyst/AoubtSurfaceAnalyst
@@ -1335,7 +1332,66 @@
               href: Analyst/Raster/SurfaceAnalyst/TwoObserverVisibility
             - id: MutilObserverVisibility
               title: 多点可视性分析
-              href: Analyst/Raster/SurfaceAnalyst/MutilObserverVisibility          
+              href: Analyst/Raster/SurfaceAnalyst/MutilObserverVisibility
+        - id: SurfaceMeasure
+          title: 表面量算
+          href: Analyst/Raster/SurfaceAnalyst/SurfaceMeasure
+          subitems:
+            - id: SurfaceDistance
+              title: 表面距离
+              href: Analyst/Raster/SurfaceAnalyst/SurfaceDistance
+            - id: SurfaceArea
+              title: 表面面积
+              href: Analyst/Raster/SurfaceAnalyst/SurfaceArea
+            - id: SurfaceVolume
+              title: 表面体积
+              href: Analyst/Raster/SurfaceAnalyst/SurfaceVolume
+        - id: TerrainBuilder
+          title: 构建DEM
+          href: Analyst/TerrainBuilder/TerrainBuilder
+          subitems:
+            - id: AboutTerrainBuilder
+              title: 构建DEM概述
+              href: Analyst/TerrainBuilder/AboutTerrainBuilder
+            - id: TerrainBuilderDia
+              title: 构建DEM
+              href: Analyst/TerrainBuilder/TerrainBuilderDia
+            - id: TerrainBuilderLake
+              title: DEM挖湖
+              href: Analyst/TerrainBuilder/TerrainBuilderLake
+            - id: AboutTerrainMatch
+              title: 地形模型匹配概述
+              href: Analyst/Raster/SurfaceAnalyst/AboutTerrainMatch
+              subitems:
+                - id: TerrainMatch
+                  title: 地形模型匹配
+                  href: Analyst/Raster/SurfaceAnalyst/TerrainMatch
+            - id: PointModifyTerrain
+              title: 点修改地形
+              href: Analyst/TerrainBuilder/PointModifyTerrain   
+        - id: RadarAnalyst
+          title: 雷达基站分析
+          href: Analyst/Raster/RadarAnalyst/RadarAnalyst
+          subitems:
+            - id: RadarShieldingAngle
+              title: 雷达遮蔽角
+              href: Analyst/Raster/RadarAnalyst/RadarShieldingAngle
+            - id: RadarPowerDomain
+              title: 雷达功效域
+              href: Analyst/Raster/RadarAnalyst/RadarPowerDomain
+            - id: RadarVisibleArea
+              title: 雷达可视域
+              href: Analyst/Raster/RadarAnalyst/RadarVisibleArea 
+        - id: AboutHillShade
+          title: 三维效果图
+          href: Analyst/Raster/SurfaceAnalyst/AboutHillShade
+          subitems: 
+            - id: OrthoImage
+              title: 生成正射三维影像
+              href: Analyst/Raster/SurfaceAnalyst/OrthoImage
+            - id: PHillShade
+              title: 生成三维晕渲图
+              href: Analyst/Raster/SurfaceAnalyst/HillShade            
         - id: Slope
           title: 坡度分析
           href: Analyst/Raster/SurfaceAnalyst/Slope
@@ -1350,80 +1406,19 @@
           href: Analyst/Raster/SurfaceAnalyst/CutFillRegion
         - id: InverseCutFill
           title: 反算填挖方
-          href: Analyst/Raster/SurfaceAnalyst/InverseCutFill
-        - id: SurfaceMeasure
-          title: 表面量算
-          href: Analyst/Raster/SurfaceAnalyst/SurfaceMeasure
-          subitems:
-            - id: SurfaceDistance
-              title: 表面距离
-              href: Analyst/Raster/SurfaceAnalyst/SurfaceDistance
-            - id: SurfaceArea
-              title: 表面面积
-              href: Analyst/Raster/SurfaceAnalyst/SurfaceArea
-            - id: SurfaceVolume
-              title: 表面体积
-              href: Analyst/Raster/SurfaceAnalyst/SurfaceVolume         
+          href: Analyst/Raster/SurfaceAnalyst/InverseCutFill        
         - id: Profile
           title: 剖面分析
           href: Analyst/Raster/SurfaceAnalyst/Profile  
         - id: TerrainBuilderClip
           title: DEM切割
-          href: Analyst/Raster/SurfaceAnalyst/TerrainBuilderClip
+          href: Analyst/TerrainBuilder/TerrainBuilderClip
         - id: CalculateCurvature
           title: DEM曲率计算
           href: Analyst/Raster/SurfaceAnalyst/CalculateCurvature
         - id: FindExtreme
           title: 查找极值
-          href: Analyst/Raster/SurfaceAnalyst/FindExtreme
-        - id: TerrainBuilder
-          title: 构建DEM
-          href: Analyst/Raster/TerrainBuilder/TerrainBuilder
-          subitems:
-            - id: AboutTerrainBuilder
-              title: 构建DEM概述
-              href: Analyst/TerrainBuilder/AboutTerrainBuilder
-            - id: TerrainBuilderDia
-              title: 构建DEM
-              href: Analyst/TerrainBuilder/TerrainBuilderDia
-            - id: TerrainBuilderLake
-              title: DEM挖湖
-              href: Analyst/Raster/SurfaceAnalyst/TerrainBuilderLake
-            - id: AboutTerrainMatch
-              title: 地形模型匹配概述
-              href: Analyst/Raster/SurfaceAnalyst/AboutTerrainMatch
-              subitems:
-                - id: TerrainMatch
-                  title: 地形模型匹配
-                  href: Analyst/Raster/SurfaceAnalyst/TerrainMatch
-            - id: PointModifyTerrain
-              title: 点修改地形
-              href: Analyst/Raster/SurfaceAnalyst/PointModifyTerrain              
-        - id: FunctionContract
-          title: 填挖方、地形模型匹配和DEM挖湖介绍
-          href: Analyst/FunctionContract
-        - id: AboutHillShade
-          title: 三维效果图概述
-          href: Analyst/Raster/SurfaceAnalyst/AboutHillShade
-        - id: OrthoImage
-          title: 生成正射三维影像
-          href: Analyst/Raster/SurfaceAnalyst/OrthoImage
-        - id: PHillShade
-          title: 生成三维晕渲图
-          href: Analyst/Raster/SurfaceAnalyst/HillShade
-        - id: RadarAnalyst
-          title: 雷达基站分析
-          href: Analyst/Raster/RadarAnalyst/RadarAnalyst
-          subitems:
-            - id: RadarShieldingAngle
-              title: 雷达遮蔽角
-              href: Analyst/Raster/RadarAnalyst/RadarShieldingAngle
-            - id: RadarPowerDomain
-              title: 雷达功效域
-              href: Analyst/Raster/RadarAnalyst/RadarPowerDomain
-            - id: RadarVisibleArea
-              title: 雷达可视域
-              href: Analyst/Raster/RadarAnalyst/RadarVisibleArea        
+          href: Analyst/Raster/Statistic/FindExtreme                  
     - id: RasterStatistic
       title: 栅格统计
       href: Analyst/Raster/Statistic/RasterStatistic
@@ -1511,10 +1506,13 @@
       href: Analyst/Raster/Histograms
     - id: FindRasterVaule
       title: 查询栅格值
-      href: Analyst/Raster/FindRasterVaule
+      href: Analyst/Raster/SurfaceAnalyst/FindRasterVaule
     - id: FindRasterVauleSetting
       title: 栅格查询设置
-      href: Analyst/Raster/FindRasterVauleSetting
+      href: Analyst/Raster/SurfaceAnalyst/FindRasterVauleSetting
+    - id: AnalystEnvironment
+      title: 设置分析环境
+      href: Analyst/Raster/AnalystEnvironment
 - title: 动态分段
   href: DynamicSeg\DynamicS
   subitems: 
@@ -1843,7 +1841,10 @@
       href: BigData/FeatureJoin        
     - id: ReconStructtracks
       title: 轨迹重建
-      href: BigData/ReconStructtracks
+      href: BigData/ReconStructtracks  
+    - id: TopologyValidator
+      title: 拓扑检查
+      href: BigData/TopologyValidator       
 - title: 地图瓦片
   href: MapTiles/MapTiles
   subitems: 
@@ -1925,7 +1926,7 @@
   subitems: 
     - id: BasicVocabulary
       title: 基础词汇
-      href: SpatialStatisticalAnalysis/BasicVocabulary          
+      href: Analyst/SpatialStatisticalAnalysis/BasicVocabulary          
     - id: MeasureGeographicDistributions
       title: 度量地理分析 
       href: Analyst/SpatialStatisticalAnalysis/MeasureGeographicDistributions      
@@ -2175,7 +2176,7 @@
           href: Layout/Export/Printbutton 
     - id: LayoutShortcutKey
       title: 布局操作的快捷键
-      href: Layout/Basic/LayoutShortcutKey
+      href: Layout/LayoutShortcutKey
 - title: 海图
   href: Chart/Chart
   subitems: 
@@ -2332,7 +2333,7 @@
       href:  Chart/DataProcessing/CheckChartDataset
     - id: ChartIntegrate
       title: 海陆一体化
-      href:  Chart/DataProcessing/ChartIntegrate
+      href:  Chart/Visualization/ChartIntegrate
 - title: 三维操作
   subitems:                       
     - id: Basic

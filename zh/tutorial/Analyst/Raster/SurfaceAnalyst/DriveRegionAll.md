@@ -38,6 +38,6 @@ title: 提取所有面
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
+[关于表面分析](AoubtSurfaceAnalyst)
 
-![](../../../img/smalltitle.png) [提取指定等值面](DriveRegionSpecific)
+[提取指定等值面](DriveRegionSpecific)

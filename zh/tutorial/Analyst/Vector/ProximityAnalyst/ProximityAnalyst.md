@@ -14,20 +14,20 @@ title: 邻近分析
 
 ### ![](../../../img/read.gif)内容提要：
 
-![](../../../img/smalltitle.png) [泰森多边形构建原理](ThiessenPolygon_Theory)
+[泰森多边形构建原理](ThiessenPolygon_Theory)
 
-![](../../../img/smalltitle.png) [构建泰森多边形](ThiessenPolygon)
+[构建泰森多边形](ThiessenPolygon)
 
-![](../../../img/smalltitle.png) [泰森多边形应用实例](ThiessenAnalyst_Example)
+[泰森多边形应用实例](ThiessenAnalyst_Example)
 
-![](../../../img/smalltitle.png) [距离计算原理](DistanceMeasure_Theory)
+[距离计算原理](DistanceMeasure_Theory)
 
-![](../../../img/smalltitle.png) [距离计算](DistanceMeasure)
+[距离计算](DistanceMeasure)
 
-![](../../../img/smalltitle.png) [距离计算应用实例](DistanceAnalyst_Example)
+[距离计算应用实例](DistanceAnalyst_Example)
 
-![](../../../img/smalltitle.png) [缓冲区分析原理](BufferTheory)
+[缓冲区分析原理](BufferTheory)
 
-![](../../../img/smalltitle.png) [缓冲区分析应用实例](BufferAnalyst_Example)
+[缓冲区分析应用实例](BufferAnalyst_Example)
 
-![](../../../img/smalltitle.png) [邻近分析解决方案](Proximity_Cases)
+[邻近分析解决方案](Proximity_Cases)

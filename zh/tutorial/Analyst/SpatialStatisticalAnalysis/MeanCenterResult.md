@@ -27,7 +27,7 @@ title: 中位数中心
 
 ![](img/MeanCenterResult.jpg)
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
  [中心要素](CentralFeature)
 

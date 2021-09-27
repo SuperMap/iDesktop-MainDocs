@@ -37,7 +37,7 @@ title: 生成空间权重矩阵
 
 属性表中将会包含三个结果字段：源唯一ID(UniqueID)、相邻要素唯一ID(NeighborsID)、权重(Weight)。
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
 [聚类和异常值分析](ClusterOutlierAnalyst)
 

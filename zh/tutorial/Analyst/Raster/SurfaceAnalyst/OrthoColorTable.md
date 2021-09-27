@@ -38,5 +38,5 @@ title: 颜色表
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [正射三维影像图](AboutHillShade)
+[正射三维影像图](AboutHillShade)
 

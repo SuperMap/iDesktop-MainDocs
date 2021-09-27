@@ -90,7 +90,7 @@ Intercept(回归系数) + C1(解释字段1回归系数) * 2017地铁站 + C2(解
 
 ![](img/GeoWeightedRegressionResult4.png)
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
  [基础词汇](BasicVocabulary)
 

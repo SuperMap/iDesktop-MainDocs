@@ -27,7 +27,7 @@ SuperMap iDesktop 提供了以下几类空间统计分析：
 
   * **区域经济** ：主要应用于分析区域内的GDP 分布变化，GDP 增长速率与某些现象、人口、基础建设的关 系。
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
  [基础词汇](BasicVocabulary)
 

@@ -23,6 +23,6 @@ title: 距离计算原理
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [距离计算](DistanceMeasure)
+[距离计算](DistanceMeasure)
 
-![](../../../img/smalltitle.png) [距离计算应用实例](DistanceAnalyst_Example)
+[距离计算应用实例](DistanceAnalyst_Example)

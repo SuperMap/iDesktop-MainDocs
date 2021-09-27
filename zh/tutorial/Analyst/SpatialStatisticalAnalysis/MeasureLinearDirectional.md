@@ -50,7 +50,7 @@ title: 线性方向平均值
 
 ![](img/linearDirectionalResult.png)
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
  [中心要素](CentralFeature)
 

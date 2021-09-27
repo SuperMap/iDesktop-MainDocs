@@ -32,7 +32,7 @@ title: 中心要素
 
 ![](img/CenterFeature.png)
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
  [平均中心](MeanCenter)
 

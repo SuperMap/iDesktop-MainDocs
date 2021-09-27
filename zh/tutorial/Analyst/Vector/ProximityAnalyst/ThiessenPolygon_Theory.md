@@ -32,14 +32,13 @@ title: 泰森多边形构建原理
   4. 用于建立泰森多边形的点将成为相应的泰森多边形的锚点。
 
 ![](img/CreatThiessen.png)  
----  
-图：构建泰森多边形步骤  
+
   
 ###  相关主题
 
-![](../../../img/smalltitle.png) [构建泰森多边形](ThiessenPolygon)
+[构建泰森多边形](ThiessenPolygon)
 
-![](../../../img/smalltitle.png) [泰森多边形应用实例](ThiessenAnalyst_Example)
+[泰森多边形应用实例](ThiessenAnalyst_Example)
 
 
 

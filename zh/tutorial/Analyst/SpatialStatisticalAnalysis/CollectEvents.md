@@ -26,7 +26,7 @@ title: 收集事件
 
 ![](img/CollectEvents.png)
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
  [聚类和异常值分析](ClusterOutlierAnalyst)
 

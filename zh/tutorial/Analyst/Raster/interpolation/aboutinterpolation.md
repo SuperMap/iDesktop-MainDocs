@@ -76,12 +76,12 @@ SuperMap 提供三种克吕金插值方法，分别是普通克吕金、简单�
   
 ###  相关主题
 
-![](../../../img/smalltitle.png) [距离反比权重插值](IDWinterpolation)
+[距离反比权重插值](IDWinterpolation)
 
-![](../../../img/smalltitle.png) [样条插值](Splineinterpolation)
+[样条插值](Splineinterpolation)
 
-![](../../../img/smalltitle.png) [普通克吕金插值](OrdinaryKriging)
+[普通克吕金插值](OrdinaryKriging)
 
-![](../../../img/smalltitle.png) [简单克吕金插值](SimpleKriging)
+[简单克吕金插值](SimpleKriging)
 
-![](../../../img/smalltitle.png) [泛克吕金插值](UniversalKriging)
+[泛克吕金插值](UniversalKriging)

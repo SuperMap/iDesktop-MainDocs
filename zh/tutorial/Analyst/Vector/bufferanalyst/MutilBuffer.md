@@ -50,6 +50,6 @@ title: 生成多重缓冲区
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [关于缓冲区分析](HowBufferWork)
+[关于缓冲区分析](HowBufferWork)
 
-![](../../../img/smalltitle.png) [生成单重缓冲区](SingleBuffer)
+[生成单重缓冲区](SingleBuffer)

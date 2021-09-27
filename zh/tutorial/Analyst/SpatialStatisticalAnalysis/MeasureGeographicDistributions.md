@@ -10,7 +10,7 @@ title: 度量地理分析
   * 数据的形状和方向如何？
   * 要素如何分散布局？
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
  [基础词汇](BasicVocabulary)
 

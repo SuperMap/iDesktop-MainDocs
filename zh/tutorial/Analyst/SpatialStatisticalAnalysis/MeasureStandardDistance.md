@@ -34,7 +34,7 @@ title: 标准距离
 
 ![](img/MeasureStandardDistance.png)
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
  [中心要素](CentralFeature)
 

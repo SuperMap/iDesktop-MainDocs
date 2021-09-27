@@ -29,7 +29,7 @@ title: 关于叠加分析
 
 ![](img/Overlay_15.png)
 
-### ![](../../../img/note.png) 注意事项
+### 注意事项
 
   1. 进行叠加分析的两个数据集中，用于叠加分析的数据集的类型可以是点、线、面等，被称作输入数据集（在 SuperMap GIS 中称作第一数据集）；另一个数据集是面数据集被称作叠加数据集（在 SuperMap GIS 中称作第二数据集）。
   2. 应注意面数据集或记录集中本身应避免包含重叠区域，否则叠加分析结果可能出错。
@@ -38,18 +38,18 @@ title: 关于叠加分析
 
 ### ![](../../../img/read.gif) 相关主题
 
-![](../../../img/smalltitle.png) [叠加分析算子介绍](Overlayoperation)
+[叠加分析算子介绍](Overlayoperation)
 
-![](../../../img/smalltitle.png) [裁剪](Clipbutton)
+[裁剪](Clipbutton)
 
-![](../../../img/smalltitle.png) [合并](Unionbutton)
+[合并](Unionbutton)
 
-![](../../../img/smalltitle.png) [擦除](Erasebutton)
+[擦除](Erasebutton)
 
-![](../../../img/smalltitle.png) [求交](Intersectbutton)
+[求交](Intersectbutton)
 
-![](../../../img/smalltitle.png) [同一](Identitybutton)
+[同一](Identitybutton)
 
-![](../../../img/smalltitle.png) [对称差](XORbutton)
+[对称差](XORbutton)
 
-![](../../../img/smalltitle.png) [更新](Updatebutton)
+[更新](Updatebutton)

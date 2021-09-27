@@ -30,9 +30,7 @@ title: 邻域统计
 
 四种形状如下图所示，默认邻域大小为3*3。图上单元格仅为示意。
 
-| ![](img/Circle.png) | ![](img/Rectangle.png)  
----|---  
-![](img/Annulus.png) |  ![](img/Wedge.png)
+![](img/Circle.png)
 
 ### ![](../../../img/read.gif) 功能入口
 

@@ -35,6 +35,6 @@ title: 提取指定面
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
+[关于表面分析](AoubtSurfaceAnalyst)
 
-![](../../../img/smalltitle.png) [提取所有等值面](DriveRegionAll)
+[提取所有等值面](DriveRegionAll)

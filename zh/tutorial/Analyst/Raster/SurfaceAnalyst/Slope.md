@@ -37,5 +37,5 @@ DEM 数据中的像元值即该点的高程值，通过高程值计算该点的�
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
+[关于表面分析](AoubtSurfaceAnalyst)
 

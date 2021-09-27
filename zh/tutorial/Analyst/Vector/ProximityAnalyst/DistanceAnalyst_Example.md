@@ -18,6 +18,6 @@ title: 距离计算应用实例
   
 ###  相关主题
 
-![](../../../img/smalltitle.png) [距离计算原理](DistanceMeasure_Theory)
+[距离计算原理](DistanceMeasure_Theory)
 
-![](../../../img/smalltitle.png) [距离计算](DistanceMeasure)
+[距离计算](DistanceMeasure)

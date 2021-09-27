@@ -33,13 +33,13 @@ title: 雷达遮蔽角
 
 ![](img/PrintShieldingAngleResult.png)  
   
-### ![](../../../img/note.png) 备注
+### 备注
 
 * 切换雷达基站后，右侧计算结果图将清除，不会保留前一次的计算结果。
 * 分析的结果图为地图中的“雷达遮蔽角”。
 
 ### 相关主题
 
-![](../../../img/smalltitle.png) [雷达功效域](RadarPowerDomain)
+[雷达功效域](RadarPowerDomain)
 
-![](../../../img/smalltitle.png) [雷达可视域](RadarVisibleArea)
+[雷达可视域](RadarVisibleArea)

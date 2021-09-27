@@ -39,6 +39,8 @@ title: 填挖方
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [反算填挖方](InverseCutFill)
+[反算填挖方](InverseCutFill)
 
-![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
+[关于表面分析](AoubtSurfaceAnalyst)  
+
+[填挖方、地形模型匹配和DEM挖湖介绍](../../FunctionContract)

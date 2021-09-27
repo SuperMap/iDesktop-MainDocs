@@ -39,5 +39,6 @@ title: 地形匹配
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [地形模型匹配概述](AboutTerrainMatch)
+[地形模型匹配概述](AboutTerrainMatch)
 
+[填挖方、地形模型匹配和DEM挖湖介绍](../../FunctionContract)

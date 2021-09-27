@@ -32,10 +32,10 @@ title: 计算最短路径
 
 关于生成的结果数据集，距离栅格、方向栅格和分配栅格数据的介绍，请参见[距离栅格概述](RasterDistance)的相关介绍。
 
-![](../../../img/smalltitle.png) [距离栅格](RasterDistance)
+[距离栅格](RasterDistance)
 
-![](../../../img/smalltitle.png) [方向栅格](RasterDistance)
+[方向栅格](RasterDistance)
 
-![](../../../img/smalltitle.png) [分配栅格](RasterDistance)
+[分配栅格](RasterDistance)
 
-![](../../../img/smalltitle.png) [路径类型](RasterDistance)
+[路径类型](RasterDistance)

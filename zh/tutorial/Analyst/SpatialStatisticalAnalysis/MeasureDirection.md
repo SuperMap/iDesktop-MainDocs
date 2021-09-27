@@ -47,7 +47,7 @@ RotationAngle | 椭圆的方向
 
 ![](img/MeasureDirection.png)
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
  [中心要素](CentralFeature)
 

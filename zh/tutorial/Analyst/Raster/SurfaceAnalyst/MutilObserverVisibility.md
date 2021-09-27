@@ -37,4 +37,4 @@ title: 多点可视性分析
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
+[关于表面分析](AoubtSurfaceAnalyst)

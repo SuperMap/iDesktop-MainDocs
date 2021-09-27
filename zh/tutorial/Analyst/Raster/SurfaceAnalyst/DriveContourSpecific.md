@@ -40,9 +40,9 @@ title: 提取指定线
 
 ### ![](../../../img/read.gif) 相关主题
 
-![](../../../img/smalltitle.png) [关于表面分析](AoubtSurfaceAnalyst)
+[关于表面分析](AoubtSurfaceAnalyst)
 
-![](../../../img/smalltitle.png) [提取所有等值线](DriveContourAll)
+[提取所有等值线](DriveContourAll)
 
-![](../../../img/smalltitle.png) [点选提取等值线](DriveContourPoint)
+[点选提取等值线](DriveContourPoint)
 

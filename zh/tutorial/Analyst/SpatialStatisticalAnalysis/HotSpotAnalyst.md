@@ -75,7 +75,7 @@ Z 得分(标准差) | P 值(概率) | Gi_ConfInvl 值 | 置信度 | 分析结果
 
 ![](img/HotSpotAnalyst2.png)
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
 [聚类和异常值分析](ClusterOutlierAnalyst)
 

@@ -20,10 +20,10 @@ title: 缓冲区分析应用实例
 
   1. 以居民区数据为中心，建立距离为100m的缓冲区，如下图所示：  ![](img/BufferApplication1.png)  
 ---  
-图：居民区缓存区分析  
+ 
   2. 以主要交通道路为中心，建立50m的缓冲区，如下图所示：  ![](img/BufferApplication2.png)  
 ---  
-图：主要道路缓存区分析  
+
   3. 以停车场和已存在的大型商场点数据为中心，分别建立100m和500m缓冲区，得到结果如下图所示：  
  ![](img/BufferApplication3.png)  
 
@@ -34,10 +34,10 @@ title: 缓冲区分析应用实例
 
 ###  相关主题
 
-![](../../../img/smalltitle.png) [缓冲区分析原理](BufferTheory)
+[缓冲区分析原理](BufferTheory)
 
-![](../../../img/smalltitle.png) [生成单重缓冲区](../bufferanalyst/SingleBuffer)
+[生成单重缓冲区](../bufferanalyst/SingleBuffer)
 
-![](../../../img/smalltitle.png) [生成多重缓冲区](../bufferanalyst/MutilBuffer)
+[生成多重缓冲区](../bufferanalyst/MutilBuffer)
 
 

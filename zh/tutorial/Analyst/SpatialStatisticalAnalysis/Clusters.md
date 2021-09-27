@@ -12,7 +12,7 @@ title: 聚类分布
   * 空间异常值的出现位置在哪里？
   * 哪些要素十分相似？
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
  [基础词汇](BasicVocabulary)
 

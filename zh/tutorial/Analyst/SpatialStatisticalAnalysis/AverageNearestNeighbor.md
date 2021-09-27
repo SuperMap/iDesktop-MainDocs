@@ -31,11 +31,11 @@ title: 平均最近邻
 
 ![](img/AverageNearestNeighborResult.png)
 
-### ![](img/seealso.png) 相关主题
+###  相关主题
 
  [空间自相关](SpatialAutocorrelation)
 
  [高低值聚类](HighLowClustering)
 
-![](img/smalltitle.png [增量空间自相关](IncrementalSpatialAutocorrelation)
+[增量空间自相关](IncrementalSpatialAutocorrelation)
 
