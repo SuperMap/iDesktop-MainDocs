@@ -11,60 +11,9 @@ title: 流向设置概述
 SuperMap 应用程序在网络分析模块中提供了构建流向的功能。成功创建流向后，流向信息会保存在流向字段中。默认名称为 Direction。关于如何构建流向，请参见[追踪分析网络建模](TraceModeling)页面。
 
 在创建流向时，需要首先给追踪网络设置源点或者汇点，并将源汇信息存储在一个源汇字段中，而流向信息根据源汇信息计算而来；同时也可以创建等级字段，存储不同网络的等级信息。具体如下表所示。
+  
+![](img/DirectionTable.png)  
+ 
+如下图所示，是对一个河流网络建立流向后的展示效果。不同的颜色和线性，代表了不同的流向。图例中数字的含义，请参见上表中的说明。
 
-<table width="90%">
-<thead>
-<tr>
-<td width="10%"><div align="center">创建字段</div></td>
-<td width="15%"><div align="center">默认字段名称</div></td>
-<td width="20%"><div align="center">存储方式</div></td>
-<td width="10%"><div align="center">字段数值</div></td>
-<td width="45%"><div align="center">字段数值说明</div></td>
-</tr>
-</thead>
-<tr>
-<td rowspan="3"><div align="center">源汇信息</div></td>
-<td rowspan="3"><div align="center">结点类型</div></td>
-<td rowspan="3">网络数据集的点数据集中。</td>
-<td><div align="center">0</div></td>
-<td>表示普通结点。</td>
-</tr>
-<tr>
-<td><div align="center">1</div></td>
-<td>表示源点。</td>
-</tr>
-<tr>
-<td><div align="center">2</div></td>
-<td>表示汇点。</td>
-</tr>
-<tr>
-<td rowspan="4"><div align="center">流向信息</div>
-<td rowspan="4"><div align="center">Direction</div>
-<td rowspan="4">网络数据集的线和点数据集中。</td>
-<td><div align="center">0</div></td>
-<td>表示弧段流向在网络中从起始点（FromNode）到终止点（ToNode）。</td>
-</tr>
-<tr>
-<td><div align="center">1</div></td>
-<td>表示弧段流向在网络中从终止点（ToNode）到起始点（FromNode）。</td>
-</tr>
-<tr >
-<td><div align="center">2</div></td>
-<td>表示该弧段为环路，即无效流向。</td>
-</tr>
-<tr >
-<td><div align="center">3</div></td>
-<td>表示该弧段不连通。</td>
-</tr>
-<tr>
-<td rowspan="3"><div align="center">等级信息</div></td>
-<td rowspan="3"><div align="center">Grade</div></td>
-<td rowspan="3">网络数据集的线和点数据集中。</td>
-<td><div align="center">-1</div></td>
-<td>表示该弧段无河流等级，即可能为环路或不连通。</td>
-</tr>
-<tr>
-<td><div align="center">大于等于0</div></td>
-<td>值越大，表示该弧段所属的等级越高。</td>
-</tr>
-</table>
+![](img/DirectionIllus.png)  

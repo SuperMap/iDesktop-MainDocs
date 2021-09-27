@@ -1,6 +1,6 @@
 ---
 id: NavigationAnalyst
-title: 导航
+title: 导航分析
 ---
 ### ![](../../img/read.gif) 使用说明
 
