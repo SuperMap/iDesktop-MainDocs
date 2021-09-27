@@ -19,7 +19,7 @@ GRID
 
 更多有关专题图编辑的内容，请参见[编辑专题图](../EditingMap/EditingMap)。
 
-### ![](../../img/read.gif)制作单值专题图的两种途径：
+### 制作单值专题图的两种途径
 
  [新建单值专题图](UniqueValuesMapDefault)
 

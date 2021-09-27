@@ -35,9 +35,7 @@ title: 地图属性-范围
 勾选“裁剪显示范围”复选框，右侧的下拉按钮变为可用状态。单击该下拉按钮，在弹出的下拉菜单中选择一种裁剪区域的方式，即可在当前地图窗口中确定裁剪区域。下拉菜单中提供了选择对象、绘制矩形、圆形、扇形和多边形
 5 种方式，其中，选择对象方式支持选择当前地图窗口中一个或多个面对象作为裁剪显示区域。确定裁剪区域后，当前地图会实时应用裁剪效果。
 
-![](img/clipMapIllustrator1.png)| ![](img/clipMapIllustrator2.png)|![](img/clipMapIllustrator3.png)  
----|---|---  
-原地图| 绘制矩形裁剪区域| 裁剪后的地图显示  
+![](img/clipMapIllustrator1.png)
 
 ### ![](../../img/read.gif)锁定最大显示范围
 
@@ -47,9 +45,7 @@ title: 地图属性-范围
 * 确定了锁定范围后，当前地图即时以确定的锁定范围进行最大显示。
 * 若用户不满意当前的锁定范围，可通过单击该按钮下拉菜单中的“设为地图范围”选项，将地图锁定的最大范围设为地图范围；或者重新确定新的锁定范围，已执行的锁定范围操作自动撤销，并应用新的锁定范围。  
 
-![](img/LockRangeIllustrator1.png)| ![](img/LockRangeIllustrator2.png)|![](img/LockRangeIllustrator3.png)  
----|---|---  
-原地图| 绘制矩形锁定范围| 锁定范围后的地图显示  
+![](img/LockRangeIllustrator1.png) 
 
 ### ![](../../img/read.gif)自定义全幅范围
 
@@ -61,9 +57,7 @@ title: 地图属性-范围
 * 确定了全幅范围后，当前地图即时以确定的全幅范围进行放大显示。
 * 若用户不满意当前的全幅范围，可通过单击该按钮下拉菜单中的“清除全幅范围”选项取消已执行的全幅范围操作；或者重新确定新的全幅范围，已执行的全幅操作自动撤销，并应用新的全幅范围。  
 
-![](img/EntireRangeIllustrator1.png)| ![](img/EntireRangeIllustrator2.png)|![](img/EntireRangeIllustrator3.png)  
----|---|---  
-原地图的全幅显示状态| 绘制矩形确定地图的全幅范围| 确定全幅范围后的地图显示  
+![](img/EntireRangeIllustrator1.png)
 
 ### ![](../../img/read.gif)中心点位置
 

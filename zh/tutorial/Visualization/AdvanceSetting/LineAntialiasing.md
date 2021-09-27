@@ -6,9 +6,7 @@ title: 启用线型反走样
 
 线型反走样是指使地图中矢量数据集的线条平滑，消除锯齿的显示效果。
 
-![](img/MapDisplayOPT_01.png) | ![](img/MapDisplayOPT_02.png)  
----|---  
-设置线型反走样前| 设置线型反走样后  
+![](img/MapDisplayOPT_01.png) 
 
 ### 启用线型反走样
 

@@ -33,7 +33,9 @@ title: 隐藏列/取消列隐藏
 
 隐藏列标志对应的隐藏列显示后，隐藏标志消失。
 
-![](img/cancleHide1.png)
+![](img/cancleHide1.png)    
+
+### 相关主题 
   
  [升序](SortOrderAscendingButton)
 

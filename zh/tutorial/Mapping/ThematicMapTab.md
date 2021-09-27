@@ -8,51 +8,51 @@ SuperMap 具有十分强大丰富的专题图制作功能，提供了简便的�
 中可以创建单值专题图、分段专题图、标签专题图、统计专题图、等级符号专题图、点密度专题图、自定义专题图、栅格单值专题图和栅格分段专题图等专题图。这些专题表达方法在实际中都有广泛的应用。
 
 
-[### 创建专题图](Methods/CreatThematicMap)
+[创建专题图](Methods/CreatThematicMap)
 
 可通过新建或程序提供的专题图模板创建专题图。
 
-[### 编辑专题图](EditingMap/EditingMap)
+[编辑专题图](EditingMap/EditingMap)
 
 支持对单值专题图、分段专题图和自定义专题图进行编辑，即用户可以直接对已经制作好的专题图中的几何对象进行修改。不需要对先原始数据进行编辑，然后再重新制作成专题图。
 
-[### 专题图保存为数据集](EditingMap/ThematicToCAD)
+[专题图保存为数据集](EditingMap/ThematicToCAD)
 
 将专题图另存为 CAD 或文本数据集。目的在于将专题图内容输出为数据集，并保存专题图的风格。
 
-[### 单值专题图](UniqueValueMap/UniqueValuesMapgroup)
+[单值专题图](UniqueValueMap/UniqueValuesMapgroup)
 
 单值专题图将图层中属性字段值相同的对象归为一类，为每一类设定一种渲染风格（如颜色或符号等），以表达不同属性值之间对象的差别。单值专题图有助于强调数据的类型差异，单不能显示定量信息，因此多用于具有分类属性的地图，如土壤利用类型、土地利用图、四色图等。
 
-[### 分段专题图](RangesMap/RangesMapgroup)
+[分段专题图](RangesMap/RangesMapgroup)
 
 分段专题图将图层中所有对象的专题值按照某种分段方式被分成多个范围段，为每一个范围段设定一种渲染风格，对象根据各自的专题值所处的
 范围段的风格进行显示。分段专题图表示了某一区域的数量特征，如不同区域的销售数字，家庭收入，GDP，或者显示比率信息如人口密度等。
 
-[### 标签专题图](Labelmap/LabelMapgroup)
+[标签专题图](Labelmap/LabelMapgroup)
 
 标签专题图主要用于对地图进行标注说明，可以用图层属性中的某个字段（或者多个字段）对点、线、面等对象进行标注。多用于文本型或数值型字段，如标注地名、道路名称、河流宽度、等高线高程值等信息。
 
-[### 统计专题图](Graphmap/GraphMapgroup)
+[统计专题图](Graphmap/GraphMapgroup)
 
 统计专题图通过为图层中每个对象绘制统计图以反映其专题值的大小。统计专题图可以基于多个专题变量，反映地图对象的多个属性。借助统计专题图可以更好的分析自然现象和社会经济现象的分布特征和发展趋势，在统计图区域本身与各区域之间形成横向和纵向的对比，多用于具有相关数量特征的地图上，比如表示不同地区多年的粮食产量、GDP、人口等。
 
-[### 等级符号专题图](Graduatedsymbolmap/GraduatedSymbolMapgroup)
+[等级符号专题图](Graduatedsymbolmap/GraduatedSymbolMapgroup)
 
 与分段专题图类似，等级符号专题图将矢量图层的某一属性字段信息映射为不同等级，每一级分别使用大小不同的点符号表示，符号的大小与该属性字段值成比例，属性值越大专题图上的点符号就越大，反之亦同。等级符号专题图多用于具有数量特征的地图上，例如不同地区的粮食产量、GDP、人口等的分级。
 
-[### 点密度专题图](Dotdensitymap/DotDensityMapgroup)
+[点密度专题图](Dotdensitymap/DotDensityMapgroup)
 
 与分段专题图和等级符号专题图类似，点密度专题图将矢量图层的某一属性字段信息映射为不同等级，每一级别使用表现为密度形式的点符号表示，点符号分布在区域内的密度高低与该属性字段值成比例，属性值越大专题图上的点符号的分布就更为密集，反之亦同。点密度专题图多用于具有数量特征的地图上，例如表示不同地区的粮食产量、GDP、人口等的分级。
 
-[### 自定义专题图](Customizemap/CustomizeMapGroup)
+[自定义专题图](Customizemap/CustomizeMapGroup)
 
 通过自定义属性字段来创建自定义专题图，根据数值型字段值与符号库中对应ID号的风格来设置显示风格，可以更自由的表达数据信息。
 
-[### 栅格单值专题图](Griduniquevaluesmap/GridUniqueValuesMapgroup)
+[栅格单值专题图](Griduniquevaluesmap/GridUniqueValuesMapgroup)
 
 栅格单值专题图将栅格数据集中像元值相同的像元归为一类，每一类像元设定一种颜色，以不同的颜色表达不同像元值的像元。
 
-[### 栅格分段专题图](Gridrangesmap/GridRangesMapgroup)
+[栅格分段专题图](Gridrangesmap/GridRangesMapgroup)
 
 栅格分段专题图将栅格数据集中像元的属性值划分成多个范围段，像元值在同一个范围段中的像元以同种颜色进行显示，以不同的颜色表达像元值位于不范围段的像元。

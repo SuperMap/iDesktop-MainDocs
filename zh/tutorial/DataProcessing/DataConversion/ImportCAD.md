@@ -42,7 +42,9 @@ Autodesk 公司开发的 AutoCAD 与其他软件格式数据交换的文件格�
 5. **风格设置** ：支持添加风格对照表设置导入后CAD风格。 
 
 **风格对照表**：风格对照表文件扩展名为*.stt,包含7部分：风格对照表的表头，对照表的版本，线型对照，字体对照，填充对照，符号对照，dxffile文件，如下例所示：
-```
+
+  
+```  
 SuperMap Style Mapping Table  
 Version 6.0
 
@@ -64,8 +66,7 @@ FontEnd
 
 dxffile  
 Expstyle.dxf  
-
-```
+ ``` 
 
 其中：SuperMap Style Mapping Table 为风格对照表的表头部分；Version 6.0
 为当前对照表的版本；LineStyleBegin 为线型对照的开头；LineStyleEnd 为线型对照的结尾；SymbolBegin

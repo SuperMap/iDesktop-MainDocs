@@ -100,13 +100,13 @@ title: 统计图表类型
   
 ### 相关内容
 
-[**统计图表概述**](Diagrams1)
+[统计图表概述](Diagrams1)
 
-[**制作统计图表**](CreateDiagram)
+[制作统计图表](CreateDiagram)
 
-[**图表与专题图的转换**](ConvertThemticMap)
+[图表与专题图的转换](ConvertThemticMap)
 
-[**与图表联动交互**](ConvertThemticMap)
+[与图表联动交互](ConvertThemticMap)
 
-[**使用统计图表模版**](DiagramTemplate)
+[使用统计图表模版](DiagramTemplate)
 

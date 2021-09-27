@@ -26,7 +26,8 @@ title: 定位
 * 在 Oracle 和 SQL 数据源中，不支持使用两个二进制字段相等作为查询条件进行定位。
 * 属性表定位对话框为非模态窗口，便于用户在属性表中直接选中行来设置定位的参数。
 
- [升序](SortOrderAscendingButton)
+### 相关主题  
+[升序](SortOrderAscendingButton)
 
  [降序](SortOrderDescendingButton)
 

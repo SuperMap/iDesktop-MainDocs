@@ -57,8 +57,7 @@ title: 选择地图对象
 以绘制临时矩形框选择对象的方式为例，对三种对象选择模式的解释如下图所示。图中的虚线矩形框表示选择对象的临时矩形框，多边形表示地图上的几何对象。
 
 ![](../../DataProcessing/Objects/SelectObjects/img/SelectionMode.png)  
----  
-图：选择模式图解  
+
   
 ### 点选容限
 

@@ -57,6 +57,4 @@ title: 对象外接矩形
 
 
 
-![](img/Envelopesource.png) | ![](img/EnvelopeResult.png)  
----|---  
-目标矢量边界 | 计算对象外接矩形结果  
+![](img/Envelopesource.png) 

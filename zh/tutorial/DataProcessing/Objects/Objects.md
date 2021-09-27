@@ -22,7 +22,5 @@ title: 对象操作
 
  [编辑对象](EditObjects/EdittingGeometry)
 
- [查看和修改对象的属性](ObjectProperty)
-
  [栅格矢量化](trace/AboutTrace)
 

@@ -16,9 +16,7 @@ title: 启用动态投影
 
 开启动态投影后，使两个数据使用统一的投影在地图窗口中显示，显示后的效果如下所示。
 
-![](img/DynamicPrj2.png) | ![](img/DynamicPrj3.png)  
----|---  
-图：采用动态投影前的显示效果 | 图：采用动态投影后的显示效果  
+![](img/DynamicPrj2.png)
   
 在启用动态投影时，支持设置投影的转换参数，用户可单击“转换参数”按钮，在弹出的“投影转换参数设置”对话框中，设置投影转换参数。有关投影转换参数设置的详细描述请参看[数据集转换投影](../../DataProcessing/Projection/ConvertPrjCoordSysSingle)。
 

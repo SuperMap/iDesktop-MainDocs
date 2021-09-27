@@ -23,10 +23,8 @@ Ctrl+Z 按键，撤销上一步的量算记录。同时支持设置量算单位�
 * **直线距离** 是指地图中的任意两点在平面二维空间中的水平距离，不考虑地球的曲率。如下图1所示量算两点间的水平距离。
 * **测地线距离** 是指地图中的任意两点在椭球体（椭圆体）地球表面上最短的线的长度。如下图2所示为两点间在椭球体中的测地线距离。例如，可用于量算两城市机场之间的最短路径距离，以此作为飞行航线。  
 
-![](img/DistanceMeasureCompare1.png) | ![](img/DistanceMeasureCompare2.png)  
----|---  
-图1：直线距离量算 | 图2：测地线距离量算  
-* [**地表距离**](../../Analyst/Raster/SurfaceAnalyst/SurfaceDistance)是指地图中在栅格数据拟合的三维曲面上，沿指定的线段或折线段量算地形表面的距离。地表距离量算的距离是曲面上的，比直线距离和测地线的距离要大。
+![](img/DistanceMeasureCompare1.png) 
+* [地表距离](../../Analyst/Raster/SurfaceAnalyst/SurfaceDistance)是指地图中在栅格数据拟合的三维曲面上，沿指定的线段或折线段量算地形表面的距离。地表距离量算的距离是曲面上的，比直线距离和测地线的距离要大。
 
 量算的操作方式类似，本文以“直线距离”量算操作为例：
 
@@ -50,8 +48,7 @@ Ctrl+Z 按键，撤销上一步的量算记录。同时支持设置量算单位�
 4. 单击鼠标右键即可结束面积量算，同时临时多边形的相应位置出现其面积的数值注记，输出窗口中也显示出面积量算的数值。  
 
 ![](img/areaMeasure.png)  
----  
-图：面积量算  
+ 
 
 ### ![](../../img/read.gif) 角度量算
 
@@ -62,8 +59,7 @@ Ctrl+Z 按键，撤销上一步的量算记录。同时支持设置量算单位�
 5. 单击鼠标右键即可结束角度量算，同时临时折线的相应位置出现各个角度的数值注记，输出窗口中也显示出最后绘制的线段的方位角和夹角的数值注记。  
 
 ![](img/angleMeasure.png)  
----  
-图：角度量算  
+ 
 
 ### ![](../../img/read.gif) 清除
 
@@ -72,7 +68,7 @@ Ctrl+Z 按键，撤销上一步的量算记录。同时支持设置量算单位�
 ### 相关主题
 
 
-[**地表距离**](../../Analyst/Raster/SurfaceAnalyst/SurfaceDistance)
+[地表距离](../../Analyst/Raster/SurfaceAnalyst/SurfaceDistance)
 
 
 [地表面积](../../Analyst/Raster/SurfaceAnalyst/SurfaceArea)

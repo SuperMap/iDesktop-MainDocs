@@ -14,7 +14,7 @@ title: 显示十六进制
 ![](img/DisplayHexadecimal.png)  
 ---  
   * 再次单击“显示十六进制”按钮，该列数据恢复为原十进制方式显示。
-
+### 相关主题 
  [降序](SortOrderDescendingButton)
 
  [隐藏列](HideButton)

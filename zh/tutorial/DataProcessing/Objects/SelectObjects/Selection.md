@@ -6,21 +6,21 @@ title: 选择对象
 
 
 
- ### ![](../../../img/read.gif)内容提要：
+ ### 内容提要：
 
 
 
- ![](../../../img/smalltitle.png) [开启图层显示](DTv2_Visible)
+  [开启图层显示](DTv2_Visible)
 
 
 
- ![](../../../img/smalltitle.png) [开启图层选择](DTv2_Selectable)
+  [开启图层选择](DTv2_Selectable)
 
 
 
- ![](../../../img/smalltitle.png) [设置选中对象的显示风格](DTv2_SelectStyle)
+  [设置选中对象的显示风格](DTv2_SelectStyle)
 
 
 
- ![](../../../img/smalltitle.png) [同类文本风格](SameTypeTextStyle)
+  [同类文本风格](SameTypeTextStyle)
 

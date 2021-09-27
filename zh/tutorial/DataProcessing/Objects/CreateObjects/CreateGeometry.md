@@ -8,71 +8,71 @@ title: 创建对象
 
 本节包含如下内容：
 
-[### 对象绘制概述](AboutCreateGeometry)
+[对象绘制概述](AboutCreateGeometry)
 
 介绍对象绘制中涉及的一些概念。
 
-[### 自动连接线对象](AutoConect)
+[自动连接线对象](AutoConect)
 
 介绍如何实现将某一段线对象捕捉到另一段线对象上，并将这两个线对象按照绘制顺序自动连接成一个线对象。
 
-[### 自动闭合线对象](AutoClose)
+[自动闭合线对象](AutoClose)
 
 介绍如何在绘制线对象时实现自动闭合对象。
 
-[### 自动打断线对象](AutoSplit)
+[自动打断线对象](AutoSplit)
 
 介绍如何在绘制线对象时实现自动打断线对象。
 
-[### 自动切割面对象](AutoCut)
+[自动切割面对象](AutoCut)
 
 介绍如何在绘制面对象时，与其他面对象相交的情况下，自动切割绘制的面对象。
 
-[### 绘制点对象](Point)
+[绘制点对象](Point)
 
 介绍如何绘制点对象。
 
-[### 绘制直线](DrawStraightLine)
+[绘制直线](DrawStraightLine)
 
 介绍如何通过起点、端点绘制直线，以及通过长度、角度绘制直线的方式绘制直线。
 
-[### 绘制折线](DrawPolyLine)
+[绘制折线](DrawPolyLine)
 
 介绍绘制折线的方式，以及如何绘制平行线。
 
-[### 绘制多边形](DrawPolygon)
+[绘制多边形](DrawPolygon)
 
 介绍如何绘制任意多边形、正多边形以及正交多边形。
 
-[### 绘制四边形](DrawQuadRangle)
+[绘制四边形](DrawQuadRangle)
 
 介绍如何绘制常用的几种四边形，如矩形、圆角矩形、平行四边形和菱形。
 
-[### 绘制曲线](DrawCurve)
+[绘制曲线](DrawCurve)
 
 介绍如何绘制曲线对象，如贝兹曲线、B 样条曲线、Cardinal 曲线或者自由曲线。
 
-[### 绘制圆弧](DrawArc)
+[绘制圆弧](DrawArc)
 
 介绍如何绘制正圆弧、三点弧以及椭圆弧。
 
-[### 绘制圆](CreateCircle)
+[绘制圆](CreateCircle)
 
 介绍了多种绘制圆的方式。
 
-[### 绘制椭圆](CreateEllipse)
+[绘制椭圆](CreateEllipse)
 
 介绍了多种绘制椭圆的方式。
 
-[### 绘制扇形](CreatePie)
+[绘制扇形](CreatePie)
 
 介绍如何绘制正圆扇形和椭圆扇形。
 
-[### 绘制文本对象](Text)
+[绘制文本对象](Text)
 
 介绍如何绘制普通文本以及沿线文本。
 
-[### 绘制正交多边形](DrawRegularPolygon)
+[绘制正交多边形](DrawRegularPolygon)
 
 介绍如何绘制正交多边形和新正交多边形。
 

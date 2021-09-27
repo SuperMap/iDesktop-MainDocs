@@ -6,6 +6,9 @@ title: 查询实例
 
 下面详细介绍“查询”组的各个功能按钮和操作方式。
 
+ [SQL属性查询实例](SQLQuery_Example)
+
  [SQL 关联查询实例](SQLQuery_Related)
+
 
  [空间查询实例](SpatialQuery_Example)

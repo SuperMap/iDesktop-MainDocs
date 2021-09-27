@@ -73,17 +73,13 @@ Windows 快捷键（如 Ctrl+X、Ctrl+C、Ctrl+V、Delete
 
  常用的逻辑运算包括 And（与）、Or（或）、Not（非）和 Xor（异或），下面将详细介绍各逻辑运算方法
 
-* **And** ：表示逻辑“与”，在表达式对话框中用 &
-表示。当且仅当栅格数据集的像元值同时满足两个代数运算表达式时，该像元值为真，并赋值为1，否则为假，赋值为0。
+* **And** ：表示逻辑“与”，在表达式对话框中用 & 表示。当且仅当栅格数据集的像元值同时满足两个代数运算表达式时，该像元值为真，并赋值为1，否则为假，赋值为0。
 
-* **Or** ：表示逻辑“或”，在表达式对话框中用 |
-表示。当栅格数据集的像元值至少满足两个代数运算表达式中的其中一个时，该像元值为真，并赋值为1；若栅格数据集的像元值均不满足这两个代数运算表达式，该像元值为假，赋值为0。
+* **Or** ：表示逻辑“或”，在表达式对话框中用 | 表示。当栅格数据集的像元值至少满足两个代数运算表达式中的其中一个时，该像元值为真，并赋值为1；若栅格数据集的像元值均不满足这两个代数运算表达式，该像元值为假，赋值为0。
 
-* **Not** ：表示逻辑“非”，在表达式对话框中用 Not( )
-表示。当栅格数据集的像元值不满足所列代数运算表达式时，该像元值为真，并赋值为1，否则为假，赋值为0。
+* **Not** ：表示逻辑“非”，在表达式对话框中用 Not( ) 表示。当栅格数据集的像元值不满足所列代数运算表达式时，该像元值为真，并赋值为1，否则为假，赋值为0。
 
-* **Xor** ：表示逻辑“异或”，在表达式对话框中用 ^
-表示。当且仅当栅格数据集的像元值只满足两个代数运算表达式中的其中一个时，该像元值为真，并赋值为1；若栅格数据集的像元值同时满足（或同时不满足）这两个代数运算表达式时，该像元值为假，并赋值为0。
+* **Xor** ：表示逻辑“异或”，在表达式对话框中用 ^ 表示。当且仅当栅格数据集的像元值只满足两个代数运算表达式中的其中一个时，该像元值为真，并赋值为1；若栅格数据集的像元值同时满足（或同时不满足）这两个代数运算表达式时，该像元值为假，并赋值为0。
 
  * **结果数据**
 
@@ -114,28 +110,29 @@ Windows 快捷键（如 Ctrl+X、Ctrl+C、Ctrl+V、Delete
     * **导出** ：单击“导出”按钮，可以将表达式对话框中的代数运算表达式及其它相关的参数设置以 * .xml 格式保存到文件中，便于以再次使用。导出文件结构如下： 导出文件结构 
 
 
-  ```  
-    <?xml version="1.0" encoding="UTF-8"?>
+```  
+<?xml version="1.0" encoding="UTF-8"?>
 
-    <SmXml:MathOperation xmlns:SmXml="http://www.supermap.com/xml">
+<SmXml:MathOperation xmlns:SmXml="http://www.supermap.com/xml">
 
-        <SmXml:ExpressionCon( [DEM.dem] > 1000,1,-9999)</SmXml:Expression>;
+  <SmXml:ExpressionCon( [DEM.dem] > 1000,1,-9999)</SmXml:Expression>;
 
-        <SmXml:PixelFormat>6400</SmXml:PixelFormat>
+  <SmXml:PixelFormat>6400</SmXml:PixelFormat>
 
-        <SmXml:BZip>TRUE</SmXml:BZip>
+  <SmXml:BZip>TRUE</SmXml:BZip>
 
-        <SmXml:BNoValue>TRUE</SmXml:BNoValue>
+  <SmXml:BNoValue>TRUE</SmXml:BNoValue>
 
-        <SmXml:BShowProgress>TRUE</SmXml:BShowProgress>
+  <SmXml:BShowProgress>TRUE</SmXml:BShowProgress>
 
-    </SmXml:MathOperation>
-```
- <Expression> 字段用于存储表达式对话框内的代数运算表达式。
- <PixelFormat>字段表示结果数据集的像素存储类型，其中1表示1位、4表示4位、8表示单字节、16表示双字节、320表示整型、64表示长整型、3200表示单精度浮点型、6400表示双精度浮点型。
- <BZip> 表示是否对数据集进行压缩存储，FALSE 为不进行压缩，TRUE 为进行压缩。
- <BNoValue> 表示是否忽略无值栅格单元，TRUE 为忽略无值栅格单元，FALSE 为不忽略。
- <BShowProgress> 表示是否显示进度条。  
+</SmXml:MathOperation>
+
+<Expression> 字段用于存储表达式对话框内的代数运算表达式。
+<PixelFormat>字段表示结果数据集的像素存储类型，其中1表示1位、4表示4位、8表示单字节、16表示双字节、320表示整型、64表示长整型、3200表示单精度浮点型、6400表示双精度浮点型。
+<BZip> 表示是否对数据集进行压缩存储，FALSE 为不进行压缩，TRUE 为进行压缩。
+<BNoValue> 表示是否忽略无值栅格单元，TRUE 为忽略无值栅格单元，FALSE 为不忽略。
+<BShowProgress> 表示是否显示进度条。  
+```  
 
 * 单击“ **环境设置**”按钮，设置分析环境参数，栅格代数运算支持设置的分析环境参数包括结果数据集的地理范围、裁剪范围，具体描述请参见[设置分析环境](../../Analyst/Raster/AnalystEnvironment)页面。
 

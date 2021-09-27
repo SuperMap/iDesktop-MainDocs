@@ -2,11 +2,11 @@
 id: DTv2_SelectStyle
 title: 设置选中对象的显示风格  
 ---  
-### ![](../../../img/read.gif)使用说明
+### 使用说明
 
 “对象选择风格”命令，用来设置该矢量图层中对象选中后的显示风格（统一风格）。如何选择对象以及设置对象的选择参数，请详见：[选择对象](..\\..\\..\\Visualization\\BrowseMap\\Select)
 
-### ![](../../../img/read.gif)操作步骤
+### 操作步骤
 
 1. 在图层管理器中选中的矢量图层结点，单击右键，在弹出右键菜单中选择“对象选择风格...”命令。
 
@@ -20,13 +20,13 @@ title: 设置选中对象的显示风格
 
 ###  相关主题
 
-![](../../../img/smalltitle.png)
+
 [设置点符号风格](../../../Visualization/LayerStyle/PointSymStyle)
 
-![](../../../img/smalltitle.png)
+
 [设置线符号风格](../../../Visualization/LayerStyle/LineSymStyle)
 
-![](../../../img/smalltitle.png)
+
 [设置填充符号风格](../../../Visualization/LayerStyle/FillSymStyle)
 
 

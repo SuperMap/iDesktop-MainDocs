@@ -33,6 +33,6 @@ ThemeMap\Land Use\Land Use.udb为例对汇总操作进行详细描述。
 **TBDLMJ_Max** 、 **TBDLMJ_Min** 、 **TBDLMJ_Sum** 为统计类型的结果。
 
 ![](img/summarizeResult.png)  
----  
+
 
 
