@@ -15,10 +15,10 @@ title: 二维标绘
   
 在SuperMap桌面产品中，新建或者打开一个地图窗口，就会显示“二维标绘”选项卡，对此选项卡中的功能介绍如下：
 
-[### 标绘面板](Introduce2DPlottingPanel)
+[标绘面板](Introduce2DPlottingPanel)
 
 用来显示常用标号、警用标号以及图元的符号面板，在CAD图层可编辑的情况下，可直接选中某一标号或图元进行绘制。
 
-[### 属性面板](PropertyPanel_2D)
+[属性面板](PropertyPanel_2D)
 
 用来显示选中标号或图元的属性信息，支持直接对其属性进行修改。

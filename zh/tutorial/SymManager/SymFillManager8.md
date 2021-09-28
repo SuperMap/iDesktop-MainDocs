@@ -43,7 +43,7 @@ title: 新建三维填充符号
 ![](img/SymFillManager8t4.png)  
  
 
-### ![](img/read.gif)备注
+### ![](../img/read.gif)备注
 
 三维水面填充符号被编辑后，已有的引用到该符号的图层需要刷新才能在场景中看到编辑之后的效果。
 

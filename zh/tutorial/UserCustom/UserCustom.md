@@ -13,7 +13,7 @@ title: 工作环境设计
  [如何定制应用程序中已有的界面元素](CustomUIElement)
 
 
-[如何向应用程序中添加新的界面元素](../../guides/UI_index)
+[如何向应用程序中添加新的界面元素](UI_index)
 
 [应用程序的工作环境与如何保存定制工作环境](SaveWKEnvironment)
 

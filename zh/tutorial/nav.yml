@@ -1702,14 +1702,20 @@
       subitems:
         - id: BuildNavigationModel
           title: 构建导航模型
-          href: Network/NavigationAnalysis/BuildNavigationModel    
+          href: Network/NavigationAnalysis/BuildNavigationModel
+        - id: NavigationAnalyst
+          title: 导航分析
+          href: Network/NavigationAnalysis/NavigationAnalyst   
     - id: RoutePlanning
       title: 路径规划
-      href: Network/RoutePlanning 
+      href: Network/NavigationAnalysis/RoutePlanning
       subitems:
         - id: CompileNavigationData
           title: 路网数据编译
           href: Network/NavigationAnalysis/CompileNavigationData
+        - id: RoutePlanning
+          title: 路径规划
+          href: Network/NavigationAnalysis/RoutePlanning
     - id: 5-1RouteAnalyst
       title: 最佳路径分析
       href: Network/5-1RouteAnalyst
@@ -1719,7 +1725,10 @@
       subitems:
         - id: 8-1TSP
           title: 旅行商分析概述
-          href: Network/8-1TSP     
+          href: Network/8-1TSP
+        - id: 8-2TSPDia 
+          title: 旅行商分析
+          href: Network/8-2TSPDia     
     - id: 6-1Facility
       title: 最近设施查找
       href: Network/6-1Facility 
@@ -1729,21 +1738,30 @@
       subitems:
         - id: 7-1ServiceArea
           title: 服务区分析概述
-          href: Network/7-1ServiceArea       
+          href: Network/7-1ServiceArea
+        - id: 7-2ServiceAreaDia
+          title: 服务区分析 
+          href: Network/7-2ServiceAreaDia            
     - id: 9-2MulTSPDia 
       title: 物流配送
       href: Network/9-2MulTSPDia 
       subitems:
         - id: 9-1MulTSP
           title: 物流配送概述
-          href: Network/9-1MulTSP   
+          href: Network/9-1MulTSP  
+        - id: 9-2MulTSPDia 
+          title: 物流配送分析
+          href: Network/9-2MulTSPDia    
     - id: 10-2FindLocationDia
       title: 选址分区
       href: Network/10-2FindLocationDia
       subitems:
         - id: 10-1FindLocation
           title: 选址分区概述
-          href: Network/10-1FindLocation
+          href: Network/10-1FindLocation  
+        - id: 10-2FindLocationDia
+          title: 选址分区
+          href: Network/10-2FindLocationDia
         - id: 10-3ResourceLocation
           title: 资源分配概述
           href: Network/10-3ResourceLocation 
@@ -3657,61 +3675,15 @@
         - id: SymFillManager6
           title: 编辑填充符号
           href: SymManager/SymFillManager6
-        - id: SymLineManager7
+        - id: SymFillManager7
           title: 保存工作成果
-          href: SymManager/SymLineManager7          
-    - id: SymbolMake
-      title: 演示动画
-      href: SymManager/SymbolMake
-      subitems:
-        - id: SymbolMake1 
-          title: 符号制作：示例演示一
-          href: SymManager/SymbolMake1
-        - id: SymbolMake2
-          title: 符号制作：示例演示二
-          href: SymManager/SymbolMake2
-        - id: SymbolMake3
-          title: 符号制作：示例演示三
-          href: SymManager/SymbolMake3
-        - id: SymbolMake4
-          title: 符号制作：示例演示四
-          href: SymManager/SymbolMake4
-        - id: SymbolMake5
-          title: 符号制作：示例演示五
-          href: SymManager/SymbolMake5
-        - id: SymbolMake6
-          title: 符号制作：示例演示六
-          href: SymManager/SymbolMake6
-        - id: SymbolMake7
-          title: 符号制作：示例演示七
-          href: SymManager/SymbolMake7
-        - id: SymbolMake8
-          title: 符号制作：示例演示八
-          href: SymManager/SymbolMake8
-        - id: SymbolMake9
-          title: 符号制作：示例演示九
-          href: SymManager/SymbolMake9
-        - id: SymbolMake10
-          title: 符号制作：示例演示十
-          href: SymManager/SymbolMake10
-        - id: SymbolMake11
-          title: 符号制作：示例演示十一
-          href: SymManager/SymbolMake11
-        - id: SymbolMake12
-          title: 符号制作：示例演示十二
-          href: SymManager/SymbolMake12
-        - id: SymbolMake13
-          title: 符号制作：示例演示十三
-          href: SymManager/SymbolMake13
-        - id: SymbolMake14
-          title: 符号制作：示例演示十四
-          href: SymManager/SymbolMake14
+          href: SymManager/SymFillManager7        
 - title: 工作环境设计
   href: UserCustom/UserCustom
   subitems: 
     - id: UserCustomUI
       title: 工作环境设计窗口介绍
-      href: UserCustom/UserC ustomUI
+      href: UserCustom/UserCustomUI
       subitems:
         - id: PreviewRegion
           title: 预览区
@@ -3862,14 +3834,14 @@
               href: ApplicationTheme/Mapping/LablingRiverStep3     
     - id: AboutR2V
       title: 如何进行栅格矢量化
-      href: RasterToVector/AboutR2V
+      href: ApplicationTheme/RasterToVector1/AboutR2V
       subitems:
         - id: AutoR2V 
           title: 自动栅格矢量化
-          href: ApplicationTheme/RasterToVector/AutoR2V
+          href: ApplicationTheme/RasterToVector1/AutoR2V
         - id: Semi-AutoR2V
           title: 半自动栅格矢量化
-          href: ApplicationTheme/RasterToVector/Semi-AutoR2V
+          href: ApplicationTheme/RasterToVector1/Semi-AutoR2V
     - id: AboutTrafficCondition
       title: 如何制作路况专题图
       href: ApplicationTheme/TrafficCondition/AboutTrafficCondition
