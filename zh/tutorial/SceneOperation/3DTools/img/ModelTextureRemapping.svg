@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<path fill="#FFFFFF" d="M28,29H4V4h25v24C29,28.5523,28.5523,29,28,29z"/>
+<rect x="4" y="4" fill="#30AD98" fill-opacity="0.5" width="8" height="8"/>
+<rect x="20" y="4" fill="#FFFFFF" width="8" height="8"/>
+<rect x="4" y="21" fill="#CFD7E0" width="7" height="7"/>
+<rect x="4" y="12" fill="#27A2DF" fill-opacity="0.5" width="7" height="8"/>
+<rect x="12" y="4" fill="#27A2DF" fill-opacity="0.5" width="8" height="7"/>
+<rect x="21" y="28.5" fill="#5D6D7E" width="1" height="0.5"/>
+<rect x="28.5" y="20.9583" fill="#5D6D7E" width="0.5" height="1"/>
+<path fill="#5D6D7E" d="M14,14v15h13.9531C28.5313,29,29,28.5313,29,27.9531V14H14z M15,15h6v6h-6V15z M15,28v-6h6v6H15z
+	 M28,27.9531C28,27.9789,27.9789,28,27.9531,28H22v-6h6V27.9531z M22,21v-6h6v6H22z"/>
+<rect x="15" y="15" fill="#30AD98" fill-opacity="0.5" width="6" height="6"/>
+<rect x="15" y="22" fill="#27A2DF" fill-opacity="0.5" width="6" height="6"/>
+<rect x="22" y="15" fill="#27A2DF" fill-opacity="0.5" width="6" height="6"/>
+<rect x="22" y="22" fill="#CFD7E0" width="6" height="6"/>
+<path fill="#808FA1" d="M28,3H4C3.4477,3,3,3.4477,3,4v24c0,0.5523,0.4477,1,1,1h8v-8h1v-1h-1v-8h8v1h1v-1h7h1v-1V4
+	C29,3.4477,28.5523,3,28,3z M11,28H4v-7h7V28z M11,20H4v-8h7V20z M11,11H4V4h7V11z M20,11h-8V4h8V11z M28,11h-7V4h7V11z"/>
+</svg>
