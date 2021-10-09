@@ -83,9 +83,9 @@
           title: 管理镶嵌数据集
           href: DataProcessing/DataManagement/MosaicDataset
           subitems:          
-            - id: CreateMosaicDatase
+            - id: CreateMosaicDataset
               title: 创建镶嵌数据集
-              href: DataProcessing/DataManagement/CreateMosaicDatase       
+              href: DataProcessing/DataManagement/CreateMosaicDataset       
             - id: MosaicDataManagement
               title: 镶嵌数据集管理    
               href: DataProcessing/DataManagement/MosaicDataManagement
@@ -180,7 +180,7 @@
           href:  DataProcessing/ConvertDataType/2DsTo3Ds
         - id: ModelToPolygon
           title: 模型转为二维面数据
-          href:  DataProcessing/ConvertDataType/ModelToPolygon
+          href:  SceneOperation/DataProcessing/ConvertDataType/ModelToPolygon
     - id: Objects
       title: 对象操作
       href:  DataProcessing/Objects/Objects
@@ -688,12 +688,12 @@
       title: 设置地图属性
       href: Visualization/MapSetting/MapSetting 
       subitems:
-        - id: MapSetting_Basic
+        - id: CommonSetting
           title: 地图属性—基本
-          href: Visualization/Basic/MapSetting_Basic
-        - id: MapSetting_Range
+          href: Visualization/VisualSetting/CommonSetting
+        - id: SettingRange 
           title: 地图属性—范围
-          href: Visualization/Basic/MapSetting_Range      
+          href: Visualization/MapSetting/SettingRange     
         - id: Projectiongroup
           title: 地图属性-坐标系
           href: Visualization/MapSetting/Projectiongroup
@@ -2540,7 +2540,7 @@
           href: SceneOperation/3DDesigner/SupportSnap 
     - id: 3DEffect
       title: 三维场景特效
-      href: SceneOperation/3DEffect/3DEffect
+      href: SceneOperation/3DEffect/3DEffects
       subitems:
         - id: OcenEffect
           title: 海洋特效
