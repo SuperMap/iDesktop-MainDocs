@@ -29,4 +29,3 @@ Alt + U | Union
 Alt + E | Erase  
 Alt + I | Intersect  
 Alt + F | Xor  
-

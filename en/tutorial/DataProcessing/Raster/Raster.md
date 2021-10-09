@@ -4,22 +4,24 @@ title: Raster Dataset
 ---
 The "Raster" group in "Data" contains the functions for processing raster dataset.
 
-### Mosaic
+[### Mosaic](Mosaic)
 
 It is used to combine two or more raster datasets to a raster dataset that takes the geographic coordinates as reference.
 
-### Update Data
+[### Update Data](Append)
 
-Uses the contents of one or more raster datasets to update the corresponding parts of the other raster dataset.
+Use the contents of one or more raster datasets to update the corresponding parts of the other raster dataset.
 
-### Resample
+[### Resample](RasterResample)
 
-Assigns the cell value or deduction value of original raster dataset to the pixel of new raster dataset.
+Assign the cell value or deduction value of original raster dataset to the pixel of new raster dataset.
 
-### Reclassify
+[### Reclassify](RasterReclass)
 
-Reclassifies the cell values of the raster dataset and assign values for them according to the new classification criterion. Redefine each cell value in raster dataset.
+Reclassify the cell values of the raster dataset and assign values for them according to the new classification criterion. Redefine each cell value in raster dataset.
 
-### Raster Algebraic Calculation
+[### Raster Algebraic Calculation](RasterMathAnalyst)
 
-Conducts the mathematics and function operation for the raster dataset.
+Conduct the mathematics and function operation for the raster dataset.
+
+

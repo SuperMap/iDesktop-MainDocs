@@ -1,27 +1,24 @@
 ---
 id: DatasetSmooth
-title: Smooth Dataset
+title: Smooth Line and Region
 ---
-### ![](../../img/read.gif)Introduction
+### Introduction
 
-Perform border smoothing operation for line dataset, region dataset and network dataset.
+Smooths lines and borders of polygons.
 
-### ![](../../img/read.gif)Basic Steps
+### Function Entrances
 
-  1. In the Data tab, click "Smooth Line and Region" button in the Data Processing group, the Smooth Dataset dialog box appears.
-  2. Add the dataset to smooth with the toolbar. 
+* **Data** tab > **Data Processing** > **Vector** > **Smooth Line and Region**.
+* **Toolbox** > **Data Processing** > **Vector** > **Smooth Line and Region**. (iDesktopX)
 
-![](img-en/close.gif)Toolbar description
+### Parameter Specification
 
-    * ![](../../img/AddDataButton1.png) : Click "Add" button, the "Select" dialog box appears, select the dataset to append in the dialog box.
-    * ![](../../img/SelectAll.png) : Click Select All button to select all the records in the list box.
-    * ![](../../img/SelectInvert.png) : Click Select inverse button, the records not selected will be selected, and the selected records will become not selected.
-    * ![](../../img/RemoveButton.png) : Click Remove button to remove one or more records selected in the list box.
+Specify the dataset you want to smooth.
 
-  3. Select the count of interpolation points in the Smooth Factor column. 
+  * Click on the **Add** icon to open the **Select** dialog box where you can select the datasets you want to smooth.
+  * Smoothness: The count of node to interpolate in the smoothing operation, it is an integer larger than or equal to 2. The location of the node to insert is identified with the B Spline. The more interpolation points, the smoother the polyline after process. The recommended value range is [2,10].
 
-Smooth Factor: The count of node to interpolate in the in smoothing operation, it is a integer larger than or equal to 2. The location of the node to insert is identified with the B Spline. The more interpolation points, the smoother the polyline after process. The recommended value range is [2,10].
+To know more about the smooth process, please refer to the [Smooth Method Introduction](SmoothMeth).
 
-To know more about the smooth process, please refer to the [Smooth Method Introduction](SmoothMeth.htm).
+![](img/Smooth.png)  
 
-  4. Click "OK" to perform the operation, click "Cancel" to given up the operation.

@@ -1,30 +1,23 @@
 ---
 id: EditColorRamp
-title: Editing Color Schemes 
----  
+title: Edit Color Schemes
+---
+### Introduction
 
+Adjusts your color schemes.
 
-### ![](../../img/read.gif)Introduction
+### Basic Steps
 
-Change and adjust existing color schemes.
+1. In the **Color Scheme Manager** select your color scheme and click the **Edit** icon button to open the **Color Scheme Editor** dialog box. Or, you can double click a color scheme to display the Color Scheme Editor.
+2. Click the **Open Color Scheme** icon button in the **Color Scheme Manager** and select your color scheme.
+3. Click the **Add Color** icon button to add a new color to your color scheme. Double click on the newly added color item to change its color.
+4. Select the color you want to delete and click the **Delete Color** button.
+5. To reverse the sequence of the colors, you can click the **Reverse** icon button.
+6. Change the basic information of the color scheme.
+7. Modify the **Change Style** and **Intervals**.
+8. Click **OK** to finish the modification.
 
-### ![](../../img/read.gif)Basic Steps
+### Related Topics
 
-  1. In the Color Scheme Manager, select a color scheme and click the Edit button ![](img-en/EditColorRamp.png) to display the Color Scheme Editor. Or, you can double click a color scheme to display the Color Scheme Editor.
+[Color Scheme Manager](ColorRampManager)
 
-  2. If you need to open other color scheme, in the Color Scheme manager, click the ![](../../img/AddDataButton1.png) button. Select the color scheme you need.
-  3. To add colors to the color scheme, use the Add Color button ![](../../img/AddBNT.png).
-
-![](img-en/Editcolorinterface.png)  
-Figure: Color Editing Panel 
-
-  4. To delete colors for the color scheme, use the Delete button ![](../../img/RemoveButton.png).
-  5. To reverse the sequence of the colors, use the Reverse button ![](img-en/ColorRevert.png).
-  6. Change the basic information of the color scheme.
-  7. Modify the Change Style and Intervals.
-  8. Save the modified color scheme file. To save the modified color scheme as another file, you need to specify another location.
-  9. Click OK to finish.
-
-### ![](../../img/seealso.png)Related Topics
-
-![](../../img/smalltitle.png)[Color Scheme Manager](ColorRampManager.htm)

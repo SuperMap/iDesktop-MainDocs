@@ -1,121 +1,117 @@
 ---
 id: DTgroupDiaVector
-title: Vector Dataset
----
-If one or more vector datasets are selected in the workspace manager, the contents displayed in the Properties panel include: Property Info, Projection, Vector Dataset, Table Structure, and Domain Info.
+title: Properties of Vector Dataset  
+---  
+If one or more vector datasets are selected in the workspace manager, the
+content displayed in the Properties panel include: Dataset, Coordinate,
+Vector, Attribute Table, and Domain
 
-![](img/close.gif)Property Info
+### Dataset
 
-  1. Click the Property Info in the "Properties" panel, the panel will display the attribute information of the dataset, including the basic information of the dataset, the dataset bounds information and the detailed description of the dataset.
+The panel Dataset displays the attribute information of the dataset including the basic information, bounds information, and the detailed description.
 
-**Basic:**
+**Basic info:**
 
-    * Dataset: The name of the dataset.
-    * Type: The type of the dataset.
-    * Table: The name of the attribute table of the dataset.
-    * Encoding: The encoding mode of the vector dataset. For more information on different encoding modes, please refer to [Encoding Modes for Dataset Compression](EncodeType.htm).
+  * **Name** : The dataset name.
+  * **Type** : The dataset type.
+  * **Table Name** : The name of the attribute table of the dataset.
+  * **Encode** : The encoding mode of the vector dataset. For more information on different encoding modes, please refer to [Encoding Modes for Dataset Compression](EncodeType).
 
-**Extent:**
+**Dataset Bounds:**
 
-    * Top, Bottom, Left and Right: The boundary of the grid dataset. The unit of 4 values is identical to that of the dataset. The dataset bounds support recalculation, copy and paste, as follows: 
-      * Recalculate: The vector dataset can be recalculated according to the position of the data center space object.
-      * Copy and Paste: Click the Copy button to copy the current data set range, or click the Paste button to set the left, lower, right, and upper values of the replication range to the current range.
+  * Left, Bottom, Right, and Top: The bounds of the vector dataset. The unit of 4 values is the same as the dataset. You are allowed to recalculate, copy, and paste the bounds. 
+* **Recalculate** : recalculates the bounds of the dataset according to the spatial position of its objects. For specific information, please refer to [Recomputing Bounds for Vector Datasets](DTv_Recalculate)
+* **Copy and Paste** : copies the bounds of the dataset or pastes bounds as the bounds of the bounds.
 
-Description: Display the descriptive information of the vector dataset, the
-user can edit the description of the dataset.
+**Description** : displays the descriptive information of the vector dataset. You can modify the description of the dataset.
 
-![](img/close.gif)Coordinate System
+### Coordinate
 
-  1. Click the Coordinate option in the Properties window, and the coordinate system information for the vector dataset is displayed in the panel. 
-    * Coordinate System: The name of the coordinate system employed by the vector dataset.
-    * Unit: The distance unit of the vector dataset.
-    * Coordinate System Parameters: The parameters of the coordinate system of the vector dataset.
-  2. The function of the button at the toolbar of the coordinate system information: 
-    * Reset the coordinate system: Click this button, and then choose a coordinate system from the frop-down list or click "More"to bring up the Projection Settings dialog box and reset the coordinate projection information for the dataset. For specific setup methods, see the [Projection Settings](../projection/PrjCoordSysSettingWin.htm). 
-    * Copy coordinate system: Click the button to bring up the "Copy Coordinate System" dialog box to copy the coordinate system information as the projection information of the current dataset. The system provides three ways to copy the coordinate system: copy the current workspace has the datasource coordinate projection information, copy the current workspace has the dataset of the coordinate projection information, from the local copy of the specified projection information file. The system supports seven kinds of projection information files, namely: TIFF file (* .TIF), SIT file (* .SIT), Erdas Image file (* .IMG), ArcView shape file (* .SHP), MapInfo exchange format (* .MIF), MapInfo TAB file (* .TAB), projection information file (* .XML). 
-      * Copy the coordinate system information of a datasource in the current workspace.
-      * Copy the coordinate system information of a dataset in the current workspace.
-      * Copy a projection file. iDesktop supports 7 kinds of projection files including TIFF (*.TIF), SIT (*.SIT), Erdas Image (*.IMG), ArcView shape (*.SHP), MapInfo (*.MIF), MapInfo TAB (*.TAB), projection information file(*.XML).
-    * Export coordinate system: Export the coordiante system of a dataset as a projection information file (* .xml). 
-    * Import coordinate system: Import a projection information file (*.xml) as the coordinate system of a dataset. 
-    * Projection Transformation: Click this button to bring up the Dataset Projection Transform dialog box to convert the current projection information of the selected dataset. For specific setup methods, see [Projection Conversion](../projection/ConvertPrjCoordSys.htm).
+The coordinate system information of the vector dataset is displayed in the panel Coordinate.
 
-![](img/close.gif)Vector Dataset
+  * **Coordinate System** : The name of the coordinate system employed by the vector dataset.
+  * **Unit** : The distance unit of the vector dataset.
+  * **Coordinate System Information** : The specific information of the coordinate system used by the vector dataset.
 
-  1. Click the Vector Dataset option in the Properties window, the panel will display the information of the vector dataset.
+The function of the button at the toolbar of the coordinate system information:
+
+  * **Reset Coordinate System** : Click this button to open the drop-down list where you can select a coordinate system or click "More"to select other coordinate systems. For specific setup methods, see the [Projection Settings](../projection/PrjCoordSysSettingWin). 
+  * **Copy Coordinate System** : copies the coordinate system of a datasource or a dataset as the projection information of the current dataset. The system provides two ways to copy a coordinate system: 
+* Copying the coordinate system information of a datasource in the current workspace.
+* Copying the coordinate system information of a dataset in the current workspace.
+  * **Export Coordinate System** : exports the coordiante system of as a projection information file (* .xml).
+  * **Import Coordinate System** : imports a projection information file (*.xml) as the coordinate system of your dataset.
+  * **Projection Transformation** : converts the coordinate system of the selected dataset from one to another. For specific setup methods, see [Projection Conversion](../projection/ConvertPrjCoordSys).
+
+### Vector
+
+The panel Vector displays the information of the vector dataset.
 
 **Vector Dataset**
 
-    * Records: The total number of records in the vector dataset. 
-    * Charset: The charset employed by the vector datset. You can change the charset for the vector dataset by clicking the drop-down arrow and selecting a charset from the list. For more information on all supported charsets, please refer to [Charset List](Charset.htm).
-    * Index Type: The spatial index type of the vector dataset. For more information on different types of spatial indexes, please refer to [Spatial Index Types](SpatialIndexType.htm).
-    * Read-only: Whether the vector dataset is read-only or not. If this box is checked, the vector dataset cannot be edited.
-    * User Cache: Whether the caching mechanism is employed or not.
-    * Clear: Clear all caches.
-    * **Tolerances:**
+  * **Records** : The total number of objects of the vector dataset. 
+  * **Charset** : The charset employed by the vector dataset. You can change the charset for the vector dataset by clicking the drop-down arrow and selecting a charset from the list. For more information on all supported charsets, please refer to [Charset List](Charset).
+  * **Index Type** : The spatial index type of the vector dataset. For more information on different types of spatial indexes, please refer to [Spatial Index Types](SpatialIndexType).
+  * **Read-only** : Whether the vector dataset is read-only or not. If this box is checked, the vector dataset cannot be edited.
+  * **User Cache** : Whether the caching mechanism is employed or not. The checkbox is active only for the dataset with a tile index from the Oracle Plus-based datasource.
+  * **Clear** : empty cache files.
 
-      * Fuzzy: The least distance between two vertices. Two vertices would be merged into one if the distance between them is less than the fuzzy tolerance. The unit is identical that of the dataset. 
-      * Short Suspension Tolerance: Displays and Sets the tolerance for short suspension for the currently selected vector dataset. Any dangles shorter than this tolerance are recognized as overshoots, which can be removed in the topology processing. The unit is the same with that of the dataset. 
-      * Long Suspension Tolerance: Displays and Sets the tolerance for long suspension for the currently selected vector dataset. Any dangles whose distances to another line or arc that they can extended to intersect with are smaller than this tolerance are recognized as undershoots and can be extended to intersect with another line/arc in the topology processing. The unit is the same with that of the dataset. 
-      * Grain: The controlled distance between vertices when adding circles, arcs and curves. The unit is identical that of the dataset.
-      * Sliver Polygon: The smallest polygon in the vector dataset. During topologizing, polygons smaller than the specified value are marked as sliver polygon. You can set to delete sliver polygons during topologizing. The unit for Sliver Polygon is identical to the area unit of the vector dataset.
+**Tolerances:**
 
-![](img/close.gif)Attribute Table
+  * **Fuzzy** : The minimum distance between two vertices. The application will merge the two vertices that the minimum distance between them is less than the value. The unit is the same as the dataset. 
+  * **Overshoot** : Displays and sets the tolerance of overshoot of the selected vector dataset. Any dangles shorter than this value are recognized as overshoots and can be removed in the topology processing. The unit is the same as the dataset. 
+  * **Undershoot** : Displays and sets the tolerance of the undershoot of the selected vector dataset. Any dangles whose distances to another line or arc that they can extended to intersect with are smaller than this tolerance are recognized as undershoots and can be extended to intersect with another line/arc in the topology processing. The unit is the same as the dataset. 
+  * **Grain** : The controlled distance between vertices when adding circles, arcs and curves. The unit is the same as the dataset.
+  * **Sliver Polygon** : The smallest polygon in the vector dataset. During the topological processing, polygons smaller than the specified value are marked as sliver polygon. You can set to delete sliver polygons during the topological processing. The unit for Sliver Polygon is the same as the area unit of the vector dataset.
 
-    1. You can click Attribute Table in the Properties panel to check the attribute table structure of the corresponding vector dataset.
+### Attribute Table
 
-Each row denotes information of a field of the attribute table of the selected
-dataset. Each column indicates a kind of information of fields mainly
-including:
+The panel Attribute Table displays the attribute table structure of your vector dataset in the form of a table.
 
-      * No.: The field number. 
-      * Name: The field name, which is set during creation and cannot be modified after creation.
-      * Alias: The alias of the field. The field alias is used for display in the attribute table.
-      * Type: The type of a field. When adding a new field, you can specify the field type by clicking the drop-down arrow in the corresponding cell and selecting a type from the list. 
-      * Length: The maximum length of the field. Only when you are creating a text field, you can modify the maximum length of the field.
-      * Default: The default value of the field. When adding a new field, you can specify the default value by typing in the corresponding cell.
-      * Required: Whether a field can contain a null value. When adding a new field, you can specify whether the field is required or not.
-    2. You can manage all fields with buttons in the toolbar.
-      * Add icon: Add a new field.
-      * Insert icon: Insert a new field at the specified position however the Add button is to add a new field at the last position.
-      * Modify icon: Edit the unit by selecting it first and then clicking Modify icon or double clicking it. 
+Each row denotes information of a field of the attribute table of the selected dataset. Each column indicates a kind of information.
 
-For file-based datasources, only the field name, field type, default value and
-Required of a non-system field can be changed. For datasets in database-based
-datasources, only the field types of datasets based on five databases (Oracle,
-SQLServer, MySQL, PostGreSQL, KingBase) can be changed because of the
-limitation of databases, you can refer to [Modify field
-type](../../DataProcessing/DataManagement/DTgroupDiaVector_ModifyType-en.htm) to
-view specific support.
+  * **No.** : The field number. 
+  * **Name** : The field name, which is set during creation and cannot be modified after creation.
+  * **Alias** : The alias of the field. The field alias is used for display in the attribute table.
+  * **Type** : The type of a field. When adding a new field, you can specify the field type by clicking the drop-down arrow in the corresponding cell and selecting a type from the list. For datasets that saved in database-based datasources, the application supports modifying types of fields from 6 databases including PostgreSQL, OraclePlus, SQLServer, DMPlus, MySQL, and PostGIS. Please refer to the page [Field Type](DTgroupDiaVector_ModifyType) to check the supportive information on field types.
+  * **Length** : The maximum length of the field. Only when you are creating a text field, you can modify the maximum length of the field.
+  * **Default** : The default value of the field. When adding a new field, you can specify the default value by typing in the corresponding cell.
+  * **Required** : Whether a field can contain a null value. When adding a new field, you can specify whether the field is required or not.
 
-        * All of the field information of datasets are not allowed to change but field aliases.
-        * Each field name must be unique while the field aliases can be the same.
-      * **Upward/Move Down** : Adjust the order of fields in the attribute table.
-      * Delete icon: Delete the selected fields. When deleting one or more selected fields, the delete warning will pop up to confirm if you want to delete the selected field. Click OK to confirm the deletion. 
-      * Apply icon: Apply all changes to the attribute table of the vector dataset. 
+* You can manage all fields with buttons in the toolbar.
 
-![](img/close.gif)Domain
+  * **Add icon** : Add a new field.
+  * **Modify icon** : Edit the unit by selecting it first and then clicking Modify icon or double clicking it. 
 
-    1. In the property window of one dataset, there is one new node named "Domain Info" , which shows the domain information of the current dataset, including alias, field type, domain type, and domain settings. 
+For file-based datasources, only the field name, field type, default value, and Required of a non-system field can be changed.
+
+* All of the field information of datasets are not allowed to change except field aliases.
+* Each field name must be unique while the field aliases can be the same.
+  * **Move Up/Down** : Adjusts the order of fields in the attribute table.
+  * **Delete** : Delete the selected fields. When deleting one or more selected fields, the delete warning will pop up to confirm if you want to delete the selected field. Click OK to confirm the deletion. 
+  * **Hyperlink** : set a text-type field or a wide character type field to a hyperlink field. For specific information, please refer to [Hyperlink](../../Visualization/BrowseMap/Hyperlink).
+  * **Apply icon** : Apply all changes to the attribute table of the vector dataset. 
+
+###  Domain
+
+The panel Domain shows the domain information of the current dataset including Alias, Field Type, Domain Type, and Domain Settings.
 
 The Field list section shows the field alias, field type, and domain type.
 
-      * **Domain Type:** : When users create one field and set the "Required" item as "Yes" , this field will be shown in the domain info. Different field types correspond to different domain types, for example, the field type "Text" corresponds to the domain type of "None" and "Enumeration" , and the field type "Double" corresponds to the domain type of "None" , "Enumeration" and "Range" . 
-        * **Enumeration** : If you set the domain type as enumeration, you can set the enumeration values in the "Domain Settings" text area and description information of every enumeration value. After that, when you edit field values in an attribute table, you can choose an enumeration value.  ![](img-en/DatasetGroupDiaVector6.png)  
----  
-Figure: Enumeration Settings  
-        * **Bounds** : If you set the domain type for a numeric field to Range, you can set the maximum and minimum value for the field.  ![](img-en/DatasetGroupDiaVector7.png)  
----  
-Figure: Range Settings  
-        * **None** : No domain will be set.
+  * **Domain Type:** : displays and sets the domain type of each field excluding the system fields. Double click on the Domain Type item of your field to open the drop-down list where you can specify a domain type. If your field is numerical, its domain type can be Enumeration, Bounds, or None. Else its domain type can be Enumeration or None.
+* **Enumeration** : If you set the domain type as enumeration, you can set the enumeration values in the "Domain Settings" text area and description information of every enumeration value. After that, when you edit field values in an attribute table, you can choose an enumeration value.  
 
-**Note** : For a field with a domain, whenever a new input value is beyond the
-domain, you will get an error prompt message..
+![](img/DatasetGroupDiaVector6.png)  
 
-    2. After the domain is set, click " **Apply** " to complete. You can use the " **Reset** " button to remove all the domain settings. 
+* **Bounds** : If you set the domain type for a numeric field to Range, you can set the maximum and minimum value for the field.  
+![](img/DatasetGroupDiaVector7.png)  
 
-### ![](../../img/note.png) Remark
+* **None** : No domain will be set.
+
+**Note** : For a field with a domain, you will get an error prompt message if the value you entered is out of the domain.
+
+* After setting the domain, click " **Apply** " to finalize the setting. 
+
+###  Remark
 
 If the field type is binary, the length of the field is invalid.
-
-

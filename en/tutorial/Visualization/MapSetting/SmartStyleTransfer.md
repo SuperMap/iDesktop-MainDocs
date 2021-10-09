@@ -1,57 +1,74 @@
 ---
 id: SmartStyleTransfer
-title: AI Cartography
+title: Style Transfer
 ---
-### ![](../../img/read.gif)Function Introduction
+### Function Introduction
 
-Renders your maps intelligently similar to the colors of the picture that you selected.
+SuperMap iDesktop introduces the ability to change your map styles based on
+the style image you specify. Besides, you can adjust the hue, brightness,
+contrast, and saturation of your map.
 
-**Theory of Function**
+**Application Scenarios**
 
-By using the K-Means clustering algorithm gets main hues of the selected image and your map. In the meanwhile, builds relationships between the two kinds of hues according to the area of each color. And then assigns the main hue of image to your map to change its colors.
+* If you have had a map, you want to use it not only in one occasion. You can change its colors to use it in different situations. Such as your map uses warm colors when you need a map using cool colors, you can use the feature to change it conveniently and easily. 
+* One map can has a lot of styles at the same time like subtle grey style, ancient building style, oil painting style, and so on.
 
-**Sample Applications**
+**Highlighted Features**
 
-  * If you have had a map, you want to use it not only in one occasion. You can change its colors to use it in different situations. Such as your map uses warm colors when you need a map using cool colors, you can use the feature to change it conveniently and easily. 
-  * One map can has a lot of styles at the same time like subtle grey style, ancient building style, oil painting style, and so on.
+* The application provides multiple style images. You are allowed to specify your own style pictures. 
+* **Style Transfer Settings** : when extracting colors from a style image, you can set its compression mode and the color count.
+* **Adjust colors** : you can adjust hue, brightness, contrast, saturation, soften, and sharpen of layers (text, line, region). Besides, iDesktop supports other color settings like grey, black and white, and so on. 
+* **Undo/Redo** : the **Undo** feature (or Ctrl Z) can undo the last operation. The **Redo** feature (or Ctrl Y) supports redoing the operation you have undone.
 
-![](img-en/StyleTransfersource.png) | ![](img-en/StyleTransfer1.png) |![](img-en/StyleTransfer2.png)  
----|---|---  
-The original map | Transferred style map (cool colors) | Transferred style map (Chinese ink painting)  
-  
-**Note:** Undoing map operations (shortcut Ctrl+Z) is allowed.
+### Operating Instructions
 
-### ![](../../img/read.gif)Operating Instructions
+Multiple groups of style images are predefined including dark styles, colorful styles. Importing your own images also is allowed.
 
-**Style Transfer** : Multiple groups of style images are predefined including dark styles, colorful styles. Importing your own images also is allowed.
+1. Open your map.
+2. **Using style image** : click the **AI Mapping** tab> **Style Transfer** Gallery. Select the style image you want. iDesktop will display your map with the new style instantly.
+3. **Using own image** : click **AI Mapping** tab> **Style Transfer** Gallery > **Custom** to upload your own style image. 
+4. In the style image preview window click **Select** button to change the style image.
 
-  1. Open your map in iDesktop.
-  2. **Using style image** : click the AI Cartography tab> Style Transfer group > Gallery. Select the style image you want and iDesktop will display the resulting map.
-  3. **Using own image** : click AI Cartography tab> Style Transfer group > Gallery > Custom to upload your own image.
-  4. In the style image showing window in the lower left corner of the map window, click on "select" button to change the style image.
+### Transfer Settings
 
-**Transfer Settings** : Before specify a style image, you can set the compression mode and the number of colors that will be extracted from the style image to make an improvement in image processing.
+You can specify the compression mode and the number of colors that will be extracted from your style image to make an improvement in image processing.
 
-  1. In the AI Cartography tab> Style Transfer group > Gallery > Transfer Settings to open the dialog box Style Transfer Settings.
-  2. **Compress Mode** : Four compress modes are provided aiming to enhance the speed of reading and processing the image. 
-  * **None** : iDesktop won't compress the style image. 
-  * **Antialias** : The feature uses convolutions for resampling an image. The feature provides the best results among other algorithms but has low performance. The algorithm is set to default because of its high-quality results.
-  * **Nearest Neighbor** : The feature uses K nearest neighbor which is a supervised classification (or regression) algorithm that in order to determine the classification of a point, combines the classification of the K nearest points. The quality is lower than other available algorithms. However, it has the best performance.
-  * **Linear Interpolation** : The feature uses simple linear interpolation to resample an image. The output quality is less than Cubic spline interpolation but performance is better.
-  * **Cubic Spline Interpolation** : The feature uses cubic interpolation to resample an image. The output quality is less than Antialias but performance is better, because it uses internal supersampling rather than convolutions.
-  3. **Color Count** : The number of colors to be extracted from the style image. Default color number ranges from 50 to 200. You can set a proper number as needed.
+1. Click **AI Mapping** tab > **Style Transfer** Gallery > **Transfer Settings** to open the **Style Transfer Settings** dialog box.
+2. **Compression Mode** : Four compression modes are provided aiming to enhance the performance of image processing. 
+* **None** : iDesktop won't compress the style image. 
+* **Antialias** : The feature uses convolutions for resampling an image. The feature provides the best results among other algorithms but has low performance. The algorithm is set to default because of its high-quality results.
+* **Nearest Neighbour** : The feature uses K nearest neighbor which is a supervised classification (or regression) algorithm that in order to determine the classification of a point, combines the classification of the K nearest points. The quality is lower than other available algorithms. However, it has the best performance.
+* **Linear Interpolation** : The feature uses simple linear interpolation to resample an image. The output quality is less than Cubic spline interpolation but performance is better.
+* **Cubic Spline Interpolation** : The feature uses cubic interpolation to resample an image. The output quality is less than Antialias but performance is better, because it uses internal supersampling rather than convolutions.
+3. **Colors Count** : The number of colors to be extracted from the style image. Default color number ranges from 50 to 200. You can set a proper number.
 
-**Map Color Fixer** : Adjust colors of the resulting text, lines and polygons by setting their brightness, contrast, and saturation to get a better effect.
+### Adjust Colors
 
-  1. In the AI Cartography tab> Map Color Fixer group, the following information can be adjusted. 
-  2. **Brightness** : Adjusts the brightness of fill, outlines, line, and labels.
-  3. **Contrast** : Adjusts the contrast of fill, outlines, line, and labels.
-  4. **Saturation** : Adjusts the saturation of fill, outlines, line, and labels.
+Adjust colors of the resulting text, lines and polygons by setting their
+brightness, contrast, and saturation to get a better effect. Besides, you can
+set a gray, black and white, or colorful map.
 
-### ![](../../img/read.gif)Applications
+* Click **AI Mapping** tab> **Map Color Fixer** group > **Hue** ( **Brightness** , **Contrast** , **Saturation** , or **Soften/Sharpen** ) to open the color adjustment panel where you can adjust the hue (brighness, contrast, saturation, etc.) of all layers. 
+* Click **+** to adjust the brightness, hue, contrast, and saturation of fillings, lines, outlines, and labels separately.
 
-Given a map, the owner can use the same map to express different themes. Such as environmental, antique, heritage, and so on.
+**Parametric Description** :
 
-![](img-en/StyleTransferexampleresult1.png) | ![](img-en/StyleTransferexampleresult2.png)  
----|---  
-History-style Map | Environment-style Map  
+* **Hue** : adjusts the hue of your map.
+* **Brightness** : adjusts the brightness of your map.
+* **Contrast** : adjusts the contrast of your map.
+* **Saturation** : adjusts the saturation of your map.
+* **Soften/sharpen** : softens/sharpens your maps. 
+* **Colorful** : changes your map style from gray to colorful.
+* **Gray** : changes your map style to gray.
+* **Black and White** : changes your map style to black and white.
+* **Color Invert** : invert colors of your map.
+
+### Applications
+
+Given a map, the owner can use the same map to express different themes. Such
+as environmental, antique, heritage, and so on.
+
+![](img/StyleTransferexampleresult1.png) |![](img/StyleTransferexampleresult2.png)
+---|---
+History-style Map | Environment-style Map
+

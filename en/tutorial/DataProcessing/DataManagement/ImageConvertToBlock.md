@@ -2,34 +2,32 @@
 id: ImageConvertToBlock
 title: Convert Image to Block
 ---
-### ![](../../img/read.gif)Introduction
+### Theory
 
-Converting image data to block storage can improve the speed of loading and browsing image data. It is mainly used for data processing of mosaic dataset to optimize data processing efficiency.  can convert image data into block storage and saved to the appropriate file.
+Image storage modes contain scanning line storage, stripe storage, and block storage. The read modes are different according to the different storage modes.
 
-### ![](../../img/read.gif)Basic Steps
+* Scanning line: The system reads on row at a time.
+* Stripe storage: The system reads N rows according to the specified stripe width N.
+* Block storage: The system reads N blocks according to the specified block number N.
 
-  1. On the Data tab, in the Data Processing group, click the Image Storage Conversion button in the gallery to display the dialog box as shown below.
-![](img-en/ImageStorageConversion.png)  
----  
-Fig. Dialog box for converting imagery into block storage  
-  2. In the dialog box, you can add a single file, or files in batch. 
-    * Click the ![](../../img/AddBNT.png) button to add specified imagery file (*.tif, *tiff) to the list area.
-    * Click the ![](../../img/AddDataButton1.png) button to add all the image files under the specified folder.
+Here we take reading image at 2560*2560 as an example.
 
-Click the **Add Folder** button to open the **Add Folder** dialog box as shown in the figure below. You can integratedly set the path of the folders, the types of image files, and whether to search the files in the sub-folder for their unified settings. The format of image files only can be TIFF.
-![](img-en/AddFolderSetting.png)  
----  
-Fig. Add Folder dialog box  
-  
-  3. Set the Encoding type. 3 types are provided: None, JPEG, LZE. Please refer to [Dataset Encoding Types](../DataManagement/EncodeType.htm) for details.
-  4. Set the number of processes: Proper processes can enhance the conversion efficiency. The default value is 2. You can optimize the value according to the computer configuration and running status.
-  5. Set output path: Click the button to the right of the combox box, and specify the output path of the file, or you can directly input the output path in the text box.
-  6. When finished, click OK to implement the conversion for files in the list area.
+* Scanning line: The system will read 2560 times, and each time the size of the data read is 1*2560.
+* Stripe storage: The system will read 2560/N times, and each time the size of the data read is 2560*N. The greater N is, the more memory will be used. The memory used will affect the read speed.
+* Block storage: The image will be divided into 100 blocks at the size of 256*256. The system needs to read 100 times at most, and each time the size of data read is 256*256, which decrease the display time and enhance the read efficiency. Compared with the above two modes, block storage is a better way for storage.
 
-### ![](../../img/seealso.png)Related Topics
+![](img/ImageStorage.png)
 
-![](../../img/smalltitle.png) [Image Storage Conversion](ImageStorageConversion.htm)
+Converting image data to block storage can improve the speed of loading and browsing image data. It is mainly used for data processing of mosaic dataset to optimize data processing efficiency.can convert image data into block storage and save to the appropriate file.
 
-  
+### Function Entrance
 
+Data > Data Processing > Image Storage Conversion button in the gallery.
+
+### Parameter Description
+
+* iDesktop provides three ways to add image data including Select File, Select Folder, and Add List.
+* **Check that the image is stored as blocks** : check whether your image has been stored as blocks. The result will be displayed in the column Block Storage.](../../TechDocument/SDX/AboutOracleSpatial)
+* **Compress Type** : The parameter has three values including None, JPEG, and LZW. Please refer to [Dataset Encoding Types](../DataManagement/EncodeType) to get much specific information on the selection of encoding type.
+* **Tasks** : Reasonable number of tasks can improve the storage conversion. 2 is by default. You can set an appropriate number according to your data size and available processes.
 

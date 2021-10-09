@@ -2,75 +2,64 @@
 id: UpdateButton
 title: Update Field
 ---
-### ![](../../img/read.gif)Description
+### Description
 
-Update a whole field or the selected cells in a field by constructing the criteria.
+Updates a whole field or the selected cells in a field by constructing the criteria.
 
-### ![](../../img/read.gif)Basic Steps
+### Function Entrances
 
-  1. Open a tabular dataset or the attribute table of a vector dataset.
-  2. To update the contents of the selected cell, you need to first select the cells to be updated in the attribute table. Click Update Field in the Attributes tab, or click the right mouse button and select Update Column. The Update Field dialog box is displayed. As shown below: 
-![](img-en/UpdateFieldDia.png)  
-Figure: Update Column Dialog Box  
-  3. Click the drop-down button to the right of the Update Field button and select the fields to be updated.
-  4. Apply To: Update whole field and update selected Records. 
-    * Whole Field: Update all field values in the specified field to be updated.
-    * Update Selected Records: Updates the selected records in the specified field to be updated.
-  5. Operation Mode: To specify the value of the source used to update the attribute table field values, specific instructions, see [ value source ](ValueFrom.htm) page. 
+Open a tabular dataset or the attribute table of a vector dataset. If you want to update the values of some items, please select these items first.
 
-![](img/close.gif)Operation Mode
+* Click **Attribute Table** > **Editing** > **Update Field**.
+* Right-click on your attribute table and select **Update Field**.
 
-Operation Mode | Description  
----|---  
-Assign to All | By specifying a value, the value of the cell within the specified update range is updated to this value.   
-Single-field  | Constructs a simple mathematical expression for a specified field with a specified value. In the specified update range, for a record to be updated cells, get the specified field attribute value and the user-specified value, operation, construction calculation equation operation, the return value is the cell value after the update.  
-Double-field  |Constructs a simple mathematical expression based on the specified two fields and the specified operation. In the specified update range, for a record to be updated cells, get the specified two fields of the attribute value and user-specified operation, the construction of computing equations to operate, the return value is the cell value after the update. 
-Function  | Constructs a function expression for a field based on a specified field, according to a user-specified function rule. In the specified update range, for a record to be updated cells, get the specified field attribute values and user-specified operation function, build a function expression to operate, the return value is the cell value after the update.  
-  
-  6. Reverse: When the Operation Mode is Single-field or Double-field, check this box to exchange the position of the parameter on both sides of the expression, and then perform the operation of the expression.
-  7. Operation Field: When the Operation Mode is Single-field or Function, Operation Field is used to specify a field used to construct a mathematical expression or function expression.
+### Parameter Description
 
-  8. Operation Field 2: When the Operation Mode is Double-field, Operation Field 2 is used to specify the two fields involved in constructing an operation expression.
-  9. Operator: When the Operation Mode is Single-field or Double-field, the Operator is used to specify the algorithm between Single-field and Double-field. 
+* **Update Field** : specify which field you want to update.
+* **Apply To** : updates the whole field or only selected records. 
+  * Whole Field: updates all values in the specified field.
+  * Update Selected Records: updates the selected records in the specified field.
+* **Operation Mode** : specify how the field values will be updated.
 
-![](img/close.gif)Function
+Operation Mode | Description
+---|---
+Assign to All | You can specify a value. The system will assign all values to be updated to this value.
+Single-Field| Constructs a simple mathematical expression with one field to update values of the specified field. For example, we set the **Operation Field** to SmID, **Operator** to +, and **Operation Value** to 0, which means constructing an expression 'SmID+100'. Then all values to be updated will be the results of SmID plus 100.
+Double-Field| Constructs a simple mathematical expression with two fields to update values of the specified field. For example, we set the **Operation Field 1** to SmID, **Operator** to +, and **Operation Field 2** to SmUserID, which means constructing an expression 'SmID + SmUserID'. Then all values to be updated will be the results of SmID plus SmUserID.
+Function| Constructs a simple mathematical expression with one field and one function to update values of the specified field. For example, we set the **Operation Field** to SmID and **Function** to Abs, which means constructing an expression 'Abs(SmID)'. Then all values to be updated will be the results of Abs(SmID).
 
-Function  | Description  
----|---  
-+ |  On the numeric parameters, the value is added to the two, return a value; character parameters, is to connect two characters, in front of the new parameters in front of the characters, only "+" operation between character parameters.  
-- | Only numerical parameters have this operation, the operator in front of the value minus the operator behind the value.  
-* | Only numerical parameters have this operation, the operator in front of the value multiplied by the value of the operator.  
-/ |Only numerical parameters have this operation, the value preceding the operator is divided by the number following the operator, when the divisor is zero, the operation can not be performed and the value of the dividend is returned.  
-% | Only numerical parameters have this operation, the value preceding the operator is divided by the number following the operator, and the remainder is returned. When the divisor is zero, the operation can not be performed and the value of the dividend is returned.  
-  
-  10. Function: When the Operation Mode is Function, it is used to specify the operation fuction. 
-    * The two text boxes at the right of the "Function" can be used to specify other parameter information for the function. See [ Math Functions ](Functions.htm) page for instructions.
-    * Also you can click "More" in the drop-down list of Function, and customize expressions in the pop-up SOL Expression dialog box. 
-  11. Expression: Used to display and edit the expression to be constructed. Click the button on the right side of the combo box to bring up the SQL Expression dialog box. You can either construct a field expression in the dialog box that pops up or enter a field expression directly in the Expression text box. About SQL expression, please see [ SQL Expression Dialog ](../../Query/SQLDia.htm).
+* Reverse: When the **Operation Mode** is Single-field or Double-field, you can check this box to exchange the positions of the two values on two sides of an expression.
+* **Operation Field** : When the Operation Mode is Single-field or Function, Operation Field is used to specify a field which is used for a mathematical expression or function expression construction.
 
-  12. Click Apply to update the property sheet.
-  13. Click the Close button to exit the current Update Field dialog box.
+* **Operation Field 1/2** : When setting **Operation Mode** to Double-Field, Operation Field 1/2 are used for specifying the two fields involved in an operation expression construction.
+* **Operator** : When the **Operation Mode** is Single-Field or Double-Field, the Operator is used to specify the arithmetic operator.
 
-### ![](../../img/read.gif)Note
+Function| Description
+---|---
+\+ | On the numeric parameters, the value is added to the two, return a value; character parameters, is to connect two characters, in front of the new parameters in front of the characters, only "+" operation between character parameters.
+\- | Only numerical parameters have this operation, the operator in front of the value minus the operator behind the value.
+\* | Only numerical parameters have this operation, the operator in front of the value multiplied by the value of the operator.
+\/ | Only numerical parameters have this operation, the value preceding the operator is divided by the number following the operator, when the divisor is zero, the operation can not be performed and the value of the dividend is returned.
+\% | Only numerical parameters have this operation, the value preceding the operator is divided by the number following the operator, and the remainder is returned. When the divisor is zero, the operation can not be performed and the value of the dividend is returned.
 
-  * When the attribute table is in the filter state, the update column operation, only the filter out of the record field value to update.
+* **Function** : When the **Operation Mode** is Function, it is used to specify the operation function. 
+* The two text boxes at the right of the "Function" can be used to specify other parameter information for the function. See [Math Functions](Functions) page for instructions.
+* Also you can click "More" in the drop-down list of Function, and customize expressions in the pop-up SOL Expression dialog box. 
+* **Expression** : Used to display and edit the expression to be constructed. Click the button on the right side of the combo box to bring up the SQL Expression dialog box. You can either construct a field expression in the dialog box or enter a field expression directly in the Expression text box. About SQL expression, please see [SQL Expression Dialog](../../Query/SQLDia).
 
-### ![](../img/seealso.png)Related Topics
+### Note
 
-![](../../img/smalltitle.png) [Copy and Paste](CopyAndPaste.htm)
+* When some attribute table has a filter, only will the visible values be updated.
 
-![](../../img/smalltitle.png) [Drag and Drop](DragTabular.htm)
+###  Related Topics
 
-![](../../img/smalltitle.png) [Update](UpdateTabular.htm)
+[Edit Attribute Table](Editgroup)
 
-![](../../img/smalltitle.png) [Delete Records](DeleteRecordsButton.htm)
+[Copy and Paste](CopyAndPaste)
 
-![](../../img/smalltitle.png) [Add Records](AddRecordsButton.htm)
+[Drag Attribute Table](DragTabular)
 
-![](../../img/smalltitle.png) [Undo/Redo](UndoButton.htm)
+[Update Attribute Table](UpdateTabular)
 
-![](../../img/smalltitle.png) [Binary Edit](BinaryEdit.htm)
-
-  
-
+[Binary Field Editing](BinaryEdit)
 

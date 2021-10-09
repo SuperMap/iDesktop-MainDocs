@@ -1,17 +1,16 @@
 ---
 id: ResourcesManagerUI
-title: Managing Symbol Resources 
----  
-
-
+title: Manage Symbol Resources
+---
 Below is the Fill Symbol Selector window with the fill symbol library loaded. The Symbol Library window is composed of the function area, symbol pane, symbol library explorer, and the style setting area.
 
-Notice that the Symbol Library window opened through the Workspace Manager is mainly used to browse, manage symbol library files, therefore, the style setting area is not accessed at the bottom of the window. Here the Style Settings window with the style setting area is introduced.
+Note: In the workspace click **Resources** > **Fill Symbol Library** to open the **Fill Symbol Selector** for browsing and managing symbol libraries.
 
-![](img-en/SymLibManagerUI.png)  
+![](img/SymLibManagerUI.png)  
+ 
   
-![](../../img/smalltitle.png)[Function Area](ManagerUIFunctions.htm)
+**Functional Area**
 
-![](../../img/smalltitle.png)[Symbol Library Explorer and Symbol Pane](ManagerUIGroupBrowse.htm)
+**The child group management area and symbol browse area.**
 
-![](../../img/smalltitle.png)[Style Setting Area](ManagerUISymStyle.htm)
+**Symbol setting area**

@@ -1,36 +1,58 @@
 ---
 id: DatasetButton
-title: Exporting Attribute Tables
+title: Export Attribute Table
 ---
-### ![](../../img/read.gif)Description
+Saves an attribute table as a dataset or an Excel file.
 
-Export the attribute information of a vector dataset into a new dataset of the 
-same type or a tabular dataset in records. Besides, you are allowed to export 
-a tabular dataset into a new tabular dataset.
+### Save As Dataset
 
-### ![](../../img/read.gif)Basic Steps
+Save a part or whole attribute information of a vector dataset as a new dataset of the same type or a tabular dataset. Besides, you can save a part or whole records of a tabular dataset as a new tabular dataset.
 
-  1. Open an attribute table. you can right click a vector dataset in the Workspace Manager and click Browse Attributes.
-  2. Select the records you want to export. A record is selected if a cell in the record is selected.
-  3. On the Attributes tab, in the Export group, click Dataset to display the Export into Dataset dialog box, as shown below.
-    * Fields information: Save the selected field value in the saved dataset.
-    * Datasource: The datasource to place the new dataset.
-    * Dataset: The name of the new dataset.
-    * Type: The type of the new dataset. For a vector dataset, you can choose to export into a dataset of its own type or a tabular dataset. For a tabular dataset, you can only choose to export into a tabular dataset.
-    * Encoding: The encoding type of the new dataset.
+**Function Entrances**
 
-You can specify either the single-byte, double-byte, triple-byte or four byte encoding mode for the new dataset when exporting a non-point vector dataset.
+Select the records you want to export. A record is selected if a cell in the record is selected.
 
-![](img-en/DatasetDia.png)  
+* Click **Attributes** > **Export group** > **Save As Dataset** to open the **Save As Dataset** dialog box.
+* Right-click on the attribute table and select Save As Dataset.
 
-  4. Click OK. The new dataset appears under the specified datasource in the Workspace Manager.
+**Parameter Description**
 
-### ![](../img/note.png)Note
+* Fields information: Save the selected field value in the saved dataset.
+* Datasource: The datasource to place the new dataset.
+* Dataset: The name of the new dataset.
+* Type: The type of the new dataset. For a vector dataset, you can choose to export into a dataset of its own type or a tabular dataset. For a tabular dataset, you can only choose to export into a tabular dataset.
+* Encoding: The encoding type of the new dataset.
 
-  1. All records are exported if there are no records selected.
-  2. You will be prompted to change the name if you input an invalid name for the new dataset.
-  3. You can perform the Export operation for one attribute table, the one in the current attribute table window, at a time.
+You can specify either the single-byte, double-byte, triple-byte, or four-byte encoding mode for the new dataset when exporting the attribute table of a vector dataset except for a point dataset.
 
-  
+The new dataset appears under the specified datasource in the Workspace Manager.
 
+### Note
+
+* All records will be exported if there are no records being selected.
+* Please enter an valid name for your new dataset. The system will prompt you if it is invalid.
+* The Save As Dataset can work on only one attribute table operation once no matter how many tables you have opened.
+
+### Save As Excel
+
+Save the attribute table of the vector dataset or tabular dataset as Excel. It supports saving overall attribute table or selected records as Excel.
+
+**Function Entrances**
+
+Select the records you want to export. A record is selected if a cell in the record is selected.
+
+* Click **Attributes** > **Export** group > **Save As Excel** to open the **Save As Excel** dialog box.
+* Right-click on the attribute table and select Save As Excel.
+
+**Parameter Description**
+
+* Filed list: Check fields you want to export in the field list. You can select fields with the tools in the toolbar. The non-system fields are selected by default. 
+* File Name: the name of the resulting Excel file.
+* Path: the path where the output will be saved.
+* Save Selected Records Only: check this to save the selected records to a new Excel file only. Otherwise, save all records.
+
+###  Note
+
+* All records will be exported if there are no records being selected.
+* The Save As Excel can work on only one attribute table operation once no matter how many tables you have opened.
 

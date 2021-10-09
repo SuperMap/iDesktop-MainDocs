@@ -2,14 +2,21 @@
 id: MapTemplate
 title: Using Map Templates
 ---  
+A map template is essentially an XML containing certain information about the map and provides a quick way to get a new map.
+
+The application supports to load map templates to another map. And so, you can save the map as a template for reuse.
+
+### Load Map Template
+
+  * **Function Entrance**: Right click on the **Maps** node in the Workspace Manager tree, and click Load Map Template. 
+  * You can select multiple map template files (*.xml) in one batch to create maps quickly and conveniently.
+
+### Output Map Template
+
+**Function Entrances**
+
+  * Right click in the map window and select Save as Map Template in the context menu.
+  * Right click a map node in the Workspace Manager tree, and click Save as Map Template.
 
 
-This part introduces how to use map templates.
 
-[Loading Map Templates](Maps_LoadTemplate.htm)
-
-Introduce how to load the map template (*.xml) into other maps. The map template saves the map layer information, layer style and the thematic settings.
-
-[Exporting Map Template](Maps_SaveTemplate.htm)
-
-Introduce how to save the settings as template files, which is easy to use the information in other map.

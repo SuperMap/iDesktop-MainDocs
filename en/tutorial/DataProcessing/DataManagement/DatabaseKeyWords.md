@@ -1,47 +1,42 @@
 ---
 id: DatabaseKeyWords
 title: Preserved Keywords List of Database
----  
+---
+When using SuperMap to create tables (attribute tables, datasets) and fields, there is limitation of the dataset name and the field name:
 
+* Composed by letters, numerals and underlines, and can only start with a letter.
+* The length of the name can't not only be 0, but also exceed 30 bytes (namely 30 English letters or 15 chinese characters);
+* The name can't include invalidation letters (namely the letters except number, letter, Chinese character, underline); 
+* Can't use the reserved fields.
 
-When using SuperMap to create tables (attribute tables, datasets) and fields,
-there is limitation of the dataset name and the field name:
-
-  * Composed by letters, numerals and underlines, and can only start with a letter.
-  * The length of the name can't not only be 0, but also exceed 30 bytes (namely 30 English letters or 15 chinese characters);
-  * The name can't include invalidation letters (namely the letters except number, letter, Chinese character, underline); 
-  * Can't use the reserved fields.
-
-Oracle, SQL Server and other databases have some preserved keywords, the name
-of the table and field created in SuperMap can't use these keywords. Here,
-lists the preserved keywords of the database to be convenient for customers.
+Oracle, SQL Server and other databases have some preserved keywords, the name of the table and field created in SuperMap can't use these keywords. Here, lists the preserved keywords of the database to be convenient for customers. 
 In addition to the following keywords, Oracle will use the name initialing
 with "SYS_" for the objects creating automatically by system, so Oracle will
 prevent customers from using the name initialing with "SYS_", otherwise can
-cause confliction.
+cause conflict.
 
-**UDB Keywords**
+**UDB/UDBX Keywords**
 
-ABORT | CAST | DETACH | HAVING | LIKE | QUERY | TO  
----|---|---|---|---|---|---  
-ACTION | CHECK | DISTINCT | IF | LIMIT | RAISE | THEN  
-ADD | COLLATE | DROP | IGNORE | LINES | REFERENCES | TRANSACTION  
-AFTER | COLUMN | EACH | IMMEDIATE | MATCH | REGEXP | TRIGGER  
-ALL | COMMIT | ELSE | IN | NATURAL | REINDEX | UNION  
-ALTER | CONFLICT | END | INDEX | NO | RELEASE | UNIQUE  
-ANALYZE | CONSTRAINT | ESCAPE | INDEXED | NOT | RENAME | UPDATE  
-AND | CREATE | EXCEPT | INITIALLY | NOTNULL | REPLACE | USING  
-AS | CROSS | EXCLUSIVE | INNER | NULL | RESTRICT | VACUUM  
-ASC | CURRENT_DATE | EXISTS | INSERT | OF | RIGHT | VALUES  
-ATTACH | CURRENT_TIME | EXPLAIN | INSTEAD | OFFSET | ROLLBACK | VIEW  
-AUTOINCREMENT | CURRENT_TIMESTAMP | FAIL | INTERSECT | ON | ROW | VIRTUAL  
-BEFORE | DATABASE | FOR | INTO | OR | SAVEPOINT | WHEN  
-BEGIN | DEFAULT | FOREIGN | IS | ORDER | SELECT | WHERE  
-BETWEEN | DEFERRABLE | FROM | ISNULL | OUTER | SET |  
-BY | DEFERRED | FULL | JOIN | PLAN | TABLE |  
-CASCADE | DELETE | GLOB | KEY | PRAGMA | TEMP |  
-CASE | DESC | GROUP | LEFT | PRIMARY | TEMPORARY |  
-  
+ABORT | CAST | DETACH | HAVING | LIKE | QUERY | TO
+---|---|---|---|---|---|---
+ACTION | CHECK | DISTINCT | IF | LIMIT | RAISE | THEN
+ADD | COLLATE | DROP | IGNORE | LINES | REFERENCES | TRANSACTION
+AFTER | COLUMN | EACH | IMMEDIATE | MATCH | REGEXP | TRIGGER
+ALL | COMMIT | ELSE | IN | NATURAL | REINDEX | UNION
+ALTER | CONFLICT | END | INDEX | NO | RELEASE | UNIQUE
+ANALYZE | CONSTRAINT | ESCAPE | INDEXED | NOT | RENAME | UPDATE
+AND | CREATE | EXCEPT | INITIALLY | NOTNULL | REPLACE | USING
+AS | CROSS | EXCLUSIVE | INNER | NULL | RESTRICT | VACUUM
+ASC | CURRENT_DATE | EXISTS | INSERT | OF | RIGHT | VALUES
+ATTACH | CURRENT_TIME | EXPLAIN | INSTEAD | OFFSET | ROLLBACK | VIEW
+AUTOINCREMENT | CURRENT_TIMESTAMP | FAIL | INTERSECT | ON | ROW | VIRTUAL
+BEFORE | DATABASE | FOR | INTO | OR | SAVEPOINT | WHEN
+BEGIN | DEFAULT | FOREIGN | IS | ORDER | SELECT | WHERE
+BETWEEN | DEFERRABLE | FROM | ISNULL | OUTER | SET |
+BY | DEFERRED | FULL | JOIN | PLAN | TABLE |
+CASCADE | DELETE | GLOB | KEY | PRAGMA | TEMP |
+CASE | DESC | GROUP | LEFT | PRIMARY | TEMPORARY |
+
 **Oracle Keywords**
 
 ABORT | COMMIT | EXIT | LIMITED | OTHERS | ROWNUM | TEXT  
@@ -76,6 +71,4 @@ CLUSTERS | ELSE | INTO | OPEN | ROLLBACK | TABLE |
 COLAUTH | ELSIF | IS | OPTION | ROW | TABLES |  
 COLUMN | EXCLUSIVE | LEVEL | OR | ROWID | TASK |  
 COMMENT | EXISTS | LIKE | ORDER | ROWLABEL | TERMINATE |  
-  
-
 

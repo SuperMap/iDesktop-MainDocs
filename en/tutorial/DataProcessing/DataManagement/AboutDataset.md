@@ -1,80 +1,28 @@
 ---
 id: AboutDataset
-title: ﻿Dataset Management
----
-As a basic unit for geospatial data organization, a dataset is used to store data of the same theme. Currently, SuperMap supports point, line, region, tabular, network, CAD, text, LineM, image/grid datasets.
+title: Managing Datasets  
+---  
+As a basic unit for geo-spatial data organization, a dataset is used to store data of the same theme. Currently, SuperMap supports point, line, region, tabular, network, CAD, text, LineM, image/grid datasets.
 
-Manging datasets includes creating, copying, deleting, closing, renaming datasets, as well as sorting datasets, viewing dataset properties, setting encoding for datasets, etc.
+Managing datasets includes creating, copying, deleting, closing, renaming datasets, as well as sorting datasets, viewing dataset properties, setting encoding for datasets, etc.
 
-[
-
-### Creating a Dataset
-
-](CreateDataset-en.htm)
+[### Creating a Dataset](CreateDataset)
 
 Create datasets, such as points, lines, regions, text, CAD, etc.
 
-[
+[### Dataset Management](DatasetManagement)
 
-### Copying Datasets
+Introduce how to copy, close, rename, delete, and sort datasets.
 
-](CopyDataset-en.htm)
-
-Copy one or more datasets to the target datasource.
-
-[
-
-### Deleting Datasets
-
-](DeleteDataset-en.htm)
-
-Delete one or more datasets.
-
-[
-
-### Closing Datasets
-
-](DTv_Close-en.htm)
-
-Close one or more datasets opened in current workspace.
-
-[
-
-### Sorting Datasets
-
-](DS_SortDTs-en.htm)
-
-Sort the datasets by name, type and time.
-
-[
-
-### Renaming a Dataset
-
-](DTv_Rename-en.htm)
-
-Rename the dataset.
-
-[
-
-### View Dataset Properties
-
-](DatasetDia-en.htm)
+[### View Dataset Properties](DatasetDia)
 
 View attribute information of the dataset.
 
-[
+[### Dataset Encoding Types](EncodeType)
 
-### Dataset Encoding Types
+Encoding types for the application.
 
-](EncodeType-en.htm)
-
-Encoding types for  .
-
-[
-
-### Use Encode Types
-
-](EncodeUsing-en.htm)
+[### Use Encode Types](EncodeUsing)
 
 Set the encode types of the dataset.
 

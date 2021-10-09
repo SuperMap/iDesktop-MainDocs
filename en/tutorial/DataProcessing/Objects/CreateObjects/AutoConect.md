@@ -1,33 +1,30 @@
 ---
 id: AutoConect
-title: Auto Connect Line
+title: Auto-Connect Line
 ---
-Auto Connect Line can snap a line segment object (A) to another line segment object (B) and form one line object according to the drawing order. When vectorizing line objects, this functionality will connect the line object at the nodes to form a new line object, this will improve the speed of the vectorization. The line objects to connect can be different types of objects, such as polyline, arc or rectangle.
+Snaps and connects a line segment object (A) and another line segment object (B) resulting in an object according to their drawing order. When vectorizing line objects, this function could connect the line objects at the snapped nodes to form a new line object, which speeds up the data vectorization. The line objects types could be different, such as polyline, arc, or rectangle.
 
-The following figure shows a river, the auto connect line functionality can snap the line objects at the endpoints with the figure order when drawing and form a new object.
+The following figure shows a river, the auto connect line function can snap and connect line objects at the endpoints resulting in a new object.
 
-![](img-en/autoline.png)  
-  
-### ![](../../../img/read.gif)Introduction
-
-  * Auto Connect Line can be used for line layers and CAD layers.
-  * The Auto Connect Line check box is available only when there are editable line layers in the current map window.
-  * Auto Connect Line supports both sample objects and compound objects.
-
-### ![](../../../img/read.gif)Basic Steps
-
-  1. Set the layer in the map window which is needed to enable the Auto Connect Line functionality as editable.
-  2. In the Object Operations tab and on the Drawing group, click the dropdown button Drawing Settings, and then select "Auto-Connect Line" to enable the function. You can also press the prompt keys of "Shift+J" to activate the function.
-  3. When the icon turns ![](img/DrawOption.png), it means the Auto Connect Line function enabled; If you want to cancel this function, click this function again.
-  4. Draw a line object at any location in the map window, it can be line object of any type, such as polyline.
-  5. Enable the snap functionality, snap to the location where the next line segment starts. The line object can be of any type, such a multi polyline. For the explain of the snap functionality, see [Enabling the Snappable Property](../Snapping/DTv2_Snappable.htm).
-  6. Right click to finish the drawing. The new line object will be connected with the first line object to form a new object. The attribute of the new object will be the same with the first object.
-  7. Repeat step 4 and 5 if it is needed to connect more line objects.
-
-### ![](../../../img/note.png)Note
-
-  * The Auto Connect Line functionality supports any line objects, such as polyline, freehand line and ellipse.
-  * Only connect the endpoint of line segment, if the start location of the source line object is not a end point, the source object will not be connected to the current object.
+![](img/autoline.png)
 
 
+### Introduction
 
+* Auto-Connect Line can be used for line layers and CAD layers.
+* The Auto-Connect Line check box is available when there are editable line layers in the current map window.
+* Auto-Connect Line supports both simple objects and compound objects.
+
+### Basic Steps
+
+1. Set your layer editable.
+2. Click **Object Operations** > **Drawing** group > **Drawing Settings** > **Auto-Connect Line**. You can also press Shift+J to activate this function. Click on this function again to disable it.
+3. Draw a line object (polyline, for example) in the map window.
+4. Enable the **Snap** function, snap a start point which can be the start or end node of an existing line to draw a line which can be of any type (multi-polyline, for example). For specific description on **Snap** , please refer to [Enabling the Snappable Property](../Snapping/DTv2_Snappable).
+5. Right click to finish the drawing. iDesktop will connect the newly drawn object and the previous line object and keep its attributes.
+6. Repeat step 4 and 5 to connect more line objects.
+
+### Note
+
+* The Auto-Connect Line function supports any line object, such as polyline, freehand line, and ellipse.
+* Only can you connect the endpoint of a line. If you draw a line whose endpoint is a node of a line but not its endpoint, the program won't connect them.

@@ -1,0 +1,389 @@
+﻿body {
+	background: #ffffff;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif, "微软雅黑";
+	font-size: 85%;
+	width: 96%;
+	margin-left: 2%;
+}
+
+table{
+	font-size: 10pt;
+}
+table.nodetable {
+	margin-top: .6em;
+	margin-bottom: 1em;
+	font-size: 100%;
+	margin-left: 10px;
+}
+table.nodetable thead {
+	width: auto;
+	position: relative;
+	left: 0px;
+	background-image: url("img/tablehead.png");
+	background-repeat: repeat-x
+	height: 26px;	
+}
+tr.headTitle td {
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	height: 26px;
+	padding-left: 16px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-top-width: 0px;
+	border-style: solid;
+	border-color: #A6CBEB;
+	font-family: Verdana, Arial, Helvetica, sans-serif, "微软雅黑";
+}
+tr.contentStyle2 td {
+	height: 26px;
+	background-color: #F2F2F2;
+	width: auto;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	text-align: left;
+	padding-left: 16px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-top-width: 0px;
+	border-style: solid;
+	border-color: #A6CBEB;
+}
+tr.contentStyle1 td {
+	height: 26px;
+	background-color: #ffffff;
+	width: auto;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	text-align: left;
+	padding-left: 16px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 1px;
+	border-top-width: 0px;
+	border-style: solid;
+	border-color: #A6CBEB;
+}
+td.pic {
+	font-weight: bold;
+	color: #003366;
+	font-size: 100%;
+	text-align: center;
+	font-family: "微软雅黑",Arial;
+}
+p {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	line-height: 1.5;
+}
+p.notes {
+	margin-top: 1em;
+	font-weight: bold;
+	color: #003366;
+	font-size: 120%;
+}
+p.contentLink {
+	font-weight: bold;
+	font-family: "微软雅黑",Arial;
+	margin-left:.5em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	
+}
+h1 {
+	font-size: 140%;
+	margin-top: .4em;
+	margin-bottom: .5em;
+	color: #4B4B4B;
+}
+h2 {
+	font-size: 125%;
+	margin-top: 2em;
+	margin-bottom: .5em;
+}
+h3 {
+	font-size: 110%;
+	margin-top: 1.2em;
+	margin-bottom: .5em;
+}
+h1,
+h2,
+h3 {
+	font-family: "微软雅黑",Arial;
+	font-weight: bold;
+}
+a:link {
+	color: #0560A6;
+}
+a:visited {
+	color: #834283;
+}
+a:hover {
+	color: #408080;
+}
+ol {
+	font-size: 100%;
+	margin-top: 1em;
+	margin-bottom: 0em;
+	margin-left: 5em;
+}
+ul {
+	font-size: 100%;
+	margin-top: 1em;
+	margin-bottom: 0em;
+	/*list-style-image:url(img/UL.gif);*/
+	list-style-position:outside;
+	
+}
+ol ul {
+	margin-top: 1em;
+	list-style-position:inside;
+	list-style:disc;
+}
+ul ul {
+	margin-top: 1em;
+	list-style-position:inside;	
+}
+li {
+	margin-bottom: 1em;
+	margin-left: -2em;
+    line-height: 1.5;
+}
+.subpara {
+	margin-left: 18pt;
+}
+.subsubpara {
+	margin-left: 36pt;
+}
+.usubpara {
+	margin-left: 4pt;
+}
+table.normaltable {
+	margin-top: .6em;
+	margin-bottom: 1em;
+	font-size: 100%;
+	margin-left: 10px;
+}
+table.normaltable thead {
+	width: auto;
+	position: relative;
+	left: 0px;
+	background-image: url("img/normaltablehead.png");
+	background-repeat:repeat;
+	height: 23px;
+}
+tr.normaltableTitle td {
+	color: #ffffff;
+	font-weight: bold;
+	text-align: left;
+	height: 23px;
+	padding-left: 8px;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-top-width: 0px;
+	border-style: solid;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+tr.normaltablecontent2 td {
+	color: #464646;
+	height: 26px;
+	background-color: #F2F2F2;
+	width: auto;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	text-align: left;
+	padding-left: 8px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-top-width: 0px;
+	border-style: solid;
+}
+tr.normaltablecontent1 td {
+	color: #464646;
+	height: 26px;
+	background-color: #ffffff;
+	width: auto;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	text-align: left;
+	padding-left: 8px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-top-width: 0px;
+	border-style: solid;
+}
+
+table.cmTable
+	{
+	margin-top: .6em;
+	margin-bottom: 1em;
+	border-width: 1px 1px 0px 0px;
+	border-style: solid;
+	border-color: #999999;
+	font-size: 100%; /* Text in Table is same size as text outside table */
+	}
+table.cmTable td, table.cmTable th
+	{ 
+	border-style: solid; /* Creates the cell border and color */
+	border-width: 0px 0px 1px 1px;
+	border-style: solid;
+	border-color: #999999;
+	padding: 4px 6px;
+	text-align: left;
+	}
+	
+/*通用表格的首行特有样式，灰色背景*/
+table.cmTable tHead	
+	{ 
+	background: #cccccc; /* Creates the shaded table header row */
+	font-weight:bold;
+	padding:4px 6px;
+	text-align:left;
+	}	
+	
+div {
+	left: -20px;
+	top: -15px;
+	width: auto;
+}
+div.pgImage {
+	width: auto;
+	position: relative;
+	left: -25px;
+	padding: inherit;
+	border-bottom: 1px solid #E6E6E6;
+	background-image: url("img/bgimage.png");
+	color: #ffffff;
+	height: 20px;
+}
+div.hd1 {
+	color: #464646;
+	position: relative;
+	top: 3px;
+	left: 20px;
+	font-size: 100%;
+	font-family: Arial;
+	vertical-align: bottom;
+}
+div.logoStyle {
+	width: auto;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	padding: inherit;
+	border-bottom: 1px solid #E6E6E6;
+	background-image: url("img/TitleBackground.bmp");
+	color: #2D5493;
+	height: 70px;
+	margin-left: -20px;
+	margin-top: -15px;
+	background-repeat:no-repeat;
+}
+img.logoPosition {
+	margin-top: -2px;
+	margin-bottom: -15px;
+}
+table.picTable {
+	border-width: 0px;
+	margin-top: .6em;
+	margin-bottom: 1em;
+	font-size: 100%;
+	margin-left: -10px;
+}
+div.topicTitle {
+	font-weight: bold;
+	top: 20px;
+	left: 10px;
+	position: relative;
+	height: 35px;
+	font-size: 180%;
+	font-family: "微软雅黑",Arial, ;
+	color: #2D5493;
+	margin-left: 120px;
+	vertical-align: middle;
+}
+DIV.expanded {
+	font-weight: normal;
+}
+.collapsed {
+	display: none;
+}
+div.expandedPosition {
+	top: 10px;
+	left: -10px;
+	width: auto;
+	position: relative;
+	margin-right: 0px;
+}
+div.expandall {
+}
+div.TabOverlay {
+}
+div.syntax {
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+
+.highlight-title {
+	font-weight: bold;
+	width: 95%;
+	margin-top: 1em;
+	margin-bottom: 2px;
+	border-bottom: #808080 1px solid;
+	padding-bottom: 3px;
+}
+.highlight-copycode {
+	float: right;
+	padding-right: 10px;
+	font-weight: normal;
+	cursor: pointer;
+}
+.highlight-copycode_h {
+	float: right;
+	padding-right: 10px;
+	font-weight: normal;
+	cursor: pointer;
+	text-decoration: underline;
+}
+p.pssTitle {
+	color: #000080;
+	font-weight: bold;
+}
+/*pre的code类 样式*/
+pre.code
+	{
+	background-color: #F4F4FF;
+	padding: 4px 6px 4px 0px;
+	}
+/*代码样式*/
+code
+{
+    color: #2B2B2B;    
+	font-family: "宋体",Courier New,sans-serif;
+
+}
+
+
+/* Applies to the copy code text and image. */
+.highlight-title { font-weight: bold; width:95%; margin-top: 1em; margin-bottom: 2px; border-bottom: gray 1px solid; padding-bottom: 3px; }
+.highlight-copycode { float: right; padding-right: 10px; font-weight: normal; cursor: pointer; }
+.highlight-copycode_h { float: right; padding-right: 10px; font-weight: normal; cursor: pointer; text-decoration: underline}

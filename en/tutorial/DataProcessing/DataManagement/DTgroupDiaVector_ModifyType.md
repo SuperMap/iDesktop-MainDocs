@@ -1,27 +1,28 @@
 ---
 id: DTgroupDiaVector_ModifyType
-title: Modify field type
----
-Currently it supports Oracle, SQLServer, MySQL, PostGreSQL and KingBase.
+title: Modify Field Types  
+---  
+### Field Types
 
-In same cases it will get failure when modifying the field type because of the
-limitations of the database itself. Notice:
+iDesktop supports 15 types of fields of vector datasets. The following content describes these fields in detail.
 
-    * **Oracle**
-      * When the field values are all empty, the LongBinary type can not be modified to other types.
-      * When the field value contains a non empty value: it can be converted between CHAR and TEXT; CHAR and TEXT can be modified to NTEXT, but can't be converted reversely. 
-    * **SQLServer**
-      * When the field values are all empty, DATETIM can only be modified to TEXT or WTEXT; LongBinary can't be modified to other types.
-      * When the field value contains a non empty value: when the data meet the requirements, it supports the same situation with the one when there is no data. 
-    * **MySQL**
-      * When the field values are all empty, it can be modified to any other type.
-      * When the field value contains a non empty value: when the data meet the requirements, it can be modified to any other type. 
-    * **PostGreSQL**
-      * When the field values are all empty, it can be converted between CHAR, TEXT and NTEXT.
-      * It can be converted between BYTE, INT16, INT32, INT64, SINGLE and DOUBLE. The six types also can be modified to NTEXT, CHAR or TEXT, but can't be converted reversely. 
-      * BOOLEAN, DATETIM and LONGBINARY can be modified to NTEXT, CHAR or TEXT, but can't be converted reversely. 
-    * **KingBase**
-      * When the field values are all empty, it can be modified to any other type.
-      * When the field value contains a non empty value: DATETIM can be modified to TEXT or WTEXT, but can't be converted reversely; LongBinary can't be modified to other types. 
+Type | Description | Byte  
+---|---|---  
+16-bit integer | The range of the 16-bit integer is [-32768, 32767] | 2  
+32-bit integer | The range of the 16-bit integer is [-2147483648, 2147483647]| 4  
+64-bit integer | The range of the 16-bit integer is [-9223372036854775808, 9223372036854775807] | 8  
+Double precision | The allowable range of a double precision value is [-1.7976931348623157E+308, -2.2250738585072014E-308], 0, or [2.2250738585072014E-308, 1.7976931348623157E+308]. | 8  
+Single precision | The allowable range of a double precision value is [-3.402823466E+38, -1.175494351E-38], 0, or [1.175494351E-38, 3.402823466E+38] | 4  
+Text | the maximum characters of text is 255(2^8-1) | 255  
+Wide character | the maximum characters of text is 65535(2^16-1) | 255  
+Character type | Fixed-length text. For example, you set the fixed length to 10 and entered 3 characters finally, and so all other characters will be 0. | 255  
+Boolean type | The field value can be True or False | 1  
+Date | The displayed format YY/MM/DD hh:mm:ss, for example: 2020/11/19 14:54:10 | 8  
+Byte | The range of a byte value is [0,255] | 1  
+Binary type | Similar to character set. |  
+  
+### Modify field type
 
+Now, the engines that support to modify field types include: [PostgreSQL](ModifyType_PostGreSQL), [OraclePlus](ModifyType_OraclePlus), [SQLServer](ModifyType_SQLPlus), and MySQL.
 
+For datasets saved in database-based datasources, since the limitation of databases, the changes some types of fields may be failed.

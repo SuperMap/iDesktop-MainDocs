@@ -1,14 +1,21 @@
 ---
 id: ZoomtoImgResolution
-title: Zoom to Raster Resolution
+title: Zoom to Default Resolution
 ---
-### ![](../../img/read.gif)Introduction
+### Introduction
 
-With the Zoom to Raster Resolution functionality, you can zoom the raster image layer to the best display status.
+Zoom the raster image layer to the best display status.
 
-Keep the center point of the map unchanged, zoom the resolution of the raster image to 1:1, that is one pixel in the map window display one cell in the raster/image data (the raster/image data divide the ground to even grids, one grid is called a cell). At this level, you can't get a clearer display by zoom in. If there are other dataset on the map, the datasets will be displayed with the same resolution.
+Keep the center point of the map unchanged and adjusts the ratio of raster
+image resolution to the monitor resolution to 1:1 (one pixel of the map window
+corresponds with one cell of the raster/image data). You can't get a clearer
+display even you zoom your layer. If your map includes other datasets apart
+from the raster layer, the product will be display them with the same
+resolution.
 
-### ![](../../img/read.gif)Basic Steps
+**Operation instruction** : Right-click on your raster layer in the layer
+manager and select **Zoom to Current Image Resolution**. The program will
+adjust the zooming scale according to the resolution of your layer.
 
-1. Select a raster layer in the layer manager.
-2. Right click the raster layer node, select Zoom to Raster Resolution in the context menu, and the map will adjust the scale of the layer according to the resolution of the raster layer to make sure the display size of the layer is the same with the image resolution.
+![](img/ZoomtoImgResolution.png)  
+

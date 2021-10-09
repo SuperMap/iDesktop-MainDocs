@@ -1,26 +1,23 @@
 ---
 id: ChangeDirction
-title: Reverse
+title: Change Direction
 ---
-### ![](../../../img/read.gif)Description
+### Description
 
-Reverse the direction of the selected line or region objects.
+Change the order of nodes of the selected line or region objects.
 
-The Reverse command is only active if there are selected line or region objects in the editable layer.
+The **Change Direction** button is active when there is at least one line or region object selected in an editable layer.
 
-The function can be performed on the following objects: 2D line, 3D line, 2D region, 3D region and compound objects.
+The function can be performed on the following objects: 2D line, 3D line, 2D region, 3D region, and compound objects.
 
-### ![](../../../img/read.gif)Basic Steps
+### Basic Steps
 
-  1. Set the layer in which you want to reverse the line or region objects editable.
-  2. Select the line or region objects to reverse direction by clicking ![](img-en/ChangeDirctionIco.png).
-  3. Click Reverse.
+1. Select one object or more geometrical objects (lines, for example) by pressing Shift or Ctrl or dragging and dropping a box.
+2. Click **Object Operations** > **Object Edit** Gallery > **Change Direction** to change the order of nodes of each object you selected.
 
-### ![](../../../img/note.png)Note
+### Note
 
-  1. You can reverse line or region objects in multiple layers at the same time if the multilayer editing function has been enabled.
-  2. The reverse operation can only be implemented on the editable line or region objects among all the selected objects.
-  3. Changing directions of lines and objects actually creates new lines and regions, so for CAD datasets, when you change the directions of line and region features, the styles for them will be changed to the default ones. 
-
-
+1. After enabling the **Multi-layer Editing** , you can change the directions of objects from different layers at the same time.
+2. No matter how many kinds of objects you have selected from both editable layers and read-only layers, the operation works on the lines and region objects in editable layers. 
+3. Changing directions of lines and regions will create new lines and regions essentially. Therefore, for a CAD layer, the styles of lines or regions will change to the default ones after the operation. 
 

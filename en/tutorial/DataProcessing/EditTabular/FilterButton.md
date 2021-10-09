@@ -1,37 +1,34 @@
 ---
 id: FilterButton
-title: Filter
----
-### ![](../../img/read.gif)Description
+title: Filter  
+---  
+### Description
 
-The Filter button allows you to filter out the records you don't want to display in the attribute table.
+The Filters function can show the records you want and hide the rest in an attribute table.
 
-### ![](../../img/read.gif)Basic Steps
+### Basic Steps
 
-  1. Open an attribute table. you can right click a vector dataset in the Workspace Manager and click Browse Attributes. Or double-click the pure attribute table dataset.
-  2. Select one or more fields in the attribute table. To select multiple fields, you can continuously click the field name while holding down the Shift or Ctrl key.
-  3. On the Attributes tab, in the Browse group, click Filter. The selected fields are marked with drop-down arrows at the heads of the fields.
-  4. Click the drop-down arrow next to the field name of a marked field to display the filter dialog box, in which all values in the field are listed. You can check the box before a value to show the records with this value and uncheck to hide.
-![](img-en/filterMarker.png)  
- 
-  5. Click OK to filter out the records with unchecked values. To remove the filter operation performed on a field, select it and click Filter again.
+1. Select one field or more fields by pressing Shift or Ctrl in the attribute table.
+2. Click **Attribute Table** > **Browse** group > **Filter**.
+3. Select the filter button next to the column header and check the boxes you want to show. Checking all means showing all values. Then select OK. 
+![](img/filterMarker.png)  
 
-### ![](../img/note.png)Note
+4. To remove a filter from a column, you can select the column and click Filter again.
 
-  1. You can select multiple fields and click Filter to prepare all the selected fields for filtering.
-  2. You cannot remove all filter operations at the same time. To remove the filter operations on a filed, select it and click Filter.
+### Note
 
-![](../../img/smalltitle.png)[Sort Ascending](SortOrderAscendingButton.htm)
+1. You can select multiple fields and click Filter to create a filter for each column.
+2. Once you clear a filter from a column, you will lose all checking.
 
-![](../../img/smalltitle.png)[Sort Descending](SortOrderDescendingButton.htm)
+[Sort Ascending](SortOrderAscendingButton)
 
-![](../../img/smalltitle.png)[Hide Fields](HideButton.htm)
+[Sort Descending](SortOrderDescendingButton)
 
-![](../../img/smalltitle.png)[Show Hidden](CancelHideButton.htm)
+[Hide Fields](HideButton)
 
-![](../../img/smalltitle.png)[Positioning](GoToButton.htm)
+[Show Hidden](CancelHideButton)
 
-![](../../img/smalltitle.png) [Show Hexadecimal](DisplayHexadecimal.htm)
+[Positioning](GoToButton)
 
-
+ [Show Hexadecimal](DisplayHexadecimal)
 

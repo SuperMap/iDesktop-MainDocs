@@ -4,26 +4,26 @@ title: Browsing the Map
 ---
 The Browse group on the Map tab provides functions for map browsing.
 
-![](../../img/smalltitle.png)[Zooming Maps](ZoomInOut.htm)
+[Zooming Maps](ZoomInOut)
 
-![](../../img/smalltitle.png)[Pan](Pan.htm)
+[Pan](Pan)
 
-![](../../img/smalltitle.png)[Refreshing Maps](RefreshMap.htm)
+[Refreshing Maps](RefreshMap)
 
-![](../../img/smalltitle.png)[Full-extent Display of a Map](EntireView.htm)
+[Full-extent Display of a Map](EntireView)
 
-![](../../img/smalltitle.png)[Full-extent Display of a Selected Layer](DTt2_Entire.htm)
+[Zom to the layer image resolution](ZoomtoImgResolution)
 
-![](../../img/smalltitle.png)[Zom to the layer image resolution](ZoomtoImgResolution.htm)
+[Associated Browsing](WindowsBinding)
 
-![](../../img/smalltitle.png)[Enabling Auto-scrolling](Scrolling.htm)
+[Map Navigation](MapNavigation)
 
-![](../../img/smalltitle.png)[Associated Browsing](WindowsBinding.htm)
+ [Map Location](MapLocation)
 
-![](../../img/smalltitle.png)[Map Navigation](MapNavigation.htm)
+ [Map Overview](MapEagleEye)
 
-![](../../img/smalltitle.png) [Map Location](MapLocation.htm)
+ [Map Magnifier](MapMagnifier)
 
-![](../../img/smalltitle.png) [Map Overview](MapEagleEye.htm)
+ [Map Swipe](MapSwipe)
 
-![](../../img/smalltitle.png) [Map Magnifier](MapMagnifier.htm)
+

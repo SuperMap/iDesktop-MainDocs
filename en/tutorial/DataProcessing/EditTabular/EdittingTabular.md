@@ -1,22 +1,20 @@
 ---
 id: EdittingTabular
-title: Editing Attributes
----
-The **Attributes** tab is bound to the tabular dataset or the attribute information of the vector dataset. Tabular information is the basis of geographic features, allowing you to visualize, query, and analyze your data. In the simplest terms, tables are made up of rows and columns, and all rows have the same columns. Rows are known as records and columns are fields. Each ield can store a specific type of data, such as a number, date, or piece of text.
+title: Edit Attributes  
+---  
+The **Attributes** tab is bound to the tabular dataset or the attribute table of a vector dataset. Only when you open an attribute table will the tab appear.
 
-The **Attributes** tab allows you to export, browse, edit and do statistics on the tabular information.
+The **Attribute Table** tab organizes a series of features for the export, browse, and modification of attribute information.
+
+To modify data attributes, you need to open the corresponding attribute table first. In the workspace manager, right-click on your vector dataset and select **Browse Attribute Table**. You are allowed to open attribute tables of several vector datasets from the same datasource by pressing Shift or Ctrl.
 
 Groups organized on the Attributes tab include:
 
-![](../img/smalltitle.png)[Browsing Attributes](Browsegroup.htm)
+[Browse Attribute Table](Browsegroup)
 
-![](../img/smalltitle.png)[Editing Attributes](Editgroup.htm)
+[Edit Attribute Table](Editgroup)
 
-![](../img/smalltitle.png)[Field Statistics](StatisticAnalystgroup.htm)
+[Field Statistics](StatisticAnalystgroup)
 
-![](../img/smalltitle.png)[Exporting Attribute Tables](DatasetButton.htm)
-
-![](../img/smalltitle.png)[Opening Attribute Tables](OpenTabular.htm)
-
-
+[Export Attribute Table](DatasetButton)
 

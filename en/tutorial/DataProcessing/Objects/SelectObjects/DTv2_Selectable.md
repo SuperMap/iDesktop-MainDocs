@@ -1,17 +1,17 @@
 ---
 id: DTv2_Selectable
-title: Enabling the Selectable Property
+title: Set Layer Selectable
 ---
+### Description
+The **Selectable** feature controls the selectivity of a vector layer.
 
-### ![](../../../img/read.gif)Description
+### Function Entrances
 
-Controls whether a vector layer can be selected or not.
+1. Right-click on a vector layer in the **Layer Manager** and click **Selectable **.
 
-### ![](../../../img/read.gif)Basic Steps
+2. Or, right-click on a vector layer in the Layer Manager and select Layer Properties. In the popup Layer Properties panel, check **Selectable**.
 
-  1. Right click on a vector layer in Layer Manager and click Selectable in the context menu that appears.
-  2. When finished, a ![](img-en/see.png) will show up in front of the Selectable command, indicating that the layer is now selectable.
+### Note
 
-### ![](.././../img/note.png)Note
+The **Selectable** arrow icon beside a vector layer in Layer Manager can also control the selectivity of the layer. A highlighted button indicates that the layer is selectable.
 
-The ![](img-en/selectable.png) button in front of a vector layer in Layer Manager can also control the selectability of the layer. A highlighted button ![](img-en/selectable.png) indicates that the layer is selectable, while a gray button![](img-en/unselectable.png) indicates that the layer is unselectable.

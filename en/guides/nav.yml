@@ -1,86 +1,30 @@
 - title: Product Introduction
-  subitems:
+  href: ProductIntro/ProductIntro
+  subitems: 
     - id: ProductLine
-      title: SuperMap Universal Series
+      title: Product Series
+      href: ProductIntro/ProductLine
     - id: ProductIntro
-      title: Introduction
+      title: Product Introduction
+      href: ProductIntro/ProductIntro
     - id: ProductIntroFeatures
-      title: Main Features    
+      title: Main Features
+      href: ProductIntro/ProductIntroFeatures       
     - id: ProductIntroFunction
-      title: Main Functions
-    - id: LicenseIntro2
+      title: Main Applications
+      href: ProductIntro/ProductIntroFunction
+    - id: LicenseIntro
       title: License Introduction
+      href: ProductIntro/LicenseIntro
     - id: ProductUsers
-      title: Users
+      title: User Group
+      href: ProductIntro/ProductUsers
 - title: New Features
-  subitems:  
-    - id: What_was_new
-      title: 10i SP1 New Features
-      href: guides/NewFeature/What_was_new
-    - id: What_was_new_10i
-      title: 10i New Features
-      href: guides/NewFeature/What_was_new_10i
-    - id: What_was_new_in_9D(2019)_SP2
-      title: 9D(2019) SP2 New Features
-    - id: What_was_new_in_910
-      title: 9D(2019) New Features
-    - id: What_was_new_in_9D_SP1
-      title: 9D SP1 New Features
-    - id: What_was_new_in_9D
-      title: 9D New Features
-    - id: What_was_new_in_811
-      title: 8C(2017) SP1 New Features
-    - id: What_was_new_in_810
-      title: 8C(2017) New Features         
-- title: Getting Started
-  subitems:
-    - id: UIIntroduct
-      title: UI Introduct
-      href: /en/guides/UIIntroduct/UIIntroduct
-      subitems: 
-        - id: StartMenu
-          title: File Menu
-          href: /en/guides/StartMenu/StartMenu            
-        - id: GettingStarted
-          title: Getting Started
-          href: /en/guides/StartMenu/GettingStart
-        - id: RibbonIntroduct
-          title: Ribbon
-          href: /en/guides/UIIntroduct/RibbonIntroduct
-        - id: ContextTabsIntroduct
-          title: Context tab
-          href: /en/guides/UIIntroduct/ContextTabsIntroduct
-        - id: RibbonControlsIntroduct
-          title: Ribbon control
-          href: /en/guides/UIIntroduct/RibbonControlsIntroduct       
-        - id: ChildWindows
-          title: Child window
-          href: /en/guides/UIIntroduct/ChildWindows        
-        - id: FloatWindows
-          title: Dock Bars
-          href: /en/guides/UIIntroduct/FloatWindows         
-        - id: WorkspaceManager
-          title: Workspace manager
-          href: /en/guides/UIIntroduct/WorkspaceManager         
-        - id: OutputWindows
-          title: Output window
-          href: /en/guides/UIIntroduct/OutputWindows        
-        - id: proceduremanage
-          title: Process management window
-          href: /en/guides/UIIntroduct/proceduremanage          
-    - id: ViewOperation
-      title: Interface mangement
-      subitems: 
-        - id: Viewgroup
-          title: Manage Views
-          href: /en/guides/BasicContents/Viewgroup          
-        - id: WorkenvironmentGroup
-          title: Manage work environments
-          href: /en/guides/BasicContents/WorkenvironmentGroup              
-    - id: ConfigureLicense_Windows
-      title: License configuration
-      subitems: 
-        - id: ConfigureLicense_Windows
-          title: Configure local license
-        - id: ConfigureLicense_Online
-          title: Configure cloud license   
+  href: What_is_new
+  subitems: 
+  - id: What_is_new
+    title:  10i(2021) New Features
+    href: What_is_new
+  - id: What_was_new_10i(2020)SP1
+    title:  10i(2020)SP1 New Features
+    href: What_was_new_10i(2020)SP1

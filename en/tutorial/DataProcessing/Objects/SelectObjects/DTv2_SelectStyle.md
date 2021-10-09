@@ -1,26 +1,25 @@
 ---
 id: DTv2_SelectStyle
-title: Setting Display Styles
+title: Set Display Styles
 ---
-### ![](../../img/read.gif)Description
+### Description
 
-Sets the uniform display style for the selected objects in a vector layer. Please refer to [Select Object](..\\..\\..\\Visualization\\BrowseMap\\Select.htm) for information about how to select object and set the object parameters.
+Sets the uniform display style for the selected objects in a vector layer.Please refer to [Select Object](..\\..\\..\\Visualization\\BrowseMap\\Select) for information about how to select object and set the object parameters.
 
-### ![](../../../img/read.gif)Basic Steps
+### Basic Steps
 
-  1. In the Layer Manager, right click the selected vector layer and select "Object Selection Style..." from the menu. 
-  2. In the Layer Manager, right click the selected CAD layer and select "Object Selection Style..." from the menu, and select the style from point/line/region style.
-  3. If a Unique Values/Ranges thematic map layer or a CAD layer is selected, the "Modify Object Selection Style..." will pop up, as follows: 
+1. In the Layer Manager, right-click the selected vector layer and select **Object Selection Style...** from the menu.
 
-![](img-en/SelectStyle.png)  
+2. In the Layer Manager, right-click on the selected CAD layer, select **Object Selection Style...** from the menu, and then choose the style from point/line/region style.
 
-  4. In the dialog box, check the style item to set. 
-  5. Click Next and select a style to apply to all the selected objects. For details, see "Related Topics" . 
+3. If you click on a Unique Values/Ranges thematic map layer or a CAD layer, the "Modify the Selection Style..." will pop up.
 
-### ![](../../../img/seealso.png) Related Topics
+4. In the dialog box, check the style item you want to change.
 
-![](../../../img/smalltitle.png) [Marker Symbol Style Settings](../../../Visualization/LayerStyle/PointSymStyle.htm)
+5. Click Next and select a style to apply to all the selected objects. For details, see "Related Topics".
 
-![](../../../img/smalltitle.png) [Line Symbol Style Settings](../../../Visualization/LayerStyle/LineSymStyle.htm)
+###  Related Topics
 
-![](../../../img/smalltitle.png) [Fill Symbol Style Settings](../../../Visualization/LayerStyle/FillSymStyle.htm)
+ [Marker Symbol Style Settings](../../../Visualization/LayerStyle/PointSymStyle)
+ [Line Symbol Style Settings](../../../Visualization/LayerStyle/LineSymStyle)
+ [Fill Symbol Style Settings](../../../Visualization/LayerStyle/FillSymStyle)

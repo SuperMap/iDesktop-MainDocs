@@ -1,9 +1,13 @@
 ---
 id: EntireView
-title: Full-extent Display of a Map
+title: Full Extent
 ---
-The Full Extent button allows you to zoom to the full extent of the map.
+Display the full extent of a map or a layer in a map window.
 
-On the Maps tab, click Full Extent to display the full extent of the map in the Browse group, so you can see it all.
+* The function entrances to display the full extent of a map include: 
+  * Click **Maps** > **Browse** > **Full Extent**. 
+  * Right click on the map window and select **Full Extent**.
+  * Pressing **F6** also can display the full extent of a map.
+* To display the full extent of the selected layer, you can 
+  * Right click on the selected layer and select **Full Extent**.
 
-Also, you can click F6 on the keyboard to refresh the map.

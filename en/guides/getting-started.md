@@ -4,154 +4,116 @@ title: Getting Started
 ---
 
 
-　　SuperMap iDesktop9D (2019) which is written in Java is a plug-in, cross-platform application software based on SuperMap iObjects Java 9D (2019) and OSGI. iDesktop Java provides various features, such as: data management, data processing, data analysis, and mapping, modeling visually, and provides a flexible development framework and auxiliary controls, user-friendly secondary development.
+　SuperMap iDesktop is an enterprise desktop GIS application and development platform that can efficiently perform various GIS data processing, analysis, 2D and 3D mapping and publishing, etc. You can quickly build your own desktop GIS application platform. SuperMap iDesktop is a plug-in GIS application built by SuperMap iObjects. NET 10i, desktop core libraries and .NET Framework 4.0 to meet the needs of different users. includes x64 (64 bit) and x86 (32 bit) packages.
 
-## Product introduction
+SuperMap iDesktop provides lots of 2D&3D integration features like data management and processing, edit, mapping, analysis, 2D/3D plotting and so on. SuperMap iDesktop has supports to nautical charts and can access online map services and share cloud/client resources, and it can be customized and developed for data producing, data processing, analyzing and business applications.
 
-　　SuperMap iDesktopis a professional , cross-platform GIS software which is developed based on SuperMap iObjects Java. by using OSGI framework and intellij idea tool. Multiple iDesktop Java versions are provided for Windows and Linux. For Windows, the provided versions include the bin packages in 32 bit and 64 bit, while only the bin package in 64 bit is provided for Linux system.
+![](ProductIntro/img/DesktopIntro.png)  
 
-## Provided functions
+### ![](./img/read.gif) Function description:
 
-### Data management
+**Data Management**
 
-　　Provided the workspace manager, datasource manager, and dataset manager; Supports various kinds of engines including file type, database type and web type; the operation and process in spatial data and its properties have been provided with the featuers of creating, editing, managing, accessing, and so on.
+  * Supports UDB and UDBX engines.
+  * Suportive database engines contain: PostGIS, DM, Oracle, SQL Server, PostgreSQL, BeyonDB MongoDB.
+  * Supports POLARDB and GaussDB databases.
+  * Open Web maps directly like OGC services, REST services, Google maps, Baidu maps, SuperMap Cloud services, MapWorld services, OpenStreetMap and so on.
+  * A huge amount of image data can be managed and visualized in the way of mosaic datasets.
+  * Provides various tools to manage data conveniently including Start tab, Catalog, Search, etc. 
 
+**Data Processing**
 
--   **Data engine**: Different data engines can be opened, such as: Oracle, SQLPlus (can't be opened in Linux system), DB2 and MySQL, etc. At the same time, Web map data can be opened from OGC service, iServerRest service, SuperMapClound service, GoogleMaps, OpenStreetMap, iServer DataStore and so on.
+The choice of many projection and geographic coordinate systems, datasets from different places can be integrated into the same frame. Provides comprehensive data-editing features, and over 30 methods for vector and raster data processing to help users produce professional maps. Besides, provides lots of methods for processing raster, image data and the result data can be used as base maps or involve in analysis. Include:
 
+  * Calculate conversion model parameter values from coordinate systems, and supports 10 coordinate system transformation models.
+  * Topologically check and process data.
+  * Store 2D/3D map tiles to MongoDB or GeoPackage which greatly improves the efficiency of browsing huge amount of data.
+  * Over 200 data processing features are provided including: dissolve, append, rarefy and so on.
 
--   **Workspace manager**: You can open, save, close, delete a workspace, also you can save a workspace under other folders. The supported workspaces include file workspace, Oracle workspace, SQLServer workspace (can't be applied for Linux version), MySQL, PostgreSQL, DM, MongoDB. The workspace can be restored automatically if the product exited abnormally.
+**Mapping and visualization**
 
--   **Datasource manager**: You can open a file datasource, a database datasource or a Web datasource, also creating a file datasource, a database datasource or a memory datasource is supported.
+Provides comprehensive map features like map display, rendering, editing, and so on. Rich visualization, easy-to-use graphics tools for high-quality maps without complex designs. include:
 
--   **Dataset manager**: A variety of operations are supported, such as the tasks of creating, copying, closing, deleting, etc.
+  * Built-in 7 swatches, more than 200 ribbons, more than 1000 point, line, and region symbols.
+  * Supports to generate map tiles, update/append tiles, check tiles, and publish tiles. 
+  * Supports to generate map tiles meeting MapBox MVT specification in the way of multiple-processes-multiple-machines thereby save the time and improve greatly tile-generated efficiency.
+  * Provides various mapping tools including map subdivision, map grid and so on.
+  * Provides the functions of making and modifying various thematic maps such as unique value thematic maps, range thematic maps, label thematic maps, statistics thematic maps, dot density thematic maps, customization thematic maps, grid unique value, and grid range thematic maps.
 
- ![](img-en/Product1.png)
+**AI Mapping**
 
+* Extracts colors from an image and transfers them to your map.
+* Makes your map black&white; or gray by one click. Or you can invert your map.
+* You can undo or redo the last operation.
 
-### Data conversion
+**Spatial analysis**
 
-　　The data in another format can be converted to an available format by SuperMap iDesktop, also the data in SuperMap format can be exported in other data formats.
+Provides kinds of analysis features including basic vector/raster analysis,
+and advanced analysis features to help resolve real problems.
 
--   **Import data**: Data in other formats can be imported into the application, including vector, raster and model data formats, such as: \*.dwg, \*.e00, \*.shp, \*.mif, \*.csv, \*.tif, \*.img, \*.dem, \*.gpx, etc.
+* Supportive analyses: create buffers, overlay, interpolate, hydrology analysis, dynamic segmentation.
+* Provided surface analyses: extract contours/isoregions, slope, aspect, cut and fill, 3D hillshade and so on.
+* Served traffic analyses: optimal path, TSP, transfer, path, navigation and so on.
+* Supportive network analyses: key element, connectivity, single element tracing, connected element, tube burst and so on.
 
--   **Export data**: A dataset can exported in other data formats. The formats of data can be exported include: \*.dwg、\*.e00、\*.shp、\*.mif、\*.csv、\*.tif、\*.img、\*.sit、\*.kml、\*.gpx and so on.
+**Spatial Statistic Analysis**
 
-### Data process
+ * Provides a series of measurement geographic analyses including central element, mean center, median center, directional distribution, and so on.
+ * Introduces multiple analysis modes including spatial autocorrelation, high/low clustering, incremental spatial autocorrelation, and average nearest neighbor.
+ * Serves clustering distributions including hotspot analysis, cluster and outlier analysis, and optimized hotspot analysis.
+ * Implemented geographically weighted regression analysis. 
 
-　　The data process is a basic feature, the data process features provided by SuperMap iDesktopinclude: projection setting, data registration, data edit, SQL Query, topology process, etc.
--   **Projection setting**: Supports to convert projection in a vector, raster or model dataset.
+**Diagram**
 
--   **Data registration**: The data registration can be performed on one or more dataset with correcting and changing the spatial position of data according to the reference data.
+ * 11 kinds of diagrams are provided to visualize datasets' attributes to help people mine relationships, structures and trend of data.
+ * Associated display between diagrams is supported to help people analyze characteristic distribution of data in geography.
+ * The conversion between a diagram and a thematic map is introduced to quickly show data information in different ways.
+ * A diagram can be exported to a picture which can be used in documentation tools like Word, PPT, etc.
 
--   **Data edit**: Abundant, comprehensive object drawing and object edit are provided, which is convenient to edit and adjust data.
+**3D**
 
--   **Spatial index**: Creating spatial index for vector data is supported, creating image pyramid for raster data enhances the efficiency of browsing data.
+ * Display and browse multiple-sources data including image data, terrain data, 3D model data, vector data and 2D maps.
+ * Provides rich, fascinating 3D special effects to make 3D scene more real like sun light, ocean water, seafloor, underground scenes, particle effects (fire, rain, snow, geysers, etc.).
+ * All kinds of 3D spatial analyses and network analyses and results can be saved.
+ * The fly management provided make the fly simulation come true.
+ * Support the management and display of data such as oblique photography model, BIM, laser point cloud.
+ * Local oblique photography data can be uploaded to SuperMap iServer or SuperMap Online.
 
--   **Vector data process**: A lot of features for processing vector data are provided, such as: Dissolve, Topology Check, Topology Preprocessing, SQL Query, Attribute Update.
+**Nautical chart**
 
--   **SQL query**: Based on the specified SQL expression, the system will find out data meeting specified condition from existed data, a SQL expression also can be constructed by adding an external table field.
+To save, display and release nautical chart data.
 
--   **Spatial query**: Based on the spatial position relation, to query objects meeting certain conditions.
+ * Provides the feature of converting nautical chart data based on the newest S-57, IHO Transfer Standard for Digital Hydrographic Data.
+ * Importing S-57 nautical data is allowed, saving and exporting the nautical chart are allowed too.
+ * Displaying nautical data based on the newest S-52 IHO display standardization of electronic charts.
+ * Display status of features in nautical charts can be controlled now, and attributes of nautical features are allowed to edit and so people can add or modify them conveniently.
 
+**Co-ordination between cloud products and client products**
 
-### Mapping
+ * Directly access standard online map services like WMS, WFS, WMTS, SuperMap REST, MapWorld and so on.
+ * Publish a map, tiles and 3D scene to a iServer service with one click.
+ * Manage online data and online services in SuperMap Online or SuperMap iPortal.
+ * Retrieve and share maps, data, symbol libraries, color schemes, plugins and customized resource.
 
-**Related features on map**: Map display, rendering, edit are provided, settings of 2D or 3D point, line, region layer style are offered, also the creating and modifying of unique, range, label, or statistic thematic map are supported.
+**Customized development**
 
--   **Map selecting**: Supporting two ways to select objects (Tapping or frame selection).
+ * Provide varieties of VS project templates, in the meanwhile, iDesktop Toolbox is integrated in the IDEA, iDesktop quick reference is integrated in the Visual Studio to help people develop new features.
+ * The product interface can be customized with the work environment designer.
+ * Loading, customizing, developing plugins are allowed, at the same time, you can download, share and uninstall plugins.
 
--   **Browsing a map**: You can browse a map by these operations: pan, zoom in, zoom out, full extent, and so on.
+**Geoprocessing Modeler (GP Modeler)**
 
--   **Style setting**: Providing abundant symbol resource, supporting to set layer style for 2D or 3D point, line, region, and supporting to set properties including point symbols, line symbols, region symbols, color, transparency to enhance the beauty of the map.
+ * Provides a toolbox. You can search and locate any tool.
+ * Introduces 6 kinds of toolsets like vector analysis, raster analysis, mapping, and so on.
+ * You are allowed to import and export models.
 
--   **Map edit**: Supporting these operations on map, including: copy, paste, cut, delete.
+**Custom Development**
 
--   **Layer visibility**: The setting of layer scale is supported, a layer can be shown under different scales to improve the display efficiency and beauty.
+ * Provides various VS project templates. Besides, IDE integrates iDesktop toolbox and iDesktop quick reference for user development.
+ * You can reorganize iDesktop interface with the work environment design tool. 
+ * You can custimize plugins to extend iDesktop functions.
 
--   **Thematic map**: The creation and modification for vector and raster layer thematic maps are supported, among them, 7 kinds of thematic map (unique, range, label, statistic, point density, graduated symbols, user-defined) are supported for vector layer, but only unique thematic maps and range thematic maps are supported for raster layers.
+### ![](ProductIntro/img/read.gif) Version history:
 
--   **Color scheme** : The application provides rich color schemes to improve the beauty of a map, also you can customize a color scheme.
-
--   **Map measure**: Three measure types are provided: distance, area and angle.
-
--   **Map clip**: Clipping data within a specified region according to needs, and multiple layers can be clipped in bulk.
-
-  ![](img-en/Product2.png)
-
-
-### Data Analysis
-
--   **Buffer analysis**: The principle is that building area with certain width around point, line or region objects according to a specified distance. Many reality problems are resolved by combining buffer analysis and overlay analysis.
-
--   **Overlay analysis**: New spatial geometric information required by users can be extracted by analyzing spatial data, such as: clip, union, intersect, erase, etc.
-
--   **Spatial statistic analysis**: Analyzing and forecasting the statistic value which is associated with spatial and time-space phenomenon, including: measure geography analysis, model analysis, cluster distribution, build model. The feature can be used to analyze the data elements of aggregation, discrete relationships, structure and trends.
-
-### Model Builder
-
-　　Building a model for importing data, processing data, and analyzing data, etc., you can design a workflow which can execute many operations to data continuously.
-
--   **Canvas**: You can add, delete, modify a model in a canvas conveniently.
-
--   **Provide functions**: Hundreds of features are provided in Model Builder, including: kernel density analysis, big data analysis, measuring geographic analysis, and so on.
-
--   **Play**: One node or whole model can be run, you can control and manage the process.
-
--   **Save**: The constructed model can be save into a workspace for further usage or modification.
-
--   **Manage**: In the workspace manager, the Model Builder node has been added for renaming, deleting, opening an existed workflow.
-
--   **Model**: The created model can be exported as a template, you can create a new model easily by loading a template.
-
--   **Check**: Supporting to check whether a created model exists some errors, such as: a free node, endless loop, no data imported and so on.
-
-
-### Big Data
-
--   **iServer DataStore**: Supporting big data Web engine iServer DataStore, users can use the dataset from iServer DataStore datasource directly to processing and analyzing data.
-
--   **Data management**: Through an accessible Hadoop address to manage big amount of data. The supported features include uploading data, downloading data, folders management, tasks management, etc.
-
--   **Data analysis process**: The ability of analyzing and processing big data based on Spark is provided, users can make a map quickly, such as a heat map and a kernel density analysis map.
-
--   **Summary Region**: Within a specified range, the count of points, the length of lines, and the area of regions can be summarized, and the statistic data of property fields of objects can be computed.
-
-
-### Map Cache
-
--   **Multi-process map caching**: Multiple processes can be run in one or more computers to execute the map cache task, which uses the resource of computers reasonably and shortens time of generating map cache effectively.
-
--   **Control the count of processes**: Users can add or reduce the number of processes during caching.
-
--   **Updata Cache**: Cache within a specified area and scale can be updated based on specified range.
-
--   **Check cache, regenerating cache**: Whether there are error tiles in the generated cache, if yes, these tiles with errors can be regenerated.
-
-
-
-### Publish Service
-
-　　A datasource in a workspace can be published to iServer (local or remote server) to share resource in Web.
-
-
-## Key Features
-
-### Cross-platform,  customizable
-
--   Since adopting JAVA program language, the product (based on Java iObjects) has the ability of cross-platform which means the product can run on Windows or Linux system.
-
--   The adoption of Felix makes the application easy to expand and flexible configuration framework and achieves a pluggable iDesktop.
--   The OSGI international standards is conformed. An application program can be divided into multiple units, so that relationships between each unit and these units developed by users can be managed to achieve the display for GIS data.
-
--   The interface adopts Swing graphic styles, supports cross-platform. Also it is strong security and can be easy to customize and secondary development. 
-
-### Stable, easy to use, efficient, beautiful
-
--   Universality, efficiency and stability of the system Java-based are significantly improved by adopting Felix framework.
-
--   The application uses Swing of graphic style, rich features and modularized components to create beautiful, easy-to-use menu and toolbar interface.
-
--   The design concept "Functions on your hands" provides abundant response functions of right-click context menus and mouse activities to improve the usability of the software. The presentation "WYSWYG" makes sure that users can see the result of operations in the first place, so that users can design and modify the operation.
-
--   The application of templates can improve reusability and efficiency of work by using a map template which is formed by exporting a configured map as a template file.
+![](ProductIntro/img/VersionHistory.png)  
+---  

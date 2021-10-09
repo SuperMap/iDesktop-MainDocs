@@ -1,34 +1,25 @@
 ---
 id: DisplayHexadecimal
-title: Show Hexadecimal
----
-### ![](../../img/read.gif)Instructions
+title: Show Hexadecimal  
+---  
+### Instructions
 
-Converts numerals in the selected column to hexadecimal values to help people 
-view or enter hexadecimal values. When you are editing a customized color, you 
-can enter a hexadecimal color value directly into an attribute table.
+Converts integer values to hexadecimal values to help people view or enter hexadecimal values. When you are editing a customized color, you can enter a hexadecimal color value directly into an attribute table.
 
-### ![](../../img/read.gif)Basic steps
+The feature Show Hexadecimal only works on the integer field.
 
-  1. In the Workspace, right click on your dataset and the select "Browse Attributes".
-  2. In the attribute table, select the column required and then click on the Show Hexadecimal button.
-![](img-en/DisplayHexadecimal.png)  
+* Select the column and right-click. Then select **Show Hexadecimal** button.
+![](img/DisplayHexadecimal.png)  
 
-  3. Click on the Show Hexadecimal button to restore numerals back to the decimal values.
+* Click on the Show Hexadecimal button to revert to the decimal values.
 
-### ![](../../img/note.png)Note
+ [Descending](SortOrderDescendingButton)
 
-The Show Hexadecimal button can work only when the type of select field is integer.
+ [Hide Column](HideButton)
 
-![](../../img/smalltitle.png) [Sort Descending](SortOrderDescendingButton.htm)
+ [Show Hidden Column](CancelHideButton)
 
-![](../../img/smalltitle.png) [Hide Column](HideButton.htm)
+ [Filter](FilterButton)
 
-![](../../img/smalltitle.png) [Cancel Hide](CancelHideButton.htm)
-
-![](../../img/smalltitle.png) [Filter](FilterButton.htm)
-
-![](../../img/smalltitle.png) [Positioning](GoToButton.htm)
-
-
+ [Location](GoToButton)
 

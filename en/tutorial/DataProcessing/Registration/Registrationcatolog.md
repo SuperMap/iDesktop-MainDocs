@@ -2,20 +2,19 @@
 id: Registrationcatolog
 title: Registration
 ---
-### ![](../../img/read.gif)Main points:
+### Main points:
 
-Explain all contents relative to registration including the basic theory, algorithms, data registration, quick registration.
+Explain all contents relative to registration including the basic theory,
+algorithms, data registration, quick registration.
 
-![](../../img/smalltitle.png) [An overwiew of registration](Registration.htm)
+ [An overview of registration](Registration)
 
-![](../../img/smalltitle.png) [Registration algorithms](RegistrationMode.htm)
+ [Registration algorithms](RegistrationMode)
 
-![](../../img/smalltitle.png) [Introduce registration errors](RegistrationError.htm)
+ [Introduce registration errors](RegistrationError) 
 
-![](../../img/smalltitle.png) [Introduce resample-raster functions](resamplemethod.htm)
+ [Introduce resample-raster functions](resamplemethod)
 
-![](../../img/smalltitle.png) [Data registration](RegisteData.htm)
+ [Data registration](RegisteData)
 
-![](../../img/smalltitle.png) [Quick registration](BatchRegistration.htm)
-
-
+ [Quick registration](BatchRegistration)

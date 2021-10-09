@@ -2,9 +2,7 @@
 id: MapShortcutKey
 title: Shortcut Keys for Map Operations
 ---
-
-
-Shortcuts provided by SuperMap Desktop for Scene operations are listed below.
+Shortcuts provided by SuperMap Desktop for map operations are listed below.
 
 ### Shortcut Keys for Map Operations
 
@@ -23,3 +21,4 @@ Ctrl + Y | Restore the operation
 Ctrl + Z | Cancel the operation  
 Ctrl + A | Select all objects  
 Ctrl + F/Ctrl + F3 | Positioning to the search box  
+  

@@ -1,43 +1,37 @@
 ---
 id: GoToButton
-title: Locate
----
-### ![](../../img/read.gif)Description
+title: Locate  
+---  
+### Instruction
 
-Locate and view a specific record in the attribute table.
+Locate and view a specific record in an attribute table.
 
-### ![](../../img/read.gif)Basic Steps
+### Basic Steps
 
-  1. Open an attribute table. you can right click a vector dataset in the Workspace Manager and click Browse Attributes. Or double-click the pure attribute table dataset
-  2. On the Attributes tab, in the Browse group, click Locate to display the Locate dialog box, in which the current position of the cursor is display and you can specify to move to any record in the table. You can locate a record by specifying a relative or absolute position, or an expression. 
+1. Open your attribute table. Click **Attribute Tables** tab > **Browse** group > **Locate**. In the pop-up dialog, you can type the specific record you want to find. The dialog box already shows the current row number and the row number range you can specify. 
 
-Check the corresponding radio button to select a method.
+You can go to a record by specifying its row number or a number relative to the current record.
 
-    * Relative: Move from the current location to the relative position any number of rows up or down. A positive value value indicates how many rows the cursor will be moved up from the current location while a negative ones indicates how many rows down.
-    * Absolute: Move to a specific record number.
-    * Filter: Locate records satisfying specific conditions. Check the Filter radio button to enable the button with the ellipse to the right, click the button to display the SQL Expression dialog box, configure the conditions for record location.
-![](img-en/GotoDia.png)  
- 
-  3. Click OK to locate.
-  4. In the Browse group of the Tabular tab, click the Locate button, and select "Locate to Top" and it will go to the first record of the table. 
-  5. In the Browse group of the Tabular tab, click the Locate button, and select "Locate to Bottom" and it will go to the last record of the table. 
+* Relative: Move from the current record to the relative row number up or down. A positive value indicates the target record is previous to the current record. To find a record next to the current record, you need to specify a negative value.
+* Absolute: Move to a specific record by specifying its row number.
+* Expression: Locate records by building your queries. Check the Expression radio button, click the **...** icon button, and then build an expression to locate records.
+2. Click **Attribute Table** tab > **Browse** group > **Locate** drop-down button > **First Record** to go to the first record.
+3. Click **Attribute Table** tab > **Browse** group > **Locate** drop-down button > **Last Record** to go to the last record.
 
-### ![](../../img/note.png)Note
+### Note
 
-  1. The current, relative, and absolute positions in the attribute table are all concepts related to rows instead of fields.
-  2. You can use the Up and Down keys to move up or down to other records. 
-  3. For Oracle and SQL datasources, it is not supported to locate to record by using Equal condition on two binary fields. 
-  4. The Locate dialog box is a non-modal window, so you can set the parameters by directly selecting rows in the attribute table.
+* The current, relative, and absolute positions in the attribute table are all concepts related to rows instead of fields.
+* You can use the Up and Down keys to move up or down to other records. 
+* Both Oracle-based datasources and SQL-based datasources don't support using one binary field equals to another binary as a query to locate records. 
+* The Locate To dialog box is a non-modal window, so that you can set the parameters by directly selecting rows in the attribute table.
 
-![](../../img/smalltitle.png) [Sort Ascending](SortOrderAscendingButton.htm)
+ [Sort Ascending](SortOrderAscendingButton)
 
-![](../../img/smalltitle.png) [Sort Descending](SortOrderDescendingButton.htm)
+ [Sort Descending](SortOrderDescendingButton)
 
-![](../../img/smalltitle.png) [Hide Column](HideButton.htm)
+ [Hide Column](HideButton)
 
-![](../../img/smalltitle.png) [Cancel Hide](CancelHideButton.htm)
+ [Cancel Hide](CancelHideButton)
 
-![](../../img/smalltitle.png) [Filter](FilterButton.htm)
-
-
+ [Filter](FilterButton)
 

@@ -6,100 +6,101 @@ The Edit tab bound to the map window. The tab shows up on the Ribbon only if the
 
 The Edit tab allows you to edit geometric objects on the map.
 
-[**Objects Editing Overview**](AboutEdittingGeometry.htm): It contrasts the similar object operations, which is convenient for users to distinguish.
+[**Objects Editing Overview**](AboutEdittingGeometry): It contrasts the similar object operations, which is convenient for users to distinguish.
 
   
 
 ### Basic operaiotns
 
-[**Basic Editing Operations**](Clipboard.htm)
+[**Basic Editing Operations**](Clipboard)
 
-[**Enabling Layer Editing**](../CreateObjects/DTv2_Editable.htm)
+[**Enabling Layer Editing**](../CreateObjects/DTv2_Editable)
 
-[**Vertex Edit**](VertexEdit.htm)
+[**Vertex Edit**](VertexEdit)
 
-[**Delete Objects**](Del.htm)
+[**Delete Objects**](Del)
 
   
 
 ### Line Object Editing Operations
 
-[**Trim**](trim.htm)
+[**Trim**](trim)
 
-[**Extend**](extend.htm)
+[**Extend**](extend)
 
-[**Split**](split.htm)
+[**Split**](split)
 
-[**Accurate Split**](SplitAccurately.htm)
+[**Accurate Split**](SplitAccurately)
 
-[**Change Line Direction**](ChangeDirction.htm)
+[**Change Line Direction**](ChangeDirction)
 
-[**Reservse Round Angle**](ReverseRoundAngle.htm)
+[**Reservse Round Angle**](ReverseRoundAngle)
 
-[**Reservse Right Angle**](ReverseRightAngle.htm)
+[**Reservse Right Angle**](ReverseRightAngle)
 
-[**Node Adjust**](NodeAdjust.htm)
+[**Node Adjust**](NodeAdjust)
 
-[**Explode**](Explode.htm)
+[**Explode**](Explode)
 
-[**Join Line**](JoinLine.htm)
+[**Join Line**](JoinLine)
 
-[**Resample Geometry**](ReSampleGeometry.htm)
+[**Resample Geometry**](ReSampleGeometry)
 
-[**Smooth Geometry**](SmoothGeometry.htm)
+[**Smooth Geometry**](SmoothGeometry)
 
   
 
 ### Common Editing
 
-[**Move**](move.htm)
+[**Move**](move)
 
-[**Offset**](offset.htm)
+[**Offset**](offset)
 
-[**Destination Copy**](DesCopy.htm)
+[**Destination Copy**](DesCopy)
 
-[**Mirror**](Mirror.htm)
+[**Mirror**](Mirror)
 
-[**Rotate**](rotate.htm)
+[**Rotate**](rotate)
 
-[**Cut Polygon**](CutPolygon.htm)
+[**Cut Polygon**](CutPolygon)
 
-[**Cut By Polygon**](CutByPolygon.htm)
+[**Cut By Polygon**](CutByPolygon)
 
-[**Part Update**](UpdatePartly.htm)
+[**Part Update**](UpdatePartly)
 
-[**Style Brush**](StyleBrush.htm)
+[**Style Brush**](StyleBrush)
 
-[**Attribute Brush**](PropertyBrush.htm)
+[**Attribute Brush**](PropertyBrush)
 
   
 
 ### Object Operators
 
-[**Merge**](Merge.htm)
+[**Merge**](Merge)
 
-[**Intersect**](Intersect.htm)
+[**Intersect**](Intersect)
 
-[**Group**](Group.htm)
+[**Group**](Group)
 
-[**Ungroup**](UnGroup.htm)
+[**Ungroup**](UnGroup)
 
-[**Protected Ungroup**](ProtectedDecompose.htm): Ungroup complex region features containing multi-level island features into region features containing only 1-level of island features.
+[**Protected Ungroup**](ProtectedDecompose): Ungroup complex region features containing multi-level island features into region features containing only 1-level of island features.
 
-[**Xor**](XOr.htm)
+[**Xor**](XOr)
 
-[**Erase**](Erase.htm)
+[**Erase**](Erase)
 
-[**Erase Outside**](ExternalErase.htm): Removes the parts that are not shared by the two objects being operated.
+[**Erase Outside**](ExternalErase): Removes the parts that are not shared by the two objects being operated.
 
-[**Polygon With Hole**](PolygonWithHole.htm)
+[**Polygon With Hole**](PolygonWithHole)
 
   
 
 ### Feature Conversion
 
-[**Line- >Point**](LineToPoint.htm): Introduces how to convert selected lines to points.
+[**Line- >Point**](LineToPoint): Introduces how to convert selected lines to points.
 
-[**Line- >Region**](LineToRegion.htm): Introduces how to convert selected lines to regions.
+[**Line- >Region**](LineToRegion): Introduces how to convert selected lines to regions.
 
-[**Region- >Line**](RegionToLine.htm): Introduces how to convert selected regions to lines.
+[**Region- >Line**](RegionToLine): Introduces how to convert selected regions to lines.
+

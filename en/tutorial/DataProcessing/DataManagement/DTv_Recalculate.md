@@ -1,15 +1,12 @@
----
+﻿---
 id: DTv_Recalculate
-title: Recomputing Bounds for Vector Datasets 
+title: ﻿ Recompute Range for Vector Datasets  
 ---  
-### ![](../../img/read.gif)Description
+### Description
 
 Recompute the extent(s) for one or more grid datasets.
 
-### ![](../../img/read.gif)Basic Steps
+### Basic Steps
 
-      1. In the Workspace Manger, select one or more vector dataset, right click to display the context menu, and click Recompute Extent.
-      2. If successful, a success message shows up in the Output Window.
-
-
-
+  1. In the Workspace Manger, select one or more vector dataset, right click to display the context menu, and click Recompute Range.
+  2. The Output Window will give prompts whether the operation is successful or not.

@@ -1,25 +1,25 @@
 ---
 id: StatisticAnalystgroup
-title: Statistics Group
----
-The **Statistics** group on the Attributes tab provides 7 statistic functions for attribute information of vector datasets.
+title: Statistic Group  
+---  
+Both the **Statistic** group on the **Attributes** tab and on the context menu of an attribute table provide 7 statistic functions for attribute information of vector datasets. We describe them in the following content.
 
-![](img-en/StatisticAnalystGroup.png)  
- 
-Figure: The Statistics group  
+Statistic Analysis Type | Description  
+---|---  
+Sum | Counts the sum of the selected items in a field or a column.  
+Mean | Counts the mean of the selected items in a field or a column.  
+Max | Finds the maximum value of the selected items in a field or a column.  
+Min | Finds the minimum value of the selected items in a field or a column.  
+Variance | Counts the variance of the selected items in a field or a column.  
+Standard Deviation | Counts the standard deviation of the selected items in a field or a column.  
+Count Unique | Counts the number of unique values of the selected items in a field or a column.  
   
-![](../../img/smalltitle.png)[Sum](SumButton.htm)
+The operation steps are the same for each statistical function. Here we take **Sum** as an example
 
-![](../../img/smalltitle.png)[Average](AverageButton.htm)
+**Function Entrances**
 
-![](../../img/smalltitle.png)[Max](MaxButton.htm)
+Open your attribute table and select the field you want. Please notice that the field must be numerical.
 
-![](../../img/smalltitle.png)[Min](MinButton.htm)
+Click **Attribute Table** > **Statistic** > **Sum**. Or right-click on your attribute table and select **Statistic** > **Sum**. Both the status bar and the output window will display the result.
 
-![](../../img/smalltitle.png)[Variance](VarianceButton.htm)
-
-![](../../img/smalltitle.png)[Standard Deviation](StdDeviationButton.htm)
-
-![](../../img/smalltitle.png)[Unique Count](CountOfValueButton.htm)
-
-
+![](img/sumResult.png)  

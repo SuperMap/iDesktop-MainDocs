@@ -1,36 +1,36 @@
 ---
 id: DataProcessing
-title: ﻿
+title: Processing Data
 ---
-Processing Data
+This section introduces data processing from the aspects of managing data,
+importing and exporting data, data conversion, projection, registration, data
+editing, etc.
 
-This section introduces data processing from the aspects of managing data, importing and exporting data, data conversion, projection, registration, data editing, etc.
+### Main Contents:
 
-### ![](../../img/read.gif)Main Contents:
+[Managing Data](DataManagement/DataManagement)
 
-![](../img/smalltitle.png)[Managing Data](DataManagement/DataManagement.htm)
+[Conversion](DataConversion/Dataconversion)
 
-![](../img/smalltitle.png)[Conversion](DataConversion/Dataconversion.htm)
+[Converting Data](ConvertDataType/AboutDateTypeConvert)
 
-![](../img/smalltitle.png)[Converting Data](ConvertDataType/AboutDateTypeConvert.htm)
+[Object Process](Objects/Objects)
 
-![](../img/smalltitle.png)[Object Process](Objects/Objects.htm)
+[Snap](Objects/Snapping/UsingSnapping)
 
-![](../img/smalltitle.png)[Snap](Objects/Snapping/UsingSnapping.htm)
+[Edit Attribute Table](EditTabular/EdittingTabular)
 
-![](../img/smalltitle.png)[Edit Attribute Table](EditTabular/EdittingTabular.htm)
+[Projection](Projection/Projection)
 
-![](../img/smalltitle.png)[Projection](Projection/Projection.htm)
+[Execute](Registration/Registration)
 
-![](../img/smalltitle.png)[Execute](Registration/Registration.htm)
+[Topology](Topology/Topology)
 
-![](../img/smalltitle.png)[Topology](Topology/Topology.htm)
+[Vector Dataset](Vector/VectorDataset)
 
-![](../img/smalltitle.png)[Vector Dataset](Vector/VectorDataset.htm)
+[Raster Dataset](Raster/Raster)
 
-![](../img/smalltitle.png)[Raster Dataset](Raster/Raster.htm)
+[Database User Guide](../TechDocument/DatabaseUseGuide)
 
-![](../img/smalltitle.png)[Database User Guide](../TechDocument/DatabaseUseGuide.htm)
-
-![](../img/smalltitle.png)[Web Datasource Introduction](../TechDocument/WebDatasets/AboutWebDataset.htm)
+[Web Datasource Introduction](../TechDocument/WebDatasets/AboutWebDataset)
 

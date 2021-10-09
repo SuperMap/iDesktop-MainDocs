@@ -1,16 +1,15 @@
 ---
 id: AutoClose
-title: Auto Close Line
+title: Auto-Close Line
 ---
-### ![](../../../img/read.gif)Introduction
+### Introduction
 
-Auto Close Line is used to form closed object when drawing polyline, command, multiline and freehand line.
+Auto Close Line is used to form closed objects when drawing polylines, curves, multilines, and freehand lines.
 
-The line object drew must contain 3 node. Polyline, elliptic arc, circular arc, cardinal curve, bezier curve and B-splint curve support the auto close line functionality, but straight line does not support.
+Each line drawn in iDesktop has at least 3 nodes. Except straight lines, other kinds of lines support the feature.
 
-### ![](../../../img/read.gif)Basic Steps
+### Basic Steps
 
-  1. In the Object Operation tab, click the Draw group, and select Auto Close Line from the dropdown menu of Options. You can also press Shift+C to activate this function.
-  2. When the icon turns ![](img/DrawOption1.png), it means the Auto Close Line function enabled; If you want to cancel this function, click this function again.
-  3. In drawing line objects, when click the right mouse button to finish the drawing, the line been drew currently will be closed automatically, that is the first node and the last node of the line object will be connected automatically. 
+1. Click **Object Operations** > **Drawing** group > **Drawing Settings** > **Auto-Close Line**. You can also press Shift+C to activate this function. Click on this function again to disable it.
+2. When you right-click to finish the drawing of a line, iDesktop will close the line automatically by connecting the first node and the last node. 
 

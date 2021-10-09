@@ -1,37 +1,31 @@
 ---
 id: SortOrderAscendingButton
-title: Sort Ascending
----
-### ![](../../img/read.gif)Description
+title: Ascending/Descending  
+---  
+### Ascending
 
-Sort records in ascending order based on the selected field.
+Sorts records in ascending order based on the selected field.
 
-### ![](../../img/read.gif)Basic Steps
+Open an attribute table. Select a field and click **Sort Ascending **to sort records in ascending order.
 
-  1. Open an attribute table. you can right click a vector dataset in the Workspace Manager and click Browse Attributes. Or double-click the pure attribute table dataset.
-  2. Select a field and click Sort Ascending to sort records in ascending order based on the field.
+If multiple fields are selected before clicking **Sort Ascending** , the records will be sorted by the leftmost selected field. To view the information of a field, display the field in the drop-down list on the status bar below the attribute table.
 
-If multiple fields are selected before clicking Sort Ascending, the records will be sorted by the leftmost selected field. To view the information of a field, display the field in the drop-down list on the status bar below the attribute table.
+### Descending
 
-![](img-en/AscendingMultiple.png)  
+Sorts records in descending order based on the selected field.
 
+Open an attribute table. Select a field and click **Sort Descending** to sort records in descending order.
 
-### ![](../../img/note.png)Note
+If multiple fields are selected before clicking **Sort Descending** , the records will be sorted by the leftmost selected field. To view the information of a field, display the field in the drop-down list on the status bar below the attribute table.
 
-  1. The Sort Ascending command is only active if there are selected fields in the current attribute table.
-  2. The sort operation cannot be undone once performed.
+ [Sort Descending](SortOrderDescendingButton)
 
-![](../../img/smalltitle.png) [Sort Descending](SortOrderDescendingButton.htm)
+ [Hide Fields](HideButton)
 
-![](../../img/smalltitle.png) [Hide Fields](HideButton.htm)
+ [Cancel Hidden](CancelHideButton)
 
-![](../../img/smalltitle.png) [Cancel Hidden](CancelHideButton.htm)
+ [Filter](FilterButton)
 
-![](../../img/smalltitle.png) [Filter](FilterButton.htm)
+ [Locate](GoToButton)
 
-![](../../img/smalltitle.png) [Go To](GoToButton.htm)
-
-![](../../img/smalltitle.png) [Show Hexadecimal](DisplayHexadecimal.htm)
-
-
-
+ [Show Hexadecimal](DisplayHexadecimal)

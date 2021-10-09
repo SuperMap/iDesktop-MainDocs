@@ -2,36 +2,33 @@
 id: CutByArea
 title: Divide Polygons as an Given Area
 ---
-### ![](../../../img/read.gif)Instructions
+### Instructions
 
-Dividing each selected polygon into several features by specifying the dividing direction and the area of every part or how many parts the polygon will be divided into. Only data using the projection and plane coordinate systems can be divided. The feature is mainly used for land distribution.
+Divides a selected polygon into multiple features that have equal or proportional areas. iDesktop supports dividing data using a projection or plane coordinate system. The feature is mainly used for land distribution.
 
-**Note** : The "Divide Polygon" button can be worked only when there is at least one object selected in an editable layer and the data can not use a geographic coordinate system.
+**Note** : To divide the polygon you selected, the layer is editable where the polygon is saved and its coordinate system isn't a geographic coordinate system.
 
-### ![](../../../img/read.gif)Basic steps
+### Basic steps
 
-  1. Select one or more polygons that you want to divide from an editable layer.
-  2. Click the "Object Operations" tab > "Object Editing" Gallery > "Divide Polygon" button to open the "Divide Polygon" dialog box. 
-![](img-en/CutByAreaDia.png)  
+1. Select one or more polygons that you want to divide.
+2. Click the **Object Operations** tab > **Object Edit** Gallery > **Divide Polygon** button to open the **Divide Polygon** dialog box. 
+3. The SmID and Area (square meter) of each selected polygon is listed in the dialog. You can set the dividing conditions for each polygon or several or all polygons.
+4. **Divide Orientation** : 
+  * **Azimuth** : Specify the clockwise angle between the dividing line and true north.
+  * **Orientation** : Specify the dividing direction to determine which side the selected polygon will be cut from. If the azimuth is 0 or 180 degree, the orientation can not be north or south. Else if the azimuth is 90 or 270 degree, the orientation can not be east or west.
 
-  3. The SmID and area of each selected polygon are listed in the dialog. You can set the dividing conditions for every polygon or several or all polygons.
-  4. **Divide Orientation** : 
-    * **Azimuth** : Specify the clockwise angle between the dividing line and true north.
-    * **Orientation** : Specify the dividing direction, that is the selected polygon will be cut from which side. If the azimuth is 0 or 180 degree, the orientation can not be north or south, and if the azimuth is 90 or 270 degree, the orientation can not be east or west.
+As the following pictures show, the polygon have an area of 100000 square meters and the azimuth of 30 degree. When we set the orientation to North (left) and South (right) respectively, we got the following result.
 
-As following pictures show, the original area of polygon is 100000 square meters, and the azimuth is 30 degree, and the orientation is North (left) and South (right) respectively, and the Divide Area is 10000 square meters and the Divide Part is 1. The result is:
+![](img/azimuth.png)
 
-![](img-en/azimuth.png)  
----  
-  5. **Divide Type** : Specify how to divide the selected polygons. 
-    * **According to an area** : Specify the area (the value of parameter "Divide Area") of each result block and how many blocks with the same area (the value of parameter "Divide Parts") you want. The value of Divide Parts must be less than or equal the value of the original area divided by the given dividing area.
-    * **According to parts** : The selected object will be divided by the given number (the value of the parameter Divide Parts). 
-  6. **Merger the remainder region to adjacent region** : Checking this box means if there is one or more remainder features which will not be divided into more little features, polygons of them whose areas are less than or equal the "Merge Area" you specify will be merged into adjacent polygon. If you do not check the box, the merging operation will not be done. 
+5. **Divide Type** : Specify how you want to divide the selected polygons. 
+* **Divide by Area** : Specify the equal area divides the selected object into the specified number of polygon divisions. The Parts Count must be less than or equal to the value of the original area divided by the given **Equal Area**.
+* **Divide Polygon Evenly** : Specifying the feature divides the selected polygon evenly into a specified number of polygon divisions. The areas of all polygon divisions are the same. 
+6. **Merger the last division with its adjacent division** : When the remaining area is less than the equal area you specified, checking this box can merge the last remaining division with its adjacent division resulting in one division. 
 
-**Note** : Only the remainder objects whose areas are less than or equal the merging area can be merged into adjacent polygons.
+**Note** : Only the last remaining area which is less than or equal to the specified equal area can be merged with its adjacent division.
 
-![](img-en/CombineRegion.png)  
+![](img/CombineRegion.png)
 
-  7. Click "OK" button to perform the operation.
-
+7. Click **OK** button to perform the operation.
 

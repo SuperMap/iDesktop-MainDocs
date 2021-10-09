@@ -1,42 +1,47 @@
 ---
 id: HideButton
-title: Hide Fields
----
-### ![](../../img/read.gif)Description
+title: Hide/Show Column  
+---  
+### Hide Column
 
-Hide the selected field or fields.
+Hides the selected columns.
 
-### ![](../../img/read.gif)Basic Steps
+**Basic Steps**
 
-  1. Open an attribute table. you can right click a vector dataset in the Workspace Manager and click Browse Attributes. Or double-click the pure attribute table dataset.
-  2. Select one or more fields in the attribute table. To select multiple fields, you can continuously click the field name while holding down the Shift or Ctrl key.
-  3. On the Attributes tab, in the Browse group, click Hide Fields.
-  4. The selected fields are hidden. Meanwhile, the field on the left of the hidden field is highlighted and a blue mark appears at the head of the field.
-![](img-en/hideMarker1.png)
-![](img-en/hideMarker2.png)  
- 
+1. Select one column or more columns using Shift or Ctrl key.
+2. Click **Attribute Table** > **Browse** > **Hide Column**. Or, you can right click and select **Hide Column**.
+3. That selected column will not be displayed in the attributes table, the previous column will be selected, and a mark will appear beside the column.
+![](img/hideMarker1.png)
+  
+**Note**
 
-### ![](../../img/note.png)Note
+* The Hide column function won't be active until you select a column in an attribute table.
+* To display all hidden columns, you can use **Show Hidden Column**.
+* If you close the attributes table then open it again, it will show all columns and rows.
 
-  1. The Hide Fields command is only active if there are selected fields in the current attribute table.
-  2. To unhide the fields that you have hidden, use the [Show Hidden Fields](CancelHideButton.htm) button.
-  3. Closing the property sheet and opening it again will not preserve the previous hidden row or hidden column operation and will display all row and column information in the property sheet.
+### Show Hidden Column
 
-![](../../img/smalltitle.png) [Sort Ascending](SortOrderAscendingButton.htm)
+Displays all hidden columns. The feature won't be active until you select a column in an attribute table.
 
-![](../../img/smalltitle.png) [Sort Descending](SortOrderDescendingButton.htm)
+**Basic Steps**
 
-![](../../img/smalltitle.png) [Show Column Hidden](CancelHideButton.htm)
+1. Click **Attribute Table** > **Browse** > **Show Hidden Column**. Or, you can right click and select **Show Hidden Column**.
+2. All hidden columns are visible and the hidden icon disappears.
+![](img/cancleHide1.png)
+  
+ [Sort Ascending](SortOrderAscendingButton)
 
-![](../../img/smalltitle.png) [Hide Row](HiddenRows.htm)
+ [Sort Descending](SortOrderDescendingButton)
 
-![](../../img/smalltitle.png) [Show Hidden Rows](CancelHideRows.htm)
+ [Show Column Hidden](CancelHideButton)
 
-![](../../img/smalltitle.png) [Filter](FilterButton.htm)
+ [Hide Row](HiddenRows)
 
-![](../../img/smalltitle.png) [Go To](GoToButton.htm)
+ [Show Hidden Row](CancelHideRows)
 
-![](../../img/smalltitle.png) [Show Hexadecimal](DisplayHexadecimal.htm)
+ [Filter](FilterButton)
 
+ [Locate](GoToButton)
 
+ [Show Hexadecimal](DisplayHexadecimal)
 

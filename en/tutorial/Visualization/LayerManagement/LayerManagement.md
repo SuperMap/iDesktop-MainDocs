@@ -1,27 +1,26 @@
 ---
 id: LayerManagement
-title: Managing Map Layers
+title: Manage Map Layers
 ---  
-
-
 This section introduces how to manage layers of a map.
 
-[Adding Layers to a Map](AddingLayer.htm)
+[### Adding Data to Map](AddingLayer)
 
-Introduce the method of adding map layers.
+Introduces how to add datasets and online maps to a map window.
 
-[Removing Layers from a Map](DTv2_Remove.htm)
+[### Manage Map Layers](ManagementLayer)
 
-Introduce how to remove a layer from current map.
+Introduces how to remove, copy, rename, etc. a layer.
 
-[Renaming a Layer](DTv2_Rename.htm)
+[### Layer Group](LayerGroup)
 
-Introduce how to rename a map.
+Introduces how to group layers.
 
-[Layer Controller](LayerControl.htm)
+[### Layer Controller](LayerControl)
 
-Introduce how to manage tools through layer.
+Introduces how to manage layers with the layer manager.
 
-[Changing Dataset](DTv2_BindDataNew.htm)
+[### Reassign Dataset](RespecifyAssociatedData)
 
-Introduce how to specify the dataset to refer for a dataset.
+Introduces how to reassign a dataset.
+

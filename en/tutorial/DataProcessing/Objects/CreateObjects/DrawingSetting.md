@@ -15,6 +15,3 @@ You can set the maximum number of editable nodes. Default number is 10000 meanin
 ### Batch Edit Maximum Records Number
 
 You can set the maximum number of records in bulk. Default number is 2000. When the number of records is up to 2000, the records will be submitted automatically by system.
-
-
-

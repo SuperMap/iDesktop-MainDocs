@@ -2,19 +2,19 @@
 id: RegisteData
 title: Data Registration
 ---  
-Data Registration
+### Main Contents:
 
-### ![](../../img/read.gif)Main Contents:
+This part illustrates the contents involved in the data registration process,
+including: creating registration, picking points, calculating errors,
+executing the registration, importing and exporting the registration file,
+etc.
 
-This part illustrates the contents involved in the data registration process, including: creating registration, picking points, calculating errors, executing the registration, importing and exporting the registration file, etc.
+[Step one: creating a New Registration](NewRegistration)
 
-![](../../img/smalltitle.png)[Step one: creating a New Registration](NewRegistration.htm)
+[Step two: picking control points](Poniting)
 
-![](../../img/smalltitle.png)[Step two: picking control points](Poniting.htm)
+[Step three: calculating errors](CalculatError)
 
-![](../../img/smalltitle.png)[Step three: calculating errors](CalculatError.htm)
+[Step four: executing registration](Registrating)
 
-![](../../img/smalltitle.png)[Step four: executing registration](Registrating.htm)
-
-![](../../img/smalltitle.png)[Importing/exporting the registration information file](importGCP.htm)
-
+[Importing/exporting the registration information file](importGCP)

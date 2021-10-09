@@ -2,40 +2,61 @@
 id: MapSwipe
 title: Map Swipe
 ---
-### ![](../../img/read.gif)Introduction
+You can make your map swipe or blink. This article introduces the two features.
 
-The Map Swipe function is usually used for remote sensing image browsing operation. Generally, we use the map swipe operation to view the differences of two images. The map swipe operation can monitor the effect of pulling up or down, left or right an upper level image, so that the lower level image can display or be hidden. Now, the map swipe operation can be applied not only to the image, but also to other layers in the map, such as the demo dynamic diagram below, a raster layer is superimposed on the vector map, and a map swipe operation is operated on the grid layer.
+* **Swipe**
 
-### ![](../../img/read.gif)Application Scenario
+It is usually used for browsing remote sensing images. Generally, we use the
+feature to check the differences between two images. The feature can pull up
+or down, left or right an upper level image, so that the lower level image can
+be visible or invisible increasingly. The feature can work on not only image
+data, but also other layers in the map. As the demo dynamic diagram below
+shows, a raster layer is superimposed on the vector map. Enable the feature on
+the raster layer.
 
-Map swipe can be applied to the following scenarios:
+The swipe layer to be pulled can be an image layer, raster layer, image layer, or cache layer. Or, you can select a layer group as a swipe layer. 
 
-  1. Multi-temporal remote sensing images to see the differences in different phases;
-  2. Multi-version cache to see the differences between different cache data in the same area;
-  3. Vector layers, especially administrative boundaries, to view changes in the boundaries;
+**Note** : When you enable an swiping operation, it is not suggested that you add a new layer on your map. Because the new layer can't be shown instantly.
 
-The swipe layer can be any vector layer, grid layer, image layer, cache layer, and the swipe layer can also be a group of layers.
+* **Twinkle**
 
-### ![](../../img/read.gif)Basic Steps
+The feature can dispaly and hide a specified map swipe layer, hiding the swipe
+layer at specified intervals. It can be used for comparing historical data and
+current data.
 
-  1. Open the target map.
-  2. On Map tab, in the Map Swipe group, click "Swipe" to open "Map Swipe" dialog box where you can do settings of swiping, twinkling and gradient. 
-  3. Choose a layer or layer group from Select Layer drop-down list. You can choose any layer or layer group. However, you cannot choose a layer in a layer group.
-  4. Click Swipe button. When the button is on, the map swipe function is activated. When you move your mouse to the map, the mouse becomes an arrow. According to the position of the mouse in the map, the directions of the arrow will be different, and the directions for map swipe will be different, as shown below:
+### Application Samples
 
-![](img-en/MapSwipeDirection1.png)  
-Figure: Different mouse status  
+* Multi-temporal remote sensing images to see the differences in different phases;
+* Multi-version tiles to see the differences between different tile data in the same area;
+* Vector layers, especially for administrative boundaries, to view changes in the boundaries;
 
-  5. After you switch to map swipe, you can press your mouse and pull up or down, left or right for map swipe. Icons for the mouse will different for up down swipe and left right swipe.
+###  Function Entrances
 
-![](img-en/MapSwipeDirection2.png)  
-Figure: Mouse status icon  
+**Maps** tab > **Map Swipe** group > **Swipe**.
 
-  6. If you want to cancel map swipe operation, you can press the Swipe button again. When the button is off, the swipe function will be deactivated. You can also right click in the map window to deactivate map swipe operation.
-  7. Map swipe operation is demonstrated as shown below:
-![](img-en/MapSwipe.gif)  
+### Basic Steps
 
+  1. In the **Map Swipe** dialog box, specify the layer or the layer group you want to pull. Notice, you are not allowed to select a layer that is located in a layer group.
+  2. Click **Swipe** button in the dialog box, and then you can pull the swipe layer in the map window. The pulling direction follows your mouse position.
+![](img/MapSwipeDirection1.png)  
+
+  3. Press your mouse and move it to pull the swipe layer. Icons of the mouse are different for different pulling direction. You can observe the mouse icon on your map to know about the pulling direction.
+![](img/MapSwipeDirection2.png)  
+
+  4. Click on the **Stop** button in the **Map Swipe** dialog box. You can also right click in the map window to deactivate the operation.
+  5. Map swipe operation is demonstrated as shown below:
+![](img/MapSwipe.gif)  
+
+  
 ### Tips
 
-  * When the current map window is in swipe status, the swipe layer will be hidden when you hold down the Ctrl key while pressing the left mouse button. The swipe layer will display when you release the left mouse button.
-  * When the current map window is in map swipe status, the swipe layer and all layers with display order above the swipe layer will participate in the swipe browsing operation.
+  * When enabling the feature and holding the Ctrl key down, you can display or hide the swipe layer by holding or releasing the left key of your mosue.
+  * When enabling the feature and holding the Shift key down, the layer you specified and other layers above the layer will involve in the swiping operation as a swipe layer.
+
+### Twinkle
+
+  1. In the **Map Swipe** dialog box specify the layer or the layer group you want. You can not specify a layer that is saved in a layer group.
+  2. Set a time interval. Its unit is millisecond.
+  3. Click on the **Blink** button.
+![](img/Blink.gif)  
+
